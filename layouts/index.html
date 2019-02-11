@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+{{ partial "head.html" . }}
+<body>
+{{ partial "header.html" . }}
+
+<div class="header">
+  <ul id="nav">
+    <li>Etusivu</li>
+    <li>Tapahtumat</li>
+    <li>Kurssit</li>
+    <li>Hallitus</li>
+    <li>Yhteystiedot</li>
+    <li>Blogit</li>
+  </ul>
+</div>
+
+<div class="jumbotron">
+  <div class="overview">
+    <img id="logo" src="/img/front-page/logo.png" alt="Pohjalaisten tanssikerhon logo">
+    {{ with .Site.GetPage "/jumbotron.md" }}{{ .Content }}{{ end }}
+  </div>
+  <div class="space">
+  </div>
+</div>
+
+<section>
+  <div class="dance-ad">
+    <p>
+    {{ with .Site.GetPage "/tanssi-mainos.md" }}{{ .Content }}{{ end }}
+    </p>
+  </div>
+</section>
+
+<div class="call-to-action">
+  <div class="supporting-members">
+    {{ with .Site.GetPage "/cta-kannatusjasenet.md" }}
+    <h2>{{ .Title }}</h2>
+    {{ .Content }}
+    {{ end }}
+  </div>
+  <div class="courses">
+    {{ with .Site.GetPage "/cta-kurssit.md" }}
+    <h2>{{ .Title }}</h2>
+    {{ .Content }}
+    {{ end }}
+  </div>
+  <div class="blog">
+    {{ with .Site.GetPage "/cta-blogi.md" }}
+    <h2>{{ .Title }}</h2>
+    {{ .Content }}
+    {{ end }}
+  </div>
+  {{ with .Site.GetPage "/call-to-action.md" }}{{ .Content }}{{ end }}
+</div>
+
+<div class="students-club">
+  <div class="left-logos">
+    <img src="https://via.placeholder.com/220x220" alt="">
+    <img src="https://via.placeholder.com/220x220" alt="">
+  </div>
+  <div class="students-club-ad">
+    {{ with .Site.GetPage "/osakunta-mainos.md" }}{{ .Content }}{{ end }}
+  </div>
+  <div class="right-logos">
+    <img src="https://via.placeholder.com/220x220" alt="">
+    <img src="https://via.placeholder.com/220x220" alt="">
+  </div>
+</div>
+
+<div class="footer">
+  <p>
+  Footer
+</div>
+
+</body>
+</html>

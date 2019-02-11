@@ -1,0 +1,129 @@
+@import 'colors';
+
+$text-width: 560px;
+$default-margin: 55px;
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+ul {
+  margin: 0;
+}
+
+section {
+  width: $text-width;
+  margin: $default-margin auto;
+}
+
+.container {
+}
+
+.header {
+  // background: blue;
+  // height: 46px;
+  width: 500px;
+  z-index: 3;
+  float: right;
+  position: absolute;
+  right: 14px;
+  // top: 5px;
+}
+
+#nav {
+  list-style-type: none;
+  position: absolute;
+  right: 0;
+  li {
+    display: inline;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    color: white;
+    margin: 0px 8px;
+  }
+}
+
+.jumbotron {
+  background: #000000;
+  height: 100vh;
+  display: flex;
+  color: white;
+  background-image: url(/img/front-page/jumbotron-background.jpg);
+  background-repeat: no-repeat;
+  background-position: right bottom;
+  background-size: 500px;
+}
+
+.overview {
+  margin: 38px 75px;
+  width: 375px;
+}
+
+#logo {
+  width: 275px;
+}
+
+.call-to-action {
+  display: flex;
+  justify-content: center;
+  color: white;
+  background-image: url('/img/front-page/call-to-action-blur.jpg');
+  background-size: 1000px;
+}
+
+$call-to-action-image-width: 266px;
+$call-to-action-image-size: 800px;
+
+
+.supporting-members, .courses, .blog {
+  width: $call-to-action-image-width;
+  height: 330px;
+  border: solid 1px white;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/img/front-page/call-to-action.jpg');
+  background-size: $call-to-action-image-size;
+  background-repeat: no-repeat;
+  background: linear-gradient(fgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+  h2, p {
+    padding: 0px 20px;
+  }
+  filter: blur(0);
+}
+
+.supporting-members {
+}
+
+.courses {
+  background-position-x: -$call-to-action-image-width;
+}
+
+.blog {
+  background-position-x: -$call-to-action-image-width*2;
+}
+
+.students-club {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  margin: $default-margin 0;
+  img {
+    display: block;
+    margin: 16px;
+  }
+}
+
+.left-logos, .right-logos {
+}
+
+.students-club-ad {
+    width: $text-width;
+}
+
+.footer {
+  height: 500px;
+  background: black;
+  color: white;
+}
