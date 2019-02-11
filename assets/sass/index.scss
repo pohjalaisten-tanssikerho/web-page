@@ -49,22 +49,48 @@ section {
 
 .jumbotron {
   background: #000000;
-  height: 100vh;
+  padding: $default-margin $default-margin;
+  // height: 100vh;
   display: flex;
   color: white;
-  background-image: url(/img/front-page/jumbotron-background.jpg);
-  background-repeat: no-repeat;
-  background-position: right bottom;
-  background-size: 500px;
+  justify-content: center;
+  // background-image: url(/img/front-page/jumbotron-background.jpg);
+  // background-repeat: no-repeat;
+  // background-position: right bottom;
+  // background-size: 500px;
 }
 
 .overview {
-  margin: 38px 75px;
-  width: 375px;
+  display: grid;
+  grid-template-columns: 200px 200px 200px;
+  grid-template-rows: auto auto;
+  grid-gap: 20px 20px;
+  // margin: 38px 75px;
+  // width: 375px;
+}
+
+.j-logo {
+  grid-column-start: 1;
+  grid-column-end: 4;
+  justify-self: center;
+}
+
+.j-courses, .j-events, .j-intensive-courses {
+  border: solid 2px white;
+  padding: 10px;
+}
+
+.j-courses {
+}
+
+.j-events {
+}
+
+.j-intensive-courses {
 }
 
 #logo {
-  width: 275px;
+  height: 300px;
 }
 
 .call-to-action {
