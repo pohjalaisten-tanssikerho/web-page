@@ -5,46 +5,114 @@
 {{ partial "header.html" . }}
 
 <div class="header">
-  <ul id="nav">
-    <li>Etusivu</li>
-    <li>Tapahtumat</li>
-    <li>Kurssit</li>
-    <li>Hallitus</li>
-    <li>Yhteystiedot</li>
-    <li>Blogit</li>
-  </ul>
+  <div class="center">
+    <ul id="nav">
+      <li><a href="#">Etusivu</a></li>
+      <li><a href="#">Kurssit</a></li>
+      <li><a href="#">Tapahtumat</a></li>
+      <li><a href="#">Hallitus</a></li>
+      <li><a href="#">Yhteystiedot</a></li>
+      <li><a href="#">Blogi</a></li>
+    </ul>
+  </div>
 </div>
 
 <div class="jumbotron">
   <div class="overview">
-    <div class="j-logo">
-      <img id="logo" src="/img/front-page/logo.png" alt="Pohjalaisten tanssikerhon logo">
+    <!-- <div class="j&#45;logo"> -->
+    <!--   <img id="logo" src="/img/front&#45;page/logo.png" alt="Pohjalaisten tanssikerhon logo"> -->
+    <!-- </div> -->
+
+    <!-- <div class="j&#45;courses"> -->
+    <!--   <h2>Kurssit</h2> -->
+    <!--   <p>Sueraavilla tunneilla tiistaina 12.04.</p> -->
+    <!--   <ul> -->
+    <!--     <li>alkeisilla <strong>fusku</strong></li> -->
+    <!--     <li>alkeisjatkolla <strong>salsa</strong></li> -->
+    <!--     <li>jatkolla <strong>blues</strong></li> -->
+    <!--   </ul> -->
+    <!-- </div> -->
+    <!-- <div class="j&#45;events"> -->
+    <!--   <h2>Tapahtumat</h2> -->
+    <!--   <ul> -->
+    <!--     <li>kolme seuraavaa tapahtumaa</li> -->
+    <!--     <li>jossain hotilla</li> -->
+    <!--     <li>jossain potilla, ehkä Viikissä</li> -->
+    <!--   </ul> -->
+    <!-- </div> -->
+    <!-- <div class="j&#45;intensive&#45;courses"> -->
+    <!--   <h2>Tiiviskurssit</h2> -->
+    <!--   <ul> -->
+    <!--     <li>kolme seuraavaa tiiviskurssia</li> -->
+    <!--     <li>alkaa xx.xx. ja linkki</li> -->
+    <!--     <li>alkaa xx.xx. ja linkki</li> -->
+    <!--   </ul> -->
+    <!-- </div> -->
+
+    <table>
+      <tr>
+        <th></th>
+        <th>date</th>
+        <th>date</th>
+        <th>date</th>
+      </tr>
+      <tr>
+        <th>Alkeiset</th>
+        <th class="trigger">laji</th>
+        <th class="trigger">laji</th>
+        <th class="trigger">laji</th>
+      </tr>
+      <tr>
+        <th>Alkeisjatko</th>
+        <th>laji</th>
+        <th>laji</th>
+        <th>laji</th>
+      </tr>
+      <tr>
+        <th>Jatko</th>
+        <th>laji</th>
+        <th>laji</th>
+        <th>laji</th>
+      </tr>
+    </table>
+
+    <div class="modal">
+      <div class="modal-content">
+        <span class="close-button">&times;</span>
+        <h1>Foo.</h1>
+      </div>
     </div>
-    <div class="j-courses">
-      <h2>Kurssit</h2>
-      <p>Sueraavilla tunneilla tiistaina 12.04.</p>
+
+  <script>
+    var modal = document.querySelector(".modal");
+var trigger = document.querySelector(".trigger");
+var closeButton = document.querySelector(".close-button");
+
+function toggleModal() {
+  modal.classList.toggle("show-modal");
+}
+
+function windowOnClick(event) {
+  if (event.target === modal) {
+    toggleModal();
+  }
+}
+
+trigger.addEventListener("click", toggleModal);
+closeButton.addEventListener("click", toggleModal);
+window.addEventListener("click", windowOnClick);
+  </script>
+
+    <div class="announcement">
+      <!-- <h2>Ilmoitusasiat</h2> -->
       <ul>
-        <li>alkeisilla <strong>fusku</strong></li>
-        <li>alkeisjatkolla <strong>salsa</strong></li>
-        <li>jatkolla <strong>blues</strong></li>
+        <li>Tapahtuma 1 jossain.</li>
+        <li>Tapahtuma 2 jossain.</li>
+        <li>Tapahtuma 3 jossain.</li>
+        <li>Tapahtuma 4 jossain.</li>
       </ul>
     </div>
-    <div class="j-events">
-      <h2>Tapahtumat</h2>
-      <ul>
-        <li>kolme seuraavaa tapahtumaa</li>
-        <li>jossain hotilla</li>
-        <li>jossain potilla, ehkä Viikissä</li>
-      </ul>
-    </div>
-    <div class="j-intensive-courses">
-      <h2>Tiiviskurssit</h2>
-      <ul>
-        <li>kolme seuraavaa tiiviskurssia</li>
-        <li>alkaa xx.xx. ja linkki</li>
-        <li>alkaa xx.xx. ja linkki</li>
-      </ul>
-    </div>
+
   </div>
 </div>
 
