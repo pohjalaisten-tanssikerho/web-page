@@ -1,171 +1,108 @@
 [
   {
-    "date": "2019-12-09",
-    "message": "",
-    "alkeiset": "Foksi",
-    "alkeisjatko": "Bugg",
-    "jatko": "Käden ali tanssit, lisää kuvioita"
-  },
-  {
-    "date": "2019-11-19",
-    "message": "",
-    "alkeiset": "Foksi",
-    "alkeisjatko": "Bugg",
-    "jatko": "Käden ali tanssit, lisää kuvioita"
-  },
-  {
-    "date": "2019-09-09",
-    "message": "",
-    "alkeiset": "Foksi",
-    "alkeisjatko": "Bugg",
-    "jatko": "Käden ali tanssit, lisää kuvioita"
-  },
-  {
     "date": "2019-10-09",
     "message": "",
     "alkeiset": "Foksi",
     "alkeisjatko": "Bugg",
-    "jatko": "Käden ali tanssit, lisää kuvioita"
+    "jatko": "Tango"
   },
   {
-    "date": "2019-06-09",
+    "date": "2019-09-17",
     "message": "",
     "alkeiset": "Foksi",
     "alkeisjatko": "Bugg",
-    "jatko": "Käden ali tanssit, lisää kuvioita"
+    "jatko": "Tango"
   },
   {
-    "date": "2019-01-22",
+    "date": "2019-09-24",
     "message": "",
-    "alkeiset": "Foksi",
-    "alkeisjatko": "Bugg",
-    "jatko": "Käden ali tanssit, lisää kuvioita"
+    "alkeiset": "Foksi / Fusku",
+    "alkeisjatko": "Valssi",
+    "jatko": "Jive"
   },
   {
-    "date": "2019-01-29",
-    "message": "",
-    "alkeiset": "Foksi",
-    "alkeisjatko": "Bugg",
-    "jatko": "Blues"
-  },
-  {
-    "date": "2019-02-05",
-    "message": "EI TUNTEJA",
-    "alkeiset": "",
-    "alkeisjatko": "",
-    "jatko": ""
-  },
-  {
-    "date": "2019-02-12",
+    "date": "2019-10-01",
     "message": "",
     "alkeiset": "Fusku",
-    "alkeisjatko": "Salsa",
-    "jatko": "Blues"
+    "alkeisjatko": "Valssi",
+    "jatko": "Jive"
+  },
+  {
+    "date": "2019-10-08",
+    "message": "",
+    "alkeiset": "Fusku",
+    "alkeisjatko": "Kizomba",
+    "jatko": "Swedish fox"
+  },
+  {
+    "date": "2019-10-15",
+    "message": "",
+    "alkeiset": "Valssi",
+    "alkeisjatko": "Kizomba",
+    "jatko": "Swedish fox"
+  },
+  {
+    "date": "2019-10-22",
+    "message": "",
+    "alkeiset": "Valssi",
+    "alkeisjatko": "Tango",
+    "jatko": "Cha cha"
+  },
+  {
+    "date": "2019-10-29",
+    "message": "",
+    "alkeiset": "Bugg",
+    "alkeisjatko": "Tango",
+    "jatko": "Cha cha"
+  },
+  {
+    "date": "2019-11-05",
+    "message": "",
+    "alkeiset": "Bugg",
+    "alkeisjatko": "Kertaus",
+    "jatko": "Toiveet"
   },
 
   {
-    "date": "2019-02-19",
-    "message": "EI TUNTEJA",
-    "alkeiset": "",
-    "alkeisjatko": "",
-    "jatko": ""
-  },
-  {
-    "date": "2019-02-26",
-    "message": "",
-    "alkeiset": "Fusku",
-    "alkeisjatko": "Salsa",
-    "jatko": "Salsa"
-  },
-  {
-    "date": "2019-03-05",
+    "date": "2019-11-12",
     "message": "",
     "alkeiset": "Bugg",
-    "alkeisjatko": "Hidas foksi",
-    "jatko": "Salsa"
-  },
-  {
-    "date": "2019-03-12",
-    "message": "",
-    "alkeiset": "Bugg",
-    "alkeisjatko": "Hidas foksi",
-    "jatko": "Lisää kuvioita, suljettu ote"
-  },
-  {
-    "date": "2019-03-19",
-    "message": "EI TUNTEJA",
-    "alkeiset": "",
-    "alkeisjatko": "",
-    "jatko": ""
-  },
-  {
-    "date": "2019-03-26",
-    "message": "",
-    "alkeiset": "Kertaus",
-    "alkeisjatko": "Lavakansantanssit",
-    "jatko": "Bachata"
-  },
-  {
-    "date": "2019-04-02",
-    "message": "",
-    "alkeiset": "Tango",
-    "alkeisjatko": "Cha Cha",
-    "jatko": "Bachata"
-  },
-  {
-    "date": "2019-04-09",
-    "message": "",
-    "alkeiset" : "Tango",
-    "alkeisjatko": "Cha Cha",
-    "jatko": "Hidas foksi"
-  },
-  {
-    "date": "2019-04-16",
-    "message": "",
-    "alkeiset": "Valssi",
     "alkeisjatko": "Fusku",
-    "jatko": "Hidas foksi"
+    "jatko": "Boogie woogie"
   },
   {
-    "date": "2019-04-23",
+    "date": "2019-11-19",
     "message": "",
-    "alkeiset": "Valssi",
+    "alkeiset": "Cha cha",
     "alkeisjatko": "Fusku",
-    "jatko": "Humppa"
+    "jatko": "Boogie woogie"
   },
   {
-    "date": "2019-04-30",
-    "message": "VAPAAT HARJOITUKSET",
-    "alkeiset": "",
-    "alkeisjatko": "",
-    "jatko": ""
-  },
-  {
-    "date": "2019-05-07",
+    "date": "2019-11-26",
     "message": "",
-    "alkeiset": "Chacha",
-    "alkeisjatko": "Tango",
-    "jatko": "Etenevä bugg"
+    "alkeiset": "Cha cha",
+    "alkeisjatko": "Samba",
+    "jatko": "Fusku"
   },
   {
-    "date": "2019-05-14",
+    "date": "2019-12-03",
     "message": "",
-    "alkeiset": "Chacha",
-    "alkeisjatko": "Argentiinalainen tango",
-    "jatko": "Toivelaji"
+    "alkeiset": "Cha cha",
+    "alkeisjatko": "Samba",
+    "jatko": "Fusku"
   },
   {
-    "date": "2019-05-21",
+    "date": "2019-12-10",
     "message": "",
     "alkeiset": "Kertaus / Toiveet",
-    "alkeisjatko": "Argentiinalainen tango / Toiveet",
-    "jatko": "Toivelaji"
+    "alkeisjatko": "Kertaus / Toiveet",
+    "jatko": "Kertaus / Toiveet"
   },
   {
-    "date": "2019-05-28",
-    "message": "VAPAAT HARJOITUKSET",
-    "alkeiset": "",
-    "alkeisjatko": "",
-    "jatko": ""
+    "date": "2019-12-17",
+    "message": "",
+    "alkeiset": "Varapäivä / vapaat harjoitukset",
+    "alkeisjatko": "Varapäivä / vapaat harjoitukset",
+    "jatko": "Varapäivä / vapaat harjoitukset"
   }
 ]
