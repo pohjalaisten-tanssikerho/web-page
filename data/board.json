@@ -1,0 +1,45 @@
+{
+  "officers": [
+    {
+      "role": "Puheenjohtaja",
+      "firstname": "Greatman",
+      "lastname": "Lim",
+      "email": "greatman.lim (ät) mahti . org"
+    },
+    {
+      "role": "Taloudenhoitaja",
+      "firstname": "Jonna",
+      "lastname": "Romppainen",
+      "email": "jonnaromp (ät) gmail . com"
+    },
+    {
+      "role": "Sihteeri",
+      "firstname": "Elina",
+      "lastname": "Illikainen",
+      "email": "el-liina (ät) hotmail . com"
+    },
+    {
+      "role": "Varapuheenjohtaja ja tiedottaja",
+      "firstname": "Selina",
+      "lastname": "Virtanen",
+      "email": "selina . virtanen ('t) gmail . com')"
+    }
+  ],
+  "members": [
+    {
+      "firstname": "Minna",
+      "lastname": "Jantunen",
+      "email": "mintzu85 (ät) gmail . com"
+    },
+    {
+      "firstname": "Karine",
+      "lastname": "Wanderpass",
+      "email": "karinew (ät) aol . com"
+    },
+    {
+      "firstname": "Joni",
+      "lastname": "Kojo",
+      "email": "joni . kojo (ät) helsinki . fi"
+    }
+  ]
+}

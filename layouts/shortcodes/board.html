@@ -1,0 +1,13 @@
+
+{{ range .Site.Data.board.officers }}
+{{ .role }} <br>
+{{ .firstname }} {{ .lastname }} <br>
+{{ .email }}
+{{ end}}
+
+<span>Jäsenet:</span>
+
+{{ range .Site.Data.board.members }}
+{{ .firstname }} {{ .lastname }} <br>
+{{ .email }} <br>
+{{ end }}

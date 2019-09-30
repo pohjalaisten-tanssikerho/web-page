@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    {{ $styles := resources.Get "sass/index.scss" | toCSS | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}" media="screen">
+    <title>Pohjalaisten Tanssikerho</title>
+  </head>
+  <body>
+
+
+    <div class="header">
+      <div class="center">
+        <ul id="nav">
+          <li><a href="http://localhost:1313">Etusivu</a></li>
+          {{ range .Site.Taxonomies.categories.sivu }}
+          <li><a href="{{ .Page.RelPermalink }}">{{ .Title }}</a></li>
+          {{ end }}
+          <li><a href="#">Blogi</a></li>
+        </ul>
+      </div>
+    </div>
+
+    {{ block "jumbotron" . }}
+    {{ end }}
+
+    <div class="content">
+    {{ block "main" . }}
+    {{ end }}
+    </div>
+
+    <div class="footer">
+      <div class="other">
+        <ul>
+          <li>Yhdistyksen säännöt</li>
+          <li>Nettisivut</li>
+        </ul>
+      </div>
+      <div class="some">
+        <ul>
+          <li>Facebook</li>
+          <li>WhatsApp</li>
+          <li>Sähköpostilista</li>
+        </ul>
+      </div>
+      <div class="contacts"></div>
+      <ul>
+        <li>pohjalaistentanssikerho . ry (ät) gmail . com</li>
+        <li>
+          Töölönkatu 3 A,<br>
+          00940 Helsinki, <br>
+          viides kerros
+        </li>
+        <li><a href="https://reittiopas.hsl.fi/T%C3%B6%C3%B6l%C3%B6nkatu%203%2C%20Helsinki%3A%3A60.173962%2C24.931228/-/lahellasi">Avaa Reittioppaalla</a></li>
+        <li><a href="https://www.google.com/maps/place/T%C3%B6%C3%B6l%C3%B6nkatu+3,+00101+Helsinki/">Avaa Google Mapsilla</a></li>
+      </ul>
+
+    </div>
+
+  </body>
+</html>
