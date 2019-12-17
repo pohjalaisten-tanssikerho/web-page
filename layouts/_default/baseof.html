@@ -10,53 +10,71 @@
   <body>
 
 
-    <div class="header">
-      <div class="center">
-        <ul id="nav">
+    {{ block "header" . }}
+    <div class="background-black">
+      <div class="header">
+        <ul>
           <li><a href="http://localhost:1313">Etusivu</a></li>
           {{ range .Site.Taxonomies.categories.sivu }}
-          <li><a href="{{ .Page.RelPermalink }}">{{ .Title }}</a></li>
+            {{ if eq .Title "Kurssit" }} 
+            <li class="dropdown-kurssi"><a href="{{ .Page.RelPermalink }}">{{ .Title }}</a>
+              <ul>
+                {{ range .Site.Taxonomies.categories.kurssi }}
+                <li>{{ .Title }}</li>
+                {{ end }}
+              </ul>
+            </li>
+            {{ else }}
+            <li><a href="{{ .Page.RelPermalink }}">{{ .Title }}</a>
+            {{ end }}
           {{ end }}
           <li><a href="#">Blogi</a></li>
         </ul>
       </div>
     </div>
-
-    {{ block "jumbotron" . }}
     {{ end }}
+
+    {{ block "jumbotron" . }} {{ end }}
 
     <div class="content">
-    {{ block "main" . }}
-    {{ end }}
+    {{ block "main" . }} {{ end }}
     </div>
 
+    {{ block "footer" . }}
     <div class="footer">
+
       <div class="general">
+        <h2 class="sub-header">Pohjalaisten tanssikerho ry</h2>
         <ul>
-          <li>Yhdistyksen säännöt</li>
-          <li>Nettisivut</li>
+          {{ range .Site.Taxonomies.categories.ry }}
+          <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></li>
+          {{ end }}
         </ul>
       </div>
+
       <div class="some">
+        <h2>Yhteystiedot ja some</h2>
         <ul>
           <li>Facebook</li>
           <li>WhatsApp</li>
           <li>Sähköpostilista</li>
+          <li>pohjalaistentanssikerho.ry@gmail.com</li>
         </ul>
       </div>
-      <div class="contacts"></div>
+
+      <div class="contacts">
+        <h2>Osoite</h2>
       <ul>
-        <li>pohjalaistentanssikerho . ry (ät) gmail . com</li>
         <li>
-          Töölönkatu 3 A,<br>
-          00940 Helsinki, <br>
-          viides kerros
+          Töölönkatu 3 A, 00940 Helsinki, 5 krs.
         </li>
         <li><a href="https://reittiopas.hsl.fi/T%C3%B6%C3%B6l%C3%B6nkatu%203%2C%20Helsinki%3A%3A60.173962%2C24.931228/-/lahellasi">Avaa Reittioppaalla</a></li>
         <li><a href="https://www.google.com/maps/place/T%C3%B6%C3%B6l%C3%B6nkatu+3,+00101+Helsinki/">Avaa Google Mapsilla</a></li>
       </ul>
+      </div>
 
     </div>
+    {{ end }}
 
   </body>
 </html>

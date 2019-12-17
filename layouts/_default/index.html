@@ -3,13 +3,16 @@
       <div class="overview">
         <h1>Pohjalaisten tanssikerho</h1>
         <p class="jumbotron-description">
-        Sit quaerat culpa facere recusandae veritatis fuga? Modi consequuntur illum provident sunt vitae Modi ad voluptates sint incidunt perspiciatis!
+        Opetusta, biletiä ja ekskursioita. Elämyksiä lavatanssin parissa ammatilaisopettajien opastuksella mukavassa ja rennossa porukassa. Tervetuloa!
         </p>
 
       </div>
     </div>
-    {{ end }}
+{{ end }}
 
 {{ define "main" }}
 {{ with .Site.GetPage "/etusivu.md" }}{{ .Content }}{{ end }}
+{{ end }}
+
+{{ define "footer" }}
 {{ end }}
