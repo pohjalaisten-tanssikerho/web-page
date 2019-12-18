@@ -94,6 +94,9 @@ a {
 .content {
   width: $text-width;
   margin: $default-margin auto;
+  a {
+    color: darkblue;
+  }
 }
 
 .background-black {
