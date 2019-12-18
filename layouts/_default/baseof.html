@@ -20,7 +20,7 @@
             <li class="dropdown-kurssi"><a href="{{ .Page.RelPermalink }}">{{ .Title }}</a>
               <ul>
                 {{ range .Site.Taxonomies.categories.kurssi }}
-                <li>{{ .Title }}</li>
+                <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
                 {{ end }}
               </ul>
             </li>
@@ -72,6 +72,8 @@
         <li><a href="https://www.google.com/maps/place/T%C3%B6%C3%B6l%C3%B6nkatu+3,+00101+Helsinki/">Avaa Google Mapsilla</a></li>
       </ul>
       </div>
+
+      <div class="bottom-fill"></div>
 
     </div>
     {{ end }}
