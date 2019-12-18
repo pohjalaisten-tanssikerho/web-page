@@ -1,7 +1,6 @@
 ---
 title: "Etusivu"
 date: 2019-06-07T20:41:06+03:00
-draft: true
 categories: ["etusivu"]
 ---
 
