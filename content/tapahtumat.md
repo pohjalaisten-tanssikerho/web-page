@@ -1,7 +1,6 @@
 ---
 title: "Tapahtumat"
 date: 2019-06-08T15:15:50+03:00
-draft: true
 categories: ["sivu"]
 categories_weight: 2
 ---
