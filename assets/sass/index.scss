@@ -1,7 +1,7 @@
 @import 'colors';
 
 $text-width: 560px;
-$default-margin: 55px;
+$default-margin: 35px;
 
 body {
   margin: 0;
@@ -11,48 +11,9 @@ body {
   font-family: "Noto Sans", "Noto Sans JP", "Meiryo", "sans-serif";
 }
 
-
-.footer {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  background: black;
-  color: white;
-  padding-bottom: 20px;
-  ul {
-    list-style-type: none;
-    margin: 10px;
-    padding-inline-start: 0;
-    li {
-      margin-bottom: 5px;
-      font-size: 13px;
-    }
-  }
-  h2 {
-    margin: 25px 10px 10px 10px;
-    font-size: 19px;
-  }
-  .some {
-    margin: 0 20px;
-  }
-}
-
-.content {
-  width: $text-width;
-  margin: $default-margin auto;
-}
-
 a {
   text-decoration: none;
   color: white;
-}
-
-.container {
-}
-
-.background-black {
-  background-color: black;
-  width: 100%;
 }
 
 .header {
@@ -64,6 +25,7 @@ a {
     display: flex;
     justify-content: space-between;
     list-style-type: none;
+    padding-inline-start: 0;
     li:hover ul {
       display: block;
     }
@@ -103,7 +65,41 @@ a {
   }
 }
 
+.footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background: black;
+  color: white;
+  padding-bottom: 20px;
+  height: 100%;
+  ul {
+    list-style-type: none;
+    margin: 10px;
+    padding-inline-start: 0;
+    li {
+      margin-bottom: 5px;
+      font-size: 13px;
+    }
+  }
+  h2 {
+    margin: 25px 10px 10px 10px;
+    font-size: 19px;
+  }
+  .some {
+    margin: 0 20px;
+  }
+}
 
+.content {
+  width: $text-width;
+  margin: $default-margin auto;
+}
+
+.background-black {
+  background-color: black;
+  width: 100%;
+}
 
 .dropdown:hover .dropdown-content {
   display: block;
