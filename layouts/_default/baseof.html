@@ -16,7 +16,6 @@
         <ul>
           <li><a href="{{ .Site.BaseURL }}">Etusivu</a></li>
           {{ range .Site.Taxonomies.categories.sivu }}
-          <li>{{ .Title }}</li>
             {{ if eq .Title "Kurssit" }} 
             <li class="dropdown-kurssi"><a href="{{ .Page.RelPermalink }}">{{ .Title }}</a>
               <ul>
@@ -48,6 +47,9 @@
         <h2 class="sub-header">Pohjalaisten tanssikerho ry</h2>
         <ul>
           {{ range .Site.Taxonomies.categories.ry }}
+          <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></li>
+          {{ end }}
+          {{ range .Site.Taxonomies.categories.sivu }}
           <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></li>
           {{ end }}
         </ul>
