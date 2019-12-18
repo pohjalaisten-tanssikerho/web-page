@@ -14,7 +14,7 @@
     <div class="background-black">
       <div class="header">
         <ul>
-          <li><a href="http://localhost:1313">Etusivu</a></li>
+          <li><a href="{{ .Site.BaseURL }}">Etusivu</a></li>
           {{ range .Site.Taxonomies.categories.sivu }}
             {{ if eq .Title "Kurssit" }} 
             <li class="dropdown-kurssi"><a href="{{ .Page.RelPermalink }}">{{ .Title }}</a>
