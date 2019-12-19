@@ -30,7 +30,7 @@
 {{ $courses := first 3 (sort (where .Site.Data.courses ".date" "ge" (now.Format "2006-01-02")) ".date" "asec") }}
 {{ if eq ($courses | len) 0 }}
 <p>Viikottaiset kurssit ovat loppu tältä erää. Ensi kaudella taas lisää!</p>
-<p>Kurssien alkamisajankohdan muistutukse voi tilata sähköpostiin. Sähköpostia käytetään vain tähän tarkoitukseen, ja muistutuksen jälkeen sähköpostiosoite poistetaan järjestelmästä pysyvästi.</p>
+<p>Kurssien alkamisajankohdan muistutuksen voi tilata sähköpostiin. Sähköpostia käytetään vain tähän tarkoitukseen, ja muistutuksen jälkeen sähköpostiosoite poistetaan järjestelmästä pysyvästi.</p>
 {{ else }}
 <table>
   <tr>
