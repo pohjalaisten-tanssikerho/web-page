@@ -2,6 +2,7 @@
 title: "Etusivu"
 date: 2019-06-07T20:41:06+03:00
 categories: ["etusivu"]
+jumbotronDescription: "Opetusta, bileitä ja ekskursioita. Pohjalaisten tanssikerho tuo opiskelijan elämään tanssin iloa."
 ---
 
 {{< wideContent class="frontpage">}}

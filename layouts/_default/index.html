@@ -5,9 +5,10 @@
       <div class="overview">
         <h1>Pohjalaisten tanssikerho</h1>
         <p class="jumbotron-description">
-        Opetusta, bileitä ja ekskursioita. Elämyksiä lavatanssin parissa ammatilaisopettajien opastuksella mukavassa ja rennossa porukassa. Tervetuloa!
+        {{ with .Site.GetPage "/etusivu.md" }}
+        <p>{{ .Params.jumbotronDescription }}</p>
+        {{ end }}
         </p>
-
       </div>
     </div>
 {{ end }}
