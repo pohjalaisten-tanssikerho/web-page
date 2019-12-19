@@ -65,6 +65,28 @@ a {
   }
 }
 
+.content {
+  width: $text-width;
+  margin: $default-margin auto;
+  a {
+    color: darkblue;
+  }
+}
+
+.wide-content {
+  display: flex;
+  justify-content: space-between;
+  align-self: center;
+  div {
+    border: 2px solid red;
+    width: 400px;
+  }
+}
+
+.frontpage {
+  width: 900px;
+}
+
 .footer {
   display: flex;
   flex-direction: row;
@@ -91,13 +113,6 @@ a {
   }
 }
 
-.content {
-  width: $text-width;
-  margin: $default-margin auto;
-  a {
-    color: darkblue;
-  }
-}
 
 .background-black {
   background-color: black;
