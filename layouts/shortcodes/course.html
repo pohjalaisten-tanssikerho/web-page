@@ -1,0 +1,27 @@
+{{ $show := .Get 0 }}
+<table class="courses-list">
+{{ range sort .Site.Data.courses ".date" "asec" }}
+{{ if eq .message "" }}
+<tr>
+  {{ $t := time .date }}
+  <th>{{ $t.Day }}.{{ printf "%d" $t.Month }}</th>
+  {{ if eq $show "alkeiset" }}
+  <th>{{ .alkeiset }}</th>
+  {{ end }}
+  {{ if eq $show "alkeisjatko" }}
+  <th>{{ .alkeisjatko }}</th>
+  {{ end }}
+  {{ if eq $show "jatko" }}
+  <th>{{ .jatko }}</th>
+  {{ end }}
+</tr>
+{{ else }}
+<tr>
+  {{ $t := time .date }}
+  <th>{{ $t.Day }}.{{ printf "%d" $t.Month }}</th>
+  <th colspan="3">{{ .message }}</th>
+</tr>
+{{ end }}
+{{ end }}
+</table>
+
