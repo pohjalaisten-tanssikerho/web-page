@@ -1,4 +1,5 @@
-<table class="courses-full">
+{{ if eq (.Get 0) "all" }}
+<table class="courses-list">
   <tr>
     <th></th>
     <th>Alkeiset</th>
@@ -21,7 +22,42 @@
   <th colspan="3">{{ .message }}</th>
 </tr>
 {{ end }}
-
 {{ end }}
 </table>
+{{ end }}
 
+{{ if eq (.Get 0) "firstThree" }}
+{{ $courses := first 3 (sort (where .Site.Data.courses ".date" "ge" (now.Format "2006-01-02")) ".date" "asec") }}
+{{ if eq ($courses | len) 0 }}
+<p>Viikottaiset kurssit ovat loppu tältä erää. Ensi kaudella taas lisää!</p>
+<p>Kurssien alkamisajankohdan muistutukse voi tilata sähköpostiin. Sähköpostia käytetään vain tähän tarkoitukseen, ja muistutuksen jälkeen sähköpostiosoite poistetaan järjestelmästä pysyvästi.</p>
+{{ else }}
+<table>
+  <tr>
+    <th></th>
+    {{ range $courses }}
+    {{ $t := time .date }}
+    <th>{{ $t.Day }}.{{ printf "%d" $t.Month }}.</th>
+    {{ end }}
+  </tr>
+  <tr>
+    <th>Alkeiset</th>
+    {{ range $courses }}
+    <th class="trigger">{{ .alkeiset }}</th>
+    {{ end }}
+  </tr>
+  <tr>
+    <th>Alkeisjatko</th>
+    {{ range $courses }}
+    <th>{{ .alkeisjatko }}</th>
+    {{ end }}
+  </tr>
+  <tr>
+    <th>Jatko</th>
+    {{ range $courses }}
+    <th>{{ .jatko }}</th>
+    {{ end }}
+  </tr>
+</table>
+{{end}}
+{{ end }}
