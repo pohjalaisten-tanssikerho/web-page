@@ -8,6 +8,12 @@ categories_weight: 3
 Kysymällä se selviää!
 Kerhon kurssit järjestetään osoitteessa Töölönkatu 3 A ylimmässä kerroksessa.
 
+---
+
+***
+
+___
+
 Kerhon toiminnasta vastaavien yhteystiedot löytyvät alta.
 
 ## Hallitus 2019
