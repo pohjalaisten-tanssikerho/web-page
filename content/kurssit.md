@@ -27,11 +27,11 @@ Jatko klo 18.30-20
 ## Alkeiskurssi
 Alkeiskurssille voi osallistua ilman minkäänlaista aiempaa tanssikokemusta ja tanssiharrastuksen voi aloittaa alkeiskurssin merkeissä joko keväällä tai syksyllä. Kurssilla opitaan perusteet tärkeimmistä ja käyttökelpoisimmista tanssilajeista. Näillä lajeilla pärjää niin tanssilavalla, häissä, karaokebaarissa kuin opiskelijabileiden diskossakin. Lisäksi kurssilla luodaan vahva pohja uusien tanssilajien opettelulle sekä omaehtoiselle luovalle irrottelulle tanssilattialla.
 
-|Päivä      |Laji       |
+|Päivä      |Laji |
 |---------- |---------: |
 |14.1.2010 |           |
 |           |           |
-|           |  ** ei opetusta**    |
+|           |  **ei opetusta**    |
 
 ## Alkeiskurssi oman parin kanssa
 Alkeiskurssille voi osallistua myös oman parin kanssa. Kurssille voi osallistua ilman aiempaa tanssikokemusta ja tanssiharrastuksen voi aloittaa alkeiskurssin merkeissä joko keväällä tai syksyllä.
