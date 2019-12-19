@@ -40,6 +40,8 @@ Ti 11.9 Syksyn kurssit alkavat!
 
 Kevään kurssit alkavat tiistaina 14.1.2020.
 
+Kerhon kevätkokous xx.xx.2020.
+
 ## Kevään tanssibileet
 
 Kevään aikana pyritään järjestämään noin kerran kuussa tanssibileitä Bottalle. Ilmoitamme bileiden ajankohdista myöhemmin täällä kotisivuillamme, tanssituntien yhteydessä sekä facebookissa. Joten seuraa tiedotustamme, niin et sivuuta mukavia tanssibileitämme. Tervetuloa!
