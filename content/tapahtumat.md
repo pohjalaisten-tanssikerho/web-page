@@ -35,3 +35,7 @@ Su 28.10 Tanssibileet 16-20 ja Syyskokous klo 14
 Su 16.9 Tanssibileet klo 16-20
 
 Ti 11.9 Syksyn kurssit alkavat!
+
+## Kevään 2020 tapahtumakalenteri
+
+Kevään kurssit alkavat tiistaina 14.1.2020.
