@@ -3,6 +3,8 @@ title: "Etusivu"
 date: 2019-06-07T20:41:06+03:00
 categories: ["etusivu"]
 ---
+## Viikottaisten kurssien aikataulu
+{{< courses firstThree >}}
 
 # Paritanssin huumaa pohjalaismielisille opiskelijoille!
 Pohjalaisten tanssikerho on pohjalaisosakuntien (EPO), (PPO) ja (VN) alainen kerho. Toimintamme koostuu lukukauden pituisista paritanssikursseista, paritanssibileistä ja lyhyemmistä tiiviskursseista. 

@@ -10,3 +10,6 @@ Järjestämme alkeiskurssin kiertävällä parinvaihdolla (et tarvitse omaa pari
 Kaikkia kurssilaisia kehotetaan liittymään tanssikerhon sähköpostilistalle tanssi-kerho (ät) helsinki . fi. Ohjeet liittymiseen (ja listalta poistumiseen) löydät täältä. Listan kautta tiedotetaan mm. mahdollisista muutoksista kurssien aikatauluihin! Muita kerholaisia ja vapaampaa tanssikeskustelua löydät myös kerhon Facebook-ryhmästä Pohjalaisten Tanssikerho.
 
 Lyhyistä tiiviskursseista saat lisätietoa tapahtumat-sivultamme tai Facebookista.
+
+## Kurssiaikataulu ja lajit
+{{< courses all >}}

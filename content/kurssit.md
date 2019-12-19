@@ -22,7 +22,7 @@ Alkeet (oma pari) klo 18.30-20
 Alkeisjatko klo 17-18.30
 Jatko klo 18.30-20
 
-{{% courses %}}
+{{< courses all >}}
 
 ## Alkeiskurssi
 Alkeiskurssille voi osallistua ilman minkäänlaista aiempaa tanssikokemusta ja tanssiharrastuksen voi aloittaa alkeiskurssin merkeissä joko keväällä tai syksyllä. Kurssilla opitaan perusteet tärkeimmistä ja käyttökelpoisimmista tanssilajeista. Näillä lajeilla pärjää niin tanssilavalla, häissä, karaokebaarissa kuin opiskelijabileiden diskossakin. Lisäksi kurssilla luodaan vahva pohja uusien tanssilajien opettelulle sekä omaehtoiselle luovalle irrottelulle tanssilattialla.

@@ -7,3 +7,5 @@ categories_weight: 4
 # Alkeisjatko
 Alkeisjatkokurssille voit osallistua alkeiskurssin käytyäsi tai hallitset perusaskeleet.
 
+## Kurssiaikataulu ja lajit
+{{< course alkeisjatko >}}
