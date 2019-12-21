@@ -1,5 +1,5 @@
 {{ if eq (.Get 0) "all" }}
-<table class="courses-list">
+<table class="course-table">
   <tr>
     <th></th>
     <th>Alkeiset</th>
@@ -10,7 +10,7 @@
 {{ if eq .message "" }}
 <tr>
   {{ $t := time .date }}
-  <th>{{ $t.Day }}.{{ printf "%d" $t.Month }}</th>
+  <th class="date">{{ $t.Day }}.{{ printf "%d" $t.Month }}</th>
   <th>{{ .alkeiset }}</th>
   <th>{{ .alkeisjatko }}</th>
   <th>{{ .jatko }}</th>

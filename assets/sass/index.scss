@@ -16,6 +16,26 @@ a {
   color: white;
 }
 
+p {
+  font-size: 15px;
+}
+
+.course-table {
+  border-collapse: collapse;
+  border-style: hidden;
+  margin: 0 auto;
+  tr {
+    th { 
+      height: 30px;
+      border: 2px solid #d0d0d0;
+      padding: 4px;
+    }
+  }
+  .date {
+    text-align: right;
+  }
+}
+
 .header {
   background-color: black;
   width: 450px;
@@ -73,10 +93,52 @@ a {
   }
 }
 
+.board {
+  display: grid;
+  grid-template-columns: repeat(4, 214px);
+  grid-template-rows: repeat(2);
+  grid-column-gap: 40px;
+  grid-row-gap: 44px;
+  align-self: center;
+  .item {
+    .center {
+      text-align: center;
+      .role {
+        font-size: 12px;
+      }
+      .name {
+        font-size: 16px;
+        font-weight: bold;
+      }
+    }
+    .borders {
+      margin: 14px;
+      padding: 4px 0;
+      border: 2px solid #c1c1c1;
+      border-right: none;
+      border-left: none;
+      .description {
+        font-size: 12px;
+      }
+    }
+    ul {
+      font-size: 12px;
+      h4 {
+        margin-bottom: 6px;
+        margin-left: -15px;
+      }
+    }
+  }
+}
+
 .wide-content {
   display: flex;
   justify-content: space-between;
   align-self: center;
+  .board-member {
+    flex-basis: 25%;
+    width: 250px;
+  }
   div {
     border: 2px solid red;
     width: 400px;
@@ -146,23 +208,9 @@ a {
       text-align: right;
       padding-left: 452px;
     }
-    table {
-      margin-top: 270px;
-      border-collapse: collapse;
-      border-style: hidden;
-      tr {
-        th { 
-          height: 30px;
-          border: 1px solid white;
-        }
-      }
-    }
   }
 }
 
-.courses-list tr th{
-  border: 2px solid red;
-}
 
 .j-logo {
   grid-column-start: 1;

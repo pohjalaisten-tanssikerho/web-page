@@ -1,13 +1,35 @@
+</div>
 
-{{ range .Site.Data.board.officers }}
-{{ .role }} <br>
-{{ .firstname }} {{ .lastname }} <br>
-{{ .email }}
-{{ end}}
+<div class="board">
+  {{ range .Site.Data.board }}
+  <div class="item">
+    <div>
+      <img src="https://via.placeholder.com/214x220" alt="">
+    </div>
+    <div class="center">
+      <span class="role">{{ .role }}</span>
+    </div>
+    <div class="center">
+      <span class="name">{{ .firstname }} {{ .lastname }}</span>
+    </div>
+    {{ with .description }}
+    <div class="borders">
+      <span class="description">{{ . }}</span>
+    </div>
+    {{ end }}
+    <ul class="previous-roles">
+      {{ with .previousroles }}
+      <lh><h4>Aikaisemmat virat</h4></lh>
+      {{ end }}
+      {{ range .previousroles }}
+      <li>
+        <span>{{ .year }}</span>
+        <span>{{ .role }}</span>
+      </li>
+      {{ end }}
+    </ul>
+  </div>
+  {{ end}}
+</div>
 
-<span>Jäsenet:</span>
-
-{{ range .Site.Data.board.members }}
-{{ .firstname }} {{ .lastname }} <br>
-{{ .email }} <br>
-{{ end }}
+<div class="content">

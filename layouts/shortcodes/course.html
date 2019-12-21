@@ -1,10 +1,10 @@
 {{ $show := .Get 0 }}
-<table class="courses-list">
+<table class="course-table">
 {{ range sort .Site.Data.courses ".date" "asec" }}
 {{ if eq .message "" }}
 <tr>
   {{ $t := time .date }}
-  <th>{{ $t.Day }}.{{ printf "%d" $t.Month }}</th>
+  <th class="date">{{ $t.Day }}.{{ printf "%d" $t.Month }}</th>
   {{ if eq $show "alkeiset" }}
   <th>{{ .alkeiset }}</th>
   {{ end }}
