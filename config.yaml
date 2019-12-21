@@ -1,0 +1,9 @@
+
+baseURL: "https://musing-ardinghelli-ad83b1.netlify.com/"
+title: "Pohjalaisten Tanssikerho"
+
+DefaultContentLanguage: "fi"
+languageCode: "fi-fi"
+
+params:
+  courseRegistration: ""
