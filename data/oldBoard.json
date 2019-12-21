@@ -1,0 +1,41 @@
+[
+  {
+    "firstname": "Jonna",
+    "lastname": "Romppainen",
+    "description": "",
+    "role": "taloudenhoitaja",
+    "previousroles": [
+      {
+        "year": "2019",
+        "role": "taloudenhoitaja"
+      }
+    ],
+    "email": "jonnaromp@gmail.com"
+  },
+  {
+    "firstname": "Minna",
+    "lastname": "Jantunen",
+    "description": "",
+    "role": "jäsen",
+    "previousroles": [
+      {
+        "year": "2019",
+        "role": "jäsen"
+      }
+    ],
+    "email": "mintzu85@gmail.com"
+  },
+  {
+    "firstname": "Joni",
+    "lastname": "Kojo",
+    "description": "",
+    "role": "jäsen",
+    "previousroles": [
+      {
+        "year": "2019",
+        "role": "jäsen"
+      }
+    ],
+    "email": "joni.kojo@helsinki . fi"
+  }
+]

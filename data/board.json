@@ -1,45 +1,85 @@
-{
-  "officers": [
-    {
-      "role": "Puheenjohtaja",
-      "firstname": "Greatman",
-      "lastname": "Lim",
-      "email": "greatman.lim (ät) mahti . org"
-    },
-    {
-      "role": "Taloudenhoitaja",
-      "firstname": "Jonna",
-      "lastname": "Romppainen",
-      "email": "jonnaromp (ät) gmail . com"
-    },
-    {
-      "role": "Sihteeri",
-      "firstname": "Elina",
-      "lastname": "Illikainen",
-      "email": "el-liina (ät) hotmail . com"
-    },
-    {
-      "role": "Varapuheenjohtaja ja tiedottaja",
-      "firstname": "Selina",
-      "lastname": "Virtanen",
-      "email": "selina . virtanen ('t) gmail . com')"
-    }
-  ],
-  "members": [
-    {
-      "firstname": "Minna",
-      "lastname": "Jantunen",
-      "email": "mintzu85 (ät) gmail . com"
-    },
-    {
-      "firstname": "Karine",
-      "lastname": "Wanderpass",
-      "email": "karinew (ät) aol . com"
-    },
-    {
-      "firstname": "Joni",
-      "lastname": "Kojo",
-      "email": "joni . kojo (ät) helsinki . fi"
-    }
-  ]
-}
+[
+  {
+    "firstname": "Selina",
+    "lastname": "Virtanen",
+    "description": "description foo",
+    "picture": "",
+    "role": "puheenjohtaja",
+    "previousroles": [
+      {
+        "year": "2019",
+        "role": "tiedottaja"
+      }
+    ],
+    "email": "selina.virtanen@gmail.com'"
+  },
+  {
+    "firstname": "Greatman",
+    "lastname": "Lim",
+    "description": "Kerää titteleitä. Jotenkin onnistunut saamaan yhden nimeensäkin.",
+    "picture": "",
+    "role": "puheenjohtaja",
+    "role": "varapuheenjohtaja",
+    "previousroles": [
+      {
+        "year": "2019",
+        "role": "puheenjohtaja"
+      }
+    ],
+    "email": "greatman.lim@mahti.org"
+  },
+  {
+    "firstname": "Suvi",
+    "lastname": "Mäenpää",
+    "description": "descrition foo",
+    "picture": "",
+    "role": "puheenjohtaja",
+    "role": "taloudenhoitaja",
+    "email": "zukkasd@gmail.com"
+  },
+  {
+    "firstname": "Niina",
+    "lastname": "Kajovuori",
+    "description": "description foo",
+    "picture": "",
+    "role": "sihteeri",
+    "mail": "niina.kajovuori@gmail.com"
+  },
+  {
+    "firstname": "Kaisa",
+    "lastname": "Autere",
+    "picture": "",
+    "role": "tiedottaja",
+    "mail": "kaisa.autere@wmail.fi"
+  },
+  {
+    "firstname": "Lasse",
+    "lastname": "Vaskelainen",
+    "description": "description foo",
+    "picture": "",
+    "role": "tapahtumavastaava",
+    "mail": "lasse.vaskelainen@gmail.com"
+  },
+  {
+    "firstname": "Elina",
+    "lastname": "Illikainen",
+    "description": "Ylettömän tehokas joka asiassa. Kantaa repussaan kantorakettia, jolla pääsee nopeaa!",
+    "picture": "",
+    "role": "jäsen",
+    "previousroles": [
+     {
+       "year": "2019",
+       "role": "sihteeri"
+     }
+    ],
+    "email": "el-liina@hotmail.com"
+  },
+  {
+    "firstname": "Henna",
+    "lastname": "Jylhä",
+    "description": "description foo",
+    "picture": "",
+    "role": "jäsen",
+    "email": "henna.jylha@aalto.fi"
+  }
+]
