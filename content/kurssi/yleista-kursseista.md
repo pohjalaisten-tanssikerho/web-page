@@ -1,6 +1,7 @@
 ---
 title: "Yleistä kursseista"
 date: 2019-12-17T13:19:54+02:00
+description: "Kaikille viikottaisille kursseille yhteistä asiaa ja käytäntöjä."
 categories: ["kurssi"]
 categories_weight: 1
 ---

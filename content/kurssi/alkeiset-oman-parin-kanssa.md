@@ -1,6 +1,7 @@
 ---
 title: "Alkeiset oman parin kanssa"
 date: 2019-12-18T09:43:25+02:00
+description: "Alkeiskurssi, jonne voi tulla oman lempihenkilön kanssa."
 categories: ["kurssi"]
 categories_weight: 3
 ---

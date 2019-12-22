@@ -1,6 +1,7 @@
 ---
 title: "Jatkokurssi"
 date: 2019-12-17T13:21:45+02:00
+description: "Pitkälle edistyneille tanssijoille. Täällä tanssi hiotaan täydelliseksi."
 categories: ["kurssi"]
 categories_weight: 5
 ---
