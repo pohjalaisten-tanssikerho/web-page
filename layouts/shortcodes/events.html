@@ -1,0 +1,8 @@
+{{ if eq (.Site.Data.events | len) 0 }}
+<p>Tällä hetkellä ei ole bileitä tiedossa.</p>
+{{ end }}
+<ul>
+  {{ range first 3 .Site.Data.events }}
+  <li>{{ .date }} - {{ .name }}</li>
+  {{ end }}
+</ul>

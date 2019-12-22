@@ -14,7 +14,7 @@ jumbotronDescription: "Opetusta, bileitä ja ekskursioita. Pohjalaisten tanssike
 
 <div>
 <h2>Tapahtumat ja tiedotteet</h2>
-Talvilomilla! Nähdään ensi vuonna!
+{{< events >}}
 </div>
 
 {{< /wideContent  >}}
