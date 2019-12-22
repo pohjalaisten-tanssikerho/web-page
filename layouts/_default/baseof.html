@@ -17,7 +17,7 @@
           <li><a href="{{ .Site.BaseURL }}">Etusivu</a></li>
           {{ range .Site.Taxonomies.categories.sivu }}
             {{ if eq .Title "Kurssit" }} 
-            <li><a href="{{ .Page.RelPermalink }}">{{ .Title }}</a>
+            <li><a href="{{ .Site.BaseURL}}/kurssi">{{ .Title }}</a>
               <ul>
                 {{ range .Site.Taxonomies.categories.kurssi }}
                 <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
@@ -28,7 +28,7 @@
             <li><a href="{{ .Page.RelPermalink }}">{{ .Title }}</a>
             {{ end }}
           {{ end }}
-          <li><a href="#">Blogi</a>
+          <li><a href="{{ .Site.BaseURL }}/blogi">Blogi</a>
             <ul>
               {{ range .Site.Taxonomies.categories.blogi }}
               <li><a href="{{ .Page.RelPermalink }}">{{ .Title }}</a></li>

@@ -1,3 +1,7 @@
 {{ define "main" }}
-  This is the list template.{}
+{{ range .Pages.ByParam "categories_weight" }}
+<h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+<p>{{ .Description }}</p>
+<hr>
+{{ end }}
 {{ end }}

@@ -23,10 +23,14 @@ p {
   font-size: 15px;
 }
 
+hr {
+  border-style: groove;
+}
+
 .course-table {
   border-collapse: collapse;
   border-style: hidden;
-  margin: 0 auto;
+  // margin: 0 auto;
   tr {
     th { 
       height: 30px;
