@@ -9,4 +9,4 @@ categories_weight: 3
 Mikäli tahdot osallistusa paritanssin alkeiskurssille yhdessä oman parisi kanssa, ilman parinvaihtoa, on tämä kurssi teitä varten. Alkeiskurssille osallistuminen ei vaadi aiempaa tanssikokemusta. Voitte aloittaa uuden tanssiharrastuksen joko keväällä tai syksyllä. 
 
 ## Kurssiaikataulu ja lajit
-{{< course alkeiset >}}
+{{< course alkeisetOma >}}
