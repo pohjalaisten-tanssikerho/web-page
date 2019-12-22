@@ -31,7 +31,7 @@
   {
     "firstname": "Suvi",
     "lastname": "Mäenpää",
-    "description": "descrition foo",
+    "description": "Pieneen kokoon puristettua potentiaalienergiaa!",
     "picture": "",
     "role": "puheenjohtaja",
     "role": "taloudenhoitaja",
@@ -40,7 +40,7 @@
   {
     "firstname": "Niina",
     "lastname": "Kajovuori",
-    "description": "description foo",
+    "description": "01010011 01110101 01110000 01100101 01110010 01101110 11000011 10110110 01110010 01110100 01110100 01101001 00101110",
     "picture": "",
     "role": "sihteeri",
     "mail": "niina.kajovuori@gmail.com"
@@ -55,7 +55,7 @@
   {
     "firstname": "Lasse",
     "lastname": "Vaskelainen",
-    "description": "description foo",
+    "description": "Suosittu seurapiireissä. Muut menevät tanssijuhliin, mutta tämä herra kutsutaan.",
     "picture": "",
     "role": "tapahtumavastaava",
     "mail": "lasse.vaskelainen@gmail.com"
@@ -77,7 +77,7 @@
   {
     "firstname": "Henna",
     "lastname": "Jylhä",
-    "description": "description foo",
+    "description": "Iloinen säheltäjä. Välillä hauska, joskus jopa tarkoituksella.",
     "picture": "",
     "role": "jäsen",
     "email": "henna.jylha@aalto.fi"
