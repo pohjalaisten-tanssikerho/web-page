@@ -1,108 +1,138 @@
 [
   {
-    "date": "2019-10-09",
+    "date": "2020-01-14",
     "message": "",
     "alkeiset": "Foksi",
-    "alkeisjatko": "Bugg",
-    "jatko": "Tango"
+    "alkeisetOma": "Bugg",
+    "alkeisjatko": "Fusku",
+    "jatko": "Hidas valssi"
   },
   {
-    "date": "2019-09-17",
+    "date": "2020-01-21",
     "message": "",
     "alkeiset": "Foksi",
-    "alkeisjatko": "Bugg",
-    "jatko": "Tango"
+    "alkeisetOma": "Bugg",
+    "alkeisjatko": "Fusku",
+    "jatko": "Hidas valssi"
   },
   {
-    "date": "2019-09-24",
+    "date": "2020-01-28",
     "message": "",
     "alkeiset": "Foksi / Fusku",
-    "alkeisjatko": "Valssi",
-    "jatko": "Jive"
+    "alkeisetOma": "Bugg",
+    "alkeisjatko": "Foksi",
+    "jatko": "Musiikin tulkinta"
   },
   {
-    "date": "2019-10-01",
+    "date": "2020-02-04",
+    "message": "Ei tunteja",
+    "alkeiset": "",
+    "alkeisetOma": "",
+    "alkeisjatko": "",
+    "jatko": ""
+  },
+  {
+    "date": "2020-02-11",
     "message": "",
     "alkeiset": "Fusku",
-    "alkeisjatko": "Valssi",
-    "jatko": "Jive"
-  },
-  {
-    "date": "2019-10-08",
-    "message": "",
-    "alkeiset": "Fusku",
-    "alkeisjatko": "Kizomba",
-    "jatko": "Swedish fox"
-  },
-  {
-    "date": "2019-10-15",
-    "message": "",
-    "alkeiset": "Valssi",
-    "alkeisjatko": "Kizomba",
-    "jatko": "Swedish fox"
-  },
-  {
-    "date": "2019-10-22",
-    "message": "",
-    "alkeiset": "Valssi",
+    "alkeisetOma": "Foksi",
     "alkeisjatko": "Tango",
-    "jatko": "Cha cha"
+    "jatko": "Samba"
   },
   {
-    "date": "2019-10-29",
+    "date": "2020-02-18",
+    "message": "",
+    "alkeiset": "Fusku / Foksi",
+    "alkeisetOma": "Foksi",
+    "alkeisjatko": "Tango",
+    "jatko": "Samba"
+  },
+  {
+    "date": "2020-02-25",
+    "message": "Ei tunteja",
+    "alkeiset": "",
+    "alkeisetOma": "",
+    "alkeisjatko": "",
+    "jatko": ""
+  },
+  {
+    "date": "2020-03-03",
     "message": "",
     "alkeiset": "Bugg",
-    "alkeisjatko": "Tango",
-    "jatko": "Cha cha"
+    "alkeisetOma": "Fusku",
+    "alkeisjatko": "Bugg",
+    "jatko": "Tango"
   },
   {
-    "date": "2019-11-05",
+    "date": "2020-03-10",
     "message": "",
     "alkeiset": "Bugg",
+    "alkeisetOma": "Fusku",
+    "alkeisjatko": "Bugg",
+    "jatko": "Tango"
+  },
+  {
+    "date": "2020-03-17",
+    "message": "Ei tunteja",
+    "alkeiset": "",
+    "alkeisetOma": "",
+    "alkeisjatko": "",
+    "jatko": ""
+  },
+  {
+    "date": "2020-03-24",
+    "message": "",
+    "alkeiset": "Kertaus",
+    "alkeisetOma": "Kertaus",
+    "alkeisjatko": "Hidas valssi",
+    "jatko": "Bugg"
+  },
+  {
+    "date": "2020-03-31",
+    "message": "",
+    "alkeiset": "Valssi",
+    "alkeisetOma": "Valssi",
+    "alkeisjatko": "Hidas valssi",
+    "jatko": "Bugg"
+  },
+  {
+    "date": "2020-04-07",
+    "message": "",
+    "alkeiset": "Valssi",
+    "alkeisetOma": "Valssi",
+    "alkeisjatko": "Salsa",
+    "jatko": "Lavakansantanssit"
+  },
+  {
+    "date": "2020-04-14",
+    "message": "",
+    "alkeiset": "Lattari",
+    "alkeisetOma": "Lattari",
+    "alkeisjatko": "Salsa",
+    "jatko": "Lavakansantanssit"
+  },
+  {
+    "date": "2020-04-21",
+    "message": "",
+    "alkeiset": "Lattari",
+    "alkeisetOma": "Lattari",
+    "alkeisjatko": "Kizomba",
+    "jatko": "Salsa"
+  },
+  {
+    "date": "2020-04-28",
+    "message": "",
+    "alkeiset": "Lattari",
+    "alkeisetOma": "Lattari",
+    "alkeisjatko": "Kizomba",
+    "jatko": "Salsa"
+  },
+  {
+    "date": "2020-05-05",
+    "message": "",
+    "alkeiset": "Kertaus",
+    "alkeisetOma": "Kertaus",
     "alkeisjatko": "Kertaus",
-    "jatko": "Toiveet"
-  },
-
-  {
-    "date": "2019-11-12",
-    "message": "",
-    "alkeiset": "Bugg",
-    "alkeisjatko": "Fusku",
-    "jatko": "Boogie woogie"
-  },
-  {
-    "date": "2019-11-19",
-    "message": "",
-    "alkeiset": "Cha cha",
-    "alkeisjatko": "Fusku",
-    "jatko": "Boogie woogie"
-  },
-  {
-    "date": "2019-11-26",
-    "message": "",
-    "alkeiset": "Cha cha",
-    "alkeisjatko": "Samba",
-    "jatko": "Fusku"
-  },
-  {
-    "date": "2019-12-03",
-    "message": "",
-    "alkeiset": "Cha cha",
-    "alkeisjatko": "Samba",
-    "jatko": "Fusku"
-  },
-  {
-    "date": "2019-12-10",
-    "message": "",
-    "alkeiset": "Kertaus / Toiveet",
-    "alkeisjatko": "Kertaus / Toiveet",
-    "jatko": "Kertaus / Toiveet"
-  },
-  {
-    "date": "2019-12-17",
-    "message": "",
-    "alkeiset": "Varapäivä / vapaat harjoitukset",
-    "alkeisjatko": "Varapäivä / vapaat harjoitukset",
-    "jatko": "Varapäivä / vapaat harjoitukset"
+    "jatko": "Kertaus"
   }
 ]

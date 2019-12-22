@@ -3,6 +3,7 @@
   <tr>
     <th></th>
     <th>Alkeiset</th>
+    <th>Alkeiset <br> oma pari</th>
     <th>Alkeisjatko</th>
     <th>Jatko</th>
   </tr>
@@ -12,6 +13,7 @@
   {{ $t := time .date }}
   <th class="date">{{ $t.Day }}.{{ printf "%d" $t.Month }}</th>
   <th>{{ .alkeiset }}</th>
+  <th>{{ .alkeisetOma }}</th>
   <th>{{ .alkeisjatko }}</th>
   <th>{{ .jatko }}</th>
 </tr>
@@ -19,7 +21,7 @@
 <tr>
   {{ $t := time .date }}
   <th>{{ $t.Day }}.{{ printf "%d" $t.Month }}</th>
-  <th colspan="3">{{ .message }}</th>
+  <th colspan="4">{{ .message }}</th>
 </tr>
 {{ end }}
 {{ end }}
@@ -32,7 +34,7 @@
 <p>Viikottaiset kurssit ovat loppu tältä erää. Ensi kaudella taas lisää!</p>
 <p>Kurssien alkamisajankohdan muistutuksen voi tilata sähköpostiin. Sähköpostia käytetään vain tähän tarkoitukseen, ja muistutuksen jälkeen sähköpostiosoite poistetaan järjestelmästä pysyvästi.</p>
 {{ else }}
-<table>
+<table class="course-table">
   <tr>
     <th></th>
     {{ range $courses }}
@@ -44,6 +46,12 @@
     <th>Alkeiset</th>
     {{ range $courses }}
     <th class="trigger">{{ .alkeiset }}</th>
+    {{ end }}
+  </tr>
+  <tr>
+    <th>Alkeiset <br> oma pari</th>
+    {{ range $courses }}
+    <th class="trigger">{{ .alkeisetOma }}</th>
     {{ end }}
   </tr>
   <tr>
