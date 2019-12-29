@@ -31,3 +31,6 @@ Nettisivujen tekemiseen tarvitaan myös kääntäjiä, koodaajia ja blogi-kirjoi
 Nettisivujen versionhallinnassa käytettään [Githubia](https://github.com/pohjalaisten-tanssikerho/web-page). Samasta linkistä myös nämä sivut on julkaistu! Käy katsomassa miten kaikki toimii pellin alla.
 
 Eli jos on yhtään kiinnostusta auttaa nettisivujen kanssa, ota yhteyttä nettisivuvastaavaan.
+
+## Kannatusjäsenyys
+Taloudellista tukea voi antaa liittymällä [kannatusjäseneksi]({{< ref "/kannatusjasenyys.md" >}}).
