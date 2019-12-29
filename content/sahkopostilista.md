@@ -7,12 +7,12 @@ Ilmoitusasiat hoidetaan pääosin tanssikerhon postituslistan kautta, jonne kaik
 ```
 subscribe tanssi-kerho oma.oikea@osoi.te
 ```
-Korvaa teksti "oma.oikea@osoi.te" omalla sähköposti-osoitteellasi.
+Korvaa teksti "oma.oikea@osoi.te" omalla sähköposti-osoitteellasi. Viestin otsikolla ei ole väliä. 
 
 Listalta poistutaan kirjoittamalla viestin tekstiosaan:
 ```
 unsubscribe tanssi-kerho oma.oikea@osoi.te
 ```
-Viestin otsikolla ei ole väliä. Listalle voi lähettää postia osoitteeseen tanssi-kerho (ät) helsinki.fi .
+Majordomo on hyvin tarkka osoitemuodon suhteen, eli liittymisosoitteen ja ero-osoitteen on oltava identtiset.
 
-Lähetys onnistuu vain mikäli lähettäjä on itse listalla. Majordomo on hyvin tarkka osoitemuodon suhteen, eli liittymisosoitteen ja ero-osoitteen on oltava identtiset.
+Listalle voi lähettää postia osoitteeseen tanssi-kerho (ät) helsinki.fi . Lähetys onnistuu vain mikäli lähettäjä on itse listalla. 
