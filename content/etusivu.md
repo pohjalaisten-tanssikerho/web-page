@@ -26,13 +26,7 @@ Opettajina toimivat tanssiopettajat Kimmo Luukkonen ja Marianne Krause.
 
 Ota rohkeasti yhteyttä tai tule kokeilemaan kursseille!
 
-## Kannatusjäsenyys
-Myös Pohjalaisten tanssikerhon kannatusjäseneksi liittyminen on mahdollista, jos haluat käydä tanssibileissä mutta et ehdi osallistua tanssikursseille. Kannatusjäsenmaksun suuruus vuonna 2019 on vähintään 10 euroa ja se maksetaan tanssikerhon tilille: 
-
-Holvi IBAN FI51 7997 7998 0564 23
-BIC HOLVFIHH 
-
-Viitenumero: 9991
+## Pohjalaisten Valtuuskunta
 
 {{% addLogosToSides %}}
 

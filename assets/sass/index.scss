@@ -4,6 +4,8 @@ $text-width: 560px;
 $default-margin: 35px;
 $default-text-color: #2a2a2a;
 
+$header-snap: 460px;
+
 body {
   margin: 0;
   min-height: 100vh;
@@ -22,7 +24,8 @@ a {
 }
 
 p {
-  font-size: 15px;
+  font-size: 14px;
+  line-height: 1.8em;
   color: $default-text-color;
 }
 
@@ -35,7 +38,7 @@ hr {
   margin-top: 30px;
   border-collapse: collapse;
   border-style: hidden;
-  // margin: 0 auto;
+  margin: 0 auto;
   th:not(:first-child) {
     min-width: 110px;
   }
@@ -44,6 +47,8 @@ hr {
       height: 30px;
       border: 2px solid #d0d0d0;
       padding: 4px;
+      font-weight: normal;
+      font-size: 14px;
     }
   }
   .date {
@@ -52,15 +57,35 @@ hr {
 }
 
 .header {
+  .hide {
+    display: none;
+    @media only screen and (max-width: $header-snap) {
+      display: block;
+    }
+  }
   background-color: black;
   width: 450px;
   margin: auto;
   font-size: 18px;
+  i {
+    font-size: 36px;
+  }
   ul {
     display: flex;
+    @media only screen and (max-width: $header-snap) {
+      flex-direction: column;
+      margin: 0px 0 0 10px;
+      padding-top: 30px;
+    }
     justify-content: space-between;
     list-style-type: none;
     padding-inline-start: 0;
+    li {
+      @media only screen and (max-width: $header-snap) {
+        display: none;
+        font-size: 16px;
+      }
+    }
     li a:hover {
         color: lightblue;
     }
@@ -68,6 +93,12 @@ hr {
       display: block;
     }
     ul {
+      @media only screen and (max-width: $header-snap) {
+        display: block;
+        position: relative;
+        background-color: black;
+        padding: 0 0 0 4px;
+      }
       display: none;
       position: absolute;
       // background-color: #f9f9f9;
@@ -78,6 +109,10 @@ hr {
       font-size: 14px;
       z-index: 1;
       li {
+      @media only screen and (max-width: $header-snap) {
+        border-bottom-style: none;
+        margin: 0;
+      }
         margin-bottom: 8px;
         border-bottom: 1px;
         border-bottom-style: solid;
@@ -89,11 +124,15 @@ hr {
       }
     }
   }
+  .mobile-header {
+    height: 0;
+    padding: 5px;
+  }
 }
 
 .content {
-  width: $text-width;
-  margin: $default-margin auto;
+  max-width: $text-width;
+  margin: 0 auto $default-margin auto;
   a {
     color: darkblue;
   }
@@ -103,6 +142,14 @@ hr {
   display: grid;
   grid-template-columns: repeat(4, 214px);
   grid-template-rows: repeat(2);
+  @media only screen and (max-width: 985px) {
+    grid-template-columns: repeat(2, 214px);
+    grid-template-rows: repeat(4);
+  }
+  @media only screen and (max-width: 475px) {
+    grid-template-columns: repeat(1, 214px);
+    grid-template-rows: repeat(8);
+  }
   grid-column-gap: 40px;
   grid-row-gap: 44px;
   align-self: center;
@@ -137,20 +184,6 @@ hr {
   }
 }
 
-.wide-content {
-  display: flex;
-  justify-content: space-between;
-  align-self: center;
-  .board-member {
-    flex-basis: 25%;
-    width: 250px;
-  }
-  div {
-    border: 2px solid red;
-    width: 400px;
-  }
-}
-
 .frontpage {
   div {
     margin: 0 20px;
@@ -161,7 +194,37 @@ hr {
   }
 }
 
+.wide-content {
+  display: flex;
+  @media only screen and (max-width: 830px) {
+    flex-direction: column;
+  }
+  justify-content: space-between;
+  align-self: center;
+  ul {
+    list-style-type: none;
+  }
+  h2 {
+    font-weight: normal;
+  }
+  div {
+    // border: 2px solid red;
+    width: 400px;
+    margin: 0 8px;
+  }
+  .board-member {
+    flex-basis: 25%;
+    width: 250px;
+  }
+}
+
+
 .footer {
+  @media only screen and (max-width: 650px) {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -190,7 +253,16 @@ hr {
     color: #eaeaea;
   }
   .some {
+    @media only screen and (max-width: 650px) {
+      margin: 0;
+    }
     margin: 0 20px;
+  }
+  div {
+    @media only screen and (max-width: 650px) {
+      margin: 0;
+      width: 280px;
+    }
   }
 }
 
@@ -212,15 +284,21 @@ hr {
   color: black;
   padding: 30px 0 0 0 ;
   justify-content: center;
-  background-position: 0 -70px;
+  background-position: 0 -20px;
+  @media only screen and (max-width: 715px) {
+    background-position: 0;
+  }
   background-image: url(/img/pot-jumbotron50.jpg);
   background-image: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(232,255,0,0) 8%), url(/img/pot-jumbotron50.jpg);
   background-repeat: no-repeat;
   background-size: 1489px 525px;
-  height: 366px;
+  height: 388px;
   .overview {
     width: 695px;
     h1 {
+      @media only screen and (max-width: 715px) {
+        text-align: center;
+      }
       font-size: 56px;
       margin: 0;
       // color: #2a2a2a;
@@ -234,7 +312,13 @@ hr {
       mix-blend-mode: multiply;
     }
     p {
+      @media only screen and (max-width: 715px) {
+        margin-left: 0;
+        text-align: center;
+        width: auto;
+      }
       font-size: 20px;
+      line-height: 1.4em;
       margin: 0;
       text-align: right;
       margin-left: 400px;
@@ -368,3 +452,4 @@ $call-to-action-image-size: 800px;
   transform: scale(1.0);
   transition: visibility 0s linear 0s, opacity 0.25s 0s, transform 0.25s;
 }
+
