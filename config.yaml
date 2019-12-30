@@ -7,3 +7,7 @@ languageCode: "fi-fi"
 
 params:
   courseRegistration: ""
+  bank:
+    name: "Holvi"
+    iban: "FI51 7997 7998 0564 23"
+    bic: "HOLVFIHH"
