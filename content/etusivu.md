@@ -26,12 +26,12 @@ Opettajina toimivat tanssiopettajat Kimmo Luukkonen ja Marianne Krause.
 
 Ota rohkeasti yhteyttä tai tule kokeilemaan kursseille!
 
-## Pohjalaisten Valtuuskunta
-
-{{% addLogosToSides %}}
+{{< figure src="http://pohjalaiset.fi/wp-content/uploads/2016/07/pv-suomi-logo-01.jpg" >}}
 
 Osakunnan mainos.
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
-{{% /addLogosToSides %}}
+<!-- {{< figure src="http://vasa.nation.fi/wp-content/uploads/2016/10/VN_Logo_vitbakgrund.png" width="220px" height="220" >}} -->
+<!-- {{< figure src="http://epo.osakunta.fi/wp-content/uploads/2016/07/EPO-vaakuna-valkoinen-logo.png" width="220px" height="220" >}} -->
+<!-- {{< figure src="http://pohjoispohjalaiset.fi/wp-content/uploads/2018/02/cropped-ppo2-394x400.png" width="220px" height="220" >}} -->
