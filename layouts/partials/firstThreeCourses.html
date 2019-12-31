@@ -1,31 +1,33 @@
-        {{ $courses := first 3 (sort (where .Site.Data.courses ".date" "ge" (now.Format "2006-01-02")) ".date" "asec") }}
-        <table>
-          <tr>
-            <th></th>
-            {{ range $courses }}
-            {{ $t := time .date }}
-            <th>{{ $t.Day }}.{{ printf "%d" $t.Month }}.</th>
-            {{ end }}
-          </tr>
-          <tr>
-            <th>Alkeiset</th>
-            {{ range $courses }}
-            <th class="trigger">{{ .alkeiset }}</th>
-            {{ end }}
-          </tr>
-          <tr>
-            <th>Alkeisjatko</th>
-            {{ range $courses }}
-            <th>{{ .alkeisjatko }}</th>
-            {{ end }}
-          </tr>
-          <tr>
-            <th>Jatko</th>
-            {{ range $courses }}
-            <th>{{ .jatko }}</th>
-            {{ end }}
-          </tr>
-        </table>
+<div>
+  {{ $courses := first 3 (sort (where .Site.Data.courses ".date" "ge" (now.Format "2006-01-02")) ".date" "asec") }}
+  <table>
+    <tr>
+      <th></th>
+      {{ range $courses }}
+      {{ $t := time .date }}
+      <th>{{ $t.Day }}.{{ printf "%d" $t.Month }}.</th>
+      {{ end }}
+    </tr>
+    <tr>
+      <th>Alkeiset</th>
+      {{ range $courses }}
+      <th class="trigger">{{ .alkeiset }}</th>
+      {{ end }}
+    </tr>
+    <tr>
+      <th>Alkeisjatko</th>
+      {{ range $courses }}
+      <th>{{ .alkeisjatko }}</th>
+      {{ end }}
+    </tr>
+    <tr>
+      <th>Jatko</th>
+      {{ range $courses }}
+      <th>{{ .jatko }}</th>
+      {{ end }}
+    </tr>
+  </table>
+</div>
 
         <div class="modal">
           <div class="modal-content">

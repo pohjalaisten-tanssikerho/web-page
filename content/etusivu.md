@@ -7,15 +7,9 @@ jumbotronDescription: "Opetusta, bileitä ja ekskursioita. Pohjalaisten tanssike
 
 {{< wideContent class="frontpage">}}
 
-<div>
-<h2>Seuraavat kurssit</h2>
 {{< courses firstThree >}}
-</div>
 
-<div>
-<h2>Tapahtumat ja tiedotteet</h2>
 {{< events >}}
-</div>
 
 {{< /wideContent  >}}
 

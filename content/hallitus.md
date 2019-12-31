@@ -5,9 +5,7 @@ categories: ["sivu"]
 categories_weight: 3
 ---
 # Hallitus
-{{< wideContent >}}
-{{% board %}}
-{{< /wideContent >}}
+{{< board >}}
 
 Hallituksen sähköposti
 pohjalaistentanssikerho . ry (ät) gmail . com
