@@ -205,6 +205,16 @@ hr {
 
 .frontpage {
   padding: 6px 0 26px 0;
+  h2 {
+    padding: 0;
+  }
+  ul {
+    margin: 0;
+    padding: 0;
+  }
+  li {
+    margin-bottom: 1em;
+  }
   div {
     margin: 0 20px;
     padding: 6px 0;
@@ -212,6 +222,13 @@ hr {
       min-width: 48px;
     }
   }
+  .date {
+    font-size: 23px;
+    font-weight: bold;
+    margin-right: 1em;
+    display: block;
+  }
+  align-items: center;
 }
 
 .wide-content {
@@ -230,7 +247,7 @@ hr {
   div {
     // border: 2px solid red;
     width: 400px;
-    margin: 0 8px;
+    margin: 0 28px;
   }
   .board-member {
     flex-basis: 25%;

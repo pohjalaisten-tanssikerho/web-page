@@ -1,11 +1,12 @@
 <div>
-  <h2>Seuraavat kurssit</h2>
+  <h2>Tapahtumat ja tiedotteet</h2>
   {{ if eq (.Site.Data.events | len) 0 }}
-  <p>Tällä hetkellä ei ole bileitä tiedossa.</p>
+  <p>Tällä hetkellä ei ole bileitä tai tapahtumia tiedossa.</p>
   {{ end }}
   <ul>
-    {{ range first 3 .Site.Data.events }}
-    <li>{{ .date }} - {{ .name }}</li>
+    {{ range first 3 (sort (where .Site.Data.events ".date" "ge" (now.Format "2006-01-02")) ".date" "asec") }}
+    {{ $t := time .date }}
+    <li><span class="date">{{ $t.Day }}.{{ printf "%d" $t.Month }}.</span><span class="name">{{ .name }}</span></li>
     {{ end }}
   </ul>
 </div>
