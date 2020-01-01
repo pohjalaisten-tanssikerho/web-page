@@ -20,12 +20,15 @@ Opettajina toimivat tanssiopettajat Kimmo Luukkonen ja Marianne Krause.
 
 Ota rohkeasti yhteyttä tai tule kokeilemaan kursseille!
 
-<!-- {{< figure src="http://pohjalaiset.fi/wp-content/uploads/2016/07/pv-suomi-logo-01.jpg" >}} -->
+# Pohjalaisten valtuuskunta
+{{< figure alt="Pohjalaisten Valtuuskunta" link="http://pohjalaiset.fi" src="/img/logo/pv.jpg" >}}
 
 Osakunnan mainos.
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
-<!-- {{< figure src="http://vasa.nation.fi/wp-content/uploads/2016/10/VN_Logo_vitbakgrund.png" width="220px" height="220" >}} -->
-<!-- {{< figure src="http://epo.osakunta.fi/wp-content/uploads/2016/07/EPO-vaakuna-valkoinen-logo.png" width="220px" height="220" >}} -->
-<!-- {{< figure src="http://pohjoispohjalaiset.fi/wp-content/uploads/2018/02/cropped-ppo2-394x400.png" width="220px" height="220" >}} -->
+{{< center >}}
+{{< figure class="logo" alt="Vasa Nation osakunnan vaakuna" link="http://vasa.nation.fi" src="/img/logo/vn.png" width="220px" height="220" >}}
+{{< figure class="logo" alt="Pohjois-Pohjalaisen osakunnan vaakuna" link="http://pohjoispohjalaiset.fi" src="/img/logo/ppo.png" width="220px" height="220" >}}
+{{< figure class="logo" alt="Etelä-Pohjalaisen osakunnan vaakuna" link="http://epo.osakunta.fi" src="/img/logo/epo.png" width="220px" height="220" >}}
+{{</ center >}}
