@@ -5,10 +5,10 @@ categories: ["ry"]
 categories_weight: 2
 ---
 # Tule mukaan kehittämään toimintaamme
-Pohjalaisten tanssikerho ry on voittoa tavoittelematon yritys, jonka tärkeimpiä tavoitteita on tuoda partitanssi opiskelijoiden keskuuteen. Yhdistys elää siis pelkästään hyväntekeväisyystyön varassa. Tanssikerho on menestynyt hyvin, josta on kiitos useiden henkilöiden panostuksen. On siis aika kantaa oma kortensa kekoon!
+Pohjalaisten tanssikerho ry on voittoa tavoittelematon yritys, jonka tärkeimpiä tavoitteita on tuoda paritanssi opiskelijoiden keskuuteen. Yhdistys elää siis pelkästään hyväntekeväisyystyön varassa. Tanssikerho on menestynyt hyvin, josta on kiitos useiden henkilöiden panostuksen. On siis aika kantaa oma kortensa kekoon!
 
 ## Hallitus
-Tanssikerhoa voi auttaa usella eri tavalla, joista merkittävin on liittyä hallitukseen. Hallitustoiminta voi olla raskasta, mutta lopussa se on ollut sen arvoista. Hallitustoimen aikana saa uusia kavereita ja pääsee kartuttamaan kokemusta johtamisesta ja esimiesasemassa olemisesta. Lisäksi on huomattu, että hallituslaisena toimiminen jostain syystä parantaa tanssiosaamista huimasti!
+Tanssikerhoa voi auttaa usella eri tavalla, joista merkittävin on liittyä hallitukseen. Hallitustoiminta saattaa olla välillä raskasta, mutta lopussa sen arvoista. Hallitustoimen aikana saa uusia kavereita ja pääsee kartuttamaan kokemusta johtamisesta ja esimiesasemassa olemisesta. Lisäksi on huomattu, että hallituslaisena toimiminen jostain syystä parantaa tanssiosaamista huimasti!
 
 Seuraavan vuoden hallitus valitaan aina syyskokouksen aikana. Jos on kiinnostusta hallitukseen liittymisestä, kannattaa käydä nykyisen puheenjohtajan puheilla.
 
