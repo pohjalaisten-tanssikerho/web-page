@@ -41,7 +41,7 @@
     <th></th>
     {{ range $courses }}
     {{ $t := time .date }}
-    <th>{{ $t.Day }}.{{ printf "%d" $t.Month }}.</th>
+    <th class="date-courses">{{ $t.Day }}.{{ printf "%d" $t.Month }}.</th>
     {{ end }}
   </tr>
   <tr>

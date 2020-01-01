@@ -242,11 +242,15 @@ hr {
       min-width: 48px;
     }
   }
-  .date {
+  .date-event {
     font-size: 23px;
     font-weight: bold;
     margin-right: 1em;
     display: block;
+  }
+  .date-courses {
+    font-weight: bold;
+    font-size: 14px;
   }
   align-items: center;
 }

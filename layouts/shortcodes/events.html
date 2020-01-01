@@ -6,7 +6,7 @@
   <ul>
     {{ range first 3 (sort (where .Site.Data.events ".date" "ge" (now.Format "2006-01-02")) ".date" "asec") }}
     {{ $t := time .date }}
-    <li><span class="date">{{ $t.Day }}.{{ printf "%d" $t.Month }}.</span><span class="name">{{ .name }}</span></li>
+    <li><span class="date-event">{{ $t.Day }}.{{ printf "%d" $t.Month }}.</span><span class="name">{{ .name }}</span></li>
     {{ end }}
   </ul>
 </div>
