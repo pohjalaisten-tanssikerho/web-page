@@ -20,7 +20,7 @@ Opettajina toimivat tanssiopettajat Kimmo Luukkonen ja Marianne Krause.
 
 Ota rohkeasti yhteyttä tai tule kokeilemaan kursseille!
 
-{{< figure src="http://pohjalaiset.fi/wp-content/uploads/2016/07/pv-suomi-logo-01.jpg" >}}
+<!-- {{< figure src="http://pohjalaiset.fi/wp-content/uploads/2016/07/pv-suomi-logo-01.jpg" >}} -->
 
 Osakunnan mainos.
 
