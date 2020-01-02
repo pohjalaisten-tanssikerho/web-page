@@ -1,7 +1,7 @@
 ---
-title: "Alkeiset parin vaihdoilla"
+title: "Alkeet parin vaihdoilla"
 date: 2019-12-17T13:20:11+02:00
-description: "Tälle kurssille et tarvitse paria. Sosiaalitanssia ja uusiin ihmisiin tutustumista parhaimmillaan."
+description: "Tälle kurssille et tarvitse omaa paria. Sosiaalitanssia ja uusiin ihmisiin tutustumista parhaimmillaan."
 categories: ["kurssi"]
 categories_weight: 2
 ---
