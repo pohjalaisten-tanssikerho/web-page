@@ -11,11 +11,9 @@ jumbotronDescription: "Opetusta, bileitä ja ekskursioita. Pohjalaisten tanssike
 {{< /wideContent  >}}
 
 # Paritanssin huumaa pohjalaismielisille opiskelijoille!
-Paritanssi on hauska, sosiaalinen ja liikunnallinen harrastus, jossa viihtyy jokainen. Tanssi on aina ollut osa kulttuuria ja historiaa, ja täten myös sivistystä. Jokainen törmää paritansseihin viimeistään elämänsä kohokohdissa, joista tunnetuimmat lienevät häiden valssit ja lukion vanhojen tanssit. Kansantanssijoihinkin saattaa törmätä keskustan Helsingissä ja välimeren lomakohteilla salsa on tuttu näky.
+Paritanssi on hauska, sosiaalinen ja liikunnallinen harrastus, jossa viihtyy jokainen. Tanssi on aina ollut osa kulttuuria ja historiaa, ja täten myös sivistystä. Jokainen törmää paritansseihin viimeistään elämänsä kohokohdissa, joista tunnetuimmat lienevät häiden valssit ja lukion vanhojen tanssit. Kansantanssijoihinkin saattaa törmätä Helsingin keskustassa ja välimeren lomakohteilla salsa on tuttu näky.
 
 Tanssiharrastus on erinomainen harrastus, koska siinä yhdistyy monia asioita mielenkiintoiseksi kokonaisuudeksi. Paritanssissa musiikki ja liike kietoituvat yhteen samalla, kun kokemus jaetaan tanssiparin kanssa. Laji ja musiikki luovat tunnetilan: tangossa on draamaa, fuskussa leikillisyyttä, buggissa vauhtia, valssissa arvokkuutta, bachatassa herkkyyttä ja sensuaalisuutta jne. Varmasti jokaiselle löytyy oma suosikki!
-
-Lavatansseissa on erittäin helppoa ja vaivatonta tutustua uusiin ihmisiin. Moni onkin löytänyt elämän kumppaninsa lavoilta (jos sillä tiellä ollaan!). Sosiaalisuus on monille yksi isoimmista motiiveista aloittaa tanssin harrastus. Muita hyviä syitä on rakkaus musiikkiin ja liikuntaan. Tanssiessa motoriikka kehittyy lähes huomaamatta, ja aika tuntuu kulkevan nopeammin.
 
 Suomalainen lavatanssi on erittäin lajirikas. Saman illan aikana voi olla helpostikin kymmenen eri lajia. Lajien moninaisuus on rikkautta ja se tuo tanssiin mielenkiintoa sekä tunnetilojen vaihtelevuutta. Pohjalaisten tanssikerho opettaa kaikkia yleisimpiä tanssilajeja, joita suomalaisilla lavoilla tanssitaan. Tanssikerhossa opettavat ammattiopettajat monien vuosien kokemuksella. Opettajat ja Pohjalaisten tanssikerhon lämmin henkinen yhteisö auttavat ja ovat tukena tanssikulttuuriin tutustumisessa.
 
