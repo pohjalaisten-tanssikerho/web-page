@@ -5,10 +5,10 @@
 <tr>
   {{ $t := time .date }}
   <th class="date">{{ $t.Day }}.{{ printf "%d" $t.Month }}</th>
-  {{ if eq $show "alkeiset" }}
+  {{ if eq $show "alkeet" }}
   <th>{{ .alkeiset }}</th>
   {{ end }}
-  {{ if eq $show "alkeisetOma" }}
+  {{ if eq $show "alkeetOma" }}
   <th>{{ .alkeisetOma }}</th>
   {{ end }}
   {{ if eq $show "alkeisjatko" }}
