@@ -30,5 +30,5 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 {{< center >}}
 {{< figure class="logo" alt="Vasa Nation osakunnan vaakuna" link="http://vasa.nation.fi" src="/img/logo/vn.png" width="220px" height="220" >}}
 {{< figure class="logo" alt="Pohjois-Pohjalaisen osakunnan vaakuna" link="http://pohjoispohjalaiset.fi" src="/img/logo/ppo.png" width="220px" height="220" >}}
-{{< figure class="logo" alt="Etelä-Pohjalaisen osakunnan vaakuna" link="http://epo.osakunta.fi" src="/img/logo/epo.png" width="220px" height="220" >}}
+{{< figure class="logo" alt="Etelä-Pohjalaisen osakunnan vaakuna" link="http://epo.osakunta.fi" src="/img/logo/epoWithShadow.png" width="220px" height="220" >}}
 {{</ center >}}
