@@ -25,6 +25,7 @@ Jokainen on tervetullut kerhoon. Nähdään lavoilla!
 
 # Pohjalaisten valtuuskunta
 {{< figure alt="Pohjalaisten Valtuuskunta" link="http://pohjalaiset.fi" src="/img/logo/pv.jpg" >}}
+
 Pohjalaisten tanssikerho on pohjalaisosakuntien (EPO), (PPO) ja (VN) alainen kerho. Toimintamme koostuu lukukauden pituisista paritanssikursseista, paritanssibileistä ja lyhyemmistä tiiviskursseista. 
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
