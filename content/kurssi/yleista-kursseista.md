@@ -17,5 +17,7 @@ Lyhyistä tiiviskursseista saat lisätietoa tapahtumat-sivultamme tai Facebookis
 ## Hinnasto
 {{< prices >}}
 
+\* Osakuntalaisuudella tarkoitetaan seuraavia osakunnan jäseniä: [Vasa Nation](http://vasa.nation.fi) (VN), [Pohjois-Pohjalanen osakunta](http://pohjoispohjalaiset.fi) (PPO) ja [Etelä-Pohjalainen osakunta](http://epo.osakunta.fi) (EPO). Lisäksi osakunnan jäsenen on oltava kirjoilla Helsingin yliopistossa tai Aalto-yliopistossa, jotta on oikeutettu alennettuun hintaan.
+
 ## Kurssiaikataulu ja lajit
 {{< courses all >}}

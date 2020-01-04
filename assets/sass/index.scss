@@ -42,9 +42,6 @@ hr {
   color: $default-text-color;
   border-collapse: collapse;
   border-style: hidden;
-  th:not(:first-child) {
-    min-width: 110px;
-  }
   tr {
     text-align: center;
     th { 
@@ -61,6 +58,9 @@ hr {
       font-weight: normal;
       font-size: 14px;
     }
+    .dark-background {
+      background-color: #f0f0f0;
+    }
   }
   .date {
     text-align: right;
@@ -69,10 +69,16 @@ hr {
 
 .course-table {
   @extend %table-data;
+  th:not(:first-child) {
+    min-width: 110px;
+  }
 }
 
 .price-table {
   @extend %table-data;
+  th:not(:first-child) {
+    min-width: 100px;
+  }
 }
 
 .header {

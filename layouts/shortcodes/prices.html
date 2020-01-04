@@ -1,16 +1,16 @@
-<table class="course-table">
+<table class="price-table">
   <tr>
     <th colspan="2"></th>
     <th>Alkeet</th>
-    <th>Alkeet oma pari</th>
+    <th>Alkeet <br> oma pari</th>
     <th>Alkeisjatko</th>
     <th>Jatko</th>
   </tr>
   <tr>
-    <th rowspan="2">osakuntalainen</th>
-    <td>hinta</td>
+    <th rowspan="2"> * VN <br> PPO <br> EPO</th>
+    <td class="dark-background">hinta</td>
     {{ range .Site.Data.prices.osakuntalainen }}
-    <td>{{ .price }}</td>
+    <td class="dark-background">{{ .price }}</td>
     {{ end }}
   </tr>
   <tr>
@@ -21,9 +21,9 @@
   </tr>
   <tr>
     <th rowspan="2">opiskelija</th>
-    <td>hinta</td>
+    <td class="dark-background">hinta</td>
     {{ range .Site.Data.prices.opiskelija }}
-    <td>{{ .price }}</td>
+    <td class="dark-background">{{ .price }}</td>
     {{ end }}
   </tr>
   <tr>
@@ -34,9 +34,9 @@
   </tr>
   <tr>
     <th rowspan="2">muut</th>
-    <td>hinta</td>
+    <td class="dark-background">hinta</td>
     {{ range .Site.Data.prices.muut }}
-    <td>{{ .price }}</td>
+    <td class="dark-background">{{ .price }}</td>
     {{ end }}
   </tr>
   <tr>
