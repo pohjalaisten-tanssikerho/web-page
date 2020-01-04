@@ -14,8 +14,16 @@ Lyhyistä tiiviskursseista saat lisätietoa tapahtumat-sivultamme tai Facebookis
 
 [Täytä kurssi-ilmoittautuminen]({{% signin %}}) ja tule kursseille!
 
-## Hinnasto
+## Hinnasto ja maksaminen
+Maksu tapahtuu tilisiirrolla seuraavaan osoitteeseen:
+
+{{% bank %}}
+
+Muista käyttää viitettä!
+
 {{< prices >}}
+
+Ota talteen kuitti ja pidä se mukana kursseilla, kunnes maksut on tarkistettu.
 
 \* Osakuntalaisuudella tarkoitetaan seuraavia osakunnan jäseniä: [Vasa Nation](http://vasa.nation.fi) (VN), [Pohjois-Pohjalanen osakunta](http://pohjoispohjalaiset.fi) (PPO) ja [Etelä-Pohjalainen osakunta](http://epo.osakunta.fi) (EPO). Lisäksi osakunnan jäsenen on oltava kirjoilla Helsingin yliopistossa tai Aalto-yliopistossa, jotta on oikeutettu alennettuun hintaan.
 
