@@ -24,9 +24,19 @@ Jokainen on tervetullut kerhoon. Nähdään lavoilla!
 # Pohjalaisten valtuuskunta
 {{< figure alt="Pohjalaisten Valtuuskunta" link="http://pohjalaiset.fi" src="/img/logo/pv.jpg" >}}
 
-Pohjalaisten tanssikerho on pohjalaisosakuntien (EPO), (PPO) ja (VN) alainen kerho. Toimintamme koostuu lukukauden pituisista paritanssikursseista, paritanssibileistä ja lyhyemmistä tiiviskursseista. 
+Pohjalaisten tanssikerho ry on itsenäinen voittoa tavoittelematon yhdistys, jonka juuret ovat Pohjalaisissa osakunnissa. Idea tanssikerhon perustamiselle on siis kolmen eri osakunnan yhteinen ajatus, ja vuonna 2004 Tanssikerho rekisteröityi yhdistykseksi. Tanssikerho on olemassa osakuntia ja opiskelijoita varten, ja tekee yhteistyötä Pohjalaisten valtuuskunnan kanssa.
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Pohjalaisten valtuuskunta on yhteistyöelin seuraaville osakunnille:
+
+  - [Vasa Nation](http://vasa.nation.fi) (VN)
+  - [Pohjois-Pohjalanen osakunta](http://pohjoispohjalaiset.fi) (PPO)
+  - [Etelä-Pohjalainen osakunta](http://epo.osakunta.fi) (EPO)
+
+Osakunnat ovat Helsingin yliopisssa toimivia poikkitieteellisiä opiskelijayhdistyksiä, jotka perinteisesti keräävät jäseniään syntymäpaikkansa mukaan. Nykyään jäsenten taustoilla ei ole suurtakaan merkitystä, mutta edelleen osakunnilla on toisistaan eroava oma kulttuurinsa ja tunnelmansa. Osakunta on loistava paikka tutustua oman syntyseutunsa opiskelijoihin.
+
+Osakunnat ovat ensimmäisiä opiskelijajärjestöjä Suomessa. Osakunnat ovat myös suuria: ne omistavat kiinteistöjä, jotka ovat opiskelijoiden käytettävissä. On osuvasti sanottu, että osakunta on opiskelijan olohuone keskellä Helsinkiä. Osakuntien tarkoitus on kehittää opiskelijoiden hyvinvointia mm. harrastusten kautta.
+
+Tanssikerho suosittelee kaikkia tanssikerhon jäseniä liittymään osakuntiin! Mukavan opiskelijaelämän lisäksi osakunta tarjoaa opiskelijoille aitoja opiskelijaetuisuuksia. Osakuntalaiselle (VN, PPO, EPO) opiskelijalle tanssikerho tarjoaa kursseja alennettuun hintaan.
 
 {{< center >}}
 {{< figure class="logo" alt="Vasa Nation osakunnan vaakuna" link="http://vasa.nation.fi" src="/img/logo/vn.png" width="220px" height="220" >}}
