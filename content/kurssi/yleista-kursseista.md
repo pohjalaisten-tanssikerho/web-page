@@ -12,5 +12,8 @@ Kaikkia kurssilaisia kehotetaan liittymään tanssikerhon sähköpostilistalle t
 
 Lyhyistä tiiviskursseista saat lisätietoa tapahtumat-sivultamme tai Facebookista.
 
+## Hinnasto
+{{< prices >}}
+
 ## Kurssiaikataulu ja lajit
 {{< courses all >}}

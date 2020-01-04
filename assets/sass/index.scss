@@ -38,17 +38,23 @@ hr {
   text-align: center;
 }
 
-.course-table {
+%table-data {
   color: $default-text-color;
-  margin-top: 30px;
   border-collapse: collapse;
   border-style: hidden;
-  margin: 0 auto;
   th:not(:first-child) {
     min-width: 110px;
   }
   tr {
+    text-align: center;
     th { 
+      height: 30px;
+      border: 2px solid #d0d0d0;
+      padding: 4px;
+      font-weight: normal;
+      font-size: 14px;
+    }
+    td { 
       height: 30px;
       border: 2px solid #d0d0d0;
       padding: 4px;
@@ -59,6 +65,14 @@ hr {
   .date {
     text-align: right;
   }
+}
+
+.course-table {
+  @extend %table-data;
+}
+
+.price-table {
+  @extend %table-data;
 }
 
 .header {
@@ -137,7 +151,7 @@ hr {
 
 .content {
   margin: 15px 0;
-  h1, h2, h3, h4, h5, h6, p, pre {
+  h1, h2, h3, h4, h5, h6, p, pre, ul {
     max-width: $text-width;
     padding: 0 16px;
     margin: 0 auto;
@@ -154,6 +168,14 @@ hr {
   pre {
     padding: 1.1em 1em;
     border: dotted 1px darkgray;
+  }
+  ul {
+    margin-top: .8em;
+    margin-bottom: .8em;
+    list-style-type: none; 
+  }
+  table {
+    margin: 30px auto;
   }
   figure {
     text-align: center;

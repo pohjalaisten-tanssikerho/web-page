@@ -1,0 +1,48 @@
+<table class="course-table">
+  <tr>
+    <th colspan="2"></th>
+    <th>Alkeet</th>
+    <th>Alkeet oma pari</th>
+    <th>Alkeisjatko</th>
+    <th>Jatko</th>
+  </tr>
+  <tr>
+    <th rowspan="2">osakuntalainen</th>
+    <td>hinta</td>
+    {{ range .Site.Data.prices.osakuntalainen }}
+    <td>{{ .price }}</td>
+    {{ end }}
+  </tr>
+  <tr>
+    <td>viite</td>
+    {{ range .Site.Data.prices.osakuntalainen }}
+    <td>{{ .ref }}</td>
+    {{ end }}
+  </tr>
+  <tr>
+    <th rowspan="2">opiskelija</th>
+    <td>hinta</td>
+    {{ range .Site.Data.prices.opiskelija }}
+    <td>{{ .price }}</td>
+    {{ end }}
+  </tr>
+  <tr>
+    <td>viite</td>
+    {{ range .Site.Data.prices.opiskelija }}
+    <td>{{ .ref }}</td>
+    {{ end }}
+  </tr>
+  <tr>
+    <th rowspan="2">muut</th>
+    <td>hinta</td>
+    {{ range .Site.Data.prices.muut }}
+    <td>{{ .price }}</td>
+    {{ end }}
+  </tr>
+  <tr>
+    <td>viite</td>
+    {{ range .Site.Data.prices.muut }}
+    <td>{{ .ref }}</td>
+    {{ end }}
+  </tr>
+</table>
