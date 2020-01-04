@@ -27,16 +27,17 @@ Sisältö löytyy `content` kansion sisältä, mutta tietokantamainen sisältö 
 Lista tietokannoista:
 
   - [board.json](https://github.com/pohjalaisten-tanssikerho/web-page/blob/master/data/board.json) - hallituksen jäsenet
-  - [oldBoard.json](https://github.com/pohjalaisten-tanssikerho/web-page/blob/master/data/oldBoard.json) - aikaisemmat hallituksen jäsenet
-  - [events.json](https://github.com/pohjalaisten-tanssikerho/web-page/blob/master/data/events.json) - tapahtumat, esim. tanssibileet HUOM, tämän formaatti ei ole vielä ihan valmis!
+  - [oldBoard.json](https://github.com/pohjalaisten-tanssikerho/web-page/blob/master/data/oldBoard.json) - edeltävät hallituksen jäsenet
+  - [events.json](https://github.com/pohjalaisten-tanssikerho/web-page/blob/master/data/events.json) - tapahtumat ja tiedotteet
   - [courses.json](https://github.com/pohjalaisten-tanssikerho/web-page/blob/master/data/courses.json) - kurssiajat ja lajit
+  - [prices/](https://github.com/pohjalaisten-tanssikerho/web-page/blob/master/data/prices) - kurssien hinnat omissa tiedostoissa
 
-On erityisen tärkeää, että päivämääriä muokattaessa pidetään aikaformaattia muodossa `YYYY-MM-DD`. Näin kone ymmärtää tapahtumien keskinäisen suhteen, eli mitkä ovat ennen toisia.
+On erityisen tärkeää, että päivämääriä muokattaessa pidetään aikaformaatti muodossa `YYYY-MM-DD`. Näin kone ymmärtää tapahtumien keskinäisen suhteen, eli mitkä ovat ennen toisia.
 
 ### Yleiset useassa kohtaa sivua esiintyvät tiedot
 Yleisesti esiintyvät tiedot löytyvät projektin juurella olevassta tiedostosta [config.yaml](https://github.com/pohjalaisten-tanssikerho/web-page/blob/master/config.yaml) kohdasta params. Tästä tiedostosta löytyvät seuraavat:
 
-  - `courseRegistration` - kurssi ilmoittautumislinkki
+  - `signin` - ilmoittautumislinkki
   - `bank` - pankkitiedot
 
 Tiedosto `config.yaml` on kirjoitettu yaml:lla, jonka syntaksi on myös aika helppo.
