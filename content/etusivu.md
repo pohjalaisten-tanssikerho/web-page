@@ -32,7 +32,7 @@ Pohjalaisten valtuuskunta on yhteistyöelin seuraaville osakunnille:
   - [Pohjois-Pohjalanen osakunta](http://pohjoispohjalaiset.fi) (PPO)
   - [Etelä-Pohjalainen osakunta](http://epo.osakunta.fi) (EPO)
 
-Osakunnat ovat Helsingin yliopisssa toimivia poikkitieteellisiä opiskelijayhdistyksiä, jotka perinteisesti keräävät jäseniään syntymäpaikkansa mukaan. Nykyään jäsenten taustoilla ei ole suurtakaan merkitystä, mutta edelleen osakunnilla on toisistaan eroava oma kulttuurinsa ja tunnelmansa. Osakunta on loistava paikka tutustua oman syntyseutunsa opiskelijoihin.
+Osakunnat ovat Helsingin yliopisssa toimivia poikkitieteellisiä opiskelijayhdistyksiä, jotka perinteisesti keräävät jäseniään syntymäpaikkansa mukaan. Nykyään jäsenten taustoilla ei ole suurtakaan merkitystä, mutta edelleen osakunnilla on toisistaan eroava kulttuuri ja tunnelma. Osakunta on loistava paikka tutustua oman syntyseutunsa opiskelijoihin.
 
 Osakunnat ovat ensimmäisiä opiskelijajärjestöjä Suomessa. Osakunnat ovat myös suuria: ne omistavat kiinteistöjä, jotka ovat opiskelijoiden käytettävissä. On osuvasti sanottu, että osakunta on opiskelijan olohuone keskellä Helsinkiä. Osakuntien tarkoitus on kehittää opiskelijoiden hyvinvointia mm. harrastusten kautta.
 
