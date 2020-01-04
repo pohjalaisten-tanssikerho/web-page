@@ -1,0 +1,22 @@
+[
+  {
+    "name": "alkeet",
+    "price": "40€",
+    "ref": "1119"
+  },
+  {
+    "name": "alkeetOma",
+    "price": "40€",
+    "ref": "1122"
+  },
+  {
+    "name": "alkeisjatko",
+    "price": "60€",
+    "ref": "1135"
+  },
+  {
+    "name": "jatko",
+    "price": "60€",
+    "ref": "1148"
+  }
+]

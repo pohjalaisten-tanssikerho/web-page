@@ -1,0 +1,22 @@
+[
+  {
+    "name": "alkeet",
+    "price": "80€",
+    "ref": "1915"
+  },
+  {
+    "name": "alkeetOma",
+    "price": "80$",
+    "ref": "1928"
+  },
+  {
+    "name": "alkeisjatko",
+    "price": "90€",
+    "ref": "1931"
+  },
+  {
+    "name": "jatko",
+    "price": "90€",
+    "ref": "1944"
+  }
+]
