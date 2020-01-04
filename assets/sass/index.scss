@@ -186,6 +186,16 @@ hr {
     display: inline-block;
     margin: 1.6em 1em;
   }
+  .date-event {
+    font-size: 23px;
+    font-weight: bold;
+    margin-right: .7em;
+    display: inline;
+  }
+  .title-event {
+    font-size: 18px;
+    font-weight: bold;
+  }
 }
 
 .board {
@@ -263,8 +273,13 @@ hr {
   .date-event {
     font-size: 23px;
     font-weight: bold;
-    margin-right: 1em;
-    display: block;
+    margin-right: .7em;
+    display: inline;
+  }
+  .title-event {
+    font-size: 18px;
+    font-weight: bold;
+    // display: inline;
   }
   .date-courses {
     font-weight: bold;
@@ -275,6 +290,7 @@ hr {
 
 .wide-content {
   display: flex;
+  align-items: end;
   @media only screen and (max-width: 830px) {
     flex-direction: column;
   }

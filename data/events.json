@@ -1,33 +1,9 @@
 [
   {
-    "name": "HOT tanssibileet",
-    "description": "description",
-    "date": "2020-12-27",
+    "title": "Tanssikurssit alkavat",
+    "description": "Kevään kurssit alkavat tiistaina 14.1.! Käy katsomassa [kurssitarjontamme](/kurssi/yleista-kursseista) ja [ilmoittaudu kursseille](https://docs.google.com/forms/d/e/1FAIpQLScvIIl5l7a7bnPIYUmLxaijReK-bgoOt8C44nhTOxInNASBGg/viewform?usp=sf_link).",
+    "date": "2020-01-14",
     "startTime": "19:00",
     "endTime":"22:00"
-  },
-  {
-    "name": "HOT tanssibileet",
-    "description": "description",
-    "adderss": "address txt",
-    "date": "2020-11-20",
-    "startTime": "19:00",
-    "endTime":"20:00"
-  },
-  {
-    "name": "HOT tanssibileet",
-    "description": "description",
-    "adderss": "address txt",
-    "date": "2020-10-22",
-    "startTime": "19:00",
-    "endTime":"20:00"
-  },
-  {
-    "name": "HOT tanssibileet",
-    "description": "description",
-    "adderss": "address txt",
-    "date": "2020-09-01",
-    "startTime": "19:00",
-    "endTime":"20:00"
   }
 ]
