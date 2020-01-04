@@ -6,7 +6,7 @@ DefaultContentLanguage: "fi"
 languageCode: "fi-fi"
 
 params:
-  courseRegistration: ""
+  signin: "https://docs.google.com/forms/d/e/1FAIpQLScvIIl5l7a7bnPIYUmLxaijReK-bgoOt8C44nhTOxInNASBGg/viewform?usp=sf_link"
   bank:
     name: "Holvi"
     iban: "FI51 7997 7998 0564 23"

@@ -8,5 +8,7 @@ categories_weight: 4
 # Alkeisjatko
 Alkeisjatkokurssille voit osallistua alkeiskurssin käytyäsi tai kun hallitset perusaskeleet. On suositeltavaa osallistua kurssille vuoden ajan ennen jatkokurssille osallistumista.
 
+[Täytä kurssi-ilmoittautuminen]({{% signin %}}) ja tule kursseille!
+
 ## Kurssiaikataulu ja lajit
 {{< course alkeisjatko >}}

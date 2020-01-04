@@ -12,6 +12,8 @@ Kaikkia kurssilaisia kehotetaan liittymään tanssikerhon sähköpostilistalle t
 
 Lyhyistä tiiviskursseista saat lisätietoa tapahtumat-sivultamme tai Facebookista.
 
+[Täytä kurssi-ilmoittautuminen]({{% signin %}}) ja tule kursseille!
+
 ## Hinnasto
 {{< prices >}}
 
