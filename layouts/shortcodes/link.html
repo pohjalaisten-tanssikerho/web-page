@@ -1,0 +1,9 @@
+{{ if eq (.Get 0) "facebook" }}
+{{ .Site.Params.links.facebook }}
+{{ end }}
+{{ if eq (.Get 0) "whatsapp" }}
+{{ .Site.Params.links.whatsapp }}
+{{ end }}
+{{ if eq (.Get 0) "signin" }}
+{{ .Site.Params.links.signin }}
+{{ end }}

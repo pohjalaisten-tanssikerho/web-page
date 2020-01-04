@@ -6,7 +6,10 @@ DefaultContentLanguage: "fi"
 languageCode: "fi-fi"
 
 params:
-  signin: "https://docs.google.com/forms/d/e/1FAIpQLScvIIl5l7a7bnPIYUmLxaijReK-bgoOt8C44nhTOxInNASBGg/viewform?usp=sf_link"
+  links:
+    signin: "https://docs.google.com/forms/d/e/1FAIpQLScvIIl5l7a7bnPIYUmLxaijReK-bgoOt8C44nhTOxInNASBGg/viewform?usp=sf_link"
+    facebook: "https://www.facebook.com/groups/pot.tanssikerho/"
+    whatsapp: "https://chat.whatsapp.com/GW5RsQ8aocE29pmXUCY229"
   bank:
     name: "Holvi"
     iban: "FI51 7997 7998 0564 23"
