@@ -173,6 +173,8 @@ hr {
   }
   h1, h2, h3, h4, h5, h6 {
     padding-bottom: 14px;
+    text-decoration: underline;
+    text-decoration-color: $box-bg;
   }
   h1 {
     text-decoration: underline solid $content-text-strong;
@@ -186,6 +188,7 @@ hr {
   }
   a {
     color: $content-link;
+    text-shadow: 2px 2px $box-bg;
     &:hover {
       color: $content-link-active;
     }
@@ -197,6 +200,7 @@ hr {
     padding: 1.1em 1em;
     margin-bottom: .7em;
     border: dotted 1px darkgray;
+    background-color: $bg-opacity-half;
   }
   ul {
     margin-top: .8em;
@@ -351,7 +355,7 @@ hr {
     margin-bottom: .8em;
   }
   div {
-    background-color: #0b3c5d;
+    background-color: $box-bg;
     border-radius: 4px;
     padding: 1em;
     width: 400px;
