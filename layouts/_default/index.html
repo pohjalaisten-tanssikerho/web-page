@@ -1,20 +1,12 @@
 {{ define "header" }}
 {{ end }}
-{{ define "jumbotron" }}
-    <div class="jumbotron">
-      <div class="overview">
-        <h1>Pohjalaisten tanssikerho</h1>
-        <p class="jumbotron-description">
-        {{ with .Site.GetPage "/etusivu.md" }}
-        <p>{{ .Params.jumbotronDescription }}</p>
-        {{ end }}
-        </p>
-      </div>
-    </div>
-{{ end }}
 
 {{ define "main" }}
-{{ with .Site.GetPage "/etusivu.md" }}{{ .Content }}{{ end }}
+{{ with .Site.GetPage "/etusivu.md" }}
+<h1 class="main-header">{{ .Title }}</h1>
+<p><em>{{ .Description }}</em></p>
+{{ .Content }}
+{{ end }}
 {{ end }}
 
 {{ define "footer" }}

@@ -1,8 +1,8 @@
 ---
-title: "Etusivu"
+title: "Pohjalaisten tanssikerho"
 date: 2019-06-07T20:41:06+03:00
 categories: ["etusivu"]
-jumbotronDescription: "Opetusta, bileitä ja ekskursioita. Pohjalaisten tanssikerho tuo opiskelijan elämään tanssin iloa."
+description: "Opetusta, bileitä ja ekskursioita. Pohjalaisten tanssikerho tuo opiskelijan elämään tanssin iloa."
 ---
 
 {{< wideContent class="frontpage">}}
@@ -10,7 +10,8 @@ jumbotronDescription: "Opetusta, bileitä ja ekskursioita. Pohjalaisten tanssike
 {{< events >}}
 {{< /wideContent  >}}
 
-# Paritanssin huumaa pohjalaismielisille opiskelijoille!
+## Paritanssin huumaa pohjalaismielisille opiskelijoille!
+
 Paritanssi on hauska, sosiaalinen ja liikunnallinen harrastus, jossa viihtyy jokainen. Tanssi on aina ollut osa kulttuuria ja historiaa, ja täten myös sivistystä. Jokainen törmää paritansseihin viimeistään elämänsä kohokohdissa, joista tunnetuimmat lienevät häiden valssit ja lukion vanhojen tanssit. Kansantanssijoihinkin saattaa törmätä Helsingin keskustassa ja välimeren lomakohteilla salsa on tuttu näky.
 
 Tanssiharrastus on erinomainen harrastus, koska siinä yhdistyy monia asioita mielenkiintoiseksi kokonaisuudeksi. Paritanssissa musiikki ja liike kietoituvat yhteen samalla, kun kokemus jaetaan tanssiparin kanssa. Laji ja musiikki luovat tunnetilan: tangossa on draamaa, fuskussa leikillisyyttä, buggissa vauhtia, valssissa arvokkuutta, bachatassa herkkyyttä ja sensuaalisuutta jne. Varmasti jokaiselle löytyy oma suosikki!
