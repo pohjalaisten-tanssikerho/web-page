@@ -4,6 +4,8 @@ date: 2019-12-17T11:35:34+02:00
 categories: ["ry"]
 categories_weight: 1
 ---
+# Yhdistyksen säännöt
+
 ## 1. Nimi, kotipaikka ja kielet
 Kerhon nimi on Pohjalaisten tanssikerho ry. Näissä säännöissä siitä käytetään nimitystä kerho.
  
