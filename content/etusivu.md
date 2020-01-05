@@ -23,9 +23,9 @@ Pohjalaisten tanssikerho järjestää lukukauden pituisia tanssikursseja, joissa
 Jokainen on tervetullut kerhoon. Nähdään lavoilla!
 
 # Pohjalaisten valtuuskunta
-{{< figure alt="Pohjalaisten Valtuuskunta" link="http://pohjalaiset.fi" src="/img/logo/pvAlpha.png" >}}
-
 Pohjalaisten tanssikerho ry on itsenäinen voittoa tavoittelematon yhdistys, jonka juuret ovat Pohjalaisissa osakunnissa. Idea tanssikerhon perustamiselle on siis kolmen eri osakunnan yhteinen ajatus, ja vuonna 2004 Tanssikerho rekisteröityi yhdistykseksi. Tanssikerho on olemassa osakuntia ja opiskelijoita varten, ja tekee yhteistyötä Pohjalaisten valtuuskunnan kanssa.
+
+{{< figure alt="Pohjalaisten Valtuuskunta" link="http://pohjalaiset.fi" src="/img/logo/pvAlpha.png" >}}
 
 Pohjalaisten valtuuskunta on yhteistyöelin seuraaville osakunnille:
 
@@ -40,7 +40,7 @@ Osakunnat ovat ensimmäisiä opiskelijajärjestöjä Suomessa. Osakunnat ovat my
 Tanssikerho suosittelee kaikkia tanssikerhon jäseniä liittymään osakuntiin! Mukavan opiskelijaelämän lisäksi osakunta tarjoaa opiskelijoille aitoja opiskelijaetuisuuksia. Osakuntalaiselle (VN, PPO, EPO) opiskelijalle tanssikerho tarjoaa kursseja alennettuun hintaan.
 
 {{< center >}}
-{{< figure class="logo" alt="Vasa Nation osakunnan vaakuna" link="http://vasa.nation.fi" src="/img/logo/vn.png" width="220px" height="220" >}}
-{{< figure class="logo" alt="Pohjois-Pohjalaisen osakunnan vaakuna" link="http://pohjoispohjalaiset.fi" src="/img/logo/ppo.png" width="220px" height="220" >}}
-{{< figure class="logo" alt="Etelä-Pohjalaisen osakunnan vaakuna" link="http://epo.osakunta.fi" src="/img/logo/epoOriginal.png" width="250px" height="220" >}}
+{{< figure class="logo" caption="Vasa Nation" alt="Vasa Nation osakunnan vaakuna" link="http://vasa.nation.fi" src="/img/logo/vn.png" width="220px" height="220" >}}
+{{< figure class="logo" caption="Pohjois-Pohjalainen osakunta" alt="Pohjois-Pohjalaisen osakunnan vaakuna" link="http://pohjoispohjalaiset.fi" src="/img/logo/ppo.png" width="220px" height="220" >}}
+{{< figure class="logo" caption="Etelä-Pohjalainen osakunta" alt="Etelä-Pohjalaisen osakunnan vaakuna" link="http://epo.osakunta.fi" src="/img/logo/epoOriginal.png" width="250px" height="220" >}}
 {{</ center >}}
