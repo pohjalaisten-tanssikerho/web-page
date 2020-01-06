@@ -34,7 +34,6 @@ nav {
     padding: 0;
     li {
       font-size: 14px;
-      text-transform: uppercase;
       @media only screen and (max-width: $header-snap) {
         display: none;
         font-size: 14px;
@@ -69,7 +68,6 @@ nav {
           border-bottom-style: none;
           margin: 0;
         }
-        text-transform: capitalize;
         font-size: 14px;
         margin-bottom: 8px;
         // border-bottom: 1px;
