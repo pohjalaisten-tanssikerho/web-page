@@ -15,13 +15,10 @@
     {{ end }}
     <ul class="previous-roles">
       {{ with .previousroles }}
-      <lh><h4>Aikaisemmat virat</h4></lh>
+      <li><h4>Aikaisemmat virat</h4></li>
       {{ end }}
       {{ range .previousroles }}
-      <li>
-        <span>{{ .year }}</span>
-        <span>{{ .role }}</span>
-      </li>
+      <li><span>{{ .year }}</span> - <span>{{ .role }}</span></li>
       {{ end }}
     </ul>
   </div>
