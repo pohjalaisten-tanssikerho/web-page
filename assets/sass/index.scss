@@ -43,6 +43,10 @@ p {
   color: $white;
 }
 
+h2 {
+  color: $white;
+}
+
 hr {
   border: 1px solid $orange;
   border-radius: 5px;
@@ -413,10 +417,10 @@ nav {
   display: flex;
   flex-direction: row;
   justify-content: center;
-  background: black;
-  color: white;
+  background: $nightblue;
   padding-bottom: 20px;
   flex: 1;
+  border-top: 3px solid $tintblue;
   ul {
     list-style-type: none;
     margin: 10px;
@@ -424,18 +428,19 @@ nav {
     li {
       margin-bottom: 5px;
       font-size: 13px;
-      a:hover {
-        color: #eaeaea;
-      }
-      a, span {
-        color: #aaaaaa;
+      a {
+        color: $white;
+        &:hover {
+          color: $orange;
+        }
       }
     }
   }
   h2 {
     margin: 25px 10px 10px 10px;
     font-size: 19px;
-    color: #eaeaea;
+    border-left: 4px solid $orange;
+    padding-left: .7em;
   }
   .some {
     @media only screen and (max-width: 650px) {
