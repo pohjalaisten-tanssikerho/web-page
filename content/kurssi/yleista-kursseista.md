@@ -12,9 +12,7 @@ Kuhunkin kurssiin sisältyy **14** opetuskertaa.
 
 Kurssimme ovat tarkoitettuja ensisijaisesti opiskelijoille ja Pohjalaisten osakuntien jäsenille. Kursseille voi osallistua myös, vaikka et enää olisikaan opiskelija. Toistaiseksi kaikki halukkaat ovat aina päässeet tanssimaan.
 
-Kaikkia kurssilaisia kehotetaan liittymään tanssikerhon [sähköpostilistalle]({{< ref "/sahkopostilista.md" >}}). Listan kautta tiedotetaan mm. mahdollisista muutoksista kurssien aikatauluihin! Muita kerholaisia ja vapaampaa tanssikeskustelua löydät myös kerhon [Facebook-]({{< link facebook >}}) ja [Whatsapp-ryhmästä]({{< link whatsapp >}}).
-
-Lyhyistä tiiviskursseista saat lisätietoa tapahtumat-sivultamme tai Facebookista.
+Kaikkia kurssilaisia kehotetaan liittymään tanssikerhon [sähköpostilistalle]({{< ref "/sahkopostilista.md" >}}). Listan kautta tiedotetaan mm. mahdollisista muutoksista kurssien aikatauluihin! Muita kerholaisia ja vapaampaa tanssikeskustelua löydät myös kerhon [Facebook-]({{< link facebook >}}) ja [Whatsapp-ryhmästä]({{< link whatsapp >}}). Kannattaa käydä katsomassa myös [tapahtumat-sivua]({{< ref "/tapahtumat.md" >}}).
 
 [Täytä kurssi-ilmoittautuminen]({{< link signin >}}) ja tule kursseille!
 
@@ -33,3 +31,5 @@ Ota talteen kuitti ja pidä se mukana kursseilla, kunnes maksut on tarkistettu.
 
 ## Kurssiaikataulu ja lajit
 {{< courses all >}}
+
+Tanssikerholla opetettavista lajeista lisää [omilta sivuilta]({{< ref "/blogi/tanssilajit.md" >}}).
