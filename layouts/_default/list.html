@@ -1,7 +1,10 @@
 {{ define "main" }}
+
+<div class="list">
 {{ range .Pages.ByParam "categories_weight" }}
 <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
 <p>{{ .Description }}</p>
-<hr>
 {{ end }}
+</div>
+
 {{ end }}
