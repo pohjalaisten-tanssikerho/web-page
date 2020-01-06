@@ -280,6 +280,14 @@ nav {
     font-size: 18px;
     font-weight: bold;
   }
+  .list {
+    h3 {
+      font-size: 16px;
+      font-weight: none;
+      text-decoration: none;
+      padding-bottom: .1em;
+    }
+  }
 }
 
 .board {
@@ -289,6 +297,7 @@ nav {
   justify-items: center;
   max-width: 1030px;
   margin: 18px auto;
+  grid-row-gap: 1.2em;
   @media only screen and (max-width: 985px) {
     grid-template-columns: repeat(2, auto);
     grid-template-rows: repeat(4);
@@ -298,11 +307,19 @@ nav {
     grid-template-columns: repeat(1, auto);
     grid-template-rows: repeat(8);
   }
-  // grid-gap: 40px;
+  grid-gap-row: 40px;
   margin-bottom: 26px;
   .item {
+    @media only screen and (max-width: 985px) {
+      height: auto;
+    }
+    background-color: $nightblue;
+    border-radius: 2px;
+    border: 2px solid $lightblue;
     align-self: start;
     width: 214px;
+    height: 190px;
+    padding: .8em 0;
     .center {
       text-align: center;
       .role {
@@ -316,7 +333,7 @@ nav {
     .borders {
       margin: 14px;
       padding: 4px 0;
-      border: 2px solid #c1c1c1;
+      border: 2px solid $orange;
       border-right: none;
       border-left: none;
       .description {
@@ -326,7 +343,8 @@ nav {
     ul {
       font-size: 12px;
       h4 {
-        margin-bottom: 6px;
+        margin: 0;
+        padding-bottom: 6px;
         margin-left: -15px;
       }
     }

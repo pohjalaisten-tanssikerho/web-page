@@ -2,7 +2,7 @@
   {
     "firstname": "Selina",
     "lastname": "Virtanen",
-    "description": "description foo",
+    "description": "Rouva puheenjohtaja!",
     "picture": "",
     "role": "puheenjohtaja",
     "previousroles": [
@@ -40,7 +40,7 @@
   {
     "firstname": "Niina",
     "lastname": "Kajovuori",
-    "description": "01010011 01110101 01110000 01100101 01110010 01101110 11000011 10110110 01110010 01110100 01110100 01101001 00101110",
+    "description": "Supernörtti",
     "picture": "",
     "role": "sihteeri",
     "mail": "niina.kajovuori@gmail.com"
