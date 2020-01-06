@@ -2,6 +2,7 @@
 title: "Tanssilajit"
 date: 2020-01-04T11:14:34+02:00
 categories: ["blogi"]
+description: "Lyhyt esittely tanssilajeista, mitä Pohjalaisten tanssikerho opettaa."
 ---
 # Tanssilajit
 

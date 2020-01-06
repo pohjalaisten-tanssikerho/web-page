@@ -2,6 +2,7 @@
 title: "Lavaetiketti"
 date: 2019-12-19T12:07:06+02:00
 categories: ["blogi"]
+description: "Lavoilla on syytä osata käyttäytymissääntöjä, jotta kaikki voivat viihtyä."
 ---
 # Lavaetiketti
 Lavaetiketin perustana on kohteliaisuus, joka pätee kaikissa lavatanssipiireissä riippumatta siitä, onko sekahaku vai ei. Pohjalaisten tanssikerhon, Hämäläis-Osakunnan tanssikerhon ja Viikin tanssibileissä on aina sekahaku. Joillakin lavoilla naisten ja miesten haku on erikseen, eli vuorot vaihtuvat tietyn väliajoin. 
