@@ -6,23 +6,23 @@
   {{ $t := time .date }}
   <th class="date">{{ $t.Day }}.{{ printf "%d" $t.Month }}</th>
   {{ if eq $show "alkeet" }}
-  <th>{{ .alkeiset }}</th>
+  <td>{{ .alkeiset }}</td>
   {{ end }}
   {{ if eq $show "alkeetOma" }}
-  <th>{{ .alkeisetOma }}</th>
+  <td>{{ .alkeisetOma }}</td>
   {{ end }}
   {{ if eq $show "alkeisjatko" }}
-  <th>{{ .alkeisjatko }}</th>
+  <td>{{ .alkeisjatko }}</td>
   {{ end }}
   {{ if eq $show "jatko" }}
-  <th>{{ .jatko }}</th>
+  <td>{{ .jatko }}</td>
   {{ end }}
 </tr>
 {{ else }}
 <tr>
   {{ $t := time .date }}
   <th>{{ $t.Day }}.{{ printf "%d" $t.Month }}</th>
-  <th>{{ .message }}</th>
+  <td>{{ .message }}</td>
 </tr>
 {{ end }}
 {{ end }}

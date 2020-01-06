@@ -12,16 +12,16 @@
   <tr>
     {{ $t := time .date }}
     <th class="date">{{ $t.Day }}.{{ printf "%d" $t.Month }}</th>
-    <th>{{ .alkeiset }}</th>
-    <th>{{ .alkeisetOma }}</th>
-    <th>{{ .alkeisjatko }}</th>
-    <th>{{ .jatko }}</th>
+    <td>{{ .alkeiset }}</td>
+    <td>{{ .alkeisetOma }}</td>
+    <td>{{ .alkeisjatko }}</td>
+    <td>{{ .jatko }}</td>
   </tr>
   {{ else }}
   <tr>
     {{ $t := time .date }}
     <th>{{ $t.Day }}.{{ printf "%d" $t.Month }}</th>
-    <th colspan="4">{{ .message }}</th>
+    <td colspan="4">{{ .message }}</td>
   </tr>
   {{ end }}
   {{ end }}
@@ -47,25 +47,25 @@
   <tr>
     <th>Alkeiset</th>
     {{ range $courses }}
-    <th class="trigger">{{ .alkeiset }}</th>
+    <td class="trigger">{{ .alkeiset }}</td>
     {{ end }}
   </tr>
   <tr>
     <th>Alkeiset <br> oma pari</th>
     {{ range $courses }}
-    <th class="trigger">{{ .alkeisetOma }}</th>
+    <td class="trigger">{{ .alkeisetOma }}</td>
     {{ end }}
   </tr>
   <tr>
     <th>Alkeisjatko</th>
     {{ range $courses }}
-    <th>{{ .alkeisjatko }}</th>
+    <td>{{ .alkeisjatko }}</td>
     {{ end }}
   </tr>
   <tr>
     <th>Jatko</th>
     {{ range $courses }}
-    <th>{{ .jatko }}</th>
+    <td>{{ .jatko }}</td>
     {{ end }}
   </tr>
 </table>
