@@ -2,14 +2,16 @@
 
 $text-width: 560px;
 $default-margin: 35px;
-$default-text-color: #e9f3ff;
-$content-link: #009fff;
-$content-link-active: #fb9039;
-$content-text-strong: #fb9039;
-$bg-opacity-half: #00000047;
-$box-bg: #0b3c5d;
-
 $header-snap: 460px;
+
+$white: #e9f3ff;
+$neonblue: #009fff;
+$orange: #fb9039;
+$blue: #062f4f;
+$lightblue: #0b3c5d;
+
+$opacity-half: #00000047;
+
 
 body {
   margin: 0;
@@ -17,7 +19,8 @@ body {
   display: flex;
   flex-direction: column;
   font-family: "Noto Sans", "Noto Sans JP", "Meiryo", "sans-serif";
-  color: $default-text-color;
+  color: $white;
+  background-color: $blue;
 }
 
 a {
@@ -31,11 +34,11 @@ a {
 p {
   font-size: 15px;
   line-height: 1.6em;
-  color: $default-text-color;
+  color: $white;
 }
 
 hr {
-  border: 1px solid $content-text-strong;
+  border: 1px solid $orange;
   border-radius: 5px;
   width: ($text-width - 100px);
 }
@@ -45,7 +48,7 @@ hr {
 }
 
 %table-data {
-  color: $default-text-color;
+  color: $white;
   border-collapse: collapse;
   border-style: hidden;
   tr {
@@ -65,7 +68,7 @@ hr {
       font-size: 14px;
     }
     .dark-background {
-      background-color: $bg-opacity-half;
+      background-color: $opacity-half;
     }
   }
   .date {
@@ -174,10 +177,10 @@ hr {
   h1, h2, h3, h4, h5, h6 {
     padding-bottom: 14px;
     text-decoration: underline;
-    text-decoration-color: $box-bg;
+    text-decoration-color: $lightblue;
   }
   h1 {
-    text-decoration: underline solid $content-text-strong;
+    text-decoration: underline solid $orange;
     text-decoration-thickness: 2px;
   }
   .main-header {
@@ -187,20 +190,20 @@ hr {
     margin-bottom: 1em;
   }
   a {
-    color: $content-link;
-    text-shadow: 2px 2px $box-bg;
+    color: $neonblue;
+    text-shadow: 2px 2px $lightblue;
     &:hover {
-      color: $content-link-active;
+      color: $orange;
     }
   }
   strong {
-    color: $content-text-strong;
+    color: $orange;
   }
   pre {
     padding: 1.1em 1em;
     margin-bottom: .7em;
     border: dotted 1px darkgray;
-    background-color: $bg-opacity-half;
+    background-color: $opacity-half;
   }
   ul {
     margin-top: .8em;
@@ -228,7 +231,7 @@ hr {
     max-width: $text-width;
     text-align: center;
     iframe {
-      border: solid 3px $box-bg;
+      border: solid 3px $lightblue;
     }
   }
   .logo {
@@ -355,7 +358,7 @@ hr {
     margin-bottom: .8em;
   }
   div {
-    background-color: $box-bg;
+    background-color: $lightblue;
     border-radius: 4px;
     padding: 1em;
     width: 400px;
@@ -466,7 +469,7 @@ hr {
       // -webkit-text-fill-color: transparent;
 
       color: #ffffff;
-      text-shadow: -2px 3px $default-text-color, 0 1px $default-text-color, 1px 0 $default-text-color, 0 -1px $default-text-color;
+      text-shadow: -2px 3px $white, 0 1px $white, 1px 0 $white, 0 -1px $white;
       mix-blend-mode: multiply;
     }
     p {
@@ -480,7 +483,7 @@ hr {
       margin: 0;
       text-align: right;
       margin-left: 400px;
-      color: $default-text-color;
+      color: $white;
       background: linear-gradient(135deg, rgba(47,89,0,1) 0%, rgba(107,0,0,1) 25%, rgba(0,45,115,1) 50%, rgba(113,104,0,1) 75%, rgba(0,124,118,1) 100%);
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
