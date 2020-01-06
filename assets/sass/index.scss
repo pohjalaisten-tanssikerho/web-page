@@ -3,19 +3,24 @@
 $text-width: 560px;
 $default-margin: 35px;
 $header-snap: 460px;
+$nav-width: 450px;
 
 $white: #e9f3ff;
 $orange: #fb9039;
 $blue: #062f4f;
 $lightblue: #0b3c5d;
 $neonblue: #009fff;
+$nightblue: #022140;
+$tintblue: #05386b;
 
 $opacity-half: #00000047;
 
+html, body {
+  height: 100%;
+}
 
 body {
   margin: 0;
-  min-height: 100vh;
   display: flex;
   flex-direction: column;
   font-family: "Noto Sans", "Noto Sans JP", "Meiryo", "sans-serif";
@@ -26,8 +31,9 @@ body {
 a {
   text-decoration: none;
   color: white;
+  transition: 0.3s;
   &:hover {
-    color: lightblue;
+    color: $orange;
   }
 }
 
@@ -41,6 +47,101 @@ hr {
   border: 1px solid $orange;
   border-radius: 5px;
   width: ($text-width - 100px);
+}
+
+nav {
+  display: flex;
+  border: 3px solid $tintblue;
+  border-left: none;
+  border-right: none;
+  background-color: $nightblue;
+  .middle {
+    width: $nav-width;
+  }
+  .left, .right {
+    flex: 1;
+  }
+  .right {
+    text-align: right;
+  }
+  .hide {
+    display: none;
+    @media only screen and (max-width: $header-snap) {
+      display: block;
+    }
+  }
+  i {
+    font-size: 36px;
+  }
+  ul {
+    @media only screen and (max-width: $header-snap) {
+      flex-direction: column;
+      margin: 4px 0 4px 10px;
+      padding: 0;
+    }
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+    padding: 0;
+    li {
+      font-size: 14px;
+      text-transform: uppercase;
+      @media only screen and (max-width: $header-snap) {
+        display: none;
+        font-size: 14px;
+      }
+    }
+    li:hover ul {
+      display: block;
+      opacity: 1;
+    }
+    ul {
+      @media only screen and (max-width: $header-snap) {
+        display: block;
+        position: relative;
+        background-color: $nightblue;
+        padding: 0 0 0 4px;
+        opacity: 1;
+        border: 0;
+      }
+      display: block;
+      opacity: 0;
+      position: absolute;
+      background-color: $nightblue;
+      border: 3px solid $tintblue;
+      border-top: none;
+      min-width: 116px;
+      padding: 12px 16px;
+      font-size: 14px;
+      z-index: 1;
+      transition: 0.3s;
+      li {
+        @media only screen and (max-width: $header-snap) {
+          border-bottom-style: none;
+          margin: 0;
+        }
+        text-transform: capitalize;
+        font-size: 14px;
+        margin-bottom: 8px;
+        // border-bottom: 1px;
+        // border-bottom-style: solid;
+        // border-color: #a0a0a0a0;
+        color: #f9f9f9;
+      }
+    }
+  }
+  .mobile-header {
+    height: 40px;
+    padding: 0;
+  }
+}
+
+.container {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
 }
 
 .center {
@@ -90,80 +191,6 @@ hr {
   }
 }
 
-.header {
-  .hide {
-    display: none;
-    @media only screen and (max-width: $header-snap) {
-      display: block;
-    }
-  }
-  background-color: black;
-  max-width: 450px;
-  margin: auto;
-  font-size: 18px;
-  i {
-    font-size: 36px;
-  }
-  ul {
-    display: flex;
-    @media only screen and (max-width: $header-snap) {
-      flex-direction: column;
-      margin: 0px 0 0 10px;
-      padding: 0;
-    }
-    justify-content: space-between;
-    list-style-type: none;
-    padding-inline-start: 0;
-    li {
-      @media only screen and (max-width: $header-snap) {
-        display: none;
-        font-size: 16px;
-      }
-    }
-    li a:hover {
-        color: lightblue;
-    }
-    li:hover ul {
-      display: block;
-    }
-    ul {
-      @media only screen and (max-width: $header-snap) {
-        display: block;
-        position: relative;
-        background-color: black;
-        padding: 0 0 0 4px;
-      }
-      display: none;
-      position: absolute;
-      // background-color: #f9f9f9;
-      background-color: #101010;
-      min-width: 116px;
-      box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-      padding: 12px 16px;
-      font-size: 14px;
-      z-index: 1;
-      li {
-      @media only screen and (max-width: $header-snap) {
-        border-bottom-style: none;
-        margin: 0;
-      }
-        margin-bottom: 8px;
-        border-bottom: 1px;
-        border-bottom-style: solid;
-        border-color: #a0a0a0a0;
-        color: #f9f9f9;
-        a:hover {
-          color: lightblue;
-        }
-      }
-    }
-  }
-  .mobile-header {
-    height: 40px;
-    padding: 0;
-  }
-}
-
 .content {
   background-image: url("/img/bg.jpg");
   // background: linear-gradient(180deg, rgba(7,45,70,1) 0%, rgba(116,137,151,0) 20%, rgba(255,255,255,0) 50%, rgba(171,184,192,0) 80%, rgba(7,45,70,1) 100%), url("/img/bg.jpg");
@@ -178,10 +205,11 @@ hr {
     padding-bottom: 14px;
     text-decoration: underline;
     text-decoration-color: $lightblue;
+    text-decoration-thickness: 3px;
   }
   h1 {
     text-decoration: underline solid $orange;
-    text-decoration-thickness: 2px;
+    text-decoration-thickness: 4px;
   }
   .main-header {
     font-size: 2.8em;
@@ -358,8 +386,9 @@ hr {
     margin-bottom: .8em;
   }
   div {
-    background-color: $lightblue;
+    background-color: $nightblue;
     border-radius: 4px;
+    border: 2px solid $lightblue;
     padding: 1em;
     width: 400px;
     margin: 0 20px;
@@ -387,7 +416,7 @@ hr {
   background: black;
   color: white;
   padding-bottom: 20px;
-  height: 100%;
+  flex: 1;
   ul {
     list-style-type: none;
     margin: 10px;
