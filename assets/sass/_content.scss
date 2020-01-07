@@ -3,7 +3,7 @@
   // background: linear-gradient(180deg, rgba(7,45,70,1) 0%, rgba(116,137,151,0) 20%, rgba(255,255,255,0) 50%, rgba(171,184,192,0) 80%, rgba(7,45,70,1) 100%), url("/img/bg.jpg");
   background-position: center;
   padding: 2em 0;
-  h1, h2, h3, h4, h5, h6, p, pre, ul, ol, .media {
+  h1, h2, h3, h4, h5, h6, p, pre, ul, ol, .footnote, .media {
     max-width: $text-width;
     padding: 0 16px;
     margin: 0 auto;
@@ -61,6 +61,10 @@
     text-align: center;
     max-width: 320px;
     margin: 0 auto;
+  }
+  .footnote {
+    font-size: 12px;
+    margin-bottom: 1em;
   }
   .media {
     max-width: $text-width;
