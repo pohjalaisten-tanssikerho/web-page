@@ -1,7 +1,7 @@
 # Pohjalaisten tanssikerhon nettisivut
 Nettisivut ovat elossa väliaikaisessa osoitteessa: https://musing-ardinghelli-ad83b1.netlify.com
 
-## Sisällön tuottajille
+## Ohjeet sisällön tuottajille
 Suurin osa sivujen sisällöstä löytyy kansiosta [content](https://github.com/pohjalaisten-tanssikerho/web-page/tree/master/content). Tiedostot ovat .md muodossa, eli ovat muotoa Markdown. Markdown on erittäin helppo tapa kirjoittaa muotoiltua tekstiä. Yleensä idean nappaa pelkästään katsomalla jo kirjoitettuja .md tiedostoja. Tarkempia ohjeita markdownin kirjoittamiseen voi halutessa lukea sivulta https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 Eli [content](https://github.com/pohjalaisten-tanssikerho/web-page/tree/master/content) kansion tiedostoja muokkaamalla päivitetään nettisivujen sisältöä. Ohjeet muokkaukseen:
@@ -39,5 +39,22 @@ Yleisesti esiintyvät tiedot löytyvät projektin juurella olevassta tiedostosta
 
   - `signin` - ilmoittautumislinkki
   - `bank` - pankkitiedot
+  - `links` - yleisesti käytettyjä linkkejä
 
 Tiedosto `config.yaml` on kirjoitettu yaml:lla, jonka syntaksi on myös aika helppo.
+
+## Ohjeet kehittäjille
+Sivut on rakennettu käyttäen Hugoa, joka on staattinen sivugeneraattori. Hugo on hyvin dokumentoitu omilla [kotisivuilla](https://gohugo.io), mutta siitä voi olla vaikea oppia. Alkuun pääsemiseksi kannattaa tutustua Hugon [opetusvideoihin Youtubessa](https://www.youtube.com/watch?v=qtIqKaDlqXo&list=PLLAZ4kZ9dFpOnyRlyS-liKL5ReHDcj4G3).
+
+Projekti käyttää [SCSS:ssää](https://sass-lang.com/), joka on CSS:n esiprosessoija. SASS tiedostot löytyvät kansiosta [assets/sass/](https://github.com/pohjalaisten-tanssikerho/web-page/tree/master/assets/sass).
+
+Julkaisussa käytetään [Netlify](https://www.netlify.com/) palvelua. Käytännössä aina kun versionhallintasivuun työnnetään päivityksiä, Netlify rakentaa siitä uudet nettisivut ja julkaisee ne.
+
+### Projektin periaatteita
+On muistettava, että sivua tekevät myös ne henkilöt, joilla ei ole ohjelmointitaustaa tai kiinnostusta ylipäätänsä ohjelmoimiseen. Tämän takia kehittäjän on tehtävä sisällön tuotannosta mahdollisimman yksinkertaista. Sisällön tuottajalta voidaan ainoastaan olettaa ymmärtävän Markdownia ja hieman jsonia, sekä yamlia. Olis hyvä, jos heidän ei tarvitsisi koskaan koskea shortcodeihin tai layoutteihin. Esimerkiksi kaikkialla yleisesti esiintyvä tieto kannatta laittaa `config.yaml` tiedostoon ja sitten shortcodeja niiden hakemiseen. Näin sisällöntuottajan täytyy käsitellä vain `config.yaml` tiedostoa, eikä hänen tarvitse koskaan kurkkia shortcodeihin. Lisäksi tieto pysyy samassa paikassa helposti käsiteltävänä.
+
+### Projektin kieli
+Ohjelmoinnissa käytetään englantia, eli muuttajat ja funktioiden nimiet englanniksi. Keskustelu voidaan käydä suomeksi tai englanniksi. Git otsikko-kommentit mieluiten englanniksi noudattaen [näitä ohjeita](https://gist.github.com/robertpainsi/b632364184e70900af4ab688decf6f53). Lyhyesti samat ohjeet:
+
+  - käytä imperatiivimuotoa (käskymuoto)
+  - kirjoitetaan kuin otsikko (iso alkukirjain, ei pistettä loppuun)
