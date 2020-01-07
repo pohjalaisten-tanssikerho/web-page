@@ -5,9 +5,15 @@ categories: ["ry"]
 categories_weight: 3
 ---
 # Kannatusjäsenyys
-Myös Pohjalaisten tanssikerhon kannatusjäseneksi liittyminen on mahdollista, jos haluat käydä tanssibileissä mutta et ehdi osallistua tanssikursseille. Kannatusjäsenmaksun suuruus vuonna 2020 on vähintään 10 euroa ja se maksetaan tanssikerhon tilille:
+Osallistuminen kausikursseille tekee kävistä Pohjalaisten tanssikerhon jäsenen. Jäsenenä voi osallistua Pohjalaisten tanssikerhon ja Hämäläis-Osakunnan tanssikerhon järjestämiin tanssibileisiin. Lisäksi jäsen voi osallistua ja äänestää Pohjalaisten tanssikerhon kerhon kokouksissa.
+
+Jäseneksi voi liittyä myös kannatusjäsenyyden kautta. Käytännössä kannatusjäsenen oikeudet ovat identtiset varsinaisjäsenten kanssa, eli niiden jotka ovat jäseniä kurssien kautta. Kannatusjäsenyys on myös tapa tukea tanssikerhoa taloudellisesti.
+
+Kannatusjäsenmaksun suuruus on vähintään 10 euroa ja se maksetaan tanssikerhon tilille:
 
 {{% bank %}}
 
-Käytä viitenumeroa 9991. [Ilmoita]({{< link signin >}}) maksusta, jotta sinut tiedetään liittää rekisteriin.
+Käytä viitenumeroa 9991. [Ilmoita]({{< link signin >}}) maksusta, jotta sinut tiedetään liittää rekisteriin ja sitä myötä myös jäseneksi. Huomaa, että 10 euron maksu on vähintään mikä pitää maksaa, että jäsenyyden saa. Taloudelliseen avustukseen Tanssikerho hyväksyy minkä tahansa summan.
+
+Kannatusjäsenyys on voimassa koko kalenterivuoden, toisin kuin kausikursseja käymällä saatu jäsenyys, joka on voimassa vain kurssikauden ajan.
 

@@ -6,11 +6,18 @@ categories: ["kurssi"]
 categories_weight: 1
 ---
 # Yleistä kursseista
-Pohjalaisten tanssikerho järjestää lukuvuoden pituisia tanssikursseja, joiden aikana opetetaan suosituimmat lavatanssit ja vähän ekstraakin. Yhteensä kursseja on neljä kolmessa eri taitotasossa: alkeis-, alkeisjatko- ja jatkotaso. Alkeiskurssi jakaantuu kahdeksi eri kurssiksi: niille jotka haluavat tanssia oman parin kanssa ja perinteisempään alkeiskurssiin, jossa parit vaihtuvat. Alkeisjatko ja jatkokurssilla on parinvaihto.
+Pohjalaisten tanssikerho järjestää lukuvuoden pituisia tanssikursseja, joiden aikana opetetaan suosituimmat lavatanssit ja vähän ekstraakin. Yhteensä kursseja on neljä kolmessa eri taitotasossa:
+
+  - [alkeiskurssi parin vaihdoilla]({{< ref "/kurssi/alkeet-parin-vaihdoilla.md" >}})
+  - [alkeiskurssi oman parin kanssa]({{< ref "/kurssi/alkeet-oman-parin-kanssa.md" >}})
+  - [alkeisjatkokurssi]({{< ref "/kurssi/alkeisjatko.md" >}})
+  - [jatkokurssi]({{< ref "/kurssi/jatkokurssi.md" >}})
+
+Alkeiskurssi jakaantuu kahdeksi eri kurssiksi: niille jotka haluavat tanssia oman parin kanssa ja perinteisempään alkeiskurssiin, jossa parit vaihtuvat. Alkeisjatko- ja jatkokurssilla on parinvaihto.
 
 Kuhunkin kurssiin sisältyy **14** opetuskertaa.
 
-Kurssimme ovat tarkoitettuja ensisijaisesti opiskelijoille ja Pohjalaisten osakuntien jäsenille. Kursseille voi osallistua myös, vaikka et enää olisikaan opiskelija. Toistaiseksi kaikki halukkaat ovat aina päässeet tanssimaan.
+Kurssimme ovat tarkoitettuja ensisijaisesti opiskelijoille ja Pohjalaisten osakuntien jäsenille. Kursseille voi osallistua myös, vaikka et enää olisikaan opiskelija. Toistaiseksi kaikki halukkaat ovat aina päässeet tanssimaan. Kausikursseille osallistuminen tekee osallistujasta Pohjalaisten tanssikerhon jäsenen siksi ajaksi, kun kausi kestää. Jäsenenä voi osallistua Pohjalaisten tanssikerhon ja Hämäläis-Osakunnan tanssikerhon järjestämiin tanssibileisiin. Lisäksi jäsenellä on äänioikeus Pohjalaisten tanssikerhon kerhon kokouksissa. Jos Tanssikerhon jäsenyyden haluaa käymättä kursseja, voi kerhon jäseneksi liittyä [kannatusjäsenenä]({{< ref "/kannatusjasenyys.md" >}}). Kannatusjäsenyys hankitaan kalenterivuodeksi.
 
 Kaikkia kurssilaisia kehotetaan liittymään tanssikerhon [sähköpostilistalle]({{< ref "/sahkopostilista.md" >}}). Listan kautta tiedotetaan mm. mahdollisista muutoksista kurssien aikatauluihin! Muita kerholaisia ja vapaampaa tanssikeskustelua löydät myös kerhon [Facebook-]({{< link facebook >}}) ja [Whatsapp-ryhmästä]({{< link whatsapp >}}). Kannattaa käydä katsomassa myös [tapahtumat-sivua]({{< ref "/tapahtumat.md" >}}).
 
@@ -38,4 +45,4 @@ Ota talteen kuitti ja pidä se mukana kursseilla, kunnes maksut on tarkistettu.
 
 {{< courses all >}}
 
-Tanssikerholla opetettavista lajeista lisää [omilta sivuilta]({{< ref "/blogi/tanssilajit.md" >}}).
+Tanssikerholla opetettavista lajeista lisää omalla [blogi-sivuilla]({{< ref "/blogi/tanssilajit.md" >}}).
