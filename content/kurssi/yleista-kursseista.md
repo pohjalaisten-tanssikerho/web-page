@@ -30,6 +30,12 @@ Ota talteen kuitti ja pidä se mukana kursseilla, kunnes maksut on tarkistettu.
 \* Osakuntalaisuudella tarkoitetaan seuraavia osakunnan jäseniä: [Vasa Nation](http://vasa.nation.fi) (VN), [Pohjois-Pohjalanen osakunta](http://pohjoispohjalaiset.fi) (PPO) ja [Etelä-Pohjalainen osakunta](http://epo.osakunta.fi) (EPO). Lisäksi osakunnan jäsenen on oltava kirjoilla Helsingin yliopistossa, Aalto-yliopistossa tai muussa korkeakoulussa, jotta on oikeutettu alennettuun hintaan.
 
 ## Kurssiaikataulu ja lajit
+
+  - alkeet klo 17-18.30
+  - alkeet (oma pari) klo 18.30-20
+  - alkeisjatko klo 17-18.30
+  - jatko klo 18.30-20
+
 {{< courses all >}}
 
 Tanssikerholla opetettavista lajeista lisää [omilta sivuilta]({{< ref "/blogi/tanssilajit.md" >}}).
