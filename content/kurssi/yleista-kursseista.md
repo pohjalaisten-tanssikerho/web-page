@@ -31,10 +31,10 @@ Ota talteen kuitti ja pidä se mukana kursseilla, kunnes maksut on tarkistettu.
 
 ## Kurssiaikataulu ja lajit
 
-  - alkeet klo 17-18.30
-  - alkeet (oma pari) klo 18.30-20
-  - alkeisjatko klo 17-18.30
-  - jatko klo 18.30-20
+  - alkeet klo 17-18:30
+  - alkeet (oma pari) klo 18:30-20
+  - alkeisjatko klo 17-18:30
+  - jatko klo 18:30-20
 
 {{< courses all >}}
 
