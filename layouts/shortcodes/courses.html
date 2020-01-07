@@ -2,8 +2,8 @@
 <table class="course-table">
   <tr>
     <th></th>
-    <th>Alkeiset</th>
-    <th>Alkeiset <br> oma pari</th>
+    <th>Alkeet</th>
+    <th>Alkeet <br> oma pari</th>
     <th>Alkeisjatko</th>
     <th>Jatko</th>
   </tr>
@@ -12,8 +12,8 @@
   <tr>
     {{ $t := time .date }}
     <th class="date">{{ $t.Day }}.{{ printf "%d" $t.Month }}</th>
-    <td>{{ .alkeiset }}</td>
-    <td>{{ .alkeisetOma }}</td>
+    <td>{{ .alkeet }}</td>
+    <td>{{ .alkeetOma }}</td>
     <td>{{ .alkeisjatko }}</td>
     <td>{{ .jatko }}</td>
   </tr>
@@ -45,15 +45,15 @@
     {{ end }}
   </tr>
   <tr>
-    <th>Alkeiset</th>
+    <th>Alkeet</th>
     {{ range $courses }}
-    <td class="trigger">{{ .alkeiset }}</td>
+    <td class="trigger">{{ .alkeet }}</td>
     {{ end }}
   </tr>
   <tr>
-    <th>Alkeiset <br> oma pari</th>
+    <th>Alkeet <br> oma pari</th>
     {{ range $courses }}
-    <td class="trigger">{{ .alkeisetOma }}</td>
+    <td class="trigger">{{ .alkeetOma }}</td>
     {{ end }}
   </tr>
   <tr>
