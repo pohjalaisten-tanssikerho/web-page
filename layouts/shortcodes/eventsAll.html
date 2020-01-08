@@ -1,7 +1,7 @@
 <ul>
-  {{ range sort .Site.Data.events ".date" "asec" }}
+  {{ range sort .Site.Data.events ".date" "desc" }}
   {{ $t := time .date }}
-  <li><span class="date-event">{{ $t.Day }}.{{ printf "%d" $t.Month }}.</span><span class="title-event">{{ .title }}</span>
+  <li><span class="date-event">{{ $t.Day }}.{{ printf "%d" $t.Month }}.{{ printf "%d" $t.Year }}</span><span class="title-event">{{ .title }}</span>
     {{ with .description }}
     <p>{{ . | markdownify }}</p>
     {{ end }}
