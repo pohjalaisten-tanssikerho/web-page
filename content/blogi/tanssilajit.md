@@ -23,7 +23,7 @@ Buggin SM finaali 2019:
 Cha cha-musiikkiin tanssittava latinotanssilaji. Perus tanssiote on suljettu ilman vartalokontaktia, mutta lavoilla sitä näkee tanssittavan usein avoimessa otteessa. Potin kursseilla sitä saatetaan opettaa jo alkeiskursseilla, koska lavoilla se on aika yleinen tanssitlaji. 
 
 ## Fusku
-Hauska ja rytmikäs fusku on rock'n'swing- tansseihin kuuluva tanssilaji ja erittäin suosittu lavatanssipiireissä. Sitä tanssitaan enemmän avoimessa otteessa, mutta on mahdollista tanssia myös suljetussa otteessa ilman vartalo kontaktia. Sitä on mahdollista tanssia oikeastaan kaikkiin nelitahtisiin kappaleisiin. Tahdikuutta tanssiin tuo tuttu foksin perusaskel, jossa polvet joustavat joka askeleelta. Sitä opetetaan usein jo alkeiskursseilla.
+Hauska ja rytmikäs fusku on rock'n'swing- tansseihin kuuluva tanssilaji ja erittäin suosittu lavatanssipiireissä. Sitä tanssitaan enemmän avoimessa otteessa, mutta on mahdollista tanssia myös suljetussa otteessa ilman vartalo kontaktia. Sitä on mahdollista tanssia oikeastaan kaikkiin nelitahtisiin [kappaleisiin](https://youtube.com). Tahdikuutta tanssiin tuo tuttu foksin perusaskel, jossa polvet joustavat joka askeleelta. Sitä opetetaan usein jo alkeiskursseilla.
 
 ## Jive
 Tulossa!
