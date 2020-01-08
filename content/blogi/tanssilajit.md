@@ -19,6 +19,8 @@ Buggin SM finaali 2019:
 
 {{< youtube id="GcpiJZKgW8s" class="media">}}
 
+{{< youtube id="pKJbJA49D0" class="media" >}}
+
 ## Cha cha
 Cha cha-musiikkiin tanssittava latinotanssilaji. Perus tanssiote on suljettu ilman vartalokontaktia, mutta lavoilla sitä näkee tanssittavan usein avoimessa otteessa. Potin kursseilla sitä saatetaan opettaa jo alkeiskursseilla, koska lavoilla se on aika yleinen tanssitlaji. 
 
