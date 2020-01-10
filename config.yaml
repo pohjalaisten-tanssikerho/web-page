@@ -6,6 +6,7 @@ DefaultContentLanguage: "fi"
 languageCode: "fi-fi"
 
 params:
+  address: "Töölönkatu 3 A, 00940 Helsinki, 5krs."
   links:
     signin: "https://docs.google.com/forms/d/e/1FAIpQLScvIIl5l7a7bnPIYUmLxaijReK-bgoOt8C44nhTOxInNASBGg/viewform?usp=sf_link"
     facebook: "https://www.facebook.com/groups/pot.tanssikerho/"
