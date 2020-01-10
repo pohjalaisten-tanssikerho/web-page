@@ -17,7 +17,7 @@ Alkeiskurssi jakaantuu kahdeksi eri kurssiksi: niille jotka haluavat tanssia oma
 
 Kuhunkin kurssiin sisältyy **14** opetuskertaa.
 
-Kurssimme ovat tarkoitettuja ensisijaisesti opiskelijoille ja Pohjalaisten osakuntien jäsenille. Kursseille voi osallistua myös, vaikka et enää olisikaan opiskelija. Toistaiseksi kaikki halukkaat ovat aina päässeet tanssimaan. 
+Kurssimme ovat tarkoitettuja ensisijaisesti opiskelijoille ja Pohjalaisten osakuntien jäsenille. Kursseille voi osallistua myös, vaikka et enää olisikaan opiskelija. Toistaiseksi kaikki halukkaat ovat aina päässeet tanssimaan.
 
 Kausikursseille osallistuminen tekee osallistujasta Pohjalaisten tanssikerhon jäsenen siksi ajaksi, kun kausi kestää. Jäsenenä voi osallistua Pohjalaisten tanssikerhon ja Hämäläis-Osakunnan tanssikerhon järjestämiin tanssibileisiin. Lisäksi jäsenellä on äänioikeus Pohjalaisten tanssikerhon kerhon kokouksissa. Jos Tanssikerhon jäsenyyden haluaa käymättä kursseja, voi kerhon jäseneksi liittyä [kannatusjäsenenä]({{< ref "/kannatusjasenyys.md" >}}). Kannatusjäsenyys hankitaan kalenterivuodeksi.
 
