@@ -11,13 +11,13 @@
         "role": "tiedottaja"
       }
     ],
-    "email": "selina.virtanen@gmail.com'"
+    "email": "etunimi.sukunimi@gmail.com"
   },
   {
     "firstname": "Greatman",
     "lastname": "Lim",
     "description": "Kerää titteleitä. Jotenkin onnistunut saamaan yhden nimeensäkin.",
-    "picture": "",
+    "picture": "greatman-lim.jpg",
     "role": "puheenjohtaja",
     "role": "varapuheenjohtaja",
     "previousroles": [
@@ -26,7 +26,7 @@
         "role": "puheenjohtaja"
       }
     ],
-    "email": "greatman.lim@mahti.org"
+    "email": "etunimi.sukunimi@mahti.org"
   },
   {
     "firstname": "Suvi",
@@ -35,7 +35,7 @@
     "picture": "",
     "role": "puheenjohtaja",
     "role": "taloudenhoitaja",
-    "email": "zukkasd@gmail.com"
+    "email": "zukkasd (ät) gmail . com"
   },
   {
     "firstname": "Niina",
@@ -43,14 +43,14 @@
     "description": "Supernörtti",
     "picture": "",
     "role": "sihteeri",
-    "mail": "niina.kajovuori@gmail.com"
+    "email": "etunimi.sukunimi@gmail.com"
   },
   {
     "firstname": "Kaisa",
     "lastname": "Autere",
     "picture": "",
     "role": "tiedottaja",
-    "mail": "kaisa.autere@wmail.fi"
+    "email": "etunimi.sukunimi@wmail.fi"
   },
   {
     "firstname": "Lasse",
@@ -58,7 +58,7 @@
     "description": "Suosittu seurapiireissä. Muut menevät tanssijuhliin, mutta tämä herra kutsutaan.",
     "picture": "",
     "role": "tapahtumavastaava",
-    "mail": "lasse.vaskelainen@gmail.com"
+    "email": "etunimi.sukunimi@gmail.com"
   },
   {
     "firstname": "Elina",
@@ -72,7 +72,7 @@
        "role": "sihteeri"
      }
     ],
-    "email": "el-liina@hotmail.com"
+    "email": "el-liina (ät) hotmail . com"
   },
   {
     "firstname": "Henna",
@@ -80,6 +80,6 @@
     "description": "Iloinen säheltäjä. Välillä hauska, joskus jopa tarkoituksella.",
     "picture": "",
     "role": "jäsen",
-    "email": "henna.jylha@aalto.fi"
+    "email": "etunimi.sukunimi@aalto.fi"
   }
 ]
