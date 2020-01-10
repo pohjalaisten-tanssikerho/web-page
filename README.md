@@ -16,13 +16,10 @@ Muutokset tulevat nettisivuille muutaman minuutin kuluttua. Muista uudelleen pä
 
 \* On mahdollista muokata nettisivuja myös omilla tunnuksilla. Kerro tunnuksesi projektin omistajalle @Gredu , niin sinut voidaan lisätä kehittäjäryhmään, jolloin päivityksesi hyväksytään automaattisesti ilman tarkistusta. Oikeastaan on suositeltavampaa, että muokkaukset tehtäisiin omilla tunnuksilla. Tällöin nähdään kuka on tehnyt mitkäkin muutokset.
 
-### Monipuolisempaa sisällön esilletuontia
-Markdownilla pääsee jo pitkälle, mutta jos haluaa lisätä mediaa tai jotain muuta monimutkaisempaa, voi käyttää .md tiedostojen seassa Hugon lyhyitä ohjelmapätkiä (shortcodes). Näiden avulla voi upottaa mm. Youtube- tai Vimeo-videoita tekstiin. Lyhyitä ohjelmapätkiä voi myös tehdä itse tai pyytää, jos on tarve jollekin erikoisemmalle.
-
-Lisää ohjeita tästä aiheesta löytyy [Hugon sivuilta](https://gohugo.io/content-management/shortcodes/).
-
 ### Tietokantojen muokkaus
-Sisältö löytyy `content` kansion sisältä, mutta tietokantamainen sisältö `data` kansiosta. Tietokanta on kirjoitettu .json muodossa, joka on yhtä helppo ymmärtää kuin Markdown. Syntaksin yleensä ymmärtää jo vain katsomalla tiedostoa. Ongelma jsonin kanssa on vain se, että sitä on helppo kirjoittaa vahingossa väärin. Jos sivut eivät päivity .json tiedoston muokkauksen jälkeen, on todennäköistä, että olet tehnyt kirjoitusvirheen. Jos virheeseen on epäilys, kopioi koko .json tiedosto [tarkastajaan](https://jsonlint.com/), joka tarkastaa kirjoitusvirheet.
+Sisältö löytyy `content` kansion sisältä, mutta tietokantamainen sisältö `data` kansiosta. Tietokannoissa oleva tieto liittyy yleensä asioihin, joita voi listata.
+
+Tietokanta on kirjoitettu .json muodossa, joka on yhtä helppo ymmärtää kuin Markdown. Syntaksin yleensä ymmärtää jo vain katsomalla tiedostoa. Ongelma jsonin kanssa on vain se, että sitä on helppo kirjoittaa vahingossa väärin. Jos sivut eivät päivity .json tiedoston muokkauksen jälkeen, on todennäköistä, että olet tehnyt kirjoitusvirheen. Jos virheeseen on epäilys, kopioi koko .json tiedosto [tarkastajaan](https://jsonlint.com/), joka katsoo mahdolliset kirjoitusvirheet.
 
 Lista tietokannoista:
 
@@ -34,9 +31,15 @@ Lista tietokannoista:
 
 On erityisen tärkeää, että päivämääriä muokattaessa pidetään aikaformaatti muodossa `YYYY-MM-DD`. Näin kone ymmärtää tapahtumien keskinäisen suhteen, eli mitkä ovat ennen toisia.
 
+### Monipuolisempaa sisällön esilletuontia
+Kansiossa `content` on siis kaikki kirjoitus, joka ei ole tietokantamainen. Tässä kansiossa pärjää aika pitkälle pelkästään Markdownilla, mutta jos haluaa lisätä mediaa tai jotain muuta monimutkaisempaa, voi käyttää .md tiedostojen seassa Hugon lyhyitä ohjelmapätkiä (shortcodes). Näiden avulla voi upottaa mm. Youtube- tai Vimeo-videoita tekstiin. Lyhyitä ohjelmapätkiä voi myös tehdä itse tai pyytää, jos on tarve jollekin erikoisemmalle.
+
+Täydet ohjeet löytyvät [Hugon sivuilta](https://gohugo.io/content-management/shortcodes/).
+
 ### Yleiset useassa kohtaa sivua esiintyvät tiedot
 Yleisesti esiintyvät tiedot löytyvät projektin juurella olevassta tiedostosta [config.yaml](https://github.com/pohjalaisten-tanssikerho/web-page/blob/master/config.yaml) kohdasta params. Tästä tiedostosta löytyvät seuraavat:
 
+  - `address` - yhdistyksen osoite
   - `signin` - ilmoittautumislinkki
   - `bank` - pankkitiedot
   - `links` - yleisesti käytettyjä linkkejä
@@ -49,6 +52,11 @@ Sivut on rakennettu käyttäen Hugoa, joka on staattinen sivugeneraattori. Hugo 
 Projekti käyttää [SCSS:ssää](https://sass-lang.com/), joka on CSS:n esiprosessoija. SASS tiedostot löytyvät kansiosta [assets/sass/](https://github.com/pohjalaisten-tanssikerho/web-page/tree/master/assets/sass).
 
 Julkaisussa käytetään [Netlify](https://www.netlify.com/) palvelua. Käytännössä aina kun versionhallintasivuun työnnetään päivityksiä, Netlify rakentaa siitä uudet nettisivut ja julkaisee ne.
+
+Pyrkimys on, että sivut näyttävät hyviltä 320px - 1920px (full hd). Näiden ulkopuolelle kuuluvia laitteita ei tarvitse tukea.
+
+### Shortcodes
+Kansiossa [shortcodes](https://github.com/pohjalaisten-tanssikerho/web-page/tree/master/layouts/shortcodes) löytyy kasa itse tehtyjä "funktioita".
 
 ### Projektin periaatteita
 On muistettava, että sivua tekevät myös ne henkilöt, joilla ei ole ohjelmointitaustaa tai kiinnostusta ylipäätänsä ohjelmoimiseen. Tämän takia kehittäjän on tehtävä sisällön tuotannosta mahdollisimman yksinkertaista. Sisällön tuottajalta voidaan ainoastaan olettaa ymmärtävän Markdownia ja hieman jsonia, sekä yamlia. Olis hyvä, jos heidän ei tarvitsisi koskaan koskea shortcodeihin tai layoutteihin. Esimerkiksi kaikkialla yleisesti esiintyvä tieto kannatta laittaa `config.yaml` tiedostoon ja sitten shortcodeja niiden hakemiseen. Näin sisällöntuottajan täytyy käsitellä vain `config.yaml` tiedostoa, eikä hänen tarvitse koskaan kurkkia shortcodeihin. Lisäksi tieto pysyy samassa paikassa helposti käsiteltävänä.
