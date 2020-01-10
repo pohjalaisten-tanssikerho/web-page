@@ -33,10 +33,10 @@
           </span>
 
           <ul>
-            <li class="uppercase"><a href="{{ .Site.BaseURL }}">ETUSIVU</a></li>
+            <li class="uppercase"><a href="{{ .Site.BaseURL }}"><div class="logo-bullet"></div>ETUSIVU</a></li>
             {{ range .Site.Taxonomies.categories.sivu }}
             {{ if eq .Title "Kurssit" }} 
-            <li class="uppercase"><a href="{{ .Site.BaseURL}}/kurssi">{{ .Title | upper }}</a>
+            <li class="uppercase"><a href="{{ .Site.BaseURL}}/kurssi"><div class="logo-bullet"></div>{{ .Title | upper }}</a>
               <ul>
                 {{ range .Site.Taxonomies.categories.kurssi }}
                 <li><a href="{{ .RelPermalink }}">{{ .Title}}</a></li>
@@ -44,10 +44,10 @@
               </ul>
             </li>
             {{ else }}
-            <li><a href="{{ .Page.RelPermalink }}">{{ .Title | upper}}</a>
+            <li><a href="{{ .Page.RelPermalink }}"><div class="logo-bullet"></div>{{ .Title | upper}}</a>
               {{ end }}
               {{ end }}
-              <li><a href="{{ .Site.BaseURL }}/blogi">BLOGI</a>
+              <li><a href="{{ .Site.BaseURL }}/blogi"><div class="logo-bullet"></div>BLOGI</a>
                 <ul>
                   {{ range .Site.Taxonomies.categories.blogi }}
                   <li><a href="{{ .Page.RelPermalink }}">{{ .Title }}</a></li>
