@@ -96,13 +96,6 @@
     }
   }
   .board {
-    display: grid;
-    grid-template-columns: repeat(4, auto);
-    grid-template-rows: repeat(2);
-    justify-items: center;
-    max-width: 1030px;
-    margin: 18px auto;
-    grid-row-gap: 1.2em;
     @media only screen and (max-width: 985px) {
       grid-template-columns: repeat(2, auto);
       grid-template-rows: repeat(4);
@@ -112,6 +105,13 @@
       grid-template-columns: repeat(1, auto);
       grid-template-rows: repeat(8);
     }
+    display: grid;
+    grid-template-columns: repeat(4, auto);
+    grid-template-rows: repeat(2);
+    justify-items: center;
+    max-width: 1030px;
+    margin: 18px auto;
+    grid-row-gap: 1.2em;
     grid-gap-row: 40px;
     margin-bottom: 26px;
     .item {
@@ -121,10 +121,12 @@
       background-color: $nightblue;
       border-radius: 2px;
       border: 2px solid $lightblue;
-      align-self: start;
       width: 214px;
-      height: 190px;
-      padding: .8em 0;
+      // height: 288px;
+      margin-top: 0px;
+      .fill {
+        height: 225px;
+      }
       .center {
         text-align: center;
         .role {
@@ -133,6 +135,28 @@
         .name {
           font-size: 16px;
           font-weight: bold;
+          border-bottom: 2px solid $lightblue;
+        }
+      }
+      .email {
+        font-size: 14px;
+        padding: 10px 8px;
+      }
+      .hidden-description {
+        // position: relative;
+        .description {
+          position: absolute;
+          font-size: 12px;
+          height: 288px;
+          width: 180px;
+          text-align: center;
+        }
+        img {
+          // border-bottom: 2px solid $lightblue;
+          position: absolute;
+          outline: 2px solid $lightblue;
+          outline-offset: -2px;
+          border-bottom: 3px solid $lightblue;
         }
       }
       .borders {
@@ -141,9 +165,6 @@
         border: 2px solid $lightblue;
         border-right: none;
         border-left: none;
-        .description {
-          font-size: 12px;
-        }
       }
       ul {
         font-size: 12px;

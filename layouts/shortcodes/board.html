@@ -1,26 +1,26 @@
 <div class="board">
   {{ range .Site.Data.board }}
   <div class="item">
-      <!-- <img src="https://via.placeholder.com/214x220" alt=""> -->
-    <div class="center">
-      <span class="role">{{ .role }}</span>
-    </div>
-    <div class="center">
-      <span class="name">{{ .firstname }} {{ .lastname }}</span>
-    </div>
-    {{ with .description }}
-    <div class="borders">
-      <span class="description">{{ . }}</span>
-    </div>
-    {{ end }}
-    <ul class="previous-roles">
-      {{ with .previousroles }}
-      <li><h4>Aikaisemmat virat</h4></li>
+    <div class="hidden-description">
+      {{ with .picture }}
+      <img src="/img/board/{{ . }}" alt="">
+      {{ else }}
+      <img src="https://placekitten.com/214/220" alt="">
       {{ end }}
-      {{ range .previousroles }}
-      <li><span>{{ .year }}</span> - <span>{{ .role }}</span></li>
+      {{ with .description }}
+      <!-- <span class="description"><em>{{ . }}</em></span> -->
       {{ end }}
-    </ul>
+    </div>
+    <div class="fill"></div>
+      <div class="center">
+        <span class="role">{{ .role }}</span>
+      </div>
+      <div class="center">
+        <span class="name">{{ .firstname }} {{ .lastname }}</span>
+      </div>
+      <div class="center">
+      <div class="email">{{ .email }}</div>
+      </div>
   </div>
   {{ end}}
 </div>
