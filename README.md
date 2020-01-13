@@ -96,3 +96,17 @@ Ohjelmoinnissa käytetään englantia, eli muuttajat ja funktioiden nimiet engla
 
   - käytä imperatiivimuotoa (käskymuoto)
   - kirjoitetaan kuin otsikko (iso alkukirjain, ei pistettä loppuun)
+
+### Kesken jääneitä kehitysideoita ja suunnitelmia
+Saa lähettää koodia tälle projektille. Tässä muutamia keskenjääneitä ajatuksia ja ideoita projektille.
+
+#### Tiedotukset ja kurssitiedot suoraan Google kalenterista
+Tiedotus ja kurssiaikataulu merkitään tällä hetkellä .json tiedostoihin, joka ei ole kovin käyttäjäystävällinen. Olisi hyvä, jos sisällöntuottajat voisivat luoda tapahtumia, tiedotuksia ja kurssiaikatauluja suoraan Googlen kalenteriin, josta nettisivu ottaa tarvitsemansa tiedot.
+
+#### Viestin lähetys formilla
+Nettisivuilla näkyy tällä hetkellä kaikkien sähköpostit, mutta olisi parempi, jos olisi oma viestin lähetys-sivut, mistä sähköpostia voi lähettää kullekin hallituksen jäsenelle ilman, että lähettäjän tarvitsee tietää sähköpostia. Viesti tulisi siis suoraan sähköpostiin. Sähköposti saa tulla ilmi silloin, kun hallituslainen lähettää takaisin sähköpostia.
+
+Netlify tukee tätä ominaisuutta, mutta ei ole varmaa miten helppoa näiden tuunaaminen on mahdollisesti sellaiselle tanssikerhon hallitukselle, jossa ei istu yhtäkään nörttiä. Eli ei saa tulla ongelmia viestien lähetysten kanssa, kun uusi hallitus aloittaa toimintansa.
+
+#### Kurssiaikataulu paremmin kurssisivuilla
+Kurssiaikataulu näyttää hyvältä pieneltä ruudulta, mutta isolla ruudulla se on liian kapea. Lisäksi olisi hyvä, jos kurssiaikataulusta hieman pimennetään (tai jollain muulla tavalla) ne lajit, jotka ovat jo menneet. Näin käyttäjän on helppompi nähdä suoraan, mikä laji on tulossa seuraavaksi.
