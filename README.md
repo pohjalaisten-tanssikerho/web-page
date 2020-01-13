@@ -98,7 +98,7 @@ Ohjelmoinnissa käytetään englantia, eli muuttajat ja funktioiden nimiet engla
   - kirjoitetaan kuin otsikko (iso alkukirjain, ei pistettä loppuun)
 
 ### Kesken jääneitä kehitysideoita ja suunnitelmia
-Saa lähettää koodia tälle projektille. Tässä muutamia keskenjääneitä ajatuksia ja ideoita projektille.
+Saa lähettää koodia tälle projektille. Tässä muutamia kesken jääneitä ajatuksia ja ideoita projektille.
 
 #### Tiedotukset ja kurssitiedot suoraan Google kalenterista
 Tiedotus ja kurssiaikataulu merkitään tällä hetkellä .json tiedostoihin, joka ei ole kovin käyttäjäystävällinen. Olisi hyvä, jos sisällöntuottajat voisivat luoda tapahtumia, tiedotuksia ja kurssiaikatauluja suoraan Googlen kalenteriin, josta nettisivu ottaa tarvitsemansa tiedot.
