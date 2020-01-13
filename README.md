@@ -83,6 +83,8 @@ git clone https://github.com/pohjalaisten-tanssikerho/web-page.git
 cd web-page
 hugo server
 ```
+Jos muita palvelimia ei ole ajossa tällä hetkellä, näkyvät sivut osoitteessa http://localhost:1313
+
 Älä tee muutoksia `public`-kansioon, jonka Hugo rakentaa, kun pelkkä `hugo` komento annetaan. `public`-kansio on se kansio, joka laitetaan palvelimelle, että nettisivut näkyvät maailmalle.
 
 ### Shortcodes
