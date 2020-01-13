@@ -10,7 +10,7 @@ Alkeisjatkokurssille voit osallistua alkeiskurssin käytyäsi tai kun hallitset 
 
 Alkeisjatkokurssilla on kiertävä parin vaihto!
 
-[Täytä kurssi-ilmoittautuminen]({{% signin %}}) ja tule kursseille!
+[Täytä kurssi-ilmoittautuminen]({{< link signin >}}) ja tule kursseille!
 
 ## Kurssiaikataulu ja lajit
 {{< course alkeisjatko >}}

@@ -10,7 +10,7 @@ Alkeisjatkokurssin käytyäsi tai muualla pidempää tanssittuasi voit osallistu
 
 Jatkokurssilla on kiertävä parin vaihto!
 
-[Täytä kurssi-ilmoittautuminen]({{% signin %}}) ja tule kursseille!
+[Täytä kurssi-ilmoittautuminen]({{< link signin >}}) ja tule kursseille!
 
 ## Kurssiaikataulu ja lajit
 {{< course alkeet >}}
