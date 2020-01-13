@@ -1,6 +1,10 @@
 # Pohjalaisten tanssikerhon nettisivut
 Nettisivut ovat elossa väliaikaisessa osoitteessa: https://musing-ardinghelli-ad83b1.netlify.com
 
+Sisällön tuottajan tarvitsee lukea ainoastaan kohdat "Ohjeet sisällön tuottajille" ja "Tietokantojen muokkaus", **eli ohjeiden määrästä huolimatta luettavaa ei oikeasti ole paljon.** Lukemista kannattaa jatkaa vain, jos haluaa syventää tietoa tai jos on kiinnostunut kehittämään nettisivuja muulla tavalla kuin sisältöä tuottamalla.
+
+Ainakin yhden hallituksessa kannattaa lukea "Yleiset useassa kohtaa sivua esiintyvät tiedot" kohtaan asti. Tässä kohdassa kerrotaan ilmoittautumislomakelinkin päivittämisestä.
+
 ## Ohjeet sisällön tuottajille
 Suurin osa sivujen sisällöstä löytyy kansiosta [content](https://github.com/pohjalaisten-tanssikerho/web-page/tree/master/content). Tiedostot ovat .md muodossa, eli ovat muotoa Markdown. Markdown on erittäin helppo tapa kirjoittaa muotoiltua tekstiä. Yleensä idean nappaa pelkästään katsomalla jo kirjoitettuja .md tiedostoja. Tarkempia ohjeita markdownin kirjoittamiseen voi halutessa lukea sivulta https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
@@ -31,10 +35,25 @@ Lista tietokannoista:
 
 On erityisen tärkeää, että päivämääriä muokattaessa pidetään aikaformaatti muodossa `YYYY-MM-DD`. Näin kone ymmärtää tapahtumien keskinäisen suhteen, eli mitkä ovat ennen toisia.
 
+**Tätä edemmäs ei sisällöntuottajien välttämättä tarvitse lukea!***
+
 ### Monipuolisempaa sisällön esilletuontia
 Kansiossa `content` on siis kaikki kirjoitus, joka ei ole tietokantamainen. Tässä kansiossa pärjää aika pitkälle pelkästään Markdownilla, mutta jos haluaa lisätä mediaa tai jotain muuta monimutkaisempaa, voi käyttää .md tiedostojen seassa Hugon lyhyitä ohjelmapätkiä (shortcodes). Näiden avulla voi upottaa mm. Youtube- tai Vimeo-videoita tekstiin. Lyhyitä ohjelmapätkiä voi myös tehdä itse tai pyytää, jos on tarve jollekin erikoisemmalle.
 
 Täydet ohjeet löytyvät [Hugon sivuilta](https://gohugo.io/content-management/shortcodes/).
+
+Esimerkiksi Youtuben upottaminen tapahtuu seuraavasti:
+```
+{{< youtube id="GcpiJZKgW8s" class="media">}}
+```
+Sisällön tuottajille hyödyllisiä lyhyitä koodipätkiä:
+
+  - `{{% address %}}` - lisää Bottan osoitteen
+  - {{% bank %}} - lisää pankkitiedot
+  - {{< footnote >}} tekstiä välissä {{< /footnote >}} - pienentää välissä olevan tekstin, tarkoitettu alaviitteille
+  - {{< link facebook|whatsapp|signin >}} - antaa linkin valitsemalle parametrille
+
+On tärkeää huomata, että koodipätkien kanssa on käytettävä oikeaa merkkiä: `%` tai `\< \>`. `%`-merkki kertoo, että renderöidään, ja `\< \>`-merkkiyhdistelmässä ei renderöidä Markdownia. Se kumpi valitaan selviää lähinnä vain itse koodia katsomalla tai juurikin tätä dokumenttia lukemalla.
 
 ### Yleiset useassa kohtaa sivua esiintyvät tiedot
 Yleisesti esiintyvät tiedot löytyvät projektin juurella olevassta tiedostosta [config.yaml](https://github.com/pohjalaisten-tanssikerho/web-page/blob/master/config.yaml) kohdasta params. Tästä tiedostosta löytyvät seuraavat:
@@ -49,17 +68,28 @@ Tiedosto `config.yaml` on kirjoitettu yaml:lla, jonka syntaksi on myös aika hel
 ## Ohjeet kehittäjille
 Sivut on rakennettu käyttäen Hugoa, joka on staattinen sivugeneraattori. Hugo on hyvin dokumentoitu omilla [kotisivuilla](https://gohugo.io), mutta siitä voi olla vaikea oppia. Alkuun pääsemiseksi kannattaa tutustua Hugon [opetusvideoihin Youtubessa](https://www.youtube.com/watch?v=qtIqKaDlqXo&list=PLLAZ4kZ9dFpOnyRlyS-liKL5ReHDcj4G3).
 
-Projekti käyttää [SCSS:ssää](https://sass-lang.com/), joka on CSS:n esiprosessoija. SASS tiedostot löytyvät kansiosta [assets/sass/](https://github.com/pohjalaisten-tanssikerho/web-page/tree/master/assets/sass).
-
 Julkaisussa käytetään [Netlify](https://www.netlify.com/) palvelua. Käytännössä aina kun versionhallintasivuun työnnetään päivityksiä, Netlify rakentaa siitä uudet nettisivut ja julkaisee ne.
 
+Projekti käyttää [SCSS:ssää](https://sass-lang.com/), joka on CSS:n esiprosessoija. SASS tiedostot löytyvät kansiosta [assets/sass/](https://github.com/pohjalaisten-tanssikerho/web-page/tree/master/assets/sass).
+
 Pyrkimys on, että sivut näyttävät hyviltä 320px - 1920px (full hd). Näiden ulkopuolelle kuuluvia laitteita ei tarvitse tukea.
+
+### Suositeltu tapa kehittää sivuja
+Kloonaa projekti paikalliselle koneelle. Hugon mukana tulee palvelin-ohjelma, jolla nettisivuja voi ajaa paikallisesti. Paikallisella palvelimella on se etu, että sivuihin tehdyt muutokset näkyvät välittömästi.
+
+Esimerkiksi jos git ja Hugo on asennettu, voi projektin hakea, ja palvelimen käynnistää seuraavasti:
+```bash
+git clone https://github.com/pohjalaisten-tanssikerho/web-page.git
+cd web-page
+hugo server
+```
+Älä tee muutoksia `public`-kansioon, jonka Hugo rakentaa, kun pelkkä `hugo` komento annetaan. `public`-kansio on se kansio, joka laitetaan palvelimelle, että nettisivut näkyvät maailmalle.
 
 ### Shortcodes
 Kansiossa [shortcodes](https://github.com/pohjalaisten-tanssikerho/web-page/tree/master/layouts/shortcodes) löytyy kasa itse tehtyjä "funktioita".
 
 ### Projektin periaatteita
-On muistettava, että sivua tekevät myös ne henkilöt, joilla ei ole ohjelmointitaustaa tai kiinnostusta ylipäätänsä ohjelmoimiseen. Tämän takia kehittäjän on tehtävä sisällön tuotannosta mahdollisimman yksinkertaista. Sisällön tuottajalta voidaan ainoastaan olettaa ymmärtävän Markdownia ja hieman jsonia, sekä yamlia. Olis hyvä, jos heidän ei tarvitsisi koskaan koskea shortcodeihin tai layoutteihin. Esimerkiksi kaikkialla yleisesti esiintyvä tieto kannatta laittaa `config.yaml` tiedostoon ja sitten shortcodeja niiden hakemiseen. Näin sisällöntuottajan täytyy käsitellä vain `config.yaml` tiedostoa, eikä hänen tarvitse koskaan kurkkia shortcodeihin. Lisäksi tieto pysyy samassa paikassa helposti käsiteltävänä.
+On muistettava, että sivua päivittävät myös ne henkilöt, joilla ei ole ohjelmointitaustaa tai kiinnostusta ylipäätänsä ohjelmoimiseen. Tämän takia kehittäjän on tehtävä sisällön tuotannosta mahdollisimman yksinkertaista. Sisällön tuottajalta voidaan ainoastaan olettaa ymmärtävän Markdownia ja hieman jsonia, sekä yamlia. Olis hyvä, jos heidän ei tarvitsisi koskaan koskea shortcodeihin tai layoutteihin. Esimerkiksi kaikkialla yleisesti esiintyvä tieto laitetaan tiedostoon `config.yaml` ja käytetään shortcodeja niiden hakemiseen. Näin sisällöntuottajan täytyy käsitellä vain `config.yaml` tiedostoa, eikä hänen tarvitse koskaan kurkistaa shortcodeihin. Lisäksi tieto pysyy samassa paikassa helposti käsiteltävänä.
 
 ### Projektin kieli
 Ohjelmoinnissa käytetään englantia, eli muuttajat ja funktioiden nimiet englanniksi. Keskustelu voidaan käydä suomeksi tai englanniksi. Git otsikko-kommentit mieluiten englanniksi noudattaen [näitä ohjeita](https://gist.github.com/robertpainsi/b632364184e70900af4ab688decf6f53). Lyhyesti samat ohjeet:
