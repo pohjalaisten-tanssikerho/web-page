@@ -35,7 +35,7 @@ Lista tietokannoista:
 
 On erityisen tärkeää, että päivämääriä muokattaessa pidetään aikaformaatti muodossa `YYYY-MM-DD`. Näin kone ymmärtää tapahtumien keskinäisen suhteen, eli mitkä ovat ennen toisia.
 
-**Tätä edemmäs ei sisällöntuottajien välttämättä tarvitse lukea!***
+**Tätä edemmäs ei sisällöntuottajien välttämättä tarvitse lukea!**
 
 ### Monipuolisempaa sisällön esilletuontia
 Kansiossa `content` on siis kaikki kirjoitus, joka ei ole tietokantamainen. Tässä kansiossa pärjää aika pitkälle pelkästään Markdownilla, mutta jos haluaa lisätä mediaa tai jotain muuta monimutkaisempaa, voi käyttää .md tiedostojen seassa Hugon lyhyitä ohjelmapätkiä (shortcodes). Näiden avulla voi upottaa mm. Youtube- tai Vimeo-videoita tekstiin. Lyhyitä ohjelmapätkiä voi myös tehdä itse tai pyytää, jos on tarve jollekin erikoisemmalle.
