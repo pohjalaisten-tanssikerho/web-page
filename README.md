@@ -53,7 +53,7 @@ Sisällön tuottajille hyödyllisiä lyhyitä koodipätkiä:
   - {{< footnote >}} tekstiä välissä {{< /footnote >}} - pienentää välissä olevan tekstin, tarkoitettu alaviitteille
   - {{< link facebook|whatsapp|signin >}} - antaa linkin valitsemalle parametrille
 
-On tärkeää huomata, että koodipätkien kanssa on käytettävä oikeaa merkkiä: `%` tai `\< \>`. `%`-merkki kertoo, että renderöidään, ja `\< \>`-merkkiyhdistelmässä ei renderöidä Markdownia. Se kumpi valitaan selviää lähinnä vain itse koodia katsomalla tai juurikin tätä dokumenttia lukemalla.
+On tärkeää huomata, että koodipätkien kanssa on käytettävä oikeaa merkkiä: `%` tai `< >`. `%`-merkki kertoo, että renderöidään, ja `< >`-merkkiyhdistelmässä ei renderöidä Markdownia. Se kumpi valitaan selviää lähinnä vain itse koodia katsomalla tai juurikin tätä dokumenttia lukemalla.
 
 ### Yleiset useassa kohtaa sivua esiintyvät tiedot
 Yleisesti esiintyvät tiedot löytyvät projektin juurella olevassta tiedostosta [config.yaml](https://github.com/pohjalaisten-tanssikerho/web-page/blob/master/config.yaml) kohdasta params. Tästä tiedostosta löytyvät seuraavat:
