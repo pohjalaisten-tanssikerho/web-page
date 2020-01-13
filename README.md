@@ -49,9 +49,9 @@ Esimerkiksi Youtuben upottaminen tapahtuu seuraavasti:
 Sisällön tuottajille hyödyllisiä lyhyitä koodipätkiä:
 
   - `{{% address %}}` - lisää Bottan osoitteen
-  - {{% bank %}} - lisää pankkitiedot
-  - {{< footnote >}} tekstiä välissä {{< /footnote >}} - pienentää välissä olevan tekstin, tarkoitettu alaviitteille
-  - {{< link facebook|whatsapp|signin >}} - antaa linkin valitsemalle parametrille
+  - `{{% bank %}}` - lisää pankkitiedot
+  - `{{< footnote >}}` tekstiä välissä {{< /footnote >}} - pienentää välissä olevan tekstin, tarkoitettu alaviitteille
+  - `{{< link facebook|whatsapp|signin >}}` - antaa linkin valitsemalle parametrille
 
 On tärkeää huomata, että koodipätkien kanssa on käytettävä oikeaa merkkiä: `%` tai `< >`. `%`-merkki kertoo, että renderöidään, ja `< >`-merkkiyhdistelmässä ei renderöidä Markdownia. Se kumpi valitaan selviää lähinnä vain itse koodia katsomalla tai juurikin tätä dokumenttia lukemalla.
 
