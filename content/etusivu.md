@@ -36,9 +36,9 @@ Pohjalaisten valtuuskunta on yhteistyöelin seuraaville osakunnille:
 Osakunnat ovat Helsingin yliopisssa toimivia poikkitieteellisiä opiskelijayhdistyksiä, jotka perinteisesti keräävät jäseniään syntymäpaikkansa mukaan. Nykyään jäsenten taustoilla ei ole suurtakaan merkitystä, mutta edelleen osakunnilla on toisistaan eroava kulttuuri ja tunnelma. Osakunta on loistava paikka tutustua oman syntyseutunsa opiskelijoihin.
 
 {{< center >}}
-{{< figure class="logo" caption="Vasa Nation" alt="Vasa Nation osakunnan vaakuna" link="http://vasa.nation.fi" src="/img/logo/vn.png" width="220px" height="220" >}}
-{{< figure class="logo" caption="Pohjois-Pohjalainen osakunta" alt="Pohjois-Pohjalaisen osakunnan vaakuna" link="http://pohjoispohjalaiset.fi" src="/img/logo/ppo.png" width="220px" height="220" >}}
-{{< figure class="logo" caption="Etelä-Pohjalainen osakunta" alt="Etelä-Pohjalaisen osakunnan vaakuna" link="http://epo.osakunta.fi" src="/img/logo/epoOriginal.png" width="250px" height="220" >}}
+{{< figure class="logo" caption="Vasa Nation" alt="Vasa Nation osakunnan vaakuna" link="http://vasa.nation.fi" src="/img/logo/vn.png" width="220px" height="220px" >}}
+{{< figure class="logo" caption="Pohjois-Pohjalainen osakunta" alt="Pohjois-Pohjalaisen osakunnan vaakuna" link="http://pohjoispohjalaiset.fi" src="/img/logo/ppo.png" width="220px" height="220px" >}}
+{{< figure class="logo" caption="Etelä-Pohjalainen osakunta" alt="Etelä-Pohjalaisen osakunnan vaakuna" link="http://epo.osakunta.fi" src="/img/logo/epoOriginal.png" width="250px" height="220px" >}}
 {{</ center >}}
 
 Osakunnat ovat ensimmäisiä opiskelijajärjestöjä Suomessa. Osakunnat ovat myös suuria: ne omistavat kiinteistöjä, jotka ovat opiskelijoiden käytettävissä. On osuvasti sanottu, että osakunta on opiskelijan olohuone keskellä Helsinkiä. Osakuntien tarkoitus on kehittää opiskelijoiden hyvinvointia mm. harrastusten kautta.
