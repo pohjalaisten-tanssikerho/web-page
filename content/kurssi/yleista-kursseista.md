@@ -15,11 +15,11 @@ Pohjalaisten tanssikerho järjestää lukuvuoden pituisia tanssikursseja, joiden
 
 Alkeiskurssi jakaantuu kahdeksi eri kurssiksi: niille jotka haluavat tanssia oman parin kanssa ja perinteisempään alkeiskurssiin, jossa parit vaihtuvat. Alkeisjatko- ja jatkokurssilla on parinvaihto.
 
-Kuhunkin kurssiin sisältyy **14** opetuskertaa.
+Kuhunkin **kurssiin sisältyy 14 opetuskertaa**.
 
 Kurssimme ovat tarkoitettuja ensisijaisesti opiskelijoille ja Pohjalaisten osakuntien jäsenille. Kursseille voi osallistua myös, vaikka et enää olisikaan opiskelija. Toistaiseksi kaikki halukkaat ovat aina päässeet tanssimaan.
 
-Kausikursseille osallistuminen tekee osallistujasta Pohjalaisten tanssikerhon jäsenen siksi ajaksi, kun kausi kestää. Jäsenenä voi osallistua Pohjalaisten tanssikerhon ja Hämäläis-Osakunnan tanssikerhon järjestämiin tanssibileisiin. Lisäksi jäsenellä on äänioikeus Pohjalaisten tanssikerhon kerhon kokouksissa. Jos Tanssikerhon jäsenyyden haluaa käymättä kursseja, voi kerhon jäseneksi liittyä [kannatusjäsenenä]({{< ref "/kannatusjasenyys.md" >}}). Kannatusjäsenyys hankitaan kalenterivuodeksi.
+Kausikursseille osallistuminen tekee osallistujasta Pohjalaisten tanssikerhon jäsenen siksi ajaksi, kun kausi kestää. **Jäsenenä voi osallistua Pohjalaisten tanssikerhon ja Hämäläis-Osakunnan tanssikerhon järjestämiin tanssibileisiin.** Lisäksi jäsenellä on äänioikeus Pohjalaisten tanssikerhon kerhon kokouksissa. Jos Tanssikerhon jäsenyyden haluaa käymättä kursseja, voi kerhon jäseneksi liittyä [kannatusjäsenenä]({{< ref "/kannatusjasenyys.md" >}}). Kannatusjäsenyys hankitaan kalenterivuodeksi.
 
 Kaikkia kurssilaisia kehotetaan liittymään tanssikerhon [sähköpostilistalle]({{< ref "/sahkopostilista.md" >}}). Listan kautta tiedotetaan mm. mahdollisista muutoksista kurssien aikatauluihin! Muita kerholaisia ja vapaampaa tanssikeskustelua löydät myös kerhon [Facebook-]({{< link facebook >}}) ja [Whatsapp-ryhmästä]({{< link whatsapp >}}). Kannattaa käydä katsomassa myös [tapahtumat-sivua]({{< ref "/tapahtumat.md" >}}).
 
