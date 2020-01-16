@@ -86,6 +86,12 @@
     font-size: 18px;
     font-weight: bold;
   }
+  .vertical-text {
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+    font-size: 11px;
+    white-space: nowrap;
+  }
   .list {
     h3 {
       font-size: 16px;

@@ -47,25 +47,35 @@
   <tr>
     <th>Alkeet</th>
     {{ range $courses }}
+    {{ if eq .message "" }}
     <td class="trigger">{{ .alkeet }}</td>
+    {{ else }}
+    <td rowspan="4" class="trigger"><span class="vertical-text">{{ .message | upper }}</span></td>
+    {{ end }}
     {{ end }}
   </tr>
   <tr>
     <th>Alkeet <br> oma pari</th>
     {{ range $courses }}
+    {{ if eq .message "" }}
     <td class="trigger">{{ .alkeetOma }}</td>
+    {{ end }}
     {{ end }}
   </tr>
   <tr>
     <th>Alkeisjatko</th>
     {{ range $courses }}
+    {{ if eq .message "" }}
     <td>{{ .alkeisjatko }}</td>
+    {{ end }}
     {{ end }}
   </tr>
   <tr>
     <th>Jatko</th>
     {{ range $courses }}
+    {{ if eq .message "" }}
     <td>{{ .jatko }}</td>
+    {{ end }}
     {{ end }}
   </tr>
 </table>
