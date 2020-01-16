@@ -33,7 +33,7 @@ Pohjalaisten valtuuskunta on yhteistyöelin seuraaville osakunnille:
   - [Pohjois-Pohjalanen osakunta](http://pohjoispohjalaiset.fi) (PPO)
   - [Etelä-Pohjalainen osakunta](http://epo.osakunta.fi) (EPO)
 
-Osakunnat ovat Helsingin yliopisssa toimivia poikkitieteellisiä opiskelijayhdistyksiä, jotka perinteisesti keräävät jäseniään syntymäpaikkansa mukaan. Nykyään jäsenten taustoilla ei ole suurtakaan merkitystä, mutta edelleen osakunnilla on toisistaan eroava kulttuuri ja tunnelma. Osakunta on loistava paikka tutustua oman syntyseutunsa opiskelijoihin.
+Osakunnat ovat Helsingin yliopistossa toimivia poikkitieteellisiä opiskelijayhdistyksiä, jotka perinteisesti keräävät jäseniään syntymäpaikkansa mukaan. Nykyään jäsenten taustoilla ei ole suurtakaan merkitystä, mutta edelleen osakunnilla on toisistaan eroava kulttuuri ja tunnelma. Osakunta on loistava paikka tutustua oman syntyseutunsa opiskelijoihin.
 
 {{< center >}}
 {{< figure class="logo" caption="Vasa Nation" alt="Vasa Nation osakunnan vaakuna" link="http://vasa.nation.fi" src="/img/logo/vn.png" width="220" height="220" >}}
