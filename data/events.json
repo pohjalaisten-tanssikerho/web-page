@@ -20,9 +20,19 @@
     "date": "2020-03-27"
   },
   {
+    "title": "Ei kursseja",
+    "description": "EPO:n vuosijuhlaviikko. Tanssikursseja ei pidetä!",
+    "date": "2020-03-17"
+  },
+  {
     "title": "Viikin tanssit",
     "description": "Kello 18:00 - 23:00. Biologiankatu 5, Helsinki.",
     "date": "2020-03-06"
+  },
+  {
+    "title": "Ei kursseja",
+    "description": "VN:n vuosijuhlaviikko. Tanssikursseja ei pidetä!",
+    "date": "2020-02-25"
   },
   {
     "title": "HOT-tanssibileet ALUSTAVA",
@@ -33,6 +43,11 @@
     "title": "Viikin tanssit",
     "description": "Kello 18:00 - 23:00. Biologiankatu 5, Helsinki.",
     "date": "2020-02-07"
+  },
+  {
+    "title": "Ei kursseja",
+    "description": "PPO:n vuosijuhlaviikko. Tanssikursseja ei pidetä!",
+    "date": "2020-02-04"
   },
   {
     "title": "POT-tanssibileet",
