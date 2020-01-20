@@ -66,11 +66,11 @@
     width: $section-width;
     margin: 0 auto;
     border: 2px solid $lightblue;
+    border-radius: 4px;
     overflow: auto;
     margin-bottom: 36px;
     p {
       padding-top: 0;
-      // padding: 2em;
     }
     .content {
       width: ($section-width / 2 - 1px);
@@ -78,13 +78,11 @@
       float: left;
       padding: $section-height-padding 0;
       background: $opacity-half;
-      // height: 655px - 2 * $section-height-padding;
     }
     .image {
       background-size: cover;
       float: left;
-      width: 375px;
-      // height: 655px;
+      width: 373px;
     }
   }
   .mobile {

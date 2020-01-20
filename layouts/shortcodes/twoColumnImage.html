@@ -3,6 +3,7 @@
   <div class="image" style="
                             height: {{ add (int (.Get `height`)) 32 }}px;
                             background-image: url('/img/picture/desktop/{{ .Get `src` }}');
+                            border-right: 2px solid #0b3c5d;
                             "></div>
   <div class="content" style="height: {{ (.Get `height`) }}px;">{{ .Inner | markdownify }}</div>
   {{ end }}
@@ -12,6 +13,7 @@
   <div class="image" style="
                             height: {{ add (int (.Get `height`)) 32 }}px;
                             background-image: url('/img/picture/desktop/{{ .Get `src` }}');
+                            border-left: 2px solid #0b3c5d;
                             "></div>
   {{ end }}
 </section>
