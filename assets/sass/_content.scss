@@ -56,9 +56,53 @@
   table {
     margin: 30px auto;
   }
+  $section-width: 748px;
+  $section-height-padding: 16px;
+  section.desktop {
+    display: none;
+    @media only screen and (min-width: 768px) {
+      display: block;
+    }
+    width: $section-width;
+    margin: 0 auto;
+    border: 2px solid $lightblue;
+    overflow: auto;
+    margin-bottom: 36px;
+    p {
+      padding-top: 0;
+      // padding: 2em;
+    }
+    .content {
+      width: ($section-width / 2 - 1px);
+      display: inline-block;
+      float: left;
+      padding: $section-height-padding 0;
+      background: $opacity-half;
+      // height: 655px - 2 * $section-height-padding;
+    }
+    .image {
+      background-size: cover;
+      float: left;
+      width: 375px;
+      // height: 655px;
+    }
+  }
+  .mobile {
+    display: none;
+    @media only screen and (max-width: 767px) {
+      display: block;
+    }
+    .media {
+      margin: 16px auto;
+      height: auto;
+      width: 100%;
+      padding-left: 0;
+      padding-right: 0;
+      border: 2px solid $lightblue;
+    }
+  }
   figure {
     text-align: center;
-    max-width: 320px;
     margin: 0 auto;
   }
   .footnote {
