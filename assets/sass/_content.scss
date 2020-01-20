@@ -344,13 +344,14 @@
     padding: 1em;
     width: 400px;
     margin: 0 20px;
+    p {
+      margin: 0;
+      padding: 0;
+    }
     @media only screen and (max-width: 780px) {
       max-width: 250px;
       margin-bottom: 24px;
       margin: 0 auto 24px auto;
-    }
-    :last-child {
-      margin-top: 24px;
     }
   }
   .board-member {
