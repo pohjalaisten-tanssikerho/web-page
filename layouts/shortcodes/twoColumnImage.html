@@ -1,0 +1,23 @@
+<section class="desktop">
+  {{ if eq (.Get "imgPlacement") "left" }}
+  <div class="image" style="
+                            height: {{ add (int (.Get `height`)) 32 }}px;
+                            background-image: url('/img/picture/desktop/{{ .Get `src` }}');
+                            "></div>
+  <div class="content" style="height: {{ (.Get `height`) }}px;">{{ .Inner | markdownify }}</div>
+  {{ end }}
+
+  {{ if eq (.Get "imgPlacement") "right" }}
+  <div class="content" style="height: {{ (.Get `height`) }}px;">{{ .Inner | markdownify }}</div>
+  <div class="image" style="
+                            height: {{ add (int (.Get `height`)) 32 }}px;
+                            background-image: url('/img/picture/desktop/{{ .Get `src` }}');
+                            "></div>
+  {{ end }}
+</section>
+<div class="mobile">
+  {{ .Inner | markdownify }}
+  <figure>
+    <img class="media" src="/img/picture/mobile/{{ .Get `src` }}" >
+  </figure>
+</div>
