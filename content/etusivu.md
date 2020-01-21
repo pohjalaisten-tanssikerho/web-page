@@ -10,7 +10,7 @@ description: "Opetusta, bileitä ja ekskursioita. Pohjalaisten tanssikerho tuo o
 {{< events >}}
 {{< /wideContent  >}}
 
-{{< twoColumnImage imgPlacement="right" height="655" src="hanne-juuso.jpg" >}}
+{{< twoColumnImage imgPlacement="right" height="655" src="annika-juuso.jpg" >}}
 ## Paritanssin huumaa pohjalaismielisille opiskelijoille!
 Paritanssi on hauska, sosiaalinen ja liikunnallinen harrastus, jossa viihtyy jokainen. Tanssi on aina ollut osa kulttuuria ja historiaa, ja täten myös sivistystä. Jokainen törmää paritansseihin viimeistään elämänsä kohokohdissa, joista tunnetuimmat lienevät häiden valssit ja lukion vanhojen tanssit. Kansantanssijoihinkin saattaa törmätä Helsingin keskustassa ja välimeren lomakohteilla salsa on tuttu näky.
 

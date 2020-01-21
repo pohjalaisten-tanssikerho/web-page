@@ -1,3 +1,13 @@
-<div class="wide-content {{ .Get `class` }}">
+{{ if eq ( .Get "class" ) "frontpage" }}
+{{ with .Site.GetPage "/etusivu.md" }}
+<div class="jumbotron">
+  <h1 class="main-header">{{ .Title }}</h1>
+  <p><em>{{ .Description }}</em></p>
+  {{ end }}
+  {{ end }}
+  <div class="wide-content {{ .Get `class` }}">
     {{ .Inner }}
+  </div>
+  {{ if eq ( .Get "class" ) "frontpage" }}
 </div>
+{{ end }}

@@ -3,8 +3,6 @@
 
 {{ define "main" }}
 {{ with .Site.GetPage "/etusivu.md" }}
-<h1 class="main-header">{{ .Title }}</h1>
-<p><em>{{ .Description }}</em></p>
 {{ .Content }}
 {{ end }}
 {{ end }}
