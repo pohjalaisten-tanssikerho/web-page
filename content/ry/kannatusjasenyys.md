@@ -13,7 +13,7 @@ Kannatusjäsenmaksun suuruus on vähintään 10 euroa ja se maksetaan tanssikerh
 
 {{% bank %}}
 
-Käytä viitenumeroa 9991. [Ilmoita]({{< link signin >}}) maksusta, jotta sinut tiedetään liittää rekisteriin ja sitä myötä myös jäseneksi. Huomaa, että 10 euron maksu on vähintään mikä pitää maksaa, että jäsenyyden saa. Taloudelliseen avustukseen Tanssikerho hyväksyy minkä tahansa summan.
+Käytä viitenumeroa 9991. Maksun jälkeen [ilmoita itsesi]({{< link signin >}}), jotta sinut tiedetään lisätä rekisteriin ja sitä myötä jäseneksi. Huomaa, että 10 euron maksu on vähintään mikä pitää maksaa, että jäsenyyden saa. Taloudelliseen avustukseen Tanssikerho hyväksyy minkä tahansa summan.
 
 Kannatusjäsenyys on voimassa koko kalenterivuoden, toisin kuin kausikursseja käymällä saatu jäsenyys, joka on voimassa vain kurssikauden ajan.
 
