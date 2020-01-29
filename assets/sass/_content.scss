@@ -1,7 +1,7 @@
 .content {
   background-image: url("/img/bg.jpg");
   background-position: center;
-  // padding: 2em 0;
+  padding-bottom: 2em;
   h1, h2, h3, h4, h5, h6, p, pre, ul, ol, .footnote, .media {
     max-width: $text-width;
     padding: 0 16px;
@@ -148,7 +148,7 @@
     white-space: nowrap;
   }
   .list {
-    padding: 2em 0;
+    padding-top: 2em;
     h3 {
       font-size: 16px;
       font-weight: normal;
