@@ -10,5 +10,7 @@ Mikäli tahdot osallistua paritanssin alkeiskurssille yhdessä oman parisi kanss
 
 [Täytä kurssi-ilmoittautuminen]({{< link signin >}}) ja tule kursseille!
 
+{{% courseMeta alkeetOma %}}
+
 ## Kurssiaikataulu ja lajit
 {{< course alkeetOma >}}

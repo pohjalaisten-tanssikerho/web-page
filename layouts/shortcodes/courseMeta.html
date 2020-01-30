@@ -1,0 +1,13 @@
+{{ if eq (.Get 0) "all" }}
+<ul>
+{{ range .Site.Data.coursesMeta }}
+{{ $course := index . 0 }}
+  <li> {{ $course.name }} kello {{ $course.start }} - {{ $course.end }} </li>
+{{ end }}
+</ul>
+{{ else }}
+{{ $course := index .Site.Data.coursesMeta (.Get 0) }}
+{{ range $course }}
+Kurssin ohjaajana toimii {{ .teacher }}. Kurssi on tiistaisin ja alkaa kello {{ .start }} ja loppuu kello {{ .end }}.
+{{ end }}
+{{ end }}

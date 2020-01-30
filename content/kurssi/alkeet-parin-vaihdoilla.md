@@ -10,5 +10,12 @@ Alkeiskurssille voi osallistua ilman minkäänlaista aiempaa tanssikokemusta ja 
 
 [Täytä kurssi-ilmoittautuminen]({{< link signin >}}) ja tule kursseille!
 
+{{% courseMeta alkeet %}}
+
+  - alkeet klo 17-18:30
+  - alkeet (oma pari) klo 18:30-20
+  - alkeisjatko klo 17-18:30
+  - jatko klo 18:30-20
+
 ## Kurssiaikataulu ja lajit
 {{< course alkeet >}}

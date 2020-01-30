@@ -12,5 +12,7 @@ Jatkokurssilla on kiertävä parin vaihto!
 
 [Täytä kurssi-ilmoittautuminen]({{< link signin >}}) ja tule kursseille!
 
+{{% courseMeta jatko %}}
+
 ## Kurssiaikataulu ja lajit
 {{< course alkeet >}}

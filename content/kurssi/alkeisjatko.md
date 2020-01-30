@@ -12,5 +12,7 @@ Alkeisjatkokurssilla on kiertävä parin vaihto!
 
 [Täytä kurssi-ilmoittautuminen]({{< link signin >}}) ja tule kursseille!
 
+{{% courseMeta alkeisjatko %}}
+
 ## Kurssiaikataulu ja lajit
 {{< course alkeisjatko >}}

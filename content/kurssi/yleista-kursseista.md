@@ -44,12 +44,9 @@ Ota talteen kuitti ja pidä se mukana kursseilla, kunnes maksut on tarkistettu.
 {{< /footnote >}}
 
 ## Kurssiaikataulu ja lajit
+Kaikki kurssit ovat tiistaisin.
 
-  - alkeet klo 17-18:30
-  - alkeet (oma pari) klo 18:30-20
-  - alkeisjatko klo 17-18:30
-  - jatko klo 18:30-20
-
+{{< courseMeta all >}}
 {{< courses all >}}
 
 Tanssikerholla opetettavista lajeista lisää omalla [blogi-sivulla]({{< ref "/blogi/tanssilajit.md" >}}).
