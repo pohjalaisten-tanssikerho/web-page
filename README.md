@@ -1,14 +1,19 @@
 # Pohjalaisten tanssikerhon nettisivut
 Nettisivut ovat elossa väliaikaisessa osoitteessa: https://musing-ardinghelli-ad83b1.netlify.com
 
-Sisällön tuottajan tarvitsee lukea ainoastaan kohdat "Ohjeet sisällön tuottajille" ja "Tietokantojen muokkaus", **eli ohjeiden määrästä huolimatta luettavaa ei oikeasti ole paljon.** Lukemista kannattaa jatkaa vain, jos haluaa syventää tietoa tai jos on kiinnostunut kehittämään nettisivuja muulla tavalla kuin sisältöä tuottamalla.
-
-Ainakin yhden hallituksessa kannattaa lukea "Yleiset useassa kohtaa sivua esiintyvät tiedot" kohtaan asti. Tässä kohdassa kerrotaan ilmoittautumislomakelinkin päivittämisestä.
+Sisällön tuottajan tarvitsee lukea ainoastaan kohdat "Ohjeet sisällön tuottajille" ja "Tietokantojen muokkaus". Lukemista kannattaa jatkaa vain, jos haluaa syventää tietoa tai jos on kiinnostunut kehittämään nettisivuja muulla tavalla kuin sisältöä tuottamalla.
 
 ## Ohjeet sisällön tuottajille
-Suurin osa sivujen sisällöstä löytyy kansiosta [content](https://github.com/pohjalaisten-tanssikerho/web-page/tree/master/content). Tiedostot ovat .md muodossa, eli ovat muotoa Markdown. Markdown on erittäin helppo tapa kirjoittaa muotoiltua tekstiä. Yleensä idean nappaa pelkästään katsomalla jo kirjoitettuja .md tiedostoja. Tarkempia ohjeita markdownin kirjoittamiseen voi halutessa lukea sivulta https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+Suurin osa sivujen sisällöstä löytyy kansiosta [content](https://github.com/pohjalaisten-tanssikerho/web-page/tree/master/content) ja kansiosta [data](https://github.com/pohjalaisten-tanssikerho/web-page/tree/master/data).
 
-Eli [content](https://github.com/pohjalaisten-tanssikerho/web-page/tree/master/content) kansion tiedostoja muokkaamalla päivitetään nettisivujen sisältöä. Ohjeet muokkaukseen:
+Kansiossa `content` tiedostot ovat tyyppiä Markdown. Kansiossa `data` tiedostot ovat tyyppiä JSON. Näiden päätteet ovat .md ja .json.
+
+Tiedostot `content`-kansiossa edustavat kirjoitettua tekstiä ja `data` tietokantaa. Voidaan ajatella, että kaikki esseemäinen kirjoitus on `content`-kansiossa ja kaikki listattavat asiat löytyvät `data`-kansiosta.
+
+### Sisällön muokkaus
+Markdown on erittäin helppo tapa kirjoittaa muotoiltua tekstiä. Yleensä idean nappaa pelkästään katsomalla jo kirjoitettuja .md tiedostoa. Tarkempia ohjeita Markdownin kirjoittamiseen voi halutessa lukea sivulta https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+Eli [content](https://github.com/pohjalaisten-tanssikerho/web-page/tree/master/content) kansion tiedostoja muokkaamalla päivitetään nettisivujen kirjoitettua (esseemäistä) sisältöä. Ohjeet muokkaukseen:
 
   1. kirjaudu sisään potin tunnareilla \*
   2. valitse .md tiedosto, jota haluat muokata
@@ -18,12 +23,18 @@ Eli [content](https://github.com/pohjalaisten-tanssikerho/web-page/tree/master/c
 
 Muutokset tulevat nettisivuille muutaman minuutin kuluttua. Muista uudelleen päivittää sivut.
 
-\* On mahdollista muokata nettisivuja myös omilla tunnuksilla. Kerro tunnuksesi projektin omistajalle @Gredu , niin sinut voidaan lisätä kehittäjäryhmään, jolloin päivityksesi hyväksytään automaattisesti ilman tarkistusta. Oikeastaan on suositeltavampaa, että muokkaukset tehtäisiin omilla tunnuksilla. Tällöin nähdään kuka on tehnyt mitkäkin muutokset.
+\* On mahdollista muokata nettisivuja myös omilla tunnuksilla. Kerro tunnuksesi projektin omistajalle @Gredu , niin sinut voidaan lisätä kehittäjäryhmään, jolloin päivityksesi hyväksytään automaattisesti ilman tarkistusta.
+
+Jokaisen .md tiedoston alussa on kolme viivaa `---`. Älä välitä näistä viivoista tai muuta mitään, mikä on viivojen välissä.
+
+Vinkkinä vielä, kuinka löytää oikea tiedosto mitä muokata. Katso osoiterivin loppupäätä, esim. jos osoite on: https://musing-ardinghelli-ad83b1.netlify.com/blogi/tanssilajit voi tästä nähdä, että loppupää on `/blogi/tanssilajit`. Tästä voi arvata, että tähän sivuun vaikuttaa tiedosto `/content/blogi/tanssilajit.md`.
 
 ### Tietokantojen muokkaus
-Sisältö löytyy `content` kansion sisältä, mutta tietokantamainen sisältö `data` kansiosta. Tietokannoissa oleva tieto liittyy yleensä asioihin, joita voi listata.
+Tietokantamainen sisältö löytyy [data](https://github.com/pohjalaisten-tanssikerho/web-page/tree/master/data) kansiosta.
 
-Tietokanta on kirjoitettu .json muodossa, joka on yhtä helppo ymmärtää kuin Markdown. Syntaksin yleensä ymmärtää jo vain katsomalla tiedostoa. Ongelma jsonin kanssa on vain se, että sitä on helppo kirjoittaa vahingossa väärin. Jos sivut eivät päivity .json tiedoston muokkauksen jälkeen, on todennäköistä, että olet tehnyt kirjoitusvirheen. Jos virheeseen on epäilys, kopioi koko .json tiedosto [tarkastajaan](https://jsonlint.com/), joka katsoo mahdolliset kirjoitusvirheet.
+Tietokanta on kirjoitettu .json muodossa. Tämänkin kirjoitustavan (syntaksin) ymmärtää yleensä jo vain katsomalla tiedostoa. Ongelma JSONin kanssa on vain se, että sitä on helppo kirjoittaa vahingossa väärin. Jos sivut eivät päivity .json tiedoston muokkauksen jälkeen, on todennäköistä, että olet tehnyt kirjoitusvirheen. Jos virheeseen on epäilys, kopioi koko .json tiedosto sisältö [tarkastajaan](https://jsonlint.com/), joka katsoo mahdolliset kirjoitusvirheet.
+
+Yleisin virhe JSONin kanssa on, että on laittanut vahingossa ylimääräisiä pilkkuja. Minkä tahansa listauksen viimeisimpään kohtaan ei tule pilkkua.
 
 Lista tietokannoista:
 
@@ -31,27 +42,38 @@ Lista tietokannoista:
   - [oldBoard.json](https://github.com/pohjalaisten-tanssikerho/web-page/blob/master/data/oldBoard.json) - edeltävät hallituksen jäsenet
   - [events.json](https://github.com/pohjalaisten-tanssikerho/web-page/blob/master/data/events.json) - tapahtumat ja tiedotteet
   - [courses.json](https://github.com/pohjalaisten-tanssikerho/web-page/blob/master/data/courses.json) - kurssiajat ja lajit
-  - [prices/](https://github.com/pohjalaisten-tanssikerho/web-page/blob/master/data/prices) - kurssien hinnat omissa tiedostoissa
+  - [courseMeta.json](https://github.com/pohjalaisten-tanssikerho/web-page/blob/master/data/courseMeta.json) - kurssien alkamisajat ja loppumisajat, sekä kurssien opettajat
+  - [prices/](https://github.com/pohjalaisten-tanssikerho/web-page/blob/master/data/prices/) - kurssien hinnat omissa tiedostoissa
 
 On erityisen tärkeää, että päivämääriä muokattaessa pidetään aikaformaatti muodossa `YYYY-MM-DD`. Näin kone ymmärtää tapahtumien keskinäisen suhteen, eli mitkä ovat ennen toisia.
 
 **Tätä edemmäs ei sisällöntuottajien välttämättä tarvitse lukea!**
 
-### Monipuolisempaa sisällön esilletuontia
-Kansiossa `content` on siis kaikki kirjoitus, joka ei ole tietokantamainen. Tässä kansiossa pärjää aika pitkälle pelkästään Markdownilla, mutta jos haluaa lisätä mediaa tai jotain muuta monimutkaisempaa, voi käyttää .md tiedostojen seassa Hugon lyhyitä ohjelmapätkiä (shortcodes). Näiden avulla voi upottaa mm. Youtube- tai Vimeo-videoita tekstiin. Lyhyitä ohjelmapätkiä voi myös tehdä itse tai pyytää, jos on tarve jollekin erikoisemmalle.
+#### Uuden tapahtuman luominen
+Tapahtumat ovat tiedostossa [events.json](https://github.com/pohjalaisten-tanssikerho/web-page/blob/master/data/events.json). Ei ole väliä mihin kohtaan uuden tapahtuman tiedostossa laittaa, mutta on suositeltavaa, että ne laitetaan oikeassa aika järjestyksessä. Koneelle sillä ei ole mitään väliä, mutta ihmisille se on.
 
-Täydet ohjeet löytyvät [Hugon sivuilta](https://gohugo.io/content-management/shortcodes/).
+#### Ilmoittautumislinkin päivittäminen
+Ilmoittautumislinkki päivitetään tiedostoon [config.yaml](https://github.com/pohjalaisten-tanssikerho/web-page/blob/master/config.yaml). Linkki laitetaan kohtaan `address` ja lainausmerkkien väliin.
+
+#### Hallitussivun päivittäminen
+Hallituksen jäsenet löytyvät tietokannasta [board.json](https://github.com/pohjalaisten-tanssikerho/web-page/blob/master/data/board.json). Kuvan saa henkilölle laittamalla kuvan kansioon [board](https://github.com/pohjalaisten-tanssikerho/web-page/tree/master/static/img/board) ja viittaamalla siihen kentästä `pictures` board.json tiedostossa. Kuvan tulee olla 214px x 220px tai samassa suhteessa.
+
+### Monipuolisempaa sisällön esilletuontia
+Palataan takaisin kansioon [content](https://github.com/pohjalaisten-tanssikerho/web-page/tree/master/content). Tässä kansiossa on siis kaikki Markdown tiedostot. Tämän projektin tapauksessa näihin tiedostoihin voi kirjoittaa muutakin kuin Markdownia. Kirjoittaa voi esimerkiksi Hugon lyhyitä koodiapätkiä (shortcodes). Näiden avulla voi upottaa mm. Youtube- tai Vimeo-videoita tekstiin. Lyhyitä ohjelmapätkiä voi myös tehdä itse tai pyytää, jos on tarve jollekin erikoisemmalle.
+
+Ohjeet Hugon omille koodeille [Hugon sivuilta](https://gohugo.io/content-management/shortcodes/).
 
 Esimerkiksi Youtuben upottaminen tapahtuu seuraavasti:
 ```
 {{< youtube id="GcpiJZKgW8s" class="media">}}
 ```
-Sisällön tuottajille hyödyllisiä lyhyitä koodipätkiä:
+Käyttökelpoisimmat koodipätkät on kuitenkin tehty itse. Sisällön tuottajat saattavat olla kiinnostuneita seuraavista koodipätkistä:
 
   - `{{% address %}}` - lisää Bottan osoitteen
   - `{{% bank %}}` - lisää pankkitiedot
   - `{{< footnote >}} tekstiä välissä {{< /footnote >}}` - pienentää välissä olevan tekstin, tarkoitettu alaviitteille
   - `{{< link facebook|whatsapp|signin >}}` - antaa linkin valitsemalle parametrille
+  - {{< twoColumnImage imgPlacemenet="left|right" height="n" src="url" >}} - kuva ja teksti kahdessa sarakkeessa, src osoittaa kansioon https://github.com/pohjalaisten-tanssikerho/web-page/tree/master/static/img/picture jossa on `mobile` ja `desktop` kansiot, kummassakin oltava saman nimiset kuvat, height kertoo kuvan pituuden
 
 On tärkeää huomata, että koodipätkien kanssa on käytettävä oikeaa merkkiä: `%` tai `< >`. `%`-merkki kertoo, että renderöidään, ja `< >`-merkkiyhdistelmässä ei renderöidä Markdownia. Se kumpi valitaan selviää lähinnä vain itse koodia katsomalla tai juurikin tätä dokumenttia lukemalla.
 
