@@ -73,7 +73,7 @@ Käyttökelpoisimmat koodipätkät on kuitenkin tehty itse. Sisällön tuottajat
   - `{{% bank %}}` - lisää pankkitiedot
   - `{{< footnote >}} tekstiä välissä {{< /footnote >}}` - pienentää välissä olevan tekstin, tarkoitettu alaviitteille
   - `{{< link facebook|whatsapp|signin >}}` - antaa linkin valitsemalle parametrille
-  - {{< twoColumnImage imgPlacemenet="left|right" height="n" src="url" >}} - kuva ja teksti kahdessa sarakkeessa, src osoittaa kansioon https://github.com/pohjalaisten-tanssikerho/web-page/tree/master/static/img/picture jossa on `mobile` ja `desktop` kansiot, kummassakin oltava saman nimiset kuvat, height kertoo kuvan pituuden
+  - `{{< twoColumnImage imgPlacemenet="left|right" height="n" src="url" >}}` - kuva ja teksti kahdessa sarakkeessa, src osoittaa kansioon https://github.com/pohjalaisten-tanssikerho/web-page/tree/master/static/img/picture jossa on `mobile` ja `desktop` kansiot, kummassakin oltava saman nimiset kuvat, height kertoo kuvan pituuden
 
 On tärkeää huomata, että koodipätkien kanssa on käytettävä oikeaa merkkiä: `%` tai `< >`. `%`-merkki kertoo, että renderöidään, ja `< >`-merkkiyhdistelmässä ei renderöidä Markdownia. Se kumpi valitaan selviää lähinnä vain itse koodia katsomalla tai juurikin tätä dokumenttia lukemalla.
 
