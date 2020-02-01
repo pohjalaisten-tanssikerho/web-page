@@ -88,7 +88,8 @@ collections:
           # - { label: "Kuva", name: "picture", widget: "string" }
           # - { label: "Rooli", name: "role", widget: "string" }
           # - { label: "Sähköposti", name: "email", widget: "string" }
-          - { label: "Body", name: "body", widget: "code", default_language: "json" }
+          # - { label: "Body", name: "body", widget: "code", default_language: "json" }
+          - { label: "Body", name: "body", widget: "markdown" }
       # - name: "events"
       #   label: "Tapahtumat"
       #   file: "data/events.json"
