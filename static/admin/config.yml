@@ -24,19 +24,16 @@ collections:
         file: "content/etusivu.md"
         fields: 
           - { label: "Body", name: "body", widget: "markdown" }
-    files:
       - name: "hallitus"
         label: "Etusivu"
         file: "content/hallitus.md"
         fields: 
           - { label: "Body", name: "body", widget: "markdown" }
-    files:
       - name: "tapahtumat"
         label: "Tapahtumat"
         file: "content/tapahtumat.md"
         fields: 
           - { label: "Body", name: "body", widget: "markdown" }
-    files:
       - name: "sahkopostilista"
         label: "Sähköpostilista"
         file: "content/sahkopostilista.md"
