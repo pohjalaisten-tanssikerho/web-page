@@ -85,7 +85,7 @@ collections:
         fields:
           name: "member"
           label: "Jäsen"
-          widget: "list"
+          # widget: "list"
           fields:
             - { label: "Etunimi", name: "firstname", widget: "string" }
             - { label: "Sukunimi", name: "lastname", widget: "string" }
