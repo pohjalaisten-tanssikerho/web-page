@@ -92,12 +92,12 @@ collections:
             - { label: "Kuva", name: "picture", widget: "string" }
             - { label: "Rooli", name: "role", widget: "string" }
             - { label: "Sähköposti", name: "email", widget: "string" }
-      - name: "courseMeta"
-        label: "Kurssi-info"
-        file: "data/coursesMeta.json"
-        fields:
-          name: "course"
-          label: "Kurssi"
+      # - name: "courseMeta"
+      #   label: "Kurssi-info"
+      #   file: "data/coursesMeta.json"
+      #   fields:
+      #     name: "course"
+      #     label: "Kurssi"
           # widget: "list"
           # fields:
           #   - { label: "Nimi", name: "name", widget: "string" }
