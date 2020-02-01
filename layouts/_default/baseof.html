@@ -7,12 +7,13 @@
     <link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}" media="screen">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <title>Pohjalaisten Tanssikerho</title>
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   </head>
   <body>
 
     <div class="container">
 
-    {{ block "header" . }}
+      {{ block "header" . }}
       <nav>
         <div class="left"></div>
         <div class="middle">
@@ -60,48 +61,60 @@
       </nav>
       {{ end }}
 
-    <div class="content">
-    {{ block "main" . }} {{ end }}
+      <div class="content">
+        {{ block "main" . }} {{ end }}
+      </div>
+
+      {{ block "footer" . }}
+      <div class="footer">
+
+        <div class="general">
+          <h2 class="sub-header">Pohjalaisten tanssikerho ry</h2>
+          <ul>
+            {{ range .Site.Taxonomies.categories.ry }}
+            <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></li>
+            {{ end }}
+          </ul>
+        </div>
+
+        <div class="some">
+          <h2>Yhteystiedot ja some</h2>
+          <ul>
+            <li><a href="https://www.facebook.com/groups/pot.tanssikerho/">Facebook</a></li>
+            <li><a href="https://chat.whatsapp.com/GW5RsQ8aocE29pmXUCY229">WhatsApp</a></li>
+            <li><a href="{{ ref . "sahkopostilista.md" }}">Sähköpostilista</a></li>
+            <li><a>pohjalaistentanssikerho . ry (ät) gmail . com</a></li>
+          </ul>
+        </div>
+
+        <div class="contacts">
+          <h2>Osoite</h2>
+          <ul>
+            <li>
+              <span>{{ .Site.Params.address }}</span>
+            </li>
+            <li><a href="https://reittiopas.hsl.fi/T%C3%B6%C3%B6l%C3%B6nkatu%203%2C%20Helsinki%3A%3A60.173962%2C24.931228/-/lahellasi">Avaa Reittioppaalla</a></li>
+            <li><a href="https://www.google.com/maps/place/T%C3%B6%C3%B6l%C3%B6nkatu+3,+00101+Helsinki/">Avaa Google Mapsilla</a></li>
+          </ul>
+        </div>
+
+        <div class="bottom-fill"></div>
+
+      </div>
+      {{ end }}
     </div>
 
-    {{ block "footer" . }}
-    <div class="footer">
-
-      <div class="general">
-        <h2 class="sub-header">Pohjalaisten tanssikerho ry</h2>
-        <ul>
-          {{ range .Site.Taxonomies.categories.ry }}
-          <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></li>
-          {{ end }}
-        </ul>
-      </div>
-
-      <div class="some">
-        <h2>Yhteystiedot ja some</h2>
-        <ul>
-          <li><a href="https://www.facebook.com/groups/pot.tanssikerho/">Facebook</a></li>
-          <li><a href="https://chat.whatsapp.com/GW5RsQ8aocE29pmXUCY229">WhatsApp</a></li>
-          <li><a href="{{ ref . "sahkopostilista.md" }}">Sähköpostilista</a></li>
-          <li><a>pohjalaistentanssikerho . ry (ät) gmail . com</a></li>
-        </ul>
-      </div>
-
-      <div class="contacts">
-        <h2>Osoite</h2>
-      <ul>
-        <li>
-          <span>{{ .Site.Params.address }}</span>
-        </li>
-        <li><a href="https://reittiopas.hsl.fi/T%C3%B6%C3%B6l%C3%B6nkatu%203%2C%20Helsinki%3A%3A60.173962%2C24.931228/-/lahellasi">Avaa Reittioppaalla</a></li>
-        <li><a href="https://www.google.com/maps/place/T%C3%B6%C3%B6l%C3%B6nkatu+3,+00101+Helsinki/">Avaa Google Mapsilla</a></li>
-      </ul>
-      </div>
-
-      <div class="bottom-fill"></div>
-
-    </div>
-    {{ end }}
-</div>
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
 
   </body>
 </html>
