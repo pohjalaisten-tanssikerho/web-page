@@ -16,8 +16,28 @@ collections:
       - { label: "Categories", name: "categories", widget: "hidden", default: "['blogi']"}
       - { label: "Description", name: "description", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
+  - name: "kurssi"
+    label: "Kurssit"
+    folder: "content/blogi"
+    create: false
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Categories", name: "categories", widget: "hidden", default: "['kurssi']"}
+      - { label: "Categories weight", name: "categories_weight", widget: "hidden", default: ""}
+      - { label: "Description", name: "description", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "ry"
+    label: "Pohjalaisten tanssikerho ry"
+    folder: "content/ry"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Categories", name: "categories", widget: "hidden", default: "['ry']"}
+      - { label: "Body", name: "body", widget: "markdown" }
   - name: "pages"
-    label: "Pages"
+    label: "Sivut"
     files:
       - name: "etusivu"
         label: "Etusivu"
