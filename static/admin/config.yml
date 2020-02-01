@@ -16,3 +16,4 @@ collections:
       - { label: "Pusblish Date", name: "date", widget: "datetime", default: "" }
       - { label: "Categories", name: "categories", widget: "list", default: "['blogi']"}
       - { label: "Description", name: "description", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
