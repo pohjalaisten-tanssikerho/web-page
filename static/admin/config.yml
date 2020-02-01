@@ -73,14 +73,14 @@ collections:
           # - { label: "Kuva", name: "picture", widget: "string" }
           # - { label: "Rooli", name: "role", widget: "string" }
           # - { label: "Sähköposti", name: "email", widget: "string" }
-          - { label: "Body", name: "body", widget: "body" }
+          - { label: "Code", name: "code", widget: "code", default_language: "json" }
       - name: "events"
         label: "Tapahtumat"
         file: "data/events.json"
         fields: 
-          - { label: "Body", name: "body", widget: "body" }
+          - { label: "Code", name: "code", widget: "code", default_language: "json" }
       - name: "courses"
         label: "Kurssiaikataulu ja lajit"
         file: "data/courses.json"
         fields:
-          - { label: "Body", name: "body", widget: "body" }
+          - { label: "Code", name: "code", widget: "code", default_language: "json" }
