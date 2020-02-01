@@ -9,6 +9,7 @@ display_url: https://musing-ardinghelli-ad83b1.netlify.com
 collections:
   - name: "blog"
     label: "Blogi"
+    description: "Blogeja, voi lisätä blogikirjoituksia tai muokata niitä, muista lisätä myös lyhyt kuvaus."
     folder: "content/blogi"
     create: true
     slug: "{{slug}}"
@@ -19,6 +20,7 @@ collections:
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "couser"
     label: "Kurssit"
+    description: "Kaikki kurssisivut, jotka näkyvät dropdown menussa."
     folder: "content/blogi"
     create: false
     fields:
@@ -27,8 +29,9 @@ collections:
       - { label: "Categories weight", name: "categories_weight", widget: "hidden", default: ""}
       - { label: "Description", name: "description", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
-  - name: "ry"
-    label: "Pohjalaisten tanssikerho ry"
+  - name: "footer"
+    label: "Footer"
+    description: "Kaikki linkit nettisivun alapalkissa, eli ns. footer kohdassa, eli linkit, jotka avaavat uuden sivun."
     folder: "content/ry"
     create: true
     slug: "{{slug}}"
@@ -39,6 +42,7 @@ collections:
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "pages"
     label: "Sivut"
+    description: "Yksittäiset sivut, jotka aukeavat yläpalkista, poislukien listaavat sivut."
     files:
       - name: "frontpage"
         label: "Etusivu"
@@ -60,27 +64,27 @@ collections:
         file: "content/sahkopostilista.md"
         fields: 
           - { label: "Body", name: "body", widget: "markdown" }
-  - name: "data"
-    label: "Tietokannat"
-    files:
-      - name: "members"
-        label: "Hallituksen jäsenet"
-        file: "data/board.json"
-        fields:
+  # - name: "data"
+  #   label: "Tietokannat"
+  #   files:
+  #     - name: "members"
+  #       label: "Hallituksen jäsenet"
+  #       file: "data/board.json"
+  #       fields:
           # - { label: "Etunimi", name: "firstname", widget: "string" }
           # - { label: "Sukunimi", name: "lastname", widget: "string" }
           # - { label: "Kuvaus", name: "description", widget: "string" }
           # - { label: "Kuva", name: "picture", widget: "string" }
           # - { label: "Rooli", name: "role", widget: "string" }
           # - { label: "Sähköposti", name: "email", widget: "string" }
-          - { label: "Code", name: "code", widget: "code", default_language: "json" }
-      - name: "events"
-        label: "Tapahtumat"
-        file: "data/events.json"
-        fields: 
-          - { label: "Code", name: "code", widget: "code", default_language: "json" }
-      - name: "courses"
-        label: "Kurssiaikataulu ja lajit"
-        file: "data/courses.json"
-        fields:
-          - { label: "Code", name: "code", widget: "code", default_language: "json" }
+      #     - { label: "Code", name: "code", widget: "code", default_language: "json" }
+      # - name: "events"
+      #   label: "Tapahtumat"
+      #   file: "data/events.json"
+      #   fields: 
+      #     - { label: "Code", name: "code", widget: "code", default_language: "json" }
+      # - name: "courses"
+      #   label: "Kurssiaikataulu ja lajit"
+      #   file: "data/courses.json"
+      #   fields:
+      #     - { label: "Code", name: "code", widget: "code", default_language: "json" }
