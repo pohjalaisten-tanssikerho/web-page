@@ -82,16 +82,13 @@ collections:
       - name: "board"
         label: "Hallituksen jäsenet"
         file: "data/board.json"
+        widget: "list"
         fields:
-          name: "member"
-          label: "Jäsen"
-          # widget: "list"
-          fields:
-            - { label: "Etunimi", name: "firstname", widget: "string" }
-            - { label: "Sukunimi", name: "lastname", widget: "string" }
-            - { label: "Kuva", name: "picture", widget: "string" }
-            - { label: "Rooli", name: "role", widget: "string" }
-            - { label: "Sähköposti", name: "email", widget: "string" }
+          - { label: "Etunimi", name: "firstname", widget: "string" }
+          - { label: "Sukunimi", name: "lastname", widget: "string" }
+          - { label: "Kuva", name: "picture", widget: "string" }
+          - { label: "Rooli", name: "role", widget: "string" }
+          - { label: "Sähköposti", name: "email", widget: "string" }
       # - name: "courseMeta"
       #   label: "Kurssi-info"
       #   file: "data/coursesMeta.json"
