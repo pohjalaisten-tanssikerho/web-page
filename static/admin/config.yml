@@ -7,6 +7,7 @@ site_url: https://musing-ardinghelli-ad83b1.netlify.com
 display_url: https://musing-ardinghelli-ad83b1.netlify.com
 
 collections:
+
   - name: "blog"
     label: "Blogi"
     description: "Voit lisätä blogikirjoituksia tai muokata niitä. Muista lisätä myös lyhyt kuvaus blogeille."
@@ -18,6 +19,7 @@ collections:
       - { label: "Categories", name: "categories", widget: "hidden", default: "['blogi']"}
       - { label: "Description", name: "description", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
+
   - name: "couser"
     label: "Kurssit"
     description: "Kaikki kurssisivut, jotka näkyvät dropdown menussa."
@@ -29,6 +31,7 @@ collections:
       - { label: "Categories weight", name: "categories_weight", widget: "hidden", default: ""}
       - { label: "Description", name: "description", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
+
   - name: "footer"
     label: "Footer"
     description: "Kaikki linkit nettisivun alapalkissa, joita painamalla pääsee uudelle sivulle poistumatta pääsivuilta."
@@ -40,30 +43,36 @@ collections:
       - { label: "Categories", name: "categories", widget: "hidden", default: "['ry']"}
       - { label: "Categories weight", name: "categories_weight", widget: "number"}
       - { label: "Body", name: "body", widget: "markdown" }
+
   - name: "pages"
     label: "Sivut"
     description: "Yksittäiset sivut, jotka aukeavat yläpalkista, poislukien listaavat sivut."
     files:
+
       - name: "frontpage"
         label: "Etusivu"
         file: "content/etusivu.md"
         fields: 
           - { label: "Body", name: "body", widget: "markdown" }
+
       - name: "board"
         label: "Hallitus"
         file: "content/hallitus.md"
         fields: 
           - { label: "Body", name: "body", widget: "markdown" }
+
       - name: "events"
         label: "Tapahtumat"
         file: "content/tapahtumat.md"
         fields: 
           - { label: "Body", name: "body", widget: "markdown" }
+
       - name: "mailinglist"
         label: "Sähköpostilista"
         file: "content/sahkopostilista.md"
         fields: 
           - { label: "Body", name: "body", widget: "markdown" }
+
   # - name: "data"
   #   label: "Tietokannat"
   #   files:
