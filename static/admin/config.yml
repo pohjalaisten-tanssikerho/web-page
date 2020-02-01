@@ -7,7 +7,7 @@ site_url: https://musing-ardinghelli-ad83b1.netlify.com
 display_url: https://musing-ardinghelli-ad83b1.netlify.com
 
 collections:
-  - name: "blogi"
+  - name: "blog"
     label: "Blogi"
     folder: "content/blogi"
     create: true
@@ -17,7 +17,7 @@ collections:
       - { label: "Categories", name: "categories", widget: "hidden", default: "['blogi']"}
       - { label: "Description", name: "description", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
-  - name: "kurssi"
+  - name: "couser"
     label: "Kurssit"
     folder: "content/blogi"
     create: false
@@ -41,23 +41,36 @@ collections:
   - name: "pages"
     label: "Sivut"
     files:
-      - name: "etusivu"
+      - name: "frontpage"
         label: "Etusivu"
         file: "content/etusivu.md"
         fields: 
           - { label: "Body", name: "body", widget: "markdown" }
-      - name: "hallitus"
+      - name: "board"
         label: "Hallitus"
         file: "content/hallitus.md"
         fields: 
           - { label: "Body", name: "body", widget: "markdown" }
-      - name: "tapahtumat"
+      - name: "events"
         label: "Tapahtumat"
         file: "content/tapahtumat.md"
         fields: 
           - { label: "Body", name: "body", widget: "markdown" }
-      - name: "sahkopostilista"
+      - name: "mailinglist"
         label: "Sähköpostilista"
         file: "content/sahkopostilista.md"
         fields: 
           - { label: "Body", name: "body", widget: "markdown" }
+  - name: "data"
+    label: "Tietokannat"
+    files:
+      - name: "members"
+        label: "Hallituksen jäsenet"
+        file: "data/board.json"
+        fields:
+          - { label: "Etunimi", name: "firstname": widget: "string" }
+          - { label: "Sukunimi", name: "lastname": widget: "string" }
+          - { label: "Kuvaus", name: "description": widget: "string" }
+          - { label: "Kuva", name: "picture": widget: "string" }
+          - { label: "Rooli", name: "role": widget: "string" }
+          - { label: "Sähköposti", name: "email": widget: "string" }
