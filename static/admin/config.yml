@@ -95,6 +95,8 @@ collections:
         label: "Kurssi-info"
         file: "data/coursesMeta.json"
         widget: "code"
+        fields:
+          - { label: "Code", name: "code", widget: "code" }
       # - name: "events"
       #   label: "Tapahtumat"
       #   file: "data/events.json"
