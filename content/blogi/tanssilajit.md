@@ -61,6 +61,6 @@ Tulossa!
 
 ## Valssi
 
-Tulossa! Foo!!
+Tulossa!
 
 <!-- 1) minkälainen tanssi, millä kurssilla opetetaan, kuinka yleinen,  -->
