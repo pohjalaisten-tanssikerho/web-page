@@ -80,7 +80,7 @@ collections:
     files:
       - name: "members"
         label: "Hallituksen jäsenet"
-        file: "data/board.json"
+        file: "data/board.md"
         fields:
           # - { label: "Etunimi", name: "firstname", widget: "string" }
           # - { label: "Sukunimi", name: "lastname", widget: "string" }
