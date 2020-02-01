@@ -35,6 +35,7 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Categories", name: "categories", widget: "hidden", default: "['ry']"}
+      - { label: "Categories weight", name: "categories_weight", widget: "number"}
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "pages"
     label: "Sivut"
