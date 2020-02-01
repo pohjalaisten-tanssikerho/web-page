@@ -97,6 +97,13 @@ collections:
         widget: "code"
         fields:
           - { label: "Code", name: "code", widget: "code" }
+      - name: "test"
+        label: "Testi"
+        file: "data/foo.json"
+        fields:
+          - { label: "Foo1", name: "foo1", widget: "string" }
+          - { label: "Foo2", name: "foo2", widget: "string" }
+          - { label: "Foo3", name: "foo3", widget: "string" }
       # - name: "events"
       #   label: "Tapahtumat"
       #   file: "data/events.json"
