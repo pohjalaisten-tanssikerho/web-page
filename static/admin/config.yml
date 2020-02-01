@@ -79,24 +79,31 @@ collections:
     label: "Tietokannat"
     description: "Testissä vielä! Älä käytä!"
     files:
-      - name: "members"
+      - name: "board"
         label: "Hallituksen jäsenet"
         file: "data/board.json"
         fields:
-          # - { label: "Etunimi", name: "firstname", widget: "string" }
-          # - { label: "Sukunimi", name: "lastname", widget: "string" }
-          # - { label: "Kuvaus", name: "description", widget: "string" }
-          # - { label: "Kuva", name: "picture", widget: "string" }
-          # - { label: "Rooli", name: "role", widget: "string" }
-          # - { label: "Sähköposti", name: "email", widget: "string" }
-          # - { label: "Body", name: "body", widget: "code", default_language: "json" }
-          - { label: "Body", name: "body", widget: "markdown" }
+          name: "member"
+          label: "Jäsen"
+          widget: "list"
+          fields:
+            - { label: "Etunimi", name: "firstname", widget: "string" }
+            - { label: "Sukunimi", name: "lastname", widget: "string" }
+            - { label: "Kuva", name: "picture", widget: "string" }
+            - { label: "Rooli", name: "role", widget: "string" }
+            - { label: "Sähköposti", name: "email", widget: "string" }
       - name: "courseMeta"
         label: "Kurssi-info"
         file: "data/coursesMeta.json"
-        widget: "code"
         fields:
-          - { label: "Code", name: "code", widget: "code" }
+          name: "course"
+          label: "Kurssi"
+          widget: "list"
+          fields:
+            - { label: "Nimi", name: "name", widget: "string" }
+            - { label: "Opettaja", name: "teacher", widget: "string" }
+            - { label: "start", name: "start", widget: "string" }
+            - { label: "end", name: "end", widget: "string" }
       - name: "test"
         label: "Testi"
         file: "data/foo.json"
