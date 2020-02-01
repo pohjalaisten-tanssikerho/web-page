@@ -80,7 +80,7 @@ collections:
     files:
       - name: "members"
         label: "Hallituksen jäsenet"
-        file: "data/foo.json"
+        file: "data/board.json"
         fields:
           # - { label: "Etunimi", name: "firstname", widget: "string" }
           # - { label: "Sukunimi", name: "lastname", widget: "string" }
@@ -90,6 +90,11 @@ collections:
           # - { label: "Sähköposti", name: "email", widget: "string" }
           # - { label: "Body", name: "body", widget: "code", default_language: "json" }
           - { label: "Body", name: "body", widget: "markdown" }
+      - name: "courseMeta"
+        label: "Kurssi-info"
+        file: "data/coursesMeta.json"
+        fields: 
+          - { label: "Code", name: "code", widget: "code", default_language: "json" }
       # - name: "events"
       #   label: "Tapahtumat"
       #   file: "data/events.json"
