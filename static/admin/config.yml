@@ -94,8 +94,7 @@ collections:
       - name: "courseMeta"
         label: "Kurssi-info"
         file: "data/coursesMeta.json"
-        fields: 
-          - { label: "Code", name: "code", widget: "code", default_language: "json" }
+        widget: "code"
       # - name: "events"
       #   label: "Tapahtumat"
       #   file: "data/events.json"
