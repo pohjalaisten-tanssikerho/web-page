@@ -98,12 +98,12 @@ collections:
         fields:
           name: "course"
           label: "Kurssi"
-          widget: "list"
-          fields:
-            - { label: "Nimi", name: "name", widget: "string" }
-            - { label: "Opettaja", name: "teacher", widget: "string" }
-            - { label: "start", name: "start", widget: "string" }
-            - { label: "end", name: "end", widget: "string" }
+          # widget: "list"
+          # fields:
+          #   - { label: "Nimi", name: "name", widget: "string" }
+          #   - { label: "Opettaja", name: "teacher", widget: "string" }
+          #   - { label: "start", name: "start", widget: "string" }
+          #   - { label: "end", name: "end", widget: "string" }
       - name: "test"
         label: "Testi"
         file: "data/foo.json"
