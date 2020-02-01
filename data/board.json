@@ -5,12 +5,6 @@
     "description": "Rouva puheenjohtaja!",
     "picture": "selina-virtanen.jpg",
     "role": "puheenjohtaja",
-    "previousroles": [
-      {
-        "year": "2019",
-        "role": "tiedottaja"
-      }
-    ],
     "email": "etunimi.sukunimi@gmail.com"
   },
   {
@@ -20,12 +14,6 @@
     "picture": "greatman-lim.jpg",
     "role": "puheenjohtaja",
     "role": "varapuheenjohtaja",
-    "previousroles": [
-      {
-        "year": "2019",
-        "role": "puheenjohtaja"
-      }
-    ],
     "email": "etunimi.sukunimi@mahti.org"
   },
   {
@@ -66,12 +54,6 @@
     "description": "Ylettömän tehokas joka asiassa. Kantaa repussaan kantorakettia, jolla pääsee nopeaa!",
     "picture": "elina-illikainen.jpg",
     "role": "jäsen",
-    "previousroles": [
-     {
-       "year": "2019",
-       "role": "sihteeri"
-     }
-    ],
     "email": "el-liina (ät) hotmail . com"
   },
   {
