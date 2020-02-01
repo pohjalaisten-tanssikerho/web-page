@@ -3,6 +3,7 @@ backend:
   branch: master
 media_folder: "static/media"
 public_folder: "/media"
+site_url: https://musing-ardinghelli-ad83b1.netlify.com
 
 collections:
   - name: "blogi"
