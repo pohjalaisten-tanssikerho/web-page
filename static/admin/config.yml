@@ -109,6 +109,7 @@ collections:
         fields:
           - name: "alkeet"
             label: "Alkeet vaihtuvilla pareilla"
+            widget: "list"
             fields:
               - { label: "Kurssi", name: "name", widget: "string" }
               - { label: "Opettaja", name: "teacher", widget: "string" }
@@ -116,6 +117,7 @@ collections:
               - { label: "Lopetus aika", name: "end", widget: "string" }
           - name: "alkeetOma"
             label: "Alkeet oman parin kanssa"
+            widget: "list"
             fields:
               - { label: "Kurssi", name: "name", widget: "string" }
               - { label: "Opettaja", name: "teacher", widget: "string" }
@@ -123,6 +125,7 @@ collections:
               - { label: "Lopetus aika", name: "end", widget: "string" }
           - name: "alkeisjatko"
             label: "Alkeisjatko"
+            widget: "list"
             fields:
               - { label: "Kurssi", name: "name", widget: "string" }
               - { label: "Opettaja", name: "teacher", widget: "string" }
@@ -130,6 +133,7 @@ collections:
               - { label: "Lopetus aika", name: "end", widget: "string" }
           - name: "jatko"
             label: "Jatko"
+            widget: "list"
             fields:
               - { label: "Kurssi", name: "name", widget: "string" }
               - { label: "Opettaja", name: "teacher", widget: "string" }
@@ -154,8 +158,8 @@ collections:
         label: "Test dummy board"
         file: "data/dummy.json"
         fields:
-          - name: "board"
-            label: "Item"
+          - label: "Item"
+            name: ""
             widget: "list"
             fields:
               - { label: "Etunimi", name: "firstname", widget: "string" }
