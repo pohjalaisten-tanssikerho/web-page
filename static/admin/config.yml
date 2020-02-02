@@ -36,7 +36,7 @@ collections:
 
   - name: "footer"
     label: "Footer"
-    description: "Kaikki linkit nettisivun alapalkissa, joita painamalla pääsee uudelle sivulle poistumatta pääsivuilta."
+    description: "Kaikki linkit nettisivujen alapalkissa, mitä painamalla pääsee uudelle sivulle poistumatta pohjalaisten nettisivuilta."
     folder: "content/ry"
     create: true
     slug: "{{slug}}"
@@ -54,24 +54,28 @@ collections:
       - name: "frontpage"
         label: "Etusivu"
         file: "content/etusivu.md"
+        description: "Nettisivujen etusivu."
         fields: 
           - { label: "Body", name: "body", widget: "markdown" }
 
       - name: "board"
         label: "Hallitus"
         file: "content/hallitus.md"
+        description: "Hallitussivut. Hallituksen jäseniä lisätään tietokannan kautta."
         fields: 
           - { label: "Body", name: "body", widget: "markdown" }
 
       - name: "events"
         label: "Tapahtumat"
         file: "content/tapahtumat.md"
+        description: "Tapahtumasivut. Itse tapahtumia lisätään tietokannasta."
         fields: 
           - { label: "Body", name: "body", widget: "markdown" }
 
       - name: "mailinglist"
         label: "Sähköpostilista"
         file: "content/sahkopostilista.md"
+        description: "Ohjeet sähköpostilistalle liittymiseen."
         fields: 
           - { label: "Body", name: "body", widget: "markdown" }
 
