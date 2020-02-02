@@ -2,78 +2,78 @@
   "events": [
     {
       "title": "Viikin tanssit",
-      "description": "Kello 18:00 - 23:00. Biologiankatu 5, Helsinki.",
-      "date": "2020-05-08"
+      "date": "2020-05-08",
+      "description": "Kello 18:00 - 23:00. Biologiankatu 5, Helsinki."
     },
     {
       "title": "HOT-tanssibileet",
-      "description": "Kello 19:00 - 23:59. Urho Kekkosen katu 4-6 D, Helsinki.",
-      "date": "2020-04-24"
+      "date": "2020-04-24",
+      "description": "Kello 19:00 - 23:59. Urho Kekkosen katu 4-6 D, Helsinki."
     },
     {
       "title": "Viikin tanssit",
-      "description": "Kello 18:00 - 23:00. Biologiankatu 5, Helsinki.",
-      "date": "2020-04-03"
+      "date": "2020-04-03",
+      "description": "Kello 18:00 - 23:00. Biologiankatu 5, Helsinki."
     },
     {
       "title": "HOT-tanssibileet",
-      "description": "Kello 19:00 - 23:59. Urho Kekkosen katu 4-6 D, Helsinki.",
-      "date": "2020-03-27"
+      "date": "2020-03-27",
+      "description": "Kello 19:00 - 23:59. Urho Kekkosen katu 4-6 D, Helsinki."
     },
     {
       "title": "Ei tunteja",
-      "description": "EPO:n vuosijuhlaviikko. Tanssikursseja ei pidetä!",
-      "date": "2020-03-17"
+      "date": "2020-03-17",
+      "description": "EPO:n vuosijuhlaviikko. Tanssikursseja ei pidetä!"
     },
     {
       "title": "Viikin tanssit",
-      "description": "Kello 18:00 - 23:00. Biologiankatu 5, Helsinki.",
-      "date": "2020-03-06"
+      "date": "2020-03-06",
+      "description": "Kello 18:00 - 23:00. Biologiankatu 5, Helsinki."
     },
     {
       "title": "Ei tunteja",
-      "description": "VN:n vuosijuhlaviikko. Tanssikursseja ei pidetä!",
-      "date": "2020-02-25"
+      "date": "2020-02-25",
+      "description": "VN:n vuosijuhlaviikko. Tanssikursseja ei pidetä!"
     },
     {
       "title": "HOT-tanssibileet",
-      "description": "Kello 19:00 - 23:59. Urho Kekkosen katu 4-6 D, Helsinki.",
-      "date": "2020-02-21"
+      "date": "2020-02-21",
+      "description": "Kello 19:00 - 23:59. Urho Kekkosen katu 4-6 D, Helsinki."
     },
     {
       "title": "Viikin tanssit",
-      "description": "Kello 18:00 - 23:00. Ensimmäisen tunnin aikana ilmainen rumban jatkotason opetusta. Biologiankatu 5, Helsinki.",
-      "date": "2020-02-07"
+      "date": "2020-02-07",
+      "description": "Kello 18:00 - 23:00. Ensimmäisen tunnin aikana ilmainen rumban jatkotason opetusta. Biologiankatu 5, Helsinki."
     },
     {
       "title": "Ei tunteja",
-      "description": "PPO:n vuosijuhlaviikko. Tanssikursseja ei pidetä!",
-      "date": "2020-02-04"
+      "date": "2020-02-04",
+      "description": "PPO:n vuosijuhlaviikko. Tanssikursseja ei pidetä!"
     },
     {
       "title": "Kurssimaksujen tarkistus",
-      "description": "Kuitti ja opiskelijakortti mukaan!",
-      "date": "2020-01-28"
+      "date": "2020-01-28",
+      "description": "Kuitti ja opiskelijakortti mukaan!"
     },
     {
       "title": "POT-tanssibileet",
-      "description": "Kello 16:00 - 21:00. Töölönkatu 3 A, 5krs, Helsinki.",
-      "date": "2020-01-26"
+      "date": "2020-01-26",
+      "description": "Kello 16:00 - 21:00. Töölönkatu 3 A, 5krs, Helsinki."
     },
     {
       "title": "HOT-tanssibileet",
-      "description": "Kello 19:00 - 23:59. Urho Kekkosen katu 4-6 D, Helsinki.",
-      "date": "2020-01-17"
+      "date": "2020-01-17",
+      "description": "Kello 19:00 - 23:59. Urho Kekkosen katu 4-6 D, Helsinki."
     },
     {
       "title": "Viikin tanssit",
-      "description": "Kello 18:00 - 23:00. Alkaa puolentoista tunnin bugg opetuksella. Biologiankatu 5, Helsinki.",
-      "date": "2020-01-17"
+      "date": "2020-01-17",
+      "description": "Kello 18:00 - 23:00. Alkaa puolentoista tunnin bugg opetuksella. Biologiankatu 5, Helsinki."
     },
     {
       "title": "Tanssikurssit alkavat",
-      "description": "Kevään kurssit alkavat tiistaina 14.1.! Käy katsomassa [kurssitarjontamme](/kurssi/yleista-kursseista) ja [ilmoittaudu kursseille](https://docs.google.com/forms/d/e/1FAIpQLScvIIl5l7a7bnPIYUmLxaijReK-bgoOt8C44nhTOxInNASBGg/viewform?usp=sf_link).",
-      "date": "2020-01-14"
+      "date": "2020-01-14",
+      "description": "Kevään kurssit alkavat tiistaina 14.1.! Käy katsomassa [kurssitarjontamme](/kurssi/yleista-kursseista) ja [ilmoittaudu kursseille](https://docs.google.com/forms/d/e/1FAIpQLScvIIl5l7a7bnPIYUmLxaijReK-bgoOt8C44nhTOxInNASBGg/viewform?usp=sf_link)."
     }
   ]
 }
