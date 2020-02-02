@@ -104,7 +104,7 @@ collections:
       - name: "test"
         label: "Testi"
         file: "data/foo.json"
-        widget: "list"
+        widget: "object"
         fields:
           - { label: "Foo1", name: "foo1", widget: "string" }
           - { label: "Foo2", name: "foo2", widget: "string" }
