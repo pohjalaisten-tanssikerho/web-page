@@ -116,6 +116,20 @@ collections:
             fields:
               - {label: "Foo5", name: "foo5", widget: "string" }
 
+      - name: "dummy"
+        label: "Test dummy board"
+        file: "data/dummy.json"
+        widget: "list"
+        field:
+          - name: "board"
+            label: "Item"
+            widget: "list"
+            fields:
+              - { label: "Etunimi", name: "firstname", widget: "string" }
+              - { label: "Sukunimi", name: "lastname", widget: "string" }
+              - { label: "Rooli", name: "role", widget: "string" }
+              - { label: "Sähköposti", name: "email", widget: "string" }
+
       - name: "listTest"
         label: "Example of list"
         file: "data/listTest.json"
