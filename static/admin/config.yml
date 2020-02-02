@@ -171,7 +171,7 @@ collections:
         description: "Hallitse kerhon hallituksen jäsenten tietoja, mm. sähköpostiosoitteita."
         widget: "list"
         fields:
-          - name: "member"
+          - name: "members"
             label: "Jäsen"
             widget: "list"
             fields:
