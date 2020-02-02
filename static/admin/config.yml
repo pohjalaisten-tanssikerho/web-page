@@ -135,7 +135,7 @@ collections:
         fields: 
           - name: "events"
             label: "Tapahtuma"
-            widget: "object"
+            widget: "list"
             fields: 
               - { label: "Otsikko", name: "title", widget: "string" }
               - { label: "Päivämäärä", name: "date", widget: "date", format: "YYYY-MM-DD" }
