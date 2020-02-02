@@ -1,18 +1,7 @@
 {
-  "": [
-    {
-      "firstname": "etunimi",
-      "lastname": "sukunimi",
-      "picture": "kuv",
-      "role": "rooli",
-      "email": "sähköposti"
-    },
-    {
-      "firstname": "foo",
-      "lastname": "foo",
-      "picture": "foo",
-      "role": "foo",
-      "email": "foo"
-    }
-  ]
+  "firstname": "etunimi",
+  "lastname": "sukunimi",
+  "picture": "kuva",
+  "role": "rooli",
+  "email": "sähköposti"
 }
