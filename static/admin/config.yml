@@ -147,93 +147,36 @@ collections:
               - { label: "Aloitus aika", name: "start", widget: "string" }
               - { label: "Lopetus aika", name: "end", widget: "string" }
 
-# Unusable below 
+      - name: "courses"
+        label: "Kurssilajit ja aikataulut"
+        file: "data/courses.json"
+        description: "Lisää tai poista kurssilajeja kurssiaikatalusta."
+        widget: "list"
+        fields: 
+          - name: "courses"
+            label: "Kurssilajit ja aikataulut."
+            description: "Jätä viestikenttä tyhjäksi! Jos viestikenttään kirjoittaa mitä tahansa, olettaa kone, että silloin ei pidetä tunteja ja näyttää kirjoitetun viestin."
+            widget: "list"
+            fields: 
+              - { label: "Päivämäärä", name: "date", widget: "date", format: "YYYY-MM-DD" }
+              - { label: "Viesti", name: "message", widget: "string", default: "" }
+              - { label: "Alkeet vaihtuvilla pareilla", name: "alkeet", widget: "string" }
+              - { label: "Alkeet oman parin kanssa", name: "alkeetOma", widget: "string" }
+              - { label: "Alkeisjatko", name: "alkeisjatko", widget: "string" }
+              - { label: "Jatko", name: "jatko", widget: "string" }
 
       - name: "board"
-        label: "Hallituksen jäsenet"
+        label: "Halllituksen jäsenet"
         file: "data/board.json"
+        description: "Hallitse kerhon hallituksen jäsenten tietoja, mm. sähköpostiosoitteita."
         widget: "list"
         fields:
           - name: "member"
             label: "Jäsen"
-            widget: "object"
-            fields:
-              - { label: "Etunimi", name: "firstname", widget: "string" }
-              - { label: "Sukunimi", name: "lastname", widget: "string" }
-              - { label: "Kuva", name: "picture", widget: "string" }
-              - { label: "Rooli", name: "role", widget: "string" }
-              - { label: "Sähköposti", name: "email", widget: "string" }
-
-      - name: "test"
-        label: "Testi"
-        file: "data/foo.json"
-        widget: "list"
-        fields:
-          - { label: "Foo1", name: "foo1", widget: "string" }
-          - { label: "Foo2", name: "foo2", widget: "string" }
-          - { label: "Foo3", name: "foo3", widget: "string" }
-          - label: "Foo4"
-            name: "foo4"
             widget: "list"
             fields:
-              - {label: "Foo5", name: "foo5", widget: "string" }
-
-      - name: "dummy"
-        label: "Test dummy board"
-        file: "data/dummy.json"
-        widget: "list"
-        fields:
-          - name: "members"
-            label: "Jäsenet"
-            widget: "object"
-            fields:
               - { label: "Etunimi", name: "firstname", widget: "string" }
               - { label: "Sukunimi", name: "lastname", widget: "string" }
               - { label: "Kuva", name: "picture", widget: "string" }
               - { label: "Rooli", name: "role", widget: "string" }
               - { label: "Sähköposti", name: "email", widget: "string" }
-
-      - name: "listTest"
-        label: "Example of list"
-        file: "data/listTest.json"
-        widget: "list"
-        fields:
-          - {label: "Quote", name: "quote", widget: "string", default: "Everything is awesome!"}
-          - label: "Author"
-            name: "author"
-            widget: "object"
-            fields:
-              - {label: "Name", name: "name", widget: "string", default: "Emmet"}
-              - {label: "Avatar", name: "avatar", widget: "image", default: "/img/emmet.jpg"}
-
-      - name: "objectTest"
-        label: "Example of object"
-        widget: "object"
-        file: "data/objectTest.json"
-        fields:
-          - {label: "Public", name: "public", widget: "boolean", default: true}
-          - {label: "Name", name: "name", widget: "string"}
-          - label: "Birthdate"
-            name: "birthdate"
-            widget: "date"
-            default: ""
-            format: "MM/DD/YYYY"
-          - label: "Address"
-            name: "address"
-            widget: "object"
-            fields: 
-              - {label: "Street Address", name: "street", widget: "string"}
-              - {label: "City", name: "city", widget: "string"}
-              - {label: "Postal Code", name: "post-code", widget: "string"}
-
-
-      # - name: "events"
-      #   label: "Tapahtumat"
-      #   file: "data/events.json"
-      #   fields: 
-      #     - { label: "Code", name: "code", widget: "code", default_language: "json" }
-      # - name: "courses"
-      #   label: "Kurssiaikataulu ja lajit"
-      #   file: "data/courses.json"
-      #   fields:
-      #     - { label: "Code", name: "code", widget: "code", default_language: "json" }

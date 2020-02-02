@@ -1,138 +1,140 @@
-[
-  {
-    "date": "2020-01-14",
-    "message": "",
-    "alkeet": "Foksi",
-    "alkeetOma": "Bugg",
-    "alkeisjatko": "Fusku",
-    "jatko": "Hidas valssi"
-  },
-  {
-    "date": "2020-01-21",
-    "message": "",
-    "alkeet": "Foksi",
-    "alkeetOma": "Bugg",
-    "alkeisjatko": "Fusku",
-    "jatko": "Hidas valssi"
-  },
-  {
-    "date": "2020-01-28",
-    "message": "",
-    "alkeet": "Foksi / Fusku",
-    "alkeetOma": "Bugg",
-    "alkeisjatko": "Foksi",
-    "jatko": "Musiikin tulkinta"
-  },
-  {
-    "date": "2020-02-04",
-    "message": "Ei tunteja",
-    "alkeet": "",
-    "alkeetOma": "",
-    "alkeisjatko": "",
-    "jatko": ""
-  },
-  {
-    "date": "2020-02-11",
-    "message": "",
-    "alkeet": "Fusku",
-    "alkeetOma": "Foksi",
-    "alkeisjatko": "Tango",
-    "jatko": "Samba"
-  },
-  {
-    "date": "2020-02-18",
-    "message": "",
-    "alkeet": "Fusku / Foksi",
-    "alkeetOma": "Foksi",
-    "alkeisjatko": "Tango",
-    "jatko": "Samba"
-  },
-  {
-    "date": "2020-02-25",
-    "message": "Ei tunteja",
-    "alkeet": "",
-    "alkeetOma": "",
-    "alkeisjatko": "",
-    "jatko": ""
-  },
-  {
-    "date": "2020-03-03",
-    "message": "",
-    "alkeet": "Bugg",
-    "alkeetOma": "Fusku",
-    "alkeisjatko": "Bugg",
-    "jatko": "Tango"
-  },
-  {
-    "date": "2020-03-10",
-    "message": "",
-    "alkeet": "Bugg",
-    "alkeetOma": "Fusku",
-    "alkeisjatko": "Bugg",
-    "jatko": "Tango"
-  },
-  {
-    "date": "2020-03-17",
-    "message": "Ei tunteja",
-    "alkeet": "",
-    "alkeetOma": "",
-    "alkeisjatko": "",
-    "jatko": ""
-  },
-  {
-    "date": "2020-03-24",
-    "message": "",
-    "alkeet": "Kertaus",
-    "alkeetOma": "Kertaus",
-    "alkeisjatko": "Hidas valssi",
-    "jatko": "Bugg"
-  },
-  {
-    "date": "2020-03-31",
-    "message": "",
-    "alkeet": "Valssi",
-    "alkeetOma": "Valssi",
-    "alkeisjatko": "Hidas valssi",
-    "jatko": "Bugg"
-  },
-  {
-    "date": "2020-04-07",
-    "message": "",
-    "alkeet": "Valssi",
-    "alkeetOma": "Valssi",
-    "alkeisjatko": "Salsa",
-    "jatko": "Lavakansantanssit"
-  },
-  {
-    "date": "2020-04-14",
-    "message": "",
-    "alkeet": "Lattari",
-    "alkeetOma": "Lattari",
-    "alkeisjatko": "Salsa",
-    "jatko": "Lavakansantanssit"
-  },
-  {
-    "date": "2020-04-21",
-    "message": "",
-    "alkeet": "Lattari",
-    "alkeetOma": "Lattari",
-    "alkeisjatko": "Kizomba",
-    "jatko": "Salsa"
-  },
-  {
-    "date": "2020-04-28",
-    "message": "",
-    "alkeet": "Lattari",
-    "alkeetOma": "Lattari",
-    "alkeisjatko": "Kizomba",
-    "jatko": "Salsa"
-  },
-  {
-    "date": "2020-05-05",
-    "message": "",
-    "alkeet": "Kertaus",
-    "alkeetOma": "Kertaus",
-    "alkeisjatko": "Kertaus",
-    "jatko": "Kertaus"
-  }
-]
+{
+  "courses": [
+    {
+      "date": "2020-01-14",
+      "message": "",
+      "alkeet": "Foksi",
+      "alkeetOma": "Bugg",
+      "alkeisjatko": "Fusku",
+      "jatko": "Hidas valssi"
+    },
+    {
+      "date": "2020-01-21",
+      "message": "",
+      "alkeet": "Foksi",
+      "alkeetOma": "Bugg",
+      "alkeisjatko": "Fusku",
+      "jatko": "Hidas valssi"
+    },
+    {
+      "date": "2020-01-28",
+      "message": "",
+      "alkeet": "Foksi / Fusku",
+      "alkeetOma": "Bugg",
+      "alkeisjatko": "Foksi",
+      "jatko": "Musiikin tulkinta"
+    },
+    {
+      "date": "2020-02-04",
+      "message": "Ei tunteja",
+      "alkeet": "",
+      "alkeetOma": "",
+      "alkeisjatko": "",
+      "jatko": ""
+    },
+    {
+      "date": "2020-02-11",
+      "message": "",
+      "alkeet": "Fusku",
+      "alkeetOma": "Foksi",
+      "alkeisjatko": "Tango",
+      "jatko": "Samba"
+    },
+    {
+      "date": "2020-02-18",
+      "message": "",
+      "alkeet": "Fusku / Foksi",
+      "alkeetOma": "Foksi",
+      "alkeisjatko": "Tango",
+      "jatko": "Samba"
+    },
+    {
+      "date": "2020-02-25",
+      "message": "Ei tunteja",
+      "alkeet": "",
+      "alkeetOma": "",
+      "alkeisjatko": "",
+      "jatko": ""
+    },
+    {
+      "date": "2020-03-03",
+      "message": "",
+      "alkeet": "Bugg",
+      "alkeetOma": "Fusku",
+      "alkeisjatko": "Bugg",
+      "jatko": "Tango"
+    },
+    {
+      "date": "2020-03-10",
+      "message": "",
+      "alkeet": "Bugg",
+      "alkeetOma": "Fusku",
+      "alkeisjatko": "Bugg",
+      "jatko": "Tango"
+    },
+    {
+      "date": "2020-03-17",
+      "message": "Ei tunteja",
+      "alkeet": "",
+      "alkeetOma": "",
+      "alkeisjatko": "",
+      "jatko": ""
+    },
+    {
+      "date": "2020-03-24",
+      "message": "",
+      "alkeet": "Kertaus",
+      "alkeetOma": "Kertaus",
+      "alkeisjatko": "Hidas valssi",
+      "jatko": "Bugg"
+    },
+    {
+      "date": "2020-03-31",
+      "message": "",
+      "alkeet": "Valssi",
+      "alkeetOma": "Valssi",
+      "alkeisjatko": "Hidas valssi",
+      "jatko": "Bugg"
+    },
+    {
+      "date": "2020-04-07",
+      "message": "",
+      "alkeet": "Valssi",
+      "alkeetOma": "Valssi",
+      "alkeisjatko": "Salsa",
+      "jatko": "Lavakansantanssit"
+    },
+    {
+      "date": "2020-04-14",
+      "message": "",
+      "alkeet": "Lattari",
+      "alkeetOma": "Lattari",
+      "alkeisjatko": "Salsa",
+      "jatko": "Lavakansantanssit"
+    },
+    {
+      "date": "2020-04-21",
+      "message": "",
+      "alkeet": "Lattari",
+      "alkeetOma": "Lattari",
+      "alkeisjatko": "Kizomba",
+      "jatko": "Salsa"
+    },
+    {
+      "date": "2020-04-28",
+      "message": "",
+      "alkeet": "Lattari",
+      "alkeetOma": "Lattari",
+      "alkeisjatko": "Kizomba",
+      "jatko": "Salsa"
+    },
+    {
+      "date": "2020-05-05",
+      "message": "",
+      "alkeet": "Kertaus",
+      "alkeetOma": "Kertaus",
+      "alkeisjatko": "Kertaus",
+      "jatko": "Kertaus"
+    }
+  ]
+}

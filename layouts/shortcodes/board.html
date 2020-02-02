@@ -1,5 +1,5 @@
 <div class="board">
-  {{ range .Site.Data.board }}
+  {{ range index .Site.Data.board "members" }}
   <div class="item">
     <div class="hidden-description">
       {{ with .picture }}
@@ -9,15 +9,15 @@
       {{ end }}
     </div>
     <div class="fill"></div>
-      <div class="center">
-        <span class="role">{{ .role }}</span>
-      </div>
-      <div class="center">
-        <span class="name">{{ .firstname }} {{ .lastname }}</span>
-      </div>
-      <div class="center">
+    <div class="center">
+      <span class="role">{{ .role }}</span>
+    </div>
+    <div class="center">
+      <span class="name">{{ .firstname }} {{ .lastname }}</span>
+    </div>
+    <div class="center">
       <div class="email">{{ .email }}</div>
-      </div>
+    </div>
   </div>
   {{ end}}
 </div>

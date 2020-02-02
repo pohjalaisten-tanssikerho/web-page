@@ -7,7 +7,8 @@
     <th>Alkeisjatko</th>
     <th>Jatko</th>
   </tr>
-  {{ range sort .Site.Data.courses ".date" "asec" }}
+  {{ $courses := index .Site.Data.courses "courses" }}
+  {{ range sort $courses "date" "asec" }}
   {{ if eq .message "" }}
   <tr>
     {{ $t := time .date }}
@@ -29,24 +30,25 @@
 {{ end }}
 
 {{ if eq (.Get 0) "firstThree" }}
-{{ $courses := first 3 (sort (where .Site.Data.courses ".date" "ge" (now.Format "2006-01-02")) ".date" "asec") }}
+{{ $courses := index .Site.Data.courses "courses" }}
+{{ $course := first 3 (sort (where $courses "date" "ge" (now.Format "2006-01-02")) "date" "asec") }}
 <div>
 <h2>Seuraavat kurssit</h2>
-{{ if eq ($courses | len) 0 }}
+{{ if eq ($course | len) 0 }}
 <p>Viikottaiset kurssit ovat loppu tältä erää. Ensi kaudella taas lisää!</p>
 <p>Kurssien alkamisajankohdan muistutuksen voi tilata sähköpostiin. Sähköpostia käytetään vain tähän tarkoitukseen, ja muistutuksen jälkeen sähköpostiosoite poistetaan järjestelmästä pysyvästi.</p>
 {{ else }}
 <table class="course-table">
   <tr>
     <th></th>
-    {{ range $courses }}
+    {{ range $course }}
     {{ $t := time .date }}
     <th class="date-courses">{{ $t.Day }}.{{ printf "%d" $t.Month }}.</th>
     {{ end }}
   </tr>
   <tr>
     <th>Alkeet</th>
-    {{ range $courses }}
+    {{ range $course }}
     {{ if eq .message "" }}
     <td class="trigger">{{ .alkeet }}</td>
     {{ else }}
@@ -56,7 +58,7 @@
   </tr>
   <tr>
     <th>Alkeet <br> oma pari</th>
-    {{ range $courses }}
+    {{ range $course }}
     {{ if eq .message "" }}
     <td class="trigger">{{ .alkeetOma }}</td>
     {{ end }}
@@ -64,7 +66,7 @@
   </tr>
   <tr>
     <th>Alkeisjatko</th>
-    {{ range $courses }}
+    {{ range $course }}
     {{ if eq .message "" }}
     <td>{{ .alkeisjatko }}</td>
     {{ end }}
@@ -72,7 +74,7 @@
   </tr>
   <tr>
     <th>Jatko</th>
-    {{ range $courses }}
+    {{ range $course }}
     {{ if eq .message "" }}
     <td>{{ .jatko }}</td>
     {{ end }}

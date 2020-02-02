@@ -1,6 +1,7 @@
 {{ $show := .Get 0 }}
 <table class="course-table">
-{{ range sort .Site.Data.courses ".date" "asec" }}
+{{ $courses := index .Site.Data.courses "courses" }}
+{{ range sort $courses "date" "asec" }}
 {{ if eq .message "" }}
 <tr>
   {{ $t := time .date }}
