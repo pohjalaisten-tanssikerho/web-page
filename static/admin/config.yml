@@ -75,32 +75,7 @@ collections:
         fields: 
           - { label: "Body", name: "body", widget: "markdown" }
 
-  - name: "data"
-    label: "Tietokannat"
-    description: "Testissä vielä! Älä käytä!"
-    files:
-      - name: "board"
-        label: "Hallituksen jäsenet"
-        file: "data/board.json"
-        widget: "object"
-        fields:
-          - { label: "Etunimi", name: "firstname", widget: "string" }
-          - { label: "Sukunimi", name: "lastname", widget: "string" }
-          - { label: "Kuva", name: "picture", widget: "string" }
-          - { label: "Rooli", name: "role", widget: "string" }
-          - { label: "Sähköposti", name: "email", widget: "string" }
-      # - name: "courseMeta"
-      #   label: "Kurssi-info"
-      #   file: "data/coursesMeta.json"
-      #   fields:
-      #     name: "course"
-      #     label: "Kurssi"
-          # widget: "list"
-          # fields:
-          #   - { label: "Nimi", name: "name", widget: "string" }
-          #   - { label: "Opettaja", name: "teacher", widget: "string" }
-          #   - { label: "start", name: "start", widget: "string" }
-          #   - { label: "end", name: "end", widget: "string" }
+# data
 
       - name: "coursesMeta"
         label: "Kurssi-info"
@@ -110,35 +85,56 @@ collections:
           - name: "alkeet"
             label: "Alkeet vaihtuvilla pareilla"
             widget: "list"
+            allow_add: false
             fields:
-              - { label: "Kurssi", name: "name", widget: "string" }
+              # - { label: "Kurssi ID ÄLÄ MUUTA", name: "name", widget: "string" }
               - { label: "Opettaja", name: "teacher", widget: "string" }
               - { label: "Aloitus aika", name: "start", widget: "string" }
               - { label: "Lopetus aika", name: "end", widget: "string" }
           - name: "alkeetOma"
             label: "Alkeet oman parin kanssa"
             widget: "list"
+            allow_add: false
             fields:
-              - { label: "Kurssi", name: "name", widget: "string" }
+              # - { label: "Kurssi ID ÄLÄ MUUTA", name: "name", widget: "string" }
               - { label: "Opettaja", name: "teacher", widget: "string" }
               - { label: "Aloitus aika", name: "start", widget: "string" }
               - { label: "Lopetus aika", name: "end", widget: "string" }
           - name: "alkeisjatko"
             label: "Alkeisjatko"
             widget: "list"
+            allow_add: false
             fields:
-              - { label: "Kurssi", name: "name", widget: "string" }
+              # - { label: "Kurssi ID ÄLÄ MUUTA", name: "name", widget: "string" }
               - { label: "Opettaja", name: "teacher", widget: "string" }
               - { label: "Aloitus aika", name: "start", widget: "string" }
               - { label: "Lopetus aika", name: "end", widget: "string" }
           - name: "jatko"
             label: "Jatko"
             widget: "list"
+            allow_add: false
             fields:
-              - { label: "Kurssi", name: "name", widget: "string" }
+              # - { label: "Kurssi ID ÄLÄ MUUTA", name: "name", widget: "string" }
               - { label: "Opettaja", name: "teacher", widget: "string" }
               - { label: "Aloitus aika", name: "start", widget: "string" }
               - { label: "Lopetus aika", name: "end", widget: "string" }
+
+# Unusable below 
+
+      - name: "data"
+        label: "Tietokannat"
+        description: "Testissä vielä! Älä käytä!"
+        files:
+          - name: "board"
+            label: "Hallituksen jäsenet"
+            file: "data/board.json"
+            widget: "object"
+            fields:
+              - { label: "Etunimi", name: "firstname", widget: "string" }
+              - { label: "Sukunimi", name: "lastname", widget: "string" }
+              - { label: "Kuva", name: "picture", widget: "string" }
+              - { label: "Rooli", name: "role", widget: "string" }
+              - { label: "Sähköposti", name: "email", widget: "string" }
 
       - name: "test"
         label: "Testi"
