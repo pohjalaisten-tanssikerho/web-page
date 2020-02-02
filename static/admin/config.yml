@@ -163,6 +163,7 @@ collections:
           - name: "members"
             label: "Jäsenet"
             widget: "list"
+            fields:
               - { label: "Etunimi", name: "firstname", widget: "string" }
               - { label: "Sukunimi", name: "lastname", widget: "string" }
               - { label: "Kuva", name: "picture", widget: "string" }
