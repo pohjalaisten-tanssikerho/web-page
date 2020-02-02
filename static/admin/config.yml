@@ -128,6 +128,19 @@ collections:
               - { label: "Aloitus aika", name: "start", widget: "string" }
               - { label: "Lopetus aika", name: "end", widget: "string" }
 
+      - name: "events"
+        label: "Tapahtumat"
+        file: "data/events.json"
+        widget: "list"
+        fields: 
+          - name: "events"
+            label: "Tapahtuma"
+            widget: "object"
+            fields: 
+              - { label: "Otsikko", name: "title", widget: "string" }
+              - { label: "Päivämäärä", name: "date", widget: "date", format: "YYYY-MM-DD" }
+              - { label: "Kuvaus", name: "description", widget: "markdown" }
+
 # Unusable below 
 
       - name: "board"
