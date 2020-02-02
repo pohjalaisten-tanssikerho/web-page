@@ -133,13 +133,17 @@ collections:
       - name: "board"
         label: "Hallituksen jäsenet"
         file: "data/board.json"
-        widget: "object"
+        widget: "list"
         fields:
-          - { label: "Etunimi", name: "firstname", widget: "string" }
-          - { label: "Sukunimi", name: "lastname", widget: "string" }
-          - { label: "Kuva", name: "picture", widget: "string" }
-          - { label: "Rooli", name: "role", widget: "string" }
-          - { label: "Sähköposti", name: "email", widget: "string" }
+          - name: "member"
+            label: "Jäsen"
+            widget: "object"
+            fields:
+              - { label: "Etunimi", name: "firstname", widget: "string" }
+              - { label: "Sukunimi", name: "lastname", widget: "string" }
+              - { label: "Kuva", name: "picture", widget: "string" }
+              - { label: "Rooli", name: "role", widget: "string" }
+              - { label: "Sähköposti", name: "email", widget: "string" }
 
       - name: "test"
         label: "Testi"

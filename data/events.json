@@ -1,77 +1,79 @@
-[
-  {
-    "title": "Viikin tanssit",
-    "description": "Kello 18:00 - 23:00. Biologiankatu 5, Helsinki.",
-    "date": "2020-05-08"
-  },
-  {
-    "title": "HOT-tanssibileet",
-    "description": "Kello 19:00 - 23:59. Urho Kekkosen katu 4-6 D, Helsinki.",
-    "date": "2020-04-24"
-  },
-  {
-    "title": "Viikin tanssit",
-    "description": "Kello 18:00 - 23:00. Biologiankatu 5, Helsinki.",
-    "date": "2020-04-03"
-  },
-  {
-    "title": "HOT-tanssibileet",
-    "description": "Kello 19:00 - 23:59. Urho Kekkosen katu 4-6 D, Helsinki.",
-    "date": "2020-03-27"
-  },
-  {
-    "title": "Ei tunteja",
-    "description": "EPO:n vuosijuhlaviikko. Tanssikursseja ei pidetä!",
-    "date": "2020-03-17"
-  },
-  {
-    "title": "Viikin tanssit",
-    "description": "Kello 18:00 - 23:00. Biologiankatu 5, Helsinki.",
-    "date": "2020-03-06"
-  },
-  {
-    "title": "Ei tunteja",
-    "description": "VN:n vuosijuhlaviikko. Tanssikursseja ei pidetä!",
-    "date": "2020-02-25"
-  },
-  {
-    "title": "HOT-tanssibileet",
-    "description": "Kello 19:00 - 23:59. Urho Kekkosen katu 4-6 D, Helsinki.",
-    "date": "2020-02-21"
-  },
-  {
-    "title": "Viikin tanssit",
-    "description": "Kello 18:00 - 23:00. Ensimmäisen tunnin aikana ilmainen rumban jatkotason opetusta. Biologiankatu 5, Helsinki.",
-    "date": "2020-02-07"
-  },
-  {
-    "title": "Ei tunteja",
-    "description": "PPO:n vuosijuhlaviikko. Tanssikursseja ei pidetä!",
-    "date": "2020-02-04"
-  },
-  {
-    "title": "Kurssimaksujen tarkistus",
-    "description": "Kuitti ja opiskelijakortti mukaan!",
-    "date": "2020-01-28"
-  },
-  {
-    "title": "POT-tanssibileet",
-    "description": "Kello 16:00 - 21:00. Töölönkatu 3 A, 5krs, Helsinki.",
-    "date": "2020-01-26"
-  },
-  {
-    "title": "HOT-tanssibileet",
-    "description": "Kello 19:00 - 23:59. Urho Kekkosen katu 4-6 D, Helsinki.",
-    "date": "2020-01-17"
-  },
-  {
-    "title": "Viikin tanssit",
-    "description": "Kello 18:00 - 23:00. Alkaa puolentoista tunnin bugg opetuksella. Biologiankatu 5, Helsinki.",
-    "date": "2020-01-17"
-  },
-  {
-    "title": "Tanssikurssit alkavat",
-    "description": "Kevään kurssit alkavat tiistaina 14.1.! Käy katsomassa [kurssitarjontamme](/kurssi/yleista-kursseista) ja [ilmoittaudu kursseille](https://docs.google.com/forms/d/e/1FAIpQLScvIIl5l7a7bnPIYUmLxaijReK-bgoOt8C44nhTOxInNASBGg/viewform?usp=sf_link).",
-    "date": "2020-01-14"
-  }
-]
+{
+  "events": [
+    {
+      "title": "Viikin tanssit",
+      "description": "Kello 18:00 - 23:00. Biologiankatu 5, Helsinki.",
+      "date": "2020-05-08"
+    },
+    {
+      "title": "HOT-tanssibileet",
+      "description": "Kello 19:00 - 23:59. Urho Kekkosen katu 4-6 D, Helsinki.",
+      "date": "2020-04-24"
+    },
+    {
+      "title": "Viikin tanssit",
+      "description": "Kello 18:00 - 23:00. Biologiankatu 5, Helsinki.",
+      "date": "2020-04-03"
+    },
+    {
+      "title": "HOT-tanssibileet",
+      "description": "Kello 19:00 - 23:59. Urho Kekkosen katu 4-6 D, Helsinki.",
+      "date": "2020-03-27"
+    },
+    {
+      "title": "Ei tunteja",
+      "description": "EPO:n vuosijuhlaviikko. Tanssikursseja ei pidetä!",
+      "date": "2020-03-17"
+    },
+    {
+      "title": "Viikin tanssit",
+      "description": "Kello 18:00 - 23:00. Biologiankatu 5, Helsinki.",
+      "date": "2020-03-06"
+    },
+    {
+      "title": "Ei tunteja",
+      "description": "VN:n vuosijuhlaviikko. Tanssikursseja ei pidetä!",
+      "date": "2020-02-25"
+    },
+    {
+      "title": "HOT-tanssibileet",
+      "description": "Kello 19:00 - 23:59. Urho Kekkosen katu 4-6 D, Helsinki.",
+      "date": "2020-02-21"
+    },
+    {
+      "title": "Viikin tanssit",
+      "description": "Kello 18:00 - 23:00. Ensimmäisen tunnin aikana ilmainen rumban jatkotason opetusta. Biologiankatu 5, Helsinki.",
+      "date": "2020-02-07"
+    },
+    {
+      "title": "Ei tunteja",
+      "description": "PPO:n vuosijuhlaviikko. Tanssikursseja ei pidetä!",
+      "date": "2020-02-04"
+    },
+    {
+      "title": "Kurssimaksujen tarkistus",
+      "description": "Kuitti ja opiskelijakortti mukaan!",
+      "date": "2020-01-28"
+    },
+    {
+      "title": "POT-tanssibileet",
+      "description": "Kello 16:00 - 21:00. Töölönkatu 3 A, 5krs, Helsinki.",
+      "date": "2020-01-26"
+    },
+    {
+      "title": "HOT-tanssibileet",
+      "description": "Kello 19:00 - 23:59. Urho Kekkosen katu 4-6 D, Helsinki.",
+      "date": "2020-01-17"
+    },
+    {
+      "title": "Viikin tanssit",
+      "description": "Kello 18:00 - 23:00. Alkaa puolentoista tunnin bugg opetuksella. Biologiankatu 5, Helsinki.",
+      "date": "2020-01-17"
+    },
+    {
+      "title": "Tanssikurssit alkavat",
+      "description": "Kevään kurssit alkavat tiistaina 14.1.! Käy katsomassa [kurssitarjontamme](/kurssi/yleista-kursseista) ja [ilmoittaudu kursseille](https://docs.google.com/forms/d/e/1FAIpQLScvIIl5l7a7bnPIYUmLxaijReK-bgoOt8C44nhTOxInNASBGg/viewform?usp=sf_link).",
+      "date": "2020-01-14"
+    }
+  ]
+}

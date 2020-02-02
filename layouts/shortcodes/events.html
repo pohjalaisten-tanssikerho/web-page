@@ -1,10 +1,11 @@
 <div>
   <h2>Tapahtumat ja tiedotteet</h2>
-  {{ if eq (.Site.Data.events | len) 0 }}
+  {{ $events := index .Site.Data.events "events" }}
+  {{ if eq ($events | len) 0 }}
   <p>Tällä hetkellä ei ole bileitä tai tapahtumia tiedossa.</p>
-  {{ end }}
+  {{ else }}
   <ul>
-    {{ range first 3 (sort (where .Site.Data.events ".date" "ge" (now.Format "2006-01-02")) ".date" "asec") }}
+    {{ range first 3 (sort (where $events "date" "ge" (now.Format "2006-01-02")) "date" "asec") }}
     {{ $t := time .date }}
     <li><span class="date-event">{{ $t.Day }}.{{ printf "%d" $t.Month }}.</span><span class="title-event">{{ .title }}</span>
       {{ with .description }}
@@ -13,4 +14,6 @@
     </li>
     {{ end }}
   </ul>
+  {{ end }}
 </div>
+
