@@ -104,11 +104,23 @@ collections:
       - name: "test"
         label: "Testi"
         file: "data/foo.json"
-        widget: "object"
+        widget: list
         fields:
           - { label: "Foo1", name: "foo1", widget: "string" }
           - { label: "Foo2", name: "foo2", widget: "string" }
           - { label: "Foo3", name: "foo3", widget: "string" }
+      - name: "example"
+        label: "Example"
+        file: "data/test.json"
+        widget: "list"
+        fields:
+          - {label: Quote, name: quote, widget: string, default: "Everything is awesome!"}
+          - label: Author
+            name: author
+            widget: object
+            fields:
+              - {label: Name, name: name, widget: string, default: "Emmet"}
+              - {label: Avatar, name: avatar, widget: image, default: "/img/emmet.jpg"}
       # - name: "events"
       #   label: "Tapahtumat"
       #   file: "data/events.json"
