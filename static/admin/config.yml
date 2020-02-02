@@ -120,7 +120,7 @@ collections:
         label: "Test dummy board"
         file: "data/dummy.json"
         widget: "list"
-        field:
+        fields:
           - name: "board"
             label: "Item"
             widget: "list"
