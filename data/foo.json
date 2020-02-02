@@ -1,5 +1,16 @@
 {
   "foo1": "foo111foo",
   "foo2": "foo222foo",
-  "foo3": "foo333foo"
+  "foo3": "foo333foo",
+  "foo4": [
+    {
+      "foo5": "foo51"
+    },
+    {
+      "foo5": "foo52"
+    },
+    {
+      "foo5": "foo53"
+    }
+  ]
 }
