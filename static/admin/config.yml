@@ -77,6 +77,11 @@ collections:
 
 # data
 
+  - name: "data"
+    label: "Tietokannat"
+    description: "Testissä vielä! Älä käytä!"
+    files:
+
       - name: "coursesMeta"
         label: "Kurssi-info"
         file: "data/coursesMeta.json"
@@ -121,20 +126,16 @@ collections:
 
 # Unusable below 
 
-      - name: "data"
-        label: "Tietokannat"
-        description: "Testissä vielä! Älä käytä!"
-        files:
-          - name: "board"
-            label: "Hallituksen jäsenet"
-            file: "data/board.json"
-            widget: "object"
-            fields:
-              - { label: "Etunimi", name: "firstname", widget: "string" }
-              - { label: "Sukunimi", name: "lastname", widget: "string" }
-              - { label: "Kuva", name: "picture", widget: "string" }
-              - { label: "Rooli", name: "role", widget: "string" }
-              - { label: "Sähköposti", name: "email", widget: "string" }
+      - name: "board"
+        label: "Hallituksen jäsenet"
+        file: "data/board.json"
+        widget: "object"
+        fields:
+          - { label: "Etunimi", name: "firstname", widget: "string" }
+          - { label: "Sukunimi", name: "lastname", widget: "string" }
+          - { label: "Kuva", name: "picture", widget: "string" }
+          - { label: "Rooli", name: "role", widget: "string" }
+          - { label: "Sähköposti", name: "email", widget: "string" }
 
       - name: "test"
         label: "Testi"
