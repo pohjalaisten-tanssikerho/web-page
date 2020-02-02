@@ -158,15 +158,13 @@ collections:
       - name: "dummy"
         label: "Test dummy board"
         file: "data/dummy.json"
+        widget: "list"
         fields:
-          - label: "Item"
-            widget: "list"
-            fields:
-              - { label: "Etunimi", name: "firstname", widget: "string" }
-              - { label: "Sukunimi", name: "lastname", widget: "string" }
-              - { label: "Kuva", name: "picture", widget: "string" }
-              - { label: "Rooli", name: "role", widget: "string" }
-              - { label: "Sähköposti", name: "email", widget: "string" }
+          - { label: "Etunimi", name: "firstname", widget: "string" }
+          - { label: "Sukunimi", name: "lastname", widget: "string" }
+          - { label: "Kuva", name: "picture", widget: "string" }
+          - { label: "Rooli", name: "role", widget: "string" }
+          - { label: "Sähköposti", name: "email", widget: "string" }
 
       - name: "listTest"
         label: "Example of list"
