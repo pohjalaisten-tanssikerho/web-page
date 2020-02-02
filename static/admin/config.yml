@@ -102,6 +102,40 @@ collections:
           #   - { label: "start", name: "start", widget: "string" }
           #   - { label: "end", name: "end", widget: "string" }
 
+      - name: "coursesMeta"
+        label: "Kurssi-info"
+        file: "data/coursesMeta.json"
+        widget: "list"
+        fields:
+          - name: "alkeet"
+            label: "Alkeet vaihtuvilla pareilla"
+            fields:
+              - { label: "Kurssi", name: "name", widget: "string" }
+              - { label: "Opettaja", name: "teacher", widget: "string" }
+              - { label: "Aloitus aika", name: "start", widget: "string" }
+              - { label: "Lopetus aika", name: "end", widget: "string" }
+          - name: "alkeetOma"
+            label: "Alkeet oman parin kanssa"
+            fields:
+              - { label: "Kurssi", name: "name", widget: "string" }
+              - { label: "Opettaja", name: "teacher", widget: "string" }
+              - { label: "Aloitus aika", name: "start", widget: "string" }
+              - { label: "Lopetus aika", name: "end", widget: "string" }
+          - name: "alkeisjatko"
+            label: "Alkeisjatko"
+            fields:
+              - { label: "Kurssi", name: "name", widget: "string" }
+              - { label: "Opettaja", name: "teacher", widget: "string" }
+              - { label: "Aloitus aika", name: "start", widget: "string" }
+              - { label: "Lopetus aika", name: "end", widget: "string" }
+          - name: "jatko"
+            label: "Jatko"
+            fields:
+              - { label: "Kurssi", name: "name", widget: "string" }
+              - { label: "Opettaja", name: "teacher", widget: "string" }
+              - { label: "Aloitus aika", name: "start", widget: "string" }
+              - { label: "Lopetus aika", name: "end", widget: "string" }
+
       - name: "test"
         label: "Testi"
         file: "data/foo.json"
@@ -119,7 +153,6 @@ collections:
       - name: "dummy"
         label: "Test dummy board"
         file: "data/dummy.json"
-        widget: "list"
         fields:
           - name: "board"
             label: "Item"
@@ -127,6 +160,7 @@ collections:
             fields:
               - { label: "Etunimi", name: "firstname", widget: "string" }
               - { label: "Sukunimi", name: "lastname", widget: "string" }
+              - { label: "Kuva", name: "picture", widget: "string" }
               - { label: "Rooli", name: "role", widget: "string" }
               - { label: "Sähköposti", name: "email", widget: "string" }
 
