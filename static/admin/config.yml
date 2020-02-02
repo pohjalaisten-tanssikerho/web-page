@@ -132,6 +132,7 @@ collections:
       - name: "objectTest"
         label: "Example of object"
         widget: "object"
+        file: "data/objectTest.json"
         fields:
           - {label: "Public", name: "public", widget: "boolean", default: true}
           - {label: "Name", name: "name", widget: "string"}
