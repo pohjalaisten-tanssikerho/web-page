@@ -1,10 +1,25 @@
 {
   "board": [
     {
+      "firstname": "etunimi2",
+      "lastname": "sukunimi2",
+      "picture": "kuva2",
+      "role": "rooli2",
+      "email": "sähköposti2"
+    },
+    {
       "firstname": "etunimi",
       "lastname": "sukunimi",
+      "picture": "kuva",
       "role": "rooli",
       "email": "sähköposti"
+    },
+    {
+      "firstname": "etunimi3",
+      "lastname": "sukunimi3",
+      "picture": "kuva3",
+      "role": "rooli3",
+      "email": "sähköposti3"
     }
   ]
 }
