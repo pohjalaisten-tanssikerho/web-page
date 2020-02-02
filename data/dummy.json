@@ -1,25 +1,18 @@
 {
-  "board": [
-    {
-      "firstname": "etunimi2",
-      "lastname": "sukunimi2",
-      "picture": "kuva2",
-      "role": "rooli2",
-      "email": "sähköposti2"
-    },
+  "": [
     {
       "firstname": "etunimi",
       "lastname": "sukunimi",
-      "picture": "kuva",
+      "picture": "kuv",
       "role": "rooli",
       "email": "sähköposti"
     },
     {
-      "firstname": "etunimi3",
-      "lastname": "sukunimi3",
-      "picture": "kuva3",
-      "role": "rooli3",
-      "email": "sähköposti3"
+      "firstname": "foo",
+      "lastname": "foo",
+      "picture": "foo",
+      "role": "foo",
+      "email": "foo"
     }
   ]
 }
