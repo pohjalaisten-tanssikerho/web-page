@@ -1,8 +1,8 @@
 backend:
   name: git-gateway
   branch: master
-media_folder: "static/media"
-public_folder: "/media"
+media_folder: "static/img"
+public_folder: "/img"
 site_url: https://musing-ardinghelli-ad83b1.netlify.com
 display_url: https://musing-ardinghelli-ad83b1.netlify.com
 editor:
@@ -101,26 +101,54 @@ collections:
           #   - { label: "Opettaja", name: "teacher", widget: "string" }
           #   - { label: "start", name: "start", widget: "string" }
           #   - { label: "end", name: "end", widget: "string" }
+
       - name: "test"
         label: "Testi"
         file: "data/foo.json"
-        widget: list
+        widget: "list"
         fields:
           - { label: "Foo1", name: "foo1", widget: "string" }
           - { label: "Foo2", name: "foo2", widget: "string" }
           - { label: "Foo3", name: "foo3", widget: "string" }
-      - name: "example"
-        label: "Example"
-        file: "data/test.json"
+          - label: "Foo4"
+            name: "foo4"
+            widget: "list"
+            fields:
+              - {label: "Foo5", name: "foo5", widget: "string" }
+
+      - name: "listTest"
+        label: "Example of list"
+        file: "data/listTest.json"
         widget: "list"
         fields:
-          - {label: Quote, name: quote, widget: string, default: "Everything is awesome!"}
-          - label: Author
-            name: author
-            widget: object
+          - {label: "Quote", name: "quote", widget: "string", default: "Everything is awesome!"}
+          - label: "Author"
+            name: "author"
+            widget: "object"
             fields:
-              - {label: Name, name: name, widget: string, default: "Emmet"}
-              - {label: Avatar, name: avatar, widget: image, default: "/img/emmet.jpg"}
+              - {label: "Name", name: "name", widget: "string", default: "Emmet"}
+              - {label: "Avatar", name: "avatar", widget: "image", default: "/img/emmet.jpg"}
+
+      - name: "objectTest"
+        label: "Example of object"
+        widget: "object"
+        fields:
+          - {label: "Public", name: "public", widget: "boolean", default: true}
+          - {label: "Name", name: "name", widget: "string"}
+          - label: "Birthdate"
+            name: "birthdate"
+            widget: "date"
+            default: ""
+            format: "MM/DD/YYYY"
+          - label: "Address"
+            name: "address"
+            widget: "object"
+            fields: 
+              - {label: "Street Address", name: "street", widget: "string"}
+              - {label: "City", name: "city", widget: "string"}
+              - {label: "Postal Code", name: "post-code", widget: "string"}
+
+
       # - name: "events"
       #   label: "Tapahtumat"
       #   file: "data/events.json"
