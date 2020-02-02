@@ -1,3 +1,10 @@
-[
-
-]
+{
+  "public": false,
+  "name": "object Test",
+  "birthdate": "02/06/2020",
+  "address": {
+    "street": "street address",
+    "city": "city",
+    "post-code": "postal"
+  }
+}
