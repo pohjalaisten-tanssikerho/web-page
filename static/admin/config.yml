@@ -82,9 +82,24 @@ collections:
     description: "Testissä vielä! Älä käytä!"
     files:
 
+      - name: "events"
+        label: "Tapahtumat"
+        file: "data/events.json"
+        description: "Lisää tai poista tapahtumia. HUOM! Kun lisäät tapahtuman, uusi kenttä ilmestyy sivun pohjalle!"
+        widget: "list"
+        fields: 
+          - name: "events"
+            label: "Tapahtuma"
+            widget: "list"
+            fields: 
+              - { label: "Otsikko", name: "title", widget: "string" }
+              - { label: "Päivämäärä", name: "date", widget: "date", format: "YYYY-MM-DD" }
+              - { label: "Kuvaus", name: "description", widget: "markdown" }
+
       - name: "coursesMeta"
         label: "Kurssi-info"
         file: "data/coursesMeta.json"
+        description: "Kursseihin liittyvää tietoa, kuten kurssien opettajat, kurssien aloitusajat sekä lopetusajat."
         widget: "list"
         fields:
           - name: "alkeet"
@@ -127,19 +142,6 @@ collections:
               - { label: "Opettaja", name: "teacher", widget: "string" }
               - { label: "Aloitus aika", name: "start", widget: "string" }
               - { label: "Lopetus aika", name: "end", widget: "string" }
-
-      - name: "events"
-        label: "Tapahtumat"
-        file: "data/events.json"
-        widget: "list"
-        fields: 
-          - name: "events"
-            label: "Tapahtuma"
-            widget: "list"
-            fields: 
-              - { label: "Otsikko", name: "title", widget: "string" }
-              - { label: "Päivämäärä", name: "date", widget: "date", format: "YYYY-MM-DD" }
-              - { label: "Kuvaus", name: "description", widget: "markdown" }
 
 # Unusable below 
 
