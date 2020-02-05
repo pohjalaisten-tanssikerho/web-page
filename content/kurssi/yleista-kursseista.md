@@ -38,7 +38,7 @@ Muista käyttää viitettä!
 
 Ota talteen kuitti ja pidä se mukana kursseilla, kunnes maksut on tarkistettu.
 
-{{< footnote >}} * Osakuntalaisuudella tarkoitetaan seuraavia osakunnan jäseniä: [Vasa Nation](http://vasa.nation.fi) (VN), [Pohjois-Pohjalanen osakunta](http://pohjoispohjalaiset.fi) (PPO) ja [Etelä-Pohjalainen osakunta](http://epo.osakunta.fi) (EPO). Lisäksi osakunnan jäsenen on oltava kirjoilla Helsingin yliopistossa, Aalto-yliopistossa tai muussa korkeakoulussa, jotta on oikeutettu alennettuun hintaan. {{< /footnote >}}
+{{< footnote >}} \* Osakuntalaisuudella tarkoitetaan seuraavia osakunnan jäseniä: [Vasa Nation](http://vasa.nation.fi) (VN), [Pohjois-Pohjalanen osakunta](http://pohjoispohjalaiset.fi) (PPO) ja [Etelä-Pohjalainen osakunta](http://epo.osakunta.fi) (EPO). Lisäksi osakunnan jäsenen on oltava kirjoilla Helsingin yliopistossa, Aalto-yliopistossa tai muussa korkeakoulussa, jotta on oikeutettu alennettuun hintaan. {{< /footnote >}}
 {{< footnote >}}
 \*\* Myös jatko-opiskelijat. {{< /footnote >}}
 
