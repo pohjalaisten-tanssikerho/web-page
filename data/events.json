@@ -41,6 +41,11 @@
       "description": "Kello 19:00 - 23:59. Urho Kekkosen katu 4-6 D, Helsinki."
     },
     {
+      "title": "Ystävänpäivän Swing-tanssit a'la HOS Big Band",
+      "date": "2020-02-15",
+      "description": "Big Band -musiikkia upeassa Balderin salissa. Klo 18:30-22."
+    },
+    {
       "title": "Ystävänpäivätanssit Ruusulinnassa",
       "date": "2020-02-14",
       "description": "Tanssia ihanan Hurman tahtiin! Klo 20-01. Linja-auto 455 lähtee Kampista klo 18:40."
@@ -79,11 +84,6 @@
       "title": "Tanssikurssit alkavat",
       "date": "2020-01-14",
       "description": "Kevään kurssit alkavat tiistaina 14.1.! Käy katsomassa [kurssitarjontamme](/kurssi/yleista-kursseista) ja [ilmoittaudu kursseille](https://docs.google.com/forms/d/e/1FAIpQLScvIIl5l7a7bnPIYUmLxaijReK-bgoOt8C44nhTOxInNASBGg/viewform?usp=sf_link)."
-    },
-    {
-      "title": "Ystävänpäivän Swing-tanssit a'la HOS Big Band",
-      "date": "2020-02-15",
-      "description": "Big Band -musiikkia upeassa Balderin salissa. Klo 18:30-22."
     }
   ]
 }
