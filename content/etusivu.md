@@ -1,17 +1,16 @@
-{{< wideContent class="frontpage">}} {{< courses firstThree >}} {{< events >}}
-{{< /wideContent  >}}
+{{< wideContent class="frontpage">}} {{< courses firstThree >}} {{< events >}} {{< /wideContent  >}}
 
 {{< twoColumnImage imgPlacement="right" height="655" src="annika-juuso.jpg" >}}
 
 ## Paritanssin huumaa pohjalaismielisille opiskelijoille!
-
-Pohjalaisten tanssikerho järjestää opiskelijoille ja opiskelijamielisille lukukauden pituisia paritanssikursseja, joissa opetus tapahtuu viikottain. Näiden lisäksi kerho järjestää ekskursioita, tanssibileitä ja tiiviskursseja.
 
 Paritanssi on hauska, sosiaalinen ja liikunnallinen harrastus, jossa viihtyy jokainen. Tanssi on aina ollut osa kulttuuria ja historiaa, ja täten myös sivistystä. Jokainen törmää paritansseihin viimeistään elämänsä kohokohdissa, joista tunnetuimmat lienevät häiden valssit ja lukion vanhojen tanssit. Kansantanssijoihinkin saattaa törmätä Helsingin keskustassa ja välimeren lomakohteilla salsa on tuttu näky.
 
 Tanssiharrastus on erinomainen harrastus, koska siinä yhdistyy monia asioita mielenkiintoiseksi kokonaisuudeksi. Paritanssissa musiikki ja liike kietoituvat yhteen samalla, kun kokemus jaetaan tanssiparin kanssa. Laji ja musiikki luovat tunnetilan: tangossa on draamaa, fuskussa leikillisyyttä, buggissa vauhtia, valssissa arvokkuutta, bachatassa herkkyyttä ja sensuaalisuutta jne. Varmasti jokaiselle löytyy oma suosikki! {{< /twoColumnImage >}}
 
 {{< twoColumnImage imgPlacement="left" height="509" src="minttu-ilmari.jpg">}} Suomalainen lavatanssi on erittäin lajirikas. Saman illan aikana voi olla helpostikin kymmenen eri lajia. Lajien moninaisuus on rikkautta ja se tuo tanssiin mielenkiintoa sekä tunnetilojen vaihtelevuutta. Pohjalaisten tanssikerho opettaa kaikkia yleisimpiä tanssilajeja, joita suomalaisilla lavoilla tanssitaan. Tanssikerhossa opettavat ammattiopettajat monien vuosien kokemuksella. Opettajat ja Pohjalaisten tanssikerhon lämmin henkinen yhteisö auttavat ja ovat tukena tanssikulttuuriin tutustumisessa.
+
+Pohjalaisten tanssikerho järjestää opiskelijoille ja opiskelijamielisille lukukauden pituisia paritanssikursseja, joissa opetus tapahtuu viikottain. Näiden lisäksi kerho järjestää ekskursioita, tanssibileitä ja tiiviskursseja.
 
 Tervetuloa iloiseen joukkoomme! Nähdään tanssilattialla! {{< /twoColumnImage >}}
 
@@ -29,8 +28,7 @@ Pohjalaisten valtuuskunta on yhteistyöelin seuraaville osakunnille:
 
 Osakunnat ovat Helsingin yliopistossa toimivia poikkitieteellisiä opiskelijayhdistyksiä, jotka perinteisesti keräävät jäseniään syntymäpaikkansa mukaan, ja joissa seudun kulttuuri ja tunnelma näkyvät. Jäseniksi voivat liittyä kuitenkin kaikki korkeakouluopiskelijat syntymäpaikastaan riippumatta. Osakunta on loistava paikka luoda poikkitieteellisiä opiskelijatuttavuuksia.
 
-{{< center >}} {{< figure class="logo" caption="Vasa Nation" alt="Vasa Nation osakunnan vaakuna" link="http://vasa.nation.fi" src="/img/logo/vn.png" width="220" height="220" >}} {{< figure class="logo" caption="Pohjois-Pohjalainen osakunta" alt="Pohjois-Pohjalaisen osakunnan vaakuna" link="http://pohjoispohjalaiset.fi" src="/img/logo/ppo.png" width="220" height="220" >}}
-{{< figure class="logo" caption="Etelä-Pohjalainen osakunta" alt="Etelä-Pohjalaisen osakunnan vaakuna" link="http://epo.osakunta.fi" src="/img/logo/epoOriginal.png" width="250" height="220" >}}
+{{< center >}} {{< figure class="logo" caption="Vasa Nation" alt="Vasa Nation osakunnan vaakuna" link="http://vasa.nation.fi" src="/img/logo/vn.png" width="220" height="220" >}} {{< figure class="logo" caption="Pohjois-Pohjalainen osakunta" alt="Pohjois-Pohjalaisen osakunnan vaakuna" link="http://pohjoispohjalaiset.fi" src="/img/logo/ppo.png" width="220" height="220" >}} {{< figure class="logo" caption="Etelä-Pohjalainen osakunta" alt="Etelä-Pohjalaisen osakunnan vaakuna" link="http://epo.osakunta.fi" src="/img/logo/epoOriginal.png" width="250" height="220" >}}
 {{</ center >}}
 
 Osakunnat ovat ensimmäisiä opiskelijajärjestöjä Suomessa. Osakunnat ovat myös suuria: ne omistavat kiinteistöjä, jotka ovat opiskelijoiden käytettävissä. On osuvasti sanottu, että osakunta on opiskelijan olohuone keskellä Helsinkiä. Osakuntien tarkoitus on kehittää opiskelijoiden hyvinvointia mm. harrastusten kautta.
