@@ -29,11 +29,11 @@
       "email": "etunimi.sukunimi@gmail.com"
     },
     {
-      "firstname": "Kaisa",
-      "lastname": "Autere",
-      "picture": "",
+      "firstname": "Henna",
+      "lastname": "Jylhä",
+      "picture": "henna-jylha.jpg",
       "role": "tiedottaja",
-      "email": "etunimi.sukunimi@wmail.fi"
+      "email": "etunimi.sukunimi@aalto.fi"
     },
     {
       "firstname": "Lasse",
@@ -50,11 +50,11 @@
       "email": "el-liina (ät) hotmail . com"
     },
     {
-      "firstname": "Henna",
-      "lastname": "Jylhä",
-      "picture": "henna-jylha.jpg",
+      "firstname": "Kaisa",
+      "lastname": "Autere",
+      "picture": "",
       "role": "jäsen",
-      "email": "etunimi.sukunimi@aalto.fi"
+      "email": "etunimi.sukunimi@wmail.fi"
     }
   ]
 }
