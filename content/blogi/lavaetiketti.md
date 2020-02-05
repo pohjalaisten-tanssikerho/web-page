@@ -1,15 +1,15 @@
 ---
-title: "Lavaetiketti"
-date: 2019-12-19T12:07:06+02:00
-categories: ["blogi"]
-description: "Lavoilla on syytä osata käyttäytymissääntöjä, jotta kaikki voivat viihtyä."
+title: Lavaetiketti
+categories:
+  - blogi
+description: 'Lavoilla on syytä osata käyttäytymissääntöjä, jotta kaikki voivat viihtyä.'
 ---
 # Lavaetiketti
-Lavaetiketin perustana on kohteliaisuus, joka pätee kaikissa lavatanssipiireissä riippumatta siitä, onko sekahaku vai ei. Pohjalaisten tanssikerhon, Hämäläis-Osakunnan tanssikerhon ja Viikin tanssibileissä on aina sekahaku. Joillakin lavoilla naisten ja miesten haku on erikseen, eli vuorot vaihtuvat tietyn väliajoin. 
 
-Perinteisissä lavatansseissa soitetaan kaksi kappaletta johonkin tiettyyn tanssilajiin, ja saman parin kanssa tanssitaan aina ne molemmat kappaleet peräkkäin. Lajin muuttuessa vaihdetaan yleensä paria. Laji- ja kappalelista ovat joitakin poikkeuksia lukuun ottamatta jossakin näkyvästi esillä. Lavatanssit alkavat ja loppuvat yleensä valssiin.
+Lavaetiketin perustana on kohteliaisuus, joka pätee kaikissa lavatanssipiireissä. Seuraajan tai viejän hakiessa tanssimaan on kohteliasta vastata myöntävästi. Katsekontakti ja kohtelias pyyntö tai usein pelkkä kädenojennuskin riittää hakijalle. Mikäli haettava haluaa pitää taukoa tanssista, on kohteliasta perustella kielteinen vastaus.
 
-Seuraajan tai viejän tullessa hakemaan tanssimaan, on erittäin epäkohteliasta kieltäytyä, jopa silloinkin, kun toinen pari ei välttämättä osaa kyseistä tanssilajia. Sellaisessa tilanteessa voi esimerkiksi neuvotella parin kanssa toisesta tanssilajista. Hakemisessa on tärkeää muistaa myös katsekontakti ja kohtelias pyyntö, vaikka usein myös pelkkä kohtelias käden ojennus riittää.
+Tanssitapahtumissa voi olla sekahakukäytäntö, naisten ja miesten haut tai jopa molemmat. Pohjalaisten tanssikerhon, Hämäläis-Osakunnan tanssikerhon ja Viikin tanssibileissä noudatetaan aina sekahakua eli viejät saavat hakea seuraajia tanssimaan ja päinvastoin. Naisten ja miesten haku on käytössä useilla tanssilavoilla. Tällöin hakuvuorot vaihtuvat ilmoitetun aikataulun mukaisesti. 
 
-Lavaetikettiin kuuluu myös muiden tanssijoiden huomioiminen tanssitilan suhteen. Yleensä moniin kappaleisiin pystyy tanssimaan useampia kuin vain yhtä tanssilajia. Jos tanssilajeina on swing- eli kädenalitanssit ja etenevät lähitanssit, kannattaa salin keskusta jättää swing-tanssijoille ja reunusta etevän lähitanssin tanssijoille. Myös enemmän paikallaan pysyviä lähitansseja tanssitaan keskellä salia.
+Perinteisissä lavatansseissa soitetaan kaksi johonkin tiettyyn tanssilajiin soveltuvaa kappaletta, ja saman etiketin mukaisesti parin kanssa tanssitaan molempien kappaleiden ajan. Lajin muuttuessa kiitetään paria tanssista ja yleensä vaihdetaan paria. Laji- ja kappalelista ovat opiskelijatanssikerhojen sekä Viikin tanssibileissä näkyvästi esillä. Lavatanssit alkavat ja loppuvat yleensä valssiin. Mikäli hakija tai haettava ei osaa tanssia suositeltua tanssilajia, voidaan parin kanssa sopia tanssittavaksi jotain muuta lajia.
 
+Lavaetikettiin kuuluu myös muiden tanssijoiden huomioiminen tanssitilan suhteen. Moniin kappaleisiin sopii tanssittavaksi useampaa kuin yhtä tanssilajia. Tanssilattialla saatetaan samaan aikaan tanssia sekä ei-eteneviä että eteneviä tansseja, ja siksi on tärkeää tanssia etiketin mukaisilla alueilla: swing- eli kädenalitansseja ja muita ei-eteneviä tansseja tanssitaan salin keskellä ja eteviä tansseja (foksi, tango, valssi jne.) tanssitaan salin reunoja myöten.
