@@ -1,4 +1,14 @@
-{{< wideContent class="frontpage">}} {{< courses firstThree >}} {{< events >}} {{< /wideContent  >}}
+---
+title: "Pohjalaisten tanssikerho"
+date: 2019-06-07T20:41:06+03:00
+categories: ["etusivu"]
+description: "Opetusta, bileitä ja ekskursioita. Pohjalaisten tanssikerho tuo opiskelijan elämään tanssin iloa."
+---
+
+{{< wideContent class="frontpage">}}
+{{< courses firstThree >}}
+{{< events >}}
+{{< /wideContent  >}}
 
 {{< twoColumnImage imgPlacement="right" height="655" src="annika-juuso.jpg" >}}
 
