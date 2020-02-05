@@ -1,19 +1,19 @@
 ---
-title: "Kannatusjäsenyys"
-date: 2019-12-21T17:29:21+02:00
-categories: ["ry"]
+title: Kannatusjäsenyys
+categories:
+  - ry
 categories_weight: 3
 ---
 # Kannatusjäsenyys
-Osallistuminen kausikursseille tekee kävistä Pohjalaisten tanssikerhon jäsenen. Jäsenenä voi osallistua Pohjalaisten tanssikerhon ja Hämäläis-Osakunnan tanssikerhon järjestämiin tanssibileisiin. Lisäksi jäsen voi osallistua ja äänestää Pohjalaisten tanssikerhon kerhon kokouksissa.
 
-Jäseneksi voi liittyä myös kannatusjäsenyyden kautta. Käytännössä kannatusjäsenen oikeudet ovat identtiset varsinaisjäsenten kanssa, eli niiden jotka ovat jäseniä kurssien kautta. Kannatusjäsenyys on myös tapa tukea tanssikerhoa taloudellisesti.
+Kausikursseille osallistujat ovat Pohjalaisten tanssikerhon jäseniä. Jäsenenä voi osallistua Pohjalaisten tanssikerhon ja Hämäläis-Osakunnan tanssikerhon järjestämiin tanssibileisiin. Lisäksi jäsen voi osallistua ja äänestää Pohjalaisten tanssikerhon kerhon kokouksissa.
+
+Vaihtoehtoisesti kannatusjäseneksi liittynyt on kerhon jäsen, vaikka ei kävisi tanssikurssilla. Tämä kannatusjäsen saa käytännössä vastaavat oikeudet kuin kursseille osallistuneet varsinaiset jäset. Kannatusjäsenyys on myös tapa tukea tanssikerhoa taloudellisesti.
 
 Kannatusjäsenmaksun suuruus on vähintään 10 euroa ja se maksetaan tanssikerhon tilille:
 
 {{% bank %}}
 
-Käytä viitenumeroa 9991. Maksun jälkeen [ilmoita itsesi]({{< link signin >}}), jotta sinut tiedetään lisätä rekisteriin ja sitä myötä jäseneksi. Huomaa, että 10 euron maksu on vähintään mikä pitää maksaa, että jäsenyyden saa. Taloudelliseen avustukseen Tanssikerho hyväksyy minkä tahansa summan.
+Käytä viitenumeroa 9991. Maksun jälkeen \[ilmoita itsesi]({{< link signin >}}), jotta sinut tiedetään lisätä rekisteriin ja sitä myötä jäseneksi.
 
-Kannatusjäsenyys on voimassa koko kalenterivuoden, toisin kuin kausikursseja käymällä saatu jäsenyys, joka on voimassa vain kurssikauden ajan.
-
+Kannatusjäsenyys on voimassa koko kalenterivuoden, kun taas kausikurssille osallistuvien jäsenyys on voimassa vain kurssikauden ajan.
