@@ -1,6 +1,5 @@
 ---
 title: Tanssilajit
-date: 2020-01-04T09:14:34.000Z
 categories:
   - blogi
 description: 'Lyhyt esittely tanssilajeista, mitä Pohjalaisten tanssikerho opettaa.'
@@ -13,7 +12,7 @@ Bachata on usein latinotansseihin yhdistetty nelitahtinen tanssilaji, joka on sa
 
 ## Boogie woogie
 
-50-luvulta peräisin oleva Bookie wookie on avoimen otteen rock'n'swing-tanssilaji, jota tanssitaan rock'n'roll- musiikkiin. Linjassa tanssittavan lajin ominaispiirteitä ovat muun muassa musiikkiin eläytyminen ja akrobaattiset liikkeet, vaikka niitä nähdäänkin enemmän bookie wookie kisoissa kuin lavoilla.
+50-luvulta peräisin oleva Boogie woogie on avoimen otteen rock'n'swing-tanssilaji, jota tanssitaan rock'n'roll- musiikkiin. Linjassa tanssittavan lajin ominaispiirteitä ovat muun muassa musiikkiin eläytyminen ja akrobaattiset liikkeet, joita nähdäänkin enemmän boogie woogie -kilpailuissa kuin lavoilla.
 
 ## Bugg
 
