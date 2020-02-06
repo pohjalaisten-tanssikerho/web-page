@@ -12,7 +12,7 @@
   {{ if eq .message "" }}
   <tr>
     {{ $t := time .date }}
-    <th class="date">{{ $t.Day }}.{{ printf "%d" $t.Month }}</th>
+    <th class="date">{{ $t.Day }}.{{ printf "%d" $t.Month }}.</th>
     <td>{{ .alkeet }}</td>
     <td>{{ .alkeetOma }}</td>
     <td>{{ .alkeisjatko }}</td>
@@ -21,7 +21,7 @@
   {{ else }}
   <tr>
     {{ $t := time .date }}
-    <th>{{ $t.Day }}.{{ printf "%d" $t.Month }}</th>
+    <th class="date">{{ $t.Day }}.{{ printf "%d" $t.Month }}.</th>
     <td colspan="4">{{ .message }}</td>
   </tr>
   {{ end }}
