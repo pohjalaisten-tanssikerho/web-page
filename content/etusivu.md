@@ -10,7 +10,7 @@ description: "Opetusta, bileitä ja ekskursioita. Pohjalaisten tanssikerho tuo o
 {{< events >}}
 {{< /wideContent  >}}
 
-{{< twoColumnImage imgPlacement="right" height="655" src="annika-juuso.jpg" >}}
+{{< twoColumnImage imgPlacement="right" height="687" src="annika-juuso.jpg" >}}
 
 ## Paritanssin huumaa pohjalaismielisille opiskelijoille!
 
@@ -18,7 +18,7 @@ Paritanssi on hauska, sosiaalinen ja liikunnallinen harrastus, jossa viihtyy jok
 
 Tanssiharrastus on erinomainen harrastus, koska siinä yhdistyy monia asioita mielenkiintoiseksi kokonaisuudeksi. Paritanssissa musiikki ja liike kietoituvat yhteen samalla, kun kokemus jaetaan tanssiparin kanssa. Laji ja musiikki luovat tunnetilan: tangossa on draamaa, fuskussa leikillisyyttä, buggissa vauhtia, valssissa arvokkuutta, bachatassa herkkyyttä ja sensuaalisuutta jne. Varmasti jokaiselle löytyy oma suosikki! {{< /twoColumnImage >}}
 
-{{< twoColumnImage imgPlacement="left" height="509" src="minttu-ilmari.jpg">}} Suomalainen lavatanssi on erittäin lajirikas. Saman illan aikana voi olla helpostikin kymmenen eri lajia. Lajien moninaisuus on rikkautta ja se tuo tanssiin mielenkiintoa sekä tunnetilojen vaihtelevuutta. Pohjalaisten tanssikerho opettaa kaikkia yleisimpiä tanssilajeja, joita suomalaisilla lavoilla tanssitaan. Tanssikerhossa opettavat ammattiopettajat monien vuosien kokemuksella. Opettajat ja Pohjalaisten tanssikerhon lämmin henkinen yhteisö auttavat ja ovat tukena tanssikulttuuriin tutustumisessa.
+{{< twoColumnImage imgPlacement="left" height="541" src="minttu-ilmari.jpg">}} Suomalainen lavatanssi on erittäin lajirikas. Saman illan aikana voi olla helpostikin kymmenen eri lajia. Lajien moninaisuus on rikkautta ja se tuo tanssiin mielenkiintoa sekä tunnetilojen vaihtelevuutta. Pohjalaisten tanssikerho opettaa kaikkia yleisimpiä tanssilajeja, joita suomalaisilla lavoilla tanssitaan. Tanssikerhossa opettavat ammattiopettajat monien vuosien kokemuksella. Opettajat ja Pohjalaisten tanssikerhon lämmin henkinen yhteisö auttavat ja ovat tukena tanssikulttuuriin tutustumisessa.
 
 Pohjalaisten tanssikerho järjestää opiskelijoille ja opiskelijamielisille lukukauden pituisia paritanssikursseja, joissa opetus tapahtuu viikottain. Näiden lisäksi kerho järjestää ekskursioita, tanssibileitä ja tiiviskursseja.
 
