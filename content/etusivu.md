@@ -26,7 +26,7 @@ Tervetuloa iloiseen joukkoomme! Nähdään tanssilattialla! {{< /twoColumnImage 
 
 # Pohjalaisten valtuuskunta
 
-Pohjalaisten tanssikerho ry on itsenäinen voittoa tavoittelematon yhdistys, jonka juuret ovat Pohjalaisissa osakunnissa. Idea tanssikerhon perustamiselle on siis kolmen eri osakunnan yhteinen ajatus, ja vuonna 2015 Tanssikerho rekisteröityi yhdistykseksi. Tanssikerho on olemassa osakuntia ja opiskelijoita varten, ja tekee yhteistyötä Pohjalaisten valtuuskunnan kanssa.
+Pohjalaisten tanssikerho ry on itsenäinen voittoa tavoittelematon yhdistys, jonka juuret ovat Pohjalaisissa osakunnissa. Idea tanssikerhon perustamiselle on siis kolmen eri osakunnan yhteinen ajatus. Tanssikerho perustettiin 80-luvun alussa ja vuonna 2015 Tanssikerho rekisteröityi yhdistykseksi. Tanssikerho on olemassa osakuntia ja opiskelijoita varten, ja tekee yhteistyötä Pohjalaisten valtuuskunnan kanssa.
 
 {{< figure alt="Pohjalaisten Valtuuskunta" link="http://pohjalaiset.fi" src="/tanssikerho/img/logo/pvAlpha.png" >}}
 
