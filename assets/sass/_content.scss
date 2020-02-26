@@ -157,6 +157,14 @@
       padding-bottom: .1em;
     }
   }
+  .past-line {
+    color: $orange;
+    font-size: 15px;
+    font-weight: bold;
+    margin: 1em 0;
+    text-transform: uppercase;
+    border-bottom: solid 2px $orange;
+  }
   .board {
     @media only screen and (max-width: 985px) {
       grid-template-columns: repeat(2, auto);
@@ -173,8 +181,7 @@
     justify-items: center;
     max-width: 1030px;
     margin: 18px auto;
-    grid-row-gap: 1.2em;
-    grid-gap-row: 40px;
+    grid-row-gap: 2em;
     margin-bottom: 26px;
     .item {
       @media only screen and (max-width: 985px) {
