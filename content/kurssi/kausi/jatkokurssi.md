@@ -1,8 +1,8 @@
 ---
 title: Jatkokurssi
-categories:
-  - kurssi
-categories_weight: 5
+subdirectories:
+  - kurssi_kausi
+subdirectories_weight: 5
 description: >-
   Pitkälle edistyneille tanssijoille. Täällä tanssitekniikka ja kuviot hiotaan
   yhä parempaan kuntoon.

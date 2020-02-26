@@ -1,6 +1,6 @@
 ---
 title: Tanssilajit
-categories:
+subdirectories:
   - blogi
 description: 'Lyhyt esittely tanssilajeista, mitä Pohjalaisten tanssikerho opettaa.'
 ---

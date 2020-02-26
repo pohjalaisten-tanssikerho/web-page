@@ -1,6 +1,6 @@
 ---
 title: Lavaetiketti
-categories:
+subdirectories:
   - blogi
 description: 'Lavoilla on syytä osata käyttäytymissääntöjä, jotta kaikki voivat viihtyä.'
 ---

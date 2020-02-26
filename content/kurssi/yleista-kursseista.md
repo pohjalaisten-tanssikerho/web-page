@@ -1,8 +1,8 @@
 ---
 title: Yleistä kursseista
-categories:
-  - kurssi
-categories_weight: 1
+subdirectories:
+  - kurssi_yleista
+subdirectories_weight: 1
 description: Kaikille viikottaisille kursseille yhteistä asiaa ja käytäntöjä.
 ---
 # Yleistä kursseista
@@ -24,32 +24,3 @@ Kausikursseille osallistuminen tekee osallistujasta Pohjalaisten tanssikerhon j�
 
 Kaikkia kurssilaisia kehotetaan liittymään tanssikerhon [sähköpostilistalle]({{< ref "/sahkopostilista.md" >}}). Listan kautta tiedotetaan mm. mahdollisista muutoksista kurssien aikatauluihin! Muita kerholaisia ja vapaampaa tanssikeskustelua löydät myös kerhon [Facebook-]({{< link facebook >}}) ja [Whatsapp-ryhmästä]({{< link whatsapp >}}). Kannattaa käydä katsomassa myös [tapahtumat-sivua]({{< ref "/tapahtumat.md" >}}).
 
-[Täytä kurssi-ilmoittautuminen]({{< link signin >}}) ja tule kursseille! Alla maksuohjeet.
-
-## Hinnasto ja maksaminen
-
-Maksu tapahtuu tilisiirrolla tilille:
-
-{{% bank %}}
-
-Muista käyttää viitettä!
-
-{{< prices >}}
-
-Ota talteen kuitti ja pidä se mukana kursseilla, kunnes maksut on tarkistettu.
-
-{{< footnote >}}
-* Osakuntalaisuudella tarkoitetaan seuraavia osakunnan jäseniä: [Vasa Nation](http://vasa.nation.fi) (VN), [Pohjois-Pohjalanen osakunta](http://pohjoispohjalaiset.fi) (PPO) ja [Etelä-Pohjalainen osakunta](http://epo.osakunta.fi) (EPO). Lisäksi osakunnan jäsenen on oltava kirjoilla Helsingin yliopistossa, Aalto-yliopistossa tai muussa korkeakoulussa, jotta on oikeutettu alennettuun hintaan.
-{{< /footnote >}}
-
-{{< footnote >}}
-\*\* Myös jatko-opiskelijat.
-{{< /footnote >}}
-
-## Kurssiaikataulu ja lajit
-
-Kaikki kurssit ovat tiistaisin.
-
-{{< courseMeta all >}} {{< courses all >}}
-
-Tanssikerholla opetettavista lajeista lisää omalla [blogi-sivulla]({{< ref "/blogi/tanssilajit.md" >}}).
