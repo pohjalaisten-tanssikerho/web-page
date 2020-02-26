@@ -1,3 +1,7 @@
 {{ define "main" }}
   {{ .Content }}
+  {{ range .Page.Params.js }}
+  {{ $js := resources.Get "js/pastEvents.js" | minify| fingerprint }}
+  <script src="{{ $js.Permalink }}"></script>
+  {{ end }}
 {{ end }}
