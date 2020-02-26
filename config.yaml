@@ -1,4 +1,3 @@
-
 baseURL: "http://pohjalaiset.fi/tanssikerho/"
 title: "Pohjalaisten Tanssikerho"
 
@@ -15,6 +14,31 @@ params:
     name: "Holvi"
     iban: "FI51 7997 7998 0564 23"
     bic: "HOLVFIHH"
+  navigation:
+    header:
+      - item:
+          label: etusivu
+          url: http://pohjalaiset.fi/tanssikerho/
+      - item:
+          label: kurssit
+          url: http://pohjalaiset.fi/tanssikerho/kurssi/
+          subdir:
+            - sub: kurssi_yleista
+            - sub: kurssi_kausi
+              title: kurssit
+            - sub: kurssi_tiiviskurssit
+              title: tiiviskurssit
+      - item:
+          label: tapahtumat
+          url: http://pohjalaiset.fi/tanssikerho/tapahtumat/
+      - item:
+          label: hallitus
+          url: http://pohjalaiset.fi/tanssikerho/hallitus/
+      - item:
+          label: blogi
+          url: http://pohjalaiset.fi/tanssikerho/blogi/
+          subdir:
+            - sub: blogi
 
 taxonomies:
   category: categories
