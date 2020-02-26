@@ -4,6 +4,7 @@ date: 2020-02-26T12:08:47+02:00
 subdirectories:
   - kurssi_yleista
 subdirectories_weight: 2
+description: "Kaikkien viikottaisten kurssien aikataulut ja lajit."
 ---
 # Kurssiaikataulut ja lajit
 

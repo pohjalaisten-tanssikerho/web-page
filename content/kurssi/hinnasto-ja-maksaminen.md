@@ -4,6 +4,7 @@ date: 2020-02-26T12:09:05+02:00
 subdirectories:
   - kurssi_yleista
 subdirectories_weight: 4
+description: "Kaikkien kurssien hintatiedot ja maksuohjeet."
 ---
 # Hinnasto ja maksaminen
 
