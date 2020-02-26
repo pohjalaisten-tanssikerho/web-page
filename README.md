@@ -1,5 +1,7 @@
 # Pohjalaisten tanssikerhon nettisivut
-Nettisivut ovat elossa väliaikaisessa osoitteessa: https://musing-ardinghelli-ad83b1.netlify.com
+Nettisivut ovat elossa osoitteessa http://pohjalaiset.fi/tanssikerho
+
+Sisällön tuottajille on oma CMS sivustonsa, missä sisältö voi muokata helposti. Ohjeiden avulla nettisivujen sisältöä on mahdollista muokata myös versionhallinnan kautta.
 
 Sisällön tuottajan tarvitsee lukea ainoastaan kohdat "Ohjeet sisällön tuottajille" ja "Tietokantojen muokkaus". Lukemista kannattaa jatkaa vain, jos haluaa syventää tietoa tai jos on kiinnostunut kehittämään nettisivuja muulla tavalla kuin sisältöä tuottamalla.
 
