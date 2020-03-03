@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', function(event) {
     let currentDate = date.getDate() + '.' + (date.getMonth() + 1) + '.' + date.getFullYear()
 
     for (let i = 0; i < dates.length; i++) {
-      if (isPast(currentDate, dates[i].innerHTML)) return dates[i]
+      if (isPast(currentDate, dates[i].innerHTML)) return dates[i-1]
     } 
   }
 
