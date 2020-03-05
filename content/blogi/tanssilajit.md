@@ -44,7 +44,7 @@ Kizomba on lähitanssilajiksi erittäin monipuolinen. Tanssilavoilla sen suosio 
 
 ## Rumba bolero
 
-Rumbaa nelijakoinen yleensä suljetun otteen tanssilaji, jota tanssitaan bolero-rytmilajiin. Tunnelmaltaan se on rauhallinen ja intensiivinen. Aika harvinainen lavoilla.
+Rumbaa nelijakoinen yleensä suljetun otteen tanssilaji, jota tanssitaan bolero-rytmilajiin. Tunnelmaltaan se on rauhallinen ja intensiivisen hidas. Aika harvinainen lavoilla.
 
 ## Salsa
 
@@ -52,14 +52,14 @@ Salsa on latinotansseista ehkä jopa suosituin tanssilaji. Nelijakoinen tanssi.
 
 ## Samba
 
-Tulossa!
+Samban suosio on vähän laskenut lavoilla, mutta siihen saattaa silloin tällöin törmätä. Se on kaksijakoisena tanssi, joka on luonteeltan vähän hypähtelevä ja joustava. Suljetun otteen tanssi ilman vartalokontaktia.
 
 ## Tango
 
-Tulossa!
+Suomalainen tango on erittäin suosittu lavatanssilaji. Tyyliltään se on etenevä ja hienostunut tanssi, jota nimensä mukaisesti tanssitaan tango-musiikkiin. Musikkin aiheena on yleensä rakkaus korostamassa tanssin tunnelmaa. Myös argentiinalainen tango on herättänyt suosiota lavoilla. Normaalista tangosta se eroaa varsinkin jalkavariaatioiden suhteen, sillä siinä niitä ei ole tarkoin määritelty. 
 
 ## Valssi
 
-Tulossa!
+Vanhin tanssilaji, jota tanssitaan niin lavoilla kuin esimerkiksi häissä. Kolmijakoisen tanssina se on hienostunut ja ylväs lähitanssi ilman vartalokontaktia. Perinteiden mukaisesti valssi aloittaa sekä lopettaa tanssiaiset.
 
 <!-- 1) minkälainen tanssi, millä kurssilla opetetaan, kuinka yleinen,  -->
