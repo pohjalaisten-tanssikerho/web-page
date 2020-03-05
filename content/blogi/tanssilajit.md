@@ -60,6 +60,6 @@ Suomalainen tango on erittäin suosittu lavatanssilaji. Tyyliltään se on etene
 
 ## Valssi
 
-
+Vanhin tanssilaji, jota tanssitaan niin lavoilla kuin esimerkiksi häissä. Kolmijakoisen tanssina se on hienostunut ja ylväs lähitanssi ilman vartalokontaktia. Perinteiden mukaisesti valssi aloittaa sekä lopettaa tanssiaiset.
 
 <!-- 1) minkälainen tanssi, millä kurssilla opetetaan, kuinka yleinen,  -->
