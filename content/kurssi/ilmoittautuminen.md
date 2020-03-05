@@ -7,4 +7,4 @@ subdirectories_weight: 3
 description: "Ilmoittaudu kursseille."
 ---
 # Ilmoittautuminen kursseille
-Kursseille ilmoittautuminen tapahtuu täyttämällä [ilmoittautumislomake]({{< link signin >}}).
+Kausikursseille ilmoittautuminen tapahtuu täyttämällä [ilmoittautumislomake]({{< link signin >}}). Tiiviskursseille ilmoittautuminen tapahtuu erillisellä lomakkeella, joka on tiiviskurssisivun yhteydessä.
