@@ -40,15 +40,15 @@ Suomen kansantanssien ryhmä on aika suuri, mutta lavoilla yleisimpiä niistä o
 
 ## Kizomba
 
-Tulossa!
+Kizomba on lähitanssilajiksi erittäin monipuolinen. Tanssilavoilla sen suosio on kasvanut hurjaa vauhtia. Tunnelmaltaan se on rauhallinen ja intensiivinen. Sille ominaista on vartalokontaktin lisäksi erilaiset askelvariaatiot ja yläkropasta tapahtuva vienti sekä seuraaminen.  Sitä tanssitaan tunnistettavaan ja voimakkaaseen kizomba-musiikkiin.
 
 ## Rumba bolero
 
-Tulossa!
+Rumbaa nelijakoinen yleensä suljetun otteen tanssilaji, jota tanssitaan bolero-rytmilajiin. Tunnelmaltaan se on rauhallinen ja intensiivinen. Aika harvinainen lavoilla.
 
 ## Salsa
 
-Tulossa!
+Salsa on latinotansseista ehkä jopa suosituin tanssilaji. Nelijakoinen tanssi.
 
 ## Samba
 
