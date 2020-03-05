@@ -42,18 +42,17 @@
     border: dotted 1px darkgray;
     background-color: $opacity-half;
   }
-  ul {
+  ol, ul {
     margin-top: .8em;
     margin-bottom: .8em;
-    list-style-type: none; 
     font-size: 15px;
   }
+  ul {
+    list-style-type: none; 
+  }
   ol {
-    margin-top: .8em;
-    margin-bottom: .8em;
     padding-left: 8em;
-    // list-style-type: none; 
-    li{
+    li {
       margin-bottom: .4em;
     }
   } 
