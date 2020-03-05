@@ -40,7 +40,7 @@ Suomen kansantanssien ryhmä on aika suuri, mutta lavoilla yleisimpiä niistä o
 
 ## Kizomba
 
-Kizomba on ihan kivaa.
+Tulossa!
 
 ## Rumba bolero
 
