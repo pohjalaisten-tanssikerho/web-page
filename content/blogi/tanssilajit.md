@@ -16,7 +16,7 @@ Bachata on usein latinotansseihin yhdistetty nelitahtinen tanssilaji, joka on sa
 
 ## Bugg
 
-Ruotsista kotoisin olevaa rock'n'swing-tanssia tanssitaan avoimessa otteessa ja kehällä, mutta on mahdollista tanssia myös etenevänä ja linjana. Suosittua tanssilajia pystyy tanssimaan lähes kaikkiin nelijakoisiin kappaleisiin lähes kaikilla nopeuksilla. Pohjalaisten ja Hämäläisosakunnan-tanssikursseilla sitä opetetaan jo alkeisille.
+Ruotsista kotoisin olevaa rock'n'swing-tanssia tanssitaan avoimessa otteessa ja kehällä, mutta on mahdollista tanssia myös etenevänä ja linjana. Suosittua tanssilajia pystyy tanssimaan lähes kaikkiin nelijakoisiin kappaleisiin lähes kaikilla nopeuksilla. Pohjalaisten ja Hämäläisosakunnan-tanssikursseilla sitä opetetaan jo alkeiskurssilla.
 
 Buggin SM finaali 2019:
 
@@ -28,15 +28,15 @@ Cha cha-musiikkiin tanssittava latinotanssilaji. Perus tanssiote on suljettu ilm
 
 ## Fusku
 
-Hauska ja rytmikäs fusku on rock'n'swing- tansseihin kuuluva tanssilaji ja erittäin suosittu lavatanssipiireissä. Sitä tanssitaan enemmän avoimessa otteessa, mutta on mahdollista tanssia myös suljetussa otteessa ilman vartalo kontaktia. Sitä on mahdollista tanssia oikeastaan kaikkiin nelitahtisiin kappaleisiin. Tahdikuutta tanssiin tuo tuttu foksin perusaskel, jossa polvet joustavat joka askeleelta. Sitä opetetaan usein jo alkeiskursseilla.
+Hauska ja rytmikäs fusku on rock'n'swing- tansseihin kuuluva tanssilaji ja erittäin suosittu lavatanssipiireissä. Sitä tanssitaan enemmän avoimessa otteessa, mutta on mahdollista tanssia myös suljetussa otteessa ilman vartalokontaktia. Sitä on mahdollista tanssia oikeastaan kaikkiin nelitahtisiin kappaleisiin. Tahdikuutta tanssiin tuo tuttu foksin perusaskel, jossa polvet joustavat joka askeleelta. Sitä opetetaan usein jo alkeiskursseilla.
 
 ## Jive
 
-Jive on hieman fuskua ja buggia muistuttava paritanssi, joka kuitenkin kuuluu latinalaistanssien perheeseen. Tunnelmaltaan se on nopeatempoinen ja iloinen tanssi. Tehty tanssittavaksi swing-musiikkia. Lavoilla vähän harvinaisempi.
+Jive on hieman fuskua ja buggia muistuttava paritanssi, joka kuitenkin kuuluu latinalaistanssien perheeseen. Tunnelmaltaan se on nopeatempoinen ja iloinen tanssi. Tehty tanssittavaksi swing-musiikkiin. Lavoilla vähän harvinaisempi.
 
 ## Kansantanssit
 
-Suomen kansantanssien ryhmä on aika suuri, mutta lavoilla yleisimpiä niistä ovat polkka, jenkka ja humppa. Polkkaa ja jenkkaa tanssitaan nopeatempoiseen, iloiseen ja pianon sekä harmonikan säestämään musiikkiin. Molemmat tanssit ovat luonteeltaan aika hyppeleviä ja hyvätuulisia. Jenkkaa pystyy kyllä tanssimaan myös ilman hypähteleviä askelia, jolloin tanssi muuttuu sottiisiksi (köyhän miehen jenkka). Jenkan perusakel etenee promenadissa askel-askel-hyp-py askel-askel-hyp-py, jonka jälkeen yleensä hypätään molemmilla jaloilla kaksi kertaa.  
+Suomen kansantanssien ryhmä on aika suuri, mutta lavoilla yleisimpiä niistä ovat polkka, jenkka ja humppa. Polkkaa ja jenkkaa tanssitaan nopeatempoiseen, iloiseen ja pianon sekä harmonikan säestämään musiikkiin. Molemmat tanssit ovat luonteeltaan aika hyppeleviä ja hyväntuulisia. Jenkkaa pystyy kyllä tanssimaan myös ilman hypähteleviä askelia, jolloin tanssi muuttuu sottiisiksi (köyhän miehen jenkka). Jenkan perusakel etenee promenadissa askel-askel-hyp-py askel-askel-hyp-py, jonka jälkeen yleensä hypätään molemmilla jaloilla kaksi kertaa.  
 
 ## Kizomba
 
