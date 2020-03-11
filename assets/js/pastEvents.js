@@ -14,9 +14,9 @@ document.addEventListener('DOMContentLoaded', function(event) {
   function isPast(currentDate, eventDate) {
     let cd = currentDate.split('.')
     let ed = eventDate.split('.')
-    if (cd[2] < ed[2]) return false
-    if (cd[1] <= ed[1]) return false
-    if (cd[0] <= ed[0]) return false
+    for (let i = 2; i >= 0; i--) {
+      if (cd[i] < ed[i]) return false
+    }
     return true
   }
 
