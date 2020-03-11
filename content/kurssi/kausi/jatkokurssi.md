@@ -17,4 +17,4 @@ Jatkokurssilla on kiertävä parin vaihto!
 {{% courseMeta jatko %}}
 
 ## Kurssiaikataulu ja lajit
-{{< course alkeet >}}
+{{< course jatko >}}
