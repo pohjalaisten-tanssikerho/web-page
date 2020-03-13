@@ -10,19 +10,17 @@ description: >-
 {{< wideContent class="frontpage">}} {{< courses firstThree >}} {{< events >}}
 {{< /wideContent  >}}
 
-{{< footnote  >}}
+
 
 ## Tiedote 13.3.2020
 
 Pohjalaisten tanssikerhon tunnit on alustavasti peruttu kahden viikon ajaksi. Syynä tähän on Suomen hallituksen tekemät linjaukset ja muiden toimintaan liittyvien tahojen suositukset koronaviruksen johdosta. Tiedotamme pian lisää jatkosta ja selvitämme mahdollisuuksia korvaavien tuntien järjestämiseksi myöhemmin kevätkauden aikana.
 
-{{< footnote >}}
 
-{{< twoColumnImage imgPlacement="right" height="573" src="annika-juuso.jpg">}}
 
 ## Paritanssin huumaa pohjalaismielisille opiskelijoille!
 
-Paritanssi on hauska, sosiaalinen ja liikunnallinen harrastus, jossa viihtyy jokainen. Tanssi on aina ollut osa kulttuuria ja historiaa, ja täten myös sivistystä. Jokainen törmää paritansseihin viimeistään elämänsä kohokohdissa, joista tunnetuimmat lienevät häiden valssit ja lukion vanhojen tanssit. Kansantanssijoihinkin saattaa törmätä Helsingin keskustassa ja välimeren lomakohteilla salsa on tuttu näky.
+{{< twoColumnImage imgPlacement="right" height="573" src="annika-juuso.jpg">}} Paritanssi on hauska, sosiaalinen ja liikunnallinen harrastus, jossa viihtyy jokainen. Tanssi on aina ollut osa kulttuuria ja historiaa, ja täten myös sivistystä. Jokainen törmää paritansseihin viimeistään elämänsä kohokohdissa, joista tunnetuimmat lienevät häiden valssit ja lukion vanhojen tanssit. Kansantanssijoihinkin saattaa törmätä Helsingin keskustassa ja välimeren lomakohteilla salsa on tuttu näky.
 
 Tanssiharrastus on erinomainen harrastus, koska siinä yhdistyy monia asioita mielenkiintoiseksi kokonaisuudeksi. Paritanssissa musiikki ja liike kietoituvat yhteen samalla, kun kokemus jaetaan tanssiparin kanssa. Laji ja musiikki luovat tunnetilan: tangossa on draamaa, fuskussa leikillisyyttä, buggissa vauhtia, valssissa arvokkuutta, bachatassa herkkyyttä ja sensuaalisuutta jne. Varmasti jokaiselle löytyy oma suosikki! {{< /twoColumnImage >}}
 
