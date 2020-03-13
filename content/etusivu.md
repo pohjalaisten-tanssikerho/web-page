@@ -1,16 +1,22 @@
 ---
-title: "Pohjalaisten tanssikerho"
-date: 2019-06-07T20:41:06+03:00
-categories: ["etusivu"]
-description: "Opetusta, bileitä ja ekskursioita. Pohjalaisten tanssikerho tuo opiskelijan elämään tanssin iloa."
+title: Pohjalaisten tanssikerho
+date: 2019-06-07T17:41:06.000Z
+categories:
+  - etusivu
+description: >-
+  Opetusta, bileitä ja ekskursioita. Pohjalaisten tanssikerho tuo opiskelijan
+  elämään tanssin iloa.
 ---
-
-{{< wideContent class="frontpage">}}
-{{< courses firstThree >}}
-{{< events >}}
+{{< wideContent class="frontpage">}} {{< courses firstThree >}} {{< events >}}
 {{< /wideContent  >}}
 
-{{< twoColumnImage imgPlacement="right" height="687" src="annika-juuso.jpg" >}}
+{{<  /wideContent >}}
+
+## Tiedote 13.3.2020
+
+Pohjalaisten tanssikerhon tunnit on alustavasti peruttu kahden viikon ajaksi. Syynä tähän on Suomen hallituksen tekemät linjaukset ja muiden toimintaan liittyvien tahojen suositukset. Tiedotamme pian lisää jatkosta ja selvitämme mahdollisuuksia korvaavien tuntien järjestämiseksi myöhemmin kevätkauden aikana.
+
+{{< /wideContent  >}}
 
 ## Paritanssin huumaa pohjalaismielisille opiskelijoille!
 
@@ -38,8 +44,7 @@ Pohjalaisten valtuuskunta on yhteistyöelin seuraaville osakunnille:
 
 Osakunnat ovat Helsingin yliopistossa toimivia poikkitieteellisiä opiskelijayhdistyksiä, jotka perinteisesti keräävät jäseniään syntymäpaikkansa mukaan, ja joissa seudun kulttuuri ja tunnelma näkyvät. Jäseniksi voivat liittyä kuitenkin kaikki korkeakouluopiskelijat syntymäpaikastaan riippumatta. Osakunta on loistava paikka luoda poikkitieteellisiä opiskelijatuttavuuksia.
 
-{{< center >}} {{< figure class="logo" caption="Vasa Nation" alt="Vasa Nation osakunnan vaakuna" link="http://vasa.nation.fi" src="/tanssikerho/img/logo/vn.png" width="220" height="220" >}} {{< figure class="logo" caption="Pohjois-Pohjalainen osakunta" alt="Pohjois-Pohjalaisen osakunnan vaakuna" link="http://pohjoispohjalaiset.fi" src="/tanssikerho/img/logo/ppo.png" width="220" height="220" >}} {{< figure class="logo" caption="Etelä-Pohjalainen osakunta" alt="Etelä-Pohjalaisen osakunnan vaakuna" link="http://epo.osakunta.fi" src="/tanssikerho/img/logo/epoOriginal.png" width="250" height="220" >}}
-{{</ center >}}
+{{< center >}} {{< figure class="logo" caption="Vasa Nation" alt="Vasa Nation osakunnan vaakuna" link="http://vasa.nation.fi" src="/tanssikerho/img/logo/vn.png" width="220" height="220" >}} {{< figure class="logo" caption="Pohjois-Pohjalainen osakunta" alt="Pohjois-Pohjalaisen osakunnan vaakuna" link="http://pohjoispohjalaiset.fi" src="/tanssikerho/img/logo/ppo.png" width="220" height="220" >}} {{< figure class="logo" caption="Etelä-Pohjalainen osakunta" alt="Etelä-Pohjalaisen osakunnan vaakuna" link="http://epo.osakunta.fi" src="/tanssikerho/img/logo/epoOriginal.png" width="250" height="220" >}} {{</ center >}}
 
 Osakunnat ovat ensimmäisiä opiskelijajärjestöjä Suomessa. Osakunnat ovat myös suuria: ne omistavat kiinteistöjä, jotka ovat opiskelijoiden käytettävissä. On osuvasti sanottu, että osakunta on opiskelijan olohuone keskellä Helsinkiä. Osakuntien tarkoitus on kehittää opiskelijoiden hyvinvointia mm. harrastusten kautta.
 
