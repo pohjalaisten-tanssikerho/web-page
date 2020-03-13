@@ -10,13 +10,13 @@ description: >-
 {{< wideContent class="frontpage">}} {{< courses firstThree >}} {{< events >}}
 {{< /wideContent  >}}
 
-{{<  /wideContent >}}
+{{<   >}}
 
 ## Tiedote 13.3.2020
 
 Pohjalaisten tanssikerhon tunnit on alustavasti peruttu kahden viikon ajaksi. Syynä tähän on Suomen hallituksen tekemät linjaukset ja muiden toimintaan liittyvien tahojen suositukset. Tiedotamme pian lisää jatkosta ja selvitämme mahdollisuuksia korvaavien tuntien järjestämiseksi myöhemmin kevätkauden aikana.
 
-{{< /wideContent  >}}
+{{<  >}}
 
 ## Paritanssin huumaa pohjalaismielisille opiskelijoille!
 
