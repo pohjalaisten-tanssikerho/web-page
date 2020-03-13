@@ -14,7 +14,7 @@ description: >-
 
 ## Tiedote 13.3.2020
 
-Pohjalaisten tanssikerhon tunnit on alustavasti peruttu kahden viikon ajaksi. Syynä tähän on Suomen hallituksen tekemät linjaukset ja muiden toimintaan liittyvien tahojen suositukset koronaviruksen johdosta. Tiedotamme pian lisää jatkosta ja selvitämme mahdollisuuksia korvaavien tuntien järjestämiseksi myöhemmin kevätkauden aikana.
+Pohjalaisten tanssikerhon tunnit on alustavasti peruttu kahden viikon ajaksi. Syynä tähän on [Suomen hallituksen tekemät linjaukset](https://valtioneuvosto.fi/artikkeli/-/asset_publisher/10616/hallitus-paatti-suosituksista-koronaviruksen-leviamisen-hillitsemiseksi) ja [muiden toimintaan liittyvien tahojen suositukset ](https://www.stol-ry.fi/?x118281=185551)koronaviruksen johdosta. Tiedotamme pian lisää jatkosta ja selvitämme mahdollisuuksia korvaavien tuntien järjestämiseksi myöhemmin kevätkauden aikana.
 
 
 
