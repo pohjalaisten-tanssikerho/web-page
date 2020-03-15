@@ -7,14 +7,25 @@ description: >-
   Opetusta, bileitä ja ekskursioita. Pohjalaisten tanssikerho tuo opiskelijan
   elämään tanssin iloa.
 ---
-{{< wideContent class="frontpage">}} {{< courses firstThree >}} {{< events >}}
-{{< /wideContent  >}}
+{{< wideContent class="frontpage">}} {{< courses firstThree >}} {{< events >}} {{< /wideContent  >}}
+
+## Tiedote 15.3.2020
+
+Kerhon hallituksen kokouksessa vahvistettiin päätös olla järjestämättä kursseja seuraavan kahden viikon aikana. Selvitämme mahdollisuuksia järjestää peruuntuneet kurssikerrat touko-kesäkuun aikana, tai mahdollisuuksia korvata osan tunneista kotona tehtävillä videoharjoitteilla. Bileitä ei myöskään järjestetä kevätkauden aikana, ellei viranomaisten ohjeistus tapahtumien järjestämisestä muutu.
+
+Hallitus kokoontuu uudestaan viikon 13 lopussa, jolloin tiedotetaan jatkosta. 
+
+
 
 ## Tiedote 13.3.2020
 
 Pohjalaisten tanssikerhon tunnit on alustavasti peruttu kahden viikon ajaksi. Syynä tähän on [Suomen hallituksen tekemät linjaukset](https://valtioneuvosto.fi/artikkeli/-/asset_publisher/10616/hallitus-paatti-suosituksista-koronaviruksen-leviamisen-hillitsemiseksi) ja [muiden toimintaan liittyvien tahojen suositukset ](https://www.stol-ry.fi/?x118281=185551)koronaviruksen johdosta. Tiedotamme pian lisää jatkosta ja selvitämme mahdollisuuksia korvaavien tuntien järjestämiseksi myöhemmin kevätkauden aikana.
 
 Yhdistyksen kevätkokous järjestetään suunnitellusti sunnuntaina 15.3.
+
+
+
+
 
 # Paritanssin huumaa pohjalaismielisille opiskelijoille!
 
