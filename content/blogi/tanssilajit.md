@@ -24,11 +24,15 @@ Buggin SM finaali 2019:
 
 ## Cha cha
 
-Cha cha on nelijakoinen latinotanssilaji. Sitä tanssitaan suljetussa tanssiotteessa ilman vartalokontaktia, mutta on myös mahdollista tanssia avoimessa otteessa. Cha cha-musiikki ja tanssin keinuttavat askeleet luovat mukaansa vievän tanssifiiliksen, ja se onkin lavoilla myös aika yleinen tanssilaji.
+Cha cha on nelijakoinen latinotanssilaji, jota tanssitaan suljetussa tanssiotteessa ilman vartalokontaktia tai avoimessa tanssiotteessa. Cha cha-musiikki ja tanssin keinuttavat askeleet luovat mukaansa vievän tanssifiiliksen, ja siksi se onkin aika yleinen tanssilaji lavoilla.
+
+## Foksi
+
+Foksi saattaa olla jopa yleisin lavatanssilaji, koska sitä pystyy soveltamaan ja tanssimaan lähes kaikkiin kappaleisiin. Se on nelijakoinen, kuten monet muutkin tanssilajit, ja sitä tanssitaan suljetussa tanssiotteessa.
 
 ## Fusku
 
-Hauska ja rytmikäs fusku on rock'n'swing- tansseihin kuuluva tanssilaji ja erittäin suosittu lavatanssipiireissä. Sitä tanssitaan enemmän avoimessa otteessa, mutta on mahdollista tanssia myös suljetussa otteessa ilman vartalokontaktia. Sitä on mahdollista tanssia oikeastaan kaikkiin nelitahtisiin kappaleisiin. Tahdikuutta tanssiin tuo tuttu foksin perusaskel, jossa polvet joustavat joka askeleelta. Sitä opetetaan usein jo alkeiskursseilla.
+Hauska ja rytmikäs fusku on rock'n'swing- tansseihin kuuluva tanssilaji ja erittäin suosittu lavatanssipiireissä. Sitä tanssitaan enemmän avoimessa otteessa, mutta on mahdollista tanssia myös suljetussa otteessa ilman vartalokontaktia. Nelitahtisena tanssilajina sitä on oikeastaan mahdollista tanssia lähes kaikkiin nelijakoisiin kappaleisiin. Tahdikuutta tanssiin tuo tuttu foksin perusaskel, jossa polvet joustavat joka askeleella. 
 
 ## Jive
 
