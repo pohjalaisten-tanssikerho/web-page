@@ -2,23 +2,25 @@
 title: Tanssilajit
 subdirectories:
   - blogi
-description: 'Lyhyt esittely tanssilajeista, mitä Pohjalaisten tanssikerho opettaa.'
+description: 'Lyhyt esittely tanssilajeista, mitä Pohjalaisten tanssikerho ja Hämäläis-Osakunnan tanssikerho opettaa.'
 ---
 # Tanssilajit
 
 ## Bachata
 
-Bachata on usein latinotansseihin yhdistetty nelitahtinen tanssilaji, joka on saanut vaikutteita muista latino tansseista kuten bolerosta. Bachata-musiikkiin tanssittavaa lajia pystyy tanssimaan suljetussa tai avoimessa otteessa. Se ei ole niin yleinen tanssilaji lavatanssipiireissä, jonka vuoksi sitä ei myöskään yleensä opeta kursseilla, mutta lavoilla sitä näkee satunnaisesti tanssittavan.
+Bachata on usein latinotansseihin yhdistetty nelitahtinen tanssilaji, joka on saanut vaikutteita muista tansseista kuten bolerosta. Bachata-musiikkiin tanssittavaa lajia pystyy tanssimaan sekä avoimessa että suljetussa tanssiotteessa vartalo kontaktilla tai ilman. Perusasekeleet ovat yksinkertaiset sivulta sivulle kulkevat, joissa yleensä neljäs askel on täppi tai muu vastaava. Lavoilla bachata on vielä aika harvinainen, mutta sen suosio nousee räjähdysmäisesti. 
+
+{{< youtube id="0jP0h3wIZCE" class="media" >}}
 
 ## Boogie woogie
 
-50-luvulta peräisin oleva Boogie woogie on avoimen otteen rock'n'swing-tanssilaji, jota tanssitaan rock'n'roll- musiikkiin. Linjassa tanssittavan lajin ominaispiirteitä ovat muun muassa musiikkiin eläytyminen ja akrobaattiset liikkeet, joita nähdäänkin enemmän boogie woogie -kilpailuissa kuin lavoilla.
+50-luvulta peräisin oleva Boogie woogie on avoimen otteen rock'n'swing-tanssilaji, jota tanssitaan rock'n'roll- musiikkiin. Tanssin ominaispiirteisiin kuuluvat tyypillisesti linjamaisuus, musiikkiin eläytyminen, hassuttelu ja akrobaattiset liikkeet.
+
+{{< youtube id="1y-lQzN2-2I" class="media" >}}
 
 ## Bugg
 
 Ruotsista kotoisin olevaa rock'n'swing-tanssia tanssitaan avoimessa otteessa ja kehällä, mutta on mahdollista tanssia myös etenevänä ja linjana. Suosittua tanssilajia pystyy tanssimaan lähes kaikkiin nelijakoisiin kappaleisiin lähes kaikilla nopeuksilla. Pohjalaisten ja Hämäläisosakunnan-tanssikursseilla sitä opetetaan jo alkeiskurssilla.
-
-Buggin SM finaali 2019:
 
 {{< youtube id="GcpiJZKgW8s" class="media" >}}
 
@@ -26,13 +28,19 @@ Buggin SM finaali 2019:
 
 Cha cha on nelijakoinen latinotanssilaji, jota tanssitaan suljetussa tanssiotteessa ilman vartalokontaktia tai avoimessa tanssiotteessa. Cha cha-musiikki ja tanssin keinuttavat askeleet luovat mukaansa vievän tanssifiiliksen, ja siksi se onkin aika yleinen tanssilaji lavoilla.
 
+{{< youtube id="T6a7RxPP7pI" class="media" >}}
+
 ## Foksi
 
-Foksi saattaa olla jopa yleisin lavatanssilaji, koska sitä pystyy soveltamaan ja tanssimaan lähes kaikkiin kappaleisiin. Se on nelijakoinen, kuten monet muutkin tanssilajit, ja sitä tanssitaan suljetussa tanssiotteessa.
+Foksi saattaa olla jopa yleisin lavatanssilaji, koska sitä pystyy soveltamaan ja tanssimaan lähes kaikkiin kappaleisiin. Se on nelijakoinen, kuten monet muutkin tanssilajit, ja sitä tanssitaan suljetussa tanssiotteessa. Foksi antaa tyylillisesti paljon tilaa musiikista nauttimiseen ja sen tulkintaan, ja siksi se tempaiseekin mukaansa tanssijan kuin tanssijan.
+
+{{< youtube id="34cuzrEEOr4" class="media" >}}
 
 ## Fusku
 
 Hauska ja rytmikäs fusku on rock'n'swing- tansseihin kuuluva tanssilaji ja erittäin suosittu lavatanssipiireissä. Sitä tanssitaan enemmän avoimessa otteessa, mutta on mahdollista tanssia myös suljetussa otteessa ilman vartalokontaktia. Nelitahtisena tanssilajina sitä on oikeastaan mahdollista tanssia lähes kaikkiin nelijakoisiin kappaleisiin. Tahdikuutta tanssiin tuo tuttu foksin perusaskel, jossa polvet joustavat joka askeleella. 
+
+{{< youtube id="kuUWXpU2Z84" class="media" >}}
 
 ## Jive
 
