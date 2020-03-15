@@ -24,7 +24,7 @@ Buggin SM finaali 2019:
 
 ## Cha cha
 
-Cha cha-musiikkiin tanssittava latinotanssilaji. Perus tanssiote on suljettu ilman vartalokontaktia, mutta lavoilla sitä näkee tanssittavan usein avoimessa otteessa. Potin kursseilla sitä saatetaan opettaa jo alkeiskursseilla, koska lavoilla se on aika yleinen tanssitlaji. 
+Cha cha on nelijakoinen latinotanssilaji ja sitä tanssitaan nimensä mukaisesti cha cha-musiikkiin. Sitä tanssitaan suljetussa tanssiotteessa ilman vartalokontaktia, mutta sitä on myös mahdollista tanssia avoimessa otteessa. Tunnelmataan cha cha-tanssissa  Lavoilla cha cha on aika yleinen tanssilaji.
 
 ## Fusku
 
