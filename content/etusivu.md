@@ -11,7 +11,7 @@ description: >-
 
 ## Tiedote 15.3.2020
 
-Kerhon hallituksen kokouksessa vahvistettiin päätös olla järjestämättä kursseja seuraavan kahden viikon aikana. Selvitämme mahdollisuuksia järjestää peruuntuneet kurssikerrat touko-kesäkuun aikana, tai mahdollisuuksia korvata osan tunneista kotona tehtävillä videoharjoitteilla. Bileitä ei myöskään järjestetä kevätkauden aikana, ellei viranomaisten ohjeistus tapahtumien järjestämisestä muutu.
+Kerhon hallituksen kokouksessa vahvistettiin päätös olla järjestämättä kursseja seuraavan kahden viikon aikana. Selvitämme mahdollisuuksia järjestää peruuntuvat kurssikerrat touko-kesäkuun aikana, tai mahdollisuuksia korvata osan tunneista kotona tehtävillä videoharjoitteilla. Bileitä ei myöskään järjestetä kevätkauden aikana, ellei viranomaisten ohjeistus tapahtumien järjestämisestä muutu.
 
 Hallitus kokoontuu uudestaan viikon 13 lopussa, jolloin tiedotetaan jatkosta. 
 
