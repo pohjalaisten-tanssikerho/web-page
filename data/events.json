@@ -13,12 +13,27 @@
     {
       "title": "Viikin tanssit",
       "date": "2020-04-03",
-      "description": "Kello 18:00 - 23:00. Biologinkatu 5, Helsinki."
+      "description": "**Peruutettu koronaviruksen johdosta.**"
+    },
+    {
+      "date": "2020-04-07",
+      "title": "Tanssitunnit peruttu",
+      "description": "**Tanssitunnit peruutettu koronaviruksen vuoksi.**"
+    },
+    {
+      "date": "2020-03-31",
+      "title": "Tanssitunnit peruttu",
+      "description": "**Tanssitunnit peruutettu koronaviruksen vuoksi.**"
+    },
+    {
+      "date": "2020-03-24",
+      "title": "Tanssitunnit peruttu",
+      "description": "**Tanssitunnit peruutettu koronaviruksen vuoksi.**"
     },
     {
       "title": "HOT-tanssibileet",
       "date": "2020-03-27",
-      "description": "Kello 19:00 - 23:59. Urho Kekkosen katu 4-6 D, Helsinki."
+      "description": "**Peruutettu koronaviruksen johdosta.**"
     },
     {
       "title": "Ei tunteja",
@@ -104,16 +119,6 @@
       "title": "POTin sääntömääräinen kevätkokous",
       "date": "2020-03-15",
       "description": "Kello 14.00. Töölönkatu 3 A, 5krs, Helsinki. [Linkki Facebook-tapahtumaan](https://www.facebook.com/events/619412365282597/)."
-    },
-    {
-      "date": "2020-04-10",
-      "title": "POTin kevään tanssibileet",
-      "description": "Kello 18:00-23:00. Töölönkatu 3 A, 5. krs, Helsinki. Linkki [Facebook-tapahtumaan](https://www.facebook.com/events/3351497378199033/)"
-    },
-    {
-      "date": "2020-03-24",
-      "title": "Tanssitunnit peruttu",
-      "description": "**Tanssitunnit peruutettu koronaviruksen vuoksi.** Selvitetään mahdollisuutta järjestää korvaavaa opetusta myöhemmin keväällä."
     }
   ]
 }
