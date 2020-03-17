@@ -7,16 +7,18 @@ document.addEventListener('DOMContentLoaded', function(event) {
     let currentDate = date.getDate() + '.' + (date.getMonth() + 1) + '.' + date.getFullYear()
 
     for (let i = 0; i < dates.length; i++) {
-      if (isPast(currentDate, dates[i].innerHTML)) return dates[i-1]
+      if (isPast(currentDate, dates[i].innerHTML)) return dates[i]
     } 
   }
 
   function isPast(currentDate, eventDate) {
     let cd = currentDate.split('.')
     let ed = eventDate.split('.')
-    for (let i = 2; i >= 0; i--) {
-      if (cd[i] < ed[i]) return false
-    }
+
+    if (cd[2] < ed[2]) return false
+    if (cd[1] < ed[1]) return false
+    if (cd[0] <= ed[0]) return false
+
     return true
   }
 
