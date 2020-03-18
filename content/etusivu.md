@@ -9,6 +9,10 @@ description: >-
 ---
 {{< wideContent class="frontpage">}} {{< courses firstThree >}} {{< events >}} {{< /wideContent  >}}
 
+## Tiedote 18.3.2020
+
+Koronapoikkeustilan vuoksi tanssikurssit ovat tauolla ainakin 13.4 asti. 
+
 ## Tiedote 15.3.2020
 
 Kerhon hallituksen kokouksessa vahvistettiin päätös olla järjestämättä kursseja seuraavan kahden viikon aikana. Selvitämme mahdollisuuksia järjestää peruuntuvat kurssikerrat touko-kesäkuun aikana, tai mahdollisuuksia korvata osan tunneista kotona tehtävillä videoharjoitteilla. Bileitä ei myöskään järjestetä kevätkauden aikana, ellei viranomaisten ohjeistus tapahtumien järjestämisestä muutu.
