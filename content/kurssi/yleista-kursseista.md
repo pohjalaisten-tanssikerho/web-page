@@ -9,10 +9,10 @@ description: Kaikille viikottaisille kursseille yhteistä asiaa ja käytäntöj�
 
 Pohjalaisten tanssikerho järjestää lukukauden pituisia tanssikursseja, joiden aikana opetetaan suosituimmat lavatanssit ja vähän ekstraakin. Yhteensä kursseja on neljä kolmessa eri taitotasossa:
 
-* [alkeiskurssi parin vaihdoilla]({{< ref "/kurssi/alkeet-parin-vaihdoilla.md" >}})
-* [alkeiskurssi oman parin kanssa]({{< ref "/kurssi/alkeet-oman-parin-kanssa.md" >}})
-* [alkeisjatkokurssi]({{< ref "/kurssi/alkeisjatko.md" >}})
-* [jatkokurssi]({{< ref "/kurssi/jatkokurssi.md" >}})
+* [alkeiskurssi parin vaihdoilla]({{< ref "/kurssi/kausi/alkeet-parin-vaihdoilla.md" >}})
+* [alkeiskurssi oman parin kanssa]({{< ref "/kurssi/kausi/alkeet-oman-parin-kanssa.md" >}})
+* [alkeisjatkokurssi]({{< ref "/kurssi/kausi/alkeisjatko.md" >}})
+* [jatkokurssi]({{< ref "/kurssi/kausi/jatkokurssi.md" >}})
 
 Alkeiskursseja on kaksi erilaista. Toisella alkeiskurssilla tanssitaan pareja vaihtaen, mikä usein tukee tanssin oppimista. Toinen alkeiskurssi pidetään niille, jotka haluavat tanssia oman parinsa kanssa. Alkeisjatko- ja jatkokursseilla tanssitaan paria vaihtaen.
 
