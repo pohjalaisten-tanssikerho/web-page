@@ -3,6 +3,101 @@
 
 {{ define "main" }}
 {{ with .Site.GetPage "/etusivu.md" }}
+
+<div class="jumbotron">
+  <h1 class="main-header">{{ .Title }}</h1>
+  <p class="main-description"><em>{{ .Description }}</em></p>
+
+    {{ with .Site.GetPage "/tiedote.md" }}
+    <div class="wide-width">
+      <div class="announcement blue-background">
+        {{ .Content }}
+      </div>
+    </div>
+    {{ end }}
+
+  <div class="wide-content frontpage">
+
+    {{ $courses := index .Site.Data.courses "courses" }}
+    {{ $firstThree := first 3 (sort (where $courses "date" "ge" (now.Format "2006-01-02")) "date" "asec") }}
+    <div>
+      <h2>Seuraavat kurssit</h2>
+      {{ if eq ($firstThree | len) 0 }}
+      <p>Viikottaiset kurssit ovat loppu tältä erää. Ensi kaudella taas lisää!</p>
+      <p>Kurssien alkamisajankohdan muistutuksen voi tilata sähköpostiin. Sähköpostia käytetään vain tähän tarkoitukseen, ja muistutuksen jälkeen sähköpostiosoite poistetaan järjestelmästä pysyvästi.</p>
+      {{ else }}
+      <table class="course-table">
+        <tr>
+          <th></th>
+          {{ range $firstThree }}
+          {{ $t := time .date }}
+          <th class="date-courses">{{ $t.Day }}.{{ printf "%d" $t.Month }}.</th>
+          {{ end }}
+        </tr>
+        <tr>
+          <th>Alkeet</th>
+          {{ range $firstThree }}
+          {{ if eq .message "" }}
+          <td class="trigger">{{ .alkeet }}</td>
+          {{ else }}
+          <td rowspan="4" class="trigger"><span class="vertical-text">{{ .message | upper }}</span></td>
+          {{ end }}
+          {{ end }}
+        </tr>
+        <tr>
+          <th>Alkeet <br> oma pari</th>
+          {{ range $firstThree }}
+          {{ if eq .message "" }}
+          <td class="trigger">{{ .alkeetOma }}</td>
+          {{ end }}
+          {{ end }}
+        </tr>
+        <tr>
+          <th>Alkeisjatko</th>
+          {{ range $firstThree }}
+          {{ if eq .message "" }}
+          <td>{{ .alkeisjatko }}</td>
+          {{ end }}
+          {{ end }}
+        </tr>
+        <tr>
+          <th>Jatko</th>
+          {{ range $firstThree }}
+          {{ if eq .message "" }}
+          <td>{{ .jatko }}</td>
+          {{ end }}
+          {{ end }}
+        </tr>
+      </table>
+      <p>Lyhyt esittely kustakin lajista löytyy <a href="{{ ref . `/tanssilajit.md` }}">blogista</a>.</p>
+    </div>
+    {{ end }}
+
+
+    <div>
+      <h2>Tapahtumat</h2>
+      {{ $events := index .Site.Data.events "events" }}
+      {{ if eq ($events | len) 0 }}
+      <p>Tällä hetkellä ei ole bileitä tai tapahtumia tiedossa.</p>
+      {{ else }}
+      <ul>
+        {{ range first 3 (sort (where $events "date" "ge" (now.Format "2006-01-02")) "date" "asec") }}
+        {{ $t := time .date }}
+        <li><span class="date-event">{{ $t.Day }}.{{ printf "%d" $t.Month }}.</span><span class="title-event">{{ .title }}</span>
+          {{ with .description }}
+          <p>{{ . | markdownify }}</p>
+          {{ end }}
+        </li>
+        {{ end }}
+      </ul>
+      {{ end }}
+      <p>Löydä lisää tapahtumia <a href="{{ ref . `tapahtumat.md` }}">tapahtuma-sivuilta</a>.</p>
+    </div>
+
+
+  </div>
+</div>
+
 {{ .Content }}
 {{ end }}
 {{ end }}
