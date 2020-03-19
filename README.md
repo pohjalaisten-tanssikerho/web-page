@@ -3,7 +3,9 @@ Nettisivut ovat elossa osoitteessa http://pohjalaiset.fi/tanssikerho
 
 Sisällön tuottajille on oma CMS sivustonsa, missä sisältö voi muokata helposti. Ohjeiden avulla nettisivujen sisältöä on mahdollista muokata myös versionhallinnan kautta.
 
-Sisällön tuottajan tarvitsee lukea ainoastaan kohdat "Ohjeet sisällön tuottajille" ja "Tietokantojen muokkaus". Lukemista kannattaa jatkaa vain, jos haluaa syventää tietoa tai jos on kiinnostunut kehittämään nettisivuja muulla tavalla kuin sisältöä tuottamalla.
+Tällä hetkellä CMS ei ole kehitteillä, koska odotamme osoitteen muutosta. CMS toimii, mutta ei ole taattua, että toimivat varmasti. Kaikkia asioita ei CMS:stä pysty muuttamaan, koska CMS kehitys on pysäytetty. Esim. tiedotetta ei pysty muokkaamaan.
+
+Jos haluaa kuitenkin muokata sisältöä tämän sivun kautta, eli versionhallinnan kautta, riittää että lukee kohdat "Ohjeet issällön tuottajille" ja "Tietokantojen muokkaus". Lukemista kannattaa jatkaa vain, jos haluaa syventää tietoa tai jos on kiinnostunut kehittämään nettisivuja muulla tavalla kuin sisältöä tuottamalla.
 
 ## Ohjeet sisällön tuottajille
 Suurin osa sivujen sisällöstä löytyy kansiosta [content](https://github.com/pohjalaisten-tanssikerho/web-page/tree/master/content) ja kansiosta [data](https://github.com/pohjalaisten-tanssikerho/web-page/tree/master/data).
@@ -50,6 +52,11 @@ Lista tietokannoista:
 On erityisen tärkeää, että päivämääriä muokattaessa pidetään aikaformaatti muodossa `YYYY-MM-DD`. Näin kone ymmärtää tapahtumien keskinäisen suhteen, eli mitkä ovat ennen toisia.
 
 **Tätä edemmäs ei sisällöntuottajien välttämättä tarvitse lukea!**
+
+#### Tiedotteen muokkaaminen
+Tiedote on tiedostossa [content/tiedote.md](https://github.com/pohjalaisten-tanssikerho/web-page/blob/master/content/tiedote.md). Tiedoston alussa on kohta `draft: true | false`. Jos on `true` tiedostus ei ole näkyvillä ja vastaavasti `false` niin tiedote näkyy.
+
+Tiedote tulee etusivulle ja se on nostettu erittäin näkyvälle paikalle. Tästä syystä tiedotetta kannattaa käyttää ainoastaan tärkeissä asioissa. Enimmäksi osaksi tiedote kannattaa pitää poissa näkyvistä.
 
 #### Uuden tapahtuman luominen
 Tapahtumat ovat tiedostossa [events.json](https://github.com/pohjalaisten-tanssikerho/web-page/blob/master/data/events.json). Ei ole väliä mihin kohtaan uuden tapahtuman tiedostossa laittaa, mutta on suositeltavaa, että ne laitetaan oikeassa aika järjestyksessä. Koneelle sillä ei ole mitään väliä, mutta ihmisille se on.
