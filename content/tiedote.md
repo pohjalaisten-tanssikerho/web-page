@@ -4,8 +4,12 @@ date: 2020-03-19T12:02:34+02:00
 draft: false
 ---
 ## Koronaviruksen vaikutus tanssikerhon toimintaan
-Koronapoikkeustilan johdosta tanssitunnit ovat tauolla ainakin 13.4. asti. **Eli seuraavat tanssitunnit ovat peruutettu: 17.3., 24.3. ja 7.4.** Myös muita [tapahtumia on peruutettu]({{< ref "./tapahtumat.md">}}).
+Koronapoikkeustilan johdosta POTin hallitus on päättänyt perua kaikki loput kevään tanssitunnit ja tanssibileet. Myös muita [tapahtumia on peruutettu]({{< ref "./tapahtumat.md">}}). Opettajamme tekevät kotiharjoitteluun soveltuvia videoita tämän kevään kurssilaisille ja kannatusjäsenille huhti-toukokuun aikana. Jos liityt nyt [kannatusjäseneksi], ({{< ref "./kannatusjasenyys.md">}}) ja haluat saada linkkejä videoihin, ota yhteyttä hallituksen tiedottajaan] ({{< ref "./hallitus.md">}}) ja lähetä kuvakaappaus maksusuoritteesta.
 
-Peruutuksien syynä on [Suomen hallituksen tekemät linjaukset](https://valtioneuvosto.fi/artikkeli/-/asset_publisher/10616/hallitus-totesi-suomen-olevan-poikkeusoloissa-koronavirustilanteen-vuoksi) ja [muiden toimintaan liittyvien tahojen suositukset ](https://www.stol-ry.fi/?x118281=185551) koronaviruksen leviämisen hillitsemiseksi. Tiedotamme pian lisää jatkosta ja selvitämme mahdollisuuksia korvaavien tuntien järjestämiseksi myöhemmin kevätkauden aikana.
+Kiitos kaikille tanssikeväästä tähän asti, ja toivottavasti nähdään taas syksyn tanssikursseilla!
 
-Tämä tiedote on viimeksi päivitetty 19.03.2020
+-Pohjalaisten tanssikerhon hallitus
+
+Tämä tiedote on viimeksi päivitetty 30.03.2020
+
+
