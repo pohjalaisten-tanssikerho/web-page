@@ -8,13 +8,13 @@
   <h1 class="main-header">{{ .Title }}</h1>
   <p class="main-description"><em>{{ .Description }}</em></p>
 
-    {{ with .Site.GetPage "/tiedote.md" }}
-    <div class="wide-width">
-      <div class="announcement blue-background">
-        {{ .Content }}
-      </div>
+  {{ with .Site.GetPage "/tiedote.md" }}
+  <div class="wide-width">
+    <div class="announcement blue-background">
+      {{ .Content }}
     </div>
-    {{ end }}
+  </div>
+  {{ end }}
 
   <div class="wide-content frontpage">
 
@@ -72,30 +72,30 @@
       <p>Lyhyt esittely kustakin lajista löytyy <a href="{{ ref . `/tanssilajit.md` }}">blogista</a>.</p>
     </div>
     {{ end }}
-
-
-    <div>
-      <h2>Tapahtumat</h2>
-      {{ $events := index .Site.Data.events "events" }}
-      {{ if eq ($events | len) 0 }}
-      <p>Tällä hetkellä ei ole bileitä tai tapahtumia tiedossa.</p>
-      {{ else }}
-      <ul>
-        {{ range first 3 (sort (where $events "date" "ge" (now.Format "2006-01-02")) "date" "asec") }}
-        {{ $t := time .date }}
-        <li><span class="date-event">{{ $t.Day }}.{{ printf "%d" $t.Month }}.</span><span class="title-event">{{ .title }}</span>
-          {{ with .description }}
-          <p>{{ . | markdownify }}</p>
-          {{ end }}
-        </li>
-        {{ end }}
-      </ul>
-      {{ end }}
-      <p>Löydä lisää tapahtumia <a href="{{ ref . `tapahtumat.md` }}">tapahtuma-sivuilta</a>.</p>
-    </div>
-
-
   </div>
+
+  <div>
+    <h2>Tapahtumat</h2>
+    {{ $events := index .Site.Data.events "events" }}
+    {{ if eq ($events | len) 0 }}
+    <p>Tällä hetkellä ei ole bileitä tai tapahtumia tiedossa.</p>
+    {{ else }}
+    <ul>
+      {{ range first 3 (sort (where $events "date" "ge" (now.Format "2006-01-02")) "date" "asec") }}
+      {{ $t := time .date }}
+      <li><span class="date-event">{{ $t.Day }}.{{ printf "%d" $t.Month }}.</span><span class="title-event">{{ .title }}</span>
+        {{ with .description }}
+        <p>{{ . | markdownify }}</p>
+        {{ end }}
+      </li>
+      {{ end }}
+    </ul>
+    {{ end }}
+    <p>Löydä lisää tapahtumia <a href="{{ ref . `tapahtumat.md` }}">tapahtuma-sivuilta</a>.</p>
+  </div>
+
+
+</div>
 </div>
 
 {{ .Content }}
