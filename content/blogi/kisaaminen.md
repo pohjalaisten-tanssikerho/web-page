@@ -30,9 +30,9 @@ Lähinnä säännöt ovat sitä varten, että tanssilaji näyttäisi sellaiselta
 Suomen tanssiurheiluliitto on koostanut [säännöt omaksi sivukseen](]https://www.dancesport.fi/toiminta/kilpailutoiminta/kilpailusaannot-ja-ohjeet/). Näistä kannattaa ainakin vilkaista Rock'n'swing tanssisäännöt. 
 
 ## Hyviä syitä kisata
-Kisaaminen on tehokas tapa oppia tanssimaan nopeasti. Kisaaminen antaa melko realistisen kuvan omista kyvyistä. Monihan ajattelee tanssivansa paremmin kuin oikeasti tanssivat, mikä on eräitä suurimpia syitä, miksi kehitys on hidasta.
 
-Kisaamista ei tarvitse ottaa tosissaan. Kisoissa on taitotasot, joten eri tasoihin voi mennä sen mukaan, miten paljon on valmis viettämään aikaa tanssin harjoitteluun. Käytännössä POT:n ja HOT:n jatkotason (viimeisin taso) kurssin kävijöiden taito riittää lähes mihin tahansa alimpaan taitoluokkatasoon missä tahansa lajissa.
+
+Kisaamista ei tarvitse ottaa liian vakavasti. Kisoissa tanssilajien eri taitotasoista on mahdollista valita mieleisensä ja osallistua sen mukaan, kuinka paljon on valmis viettämään aikaa tanssin harjoitteluun. Käytännössä POT:n ja HOT:n jatkotason (viimeisin taso) kurssit antavat riittävät taidot kisaamiseen lähes minkä tahansa tanssilajin alimmassa taitoluokkatasossa.
 
 Lavatanssseissa kiehtovat uudet ihmiset. Joitain kuitenkin kiinnostaa tanssia nimenomaan vain sen lempihenkilönsä kanssa. Moni kisa käydäänkin vakiotanssiparin kanssa, joten tästä saa loistavan yhteisharrastuksen.
 
