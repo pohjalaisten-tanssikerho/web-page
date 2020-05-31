@@ -8,15 +8,15 @@ description: "Kiinnostaako kisaaminen? Mitä pitää tehdä, että pääsee kisa
 ---
 # Kisaaminen
 
-Lavatanssien suurin ja hienoin anti on sen sosiaalisuus. Sosiaaliset tanssit ovat hyviä tapoja kohdata ja tutustua uusiin ihmisiin. Tärkeintä on, että kummallakin on kivaa ja fiilikset ovat hyviä.
+Lavatanssien suurin ja hienoin anti on sen sosiaalisuus. Sosiaaliset tanssit ovat hyviä tapoja tutustua uusiin ihmisiin. Tärkeintä on, että fiilis on hyvä ja kummallakin on hauskaa.
 
-Ei siis niin väliä, miltä tanssi oikeasti näyttää, kunhan fiilis on oikea.
+Silla ei ole siis niin väliä, miltä tanssi oikeasti näyttää, kunhan fiilis on oikea.
 
 Kilpatanssissa on vähän erilaisempi tavoite kuin lavatansseissa. Ei saa vain tuntua hyvältä, vaan sen pitää myös näyttää hyvältä. Treenatakin pitää välillä, vaikka ei jaksaisi tai huvittaisi.
 
 Eli tanssitaan muille ja näytetään todella hienoilta, vaikka se ei aina tunnukaan hyvältä.
 
-Esimerkit ovat tietenkin vedetty ääripäistä, mutta ne voivat olla suuntaan antavia. Osa on sitä mieltä, että tanssia pitäisi tehdä vain, koska se on kivaa. Jotkut taas haluavat tavoitteita, johon liittyy vertailtavuus ja paremmuus. Joillekin tanssiminen on subjektiivista; tanssijoita ei pysty tai saa laittaa paremmuusjärjestykseen. On kuitenin jokaisen oma asia mikälainen suhde on tansiin. Tässä on siis minun oma henkilökohtainen näkökulmani kisatanssista.
+Esimerkit ovat tietenkin vedetty ääripäistä, mutta ne voivat olla suuntaa antavia. Osa on sitä mieltä, että tanssia pitäisi vain, koska se on hauskaa. Jotkut taas haluavat tavoitteita, joihin liittyy vertailtavuus ja paremmuus. Joillekin tanssiminen on subjektiivista; tanssijoita ei pysty tai saa laittaa paremmuusjärjestykseen. Jokaisen suhde tanssiin on kuitenkin henkilökohtainen. Tässä on siis minun näkökulmani kisatanssista.
 
 Spoileri: kisaaminen on mahtavaa ja jättää aina hienon tunteen.
 
