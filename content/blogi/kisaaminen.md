@@ -20,14 +20,12 @@ Esimerkit ovat tietenkin vedetty ääripäistä, mutta ne voivat olla suuntaa an
 
 Spoileri: kisaaminen on mahtavaa ja jättää aina hienon tunteen.
 
-## Tanssilajiin liittyvät säännöt
-Kisaaminen on yksi parhaimmista tavoista saada lisää motivaatiota tanssin oppimiseen. Silloin viimeistään tulee hyvä syy osata perusteet kunnolla, sekä ymmärtämään tanssilajiin liittyviä sääntöjä. Lavatansseissa sääntöjä saa rikkoa ja välillä jopa pitääkin, jotta tanssiin saadaan lisää maustetta ja persoonallisuutta. Kisoissa säännöistä on kuitenkin pidettävä kiinni, tai joutuu sijoituksissa jonon hännille.
+## Kisatanssiin liittyvät säännöt
+Kisaaminen on yksi parhaimmista tavoista saada lisää motivaatiota tanssin oppimiseen. Sen yhteydessä tanssin perusteet ja sen säännöt on välttämättömiä osata kunnolla. Lavatansseissa sääntöjä saa rikkoa ja välillä jopa pitääkin, jotta tanssiin saadaan lisää maustetta ja persoonallisuutta. Kisoissa säännöistä on kuitenkin pidettävä kiinni, tai joutuu sijoituksissa jonon hännille.
 
-Tanssivapaus tuntuu kisoissa tämän takia kärsivän. Moni ei halua kisata sen takia, että siinä tuntuu katoavan ilmaisu- ja tanssivapaus ja sitä kautta tanssin ilo. Mutta jos tanssikisaajia katsoo, niin näyttääkö siltä, että ilmaisuvapautta olisi jotenkin rajoitettu? Todennäköisesti ei.
+Säännöt tuntuvat aluksi luovan rajoitteita, mutta tanssin oppimisen myötä ne oikeastaan antavat omanlaisensa vapauden. Sääntöjen rajoissa tanssiparin kanssa syntyy aivan uudentasoinen luottamus ja yhteys, eikä näin ollen nopeassakaan temmossa tule yhteentörmäyksiä.
 
-Säännöt tuntuvat aluksi luovan rajoitteita, mutta pian oppii, että ne oikeastaan vapauttavat. Tanssiparin kanssa syntyy aivan uudentasoinen luottamus ja yhteys, kun kumpikin tietää säännöt. Nopeassakaan temmossa ei tule yhteentörmäyksiä.
-
-Lähinnä säännöt ovat sitä varten, että tanssilaji näyttäisi sellaiselta kuin miltä se näyttää. Muussahan tapauksessa kisoissa voisi tanssia väärää lajia.
+Lähinnä säännöt ovat sitä varten, että tanssilaji näyttäisi sellaiselta kuin sen pitäisi näyttää. Muutenhan kisoissa voisi tanssia väärää lajia.
 
 Suomen tanssiurheiluliitto on koostanut [säännöt omaksi sivukseen](]https://www.dancesport.fi/toiminta/kilpailutoiminta/kilpailusaannot-ja-ohjeet/). Näistä kannattaa ainakin vilkaista Rock'n'swing tanssisäännöt. 
 
