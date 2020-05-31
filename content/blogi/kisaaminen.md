@@ -31,12 +31,11 @@ Suomen tanssiurheiluliitto on koostanut [säännöt omaksi sivukseen](]https://w
 
 ## Hyviä syitä kisata
 
-
 Kisaamista ei tarvitse ottaa liian vakavasti. Kisoissa tanssilajien eri taitotasoista on mahdollista valita mieleisensä ja osallistua sen mukaan, kuinka paljon on valmis viettämään aikaa tanssin harjoitteluun. Käytännössä POT:n ja HOT:n jatkotason (viimeisin taso) kurssit antavat riittävät taidot kisaamiseen lähes minkä tahansa tanssilajin alimmassa taitoluokkatasossa.
 
-Lavatanssseissa kiehtovat uudet ihmiset. Joitain kuitenkin kiinnostaa tanssia nimenomaan vain sen lempihenkilönsä kanssa. Moni kisa käydäänkin vakiotanssiparin kanssa, joten tästä saa loistavan yhteisharrastuksen.
+Kisaaminen on loistava yhteisharrastus, sillä harjoittelukertojen lisääntyminen antaa arvokasta aikaa toisen kanssa ja yhdessä kehittyminen antaa ainutlaatuisen onnistumisen tunteen. Tekniikan lisäksi yhteinen musiikintulkintakin kehittyy tasolle, jossa se on kuin ajatusten lukemista. 
 
-Jos kiinnostaa kisata siten, että säilyttää tuon "uusiin ihmisiin tutustumisen", on West Coast Swing hyvä laji siihen. Kisoissa arvotaan viejälle seuraaja, joka saa päättää soitettavan musiikin.
+Jos kisaaminen säilyttäen "uusiin ihmisiin tutustumisen" kiinnostaa, on West Coast Swing hyvä laji siihen. Kisoissa viejälle arvotaan  seuraaja, joka saa päättää soitettavan musiikin.
 
 ## Kisoihin osallistuminen
 Jos suoraan virallisiin kisoihin osallistuminen pelottaa, kannattaa ensin osallistua satunnaisesti järjestettäviin kevyisiin kisoihin, mihin voi osallistua ilman tanssijärjestön kisalisenssiä ja vakuutusta. Näitä epävirallisia kisoja järjestetään silloin tällöin ja kannattaa olla vain kuulolla milloin mikäkin taho näitä järjestää. Comets tanssiseura järjestää joskus epävirallisia kisoja. POT ja HOT eivät kisoja järjestä, koska kerhot keskittyvät lavatansseihin.
