@@ -2,8 +2,7 @@
 title: "Kisaaminen"
 date: 2020-04-30T15:33:55+03:00
 subdirectories: ["blogi"]
-author: "Greatman Lim"
-draft: true
+author: "Greatman Lim ja Suvi Mäenpää"
 description: "Kiinnostaako kisaaminen? Mitä pitää tehdä, että pääsee kisaamaan ja minkälaista se on."
 ---
 # Kisaaminen
