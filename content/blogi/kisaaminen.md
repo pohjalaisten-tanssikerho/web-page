@@ -38,11 +38,11 @@ Kisaaminen on loistava yhteisharrastus, sillä harjoittelukertojen lisääntymin
 Jos kisaaminen säilyttäen "uusiin ihmisiin tutustumisen" kiinnostaa, on West Coast Swing hyvä laji siihen. Kisoissa viejälle arvotaan  seuraaja, joka saa päättää soitettavan musiikin.
 
 ## Kisoihin osallistuminen
-Jos suoraan virallisiin kisoihin osallistuminen pelottaa, kannattaa ensin osallistua satunnaisesti järjestettäviin kevyisiin kisoihin, mihin voi osallistua ilman tanssijärjestön kisalisenssiä ja vakuutusta. Näitä epävirallisia kisoja järjestetään silloin tällöin ja kannattaa olla vain kuulolla milloin mikäkin taho näitä järjestää. Comets tanssiseura järjestää joskus epävirallisia kisoja. POT ja HOT eivät kisoja järjestä, koska kerhot keskittyvät lavatansseihin.
+Jos suoraan virallisiin kisoihin osallistuminen pelottaa, kannattaa ensin osallistua satunnaisesti järjestettäviin kevyihin kisoihin, joihin voi siis osallistua ilman tanssijärjestön kisalisenssiä ja vakuutusta. Esimerkiksi Comets tanssiseura järjestää joskus näitä epävirallisia kisoja, mutta POT ja HOT eivät, koska kerhot keskittyvät lavatansseihin.
 
-Epävirallisissa kisoissa arvotaan usein satunnainen tanssipari. Jos haluaa kisata oman parinsa kanssa, ei ole oikeastaan muuta vaihtoehtoa, kuin osallistua suoraan virallisiin kisoihin.
+Epävirallisissa kisoissa usein arvotaan satunnainen tanssipari, joten jos oman parin kanssa kisaaminen kiinnostaa enemmän, virallisiin kisoihin osallistuminen on oikeastaan ainoa vaihtoehto.
 
-Virallisiin kisoihin voi osallistua vain seurojen kautta. Helsingissä toimii Comets, jonka jäsenenä on voi osallistua kisoihin. Kisailtavat lajit Cometsissa ovat mm. Boogie Woogie, Bugg, Rockabilly, Lindy Hop, Fusku, West Coast Swing jne. Käytännössä POT:ttia ja HOT:ttia ei voi edustaa kisoissa, vaikka yllättävän iso osa kisoihin osallistuneista nuorista on osakuntien tanssikerhoista.
+Virallisiin kisoihin voi osallistua vain seurojen kautta. Helsingissä toimii esimerkiksi Comets, jonka kisailtavat lajit ovat mm. Boogie Woogie, Bugg, Rockabilly, Lindy Hop, Fusku, West Coast Swing jne. Käytännössä POT:ia ja HOT:ia ei voi edustaa kisoissa, vaikka yllättävän iso osa kisoihin osallistuneista nuorista onkin osakuntien tanssikerhoista.
 
 Comets keskittyy lähinnä Rock'n'Roll Swing tyylisiin lajeihin. Jos haluaa kisata suljetun otteen lajeissa, kuten esim. Valssissa tai Foksissa, on näihin kisoihin mentävä muun kautta kuin Cometsin. Sama pätee latinolaisissa tansseissa.
 
