@@ -44,26 +44,26 @@ Epävirallisissa kisoissa usein arvotaan satunnainen tanssipari, joten jos oman 
 
 Virallisiin kisoihin voi osallistua vain seurojen kautta. Helsingissä toimii esimerkiksi Comets, jonka kisailtavat lajit ovat mm. Boogie Woogie, Bugg, Rockabilly, Lindy Hop, Fusku, West Coast Swing jne. Käytännössä POT:ia ja HOT:ia ei voi edustaa kisoissa, vaikka yllättävän iso osa kisoihin osallistuneista nuorista onkin osakuntien tanssikerhoista.
 
-Comets keskittyy lähinnä Rock'n'Roll Swing tyylisiin lajeihin. Jos haluaa kisata suljetun otteen lajeissa, kuten esim. Valssissa tai Foksissa, on näihin kisoihin mentävä muun kautta kuin Cometsin. Sama pätee latinolaisissa tansseissa.
+Comets keskittyy lähinnä Rock'n'Roll Swing tyylisiin lajeihin. Jos haluaa kisata suljetun otteen lajeissa, kuten esim. Valssissa tai Foksissa, on näihin kisoihin mentävä muun seuran kautta kuin Cometsin. Sama pätee latinalaisissa tansseissa.
 
-POTttilaisten ja HOTttilaisten kannattanee keskittyä Cometsin kautta kilpailevista lajeista Fuskuun ja Buggiin, sillä kyseisten tanssilajin opetuksia annetaan kaikista eniten osakunnan tanssikerhoissa. Alin taitotasoluokka ei myöskään ole murskaavan kova verrattuna esimerkiksi Boogie Woogiehin ja West Coast Swingiin. Lähinnä tämä johtuu vain siitä, että näitä lajeja ei opetata kovin paljon POT:lla ja HOT:lla. BW ja WCS esiintyvät yleensä vain erilliskursseina ja satunnaisesti kausikursseilla.
+POTtilaisten ja HOTtilaisten kannattanee keskittyä Cometsin kautta kilpailevista lajeista Fuskuun ja Buggiin, sillä kyseisten tanssilajien opetusta annetaan kaikista eniten osakunnan tanssikerhoissa. Alin taitotasoluokka ei myöskään ole murskaavan kova verrattuna esimerkiksi Boogie Woogiehin ja West Coast Swingiin. Lähinnä tämä johtuu vain siitä, että näitä lajeja ei opetata kovin paljon POT:lla ja HOT:lla. BW ja WCS esiintyvät yleensä vain erilliskursseina ja satunnaisesti kausikursseina.
 
-Kisamielessä myös BW ja WCS ovat omalla tavallaan korkeammalla kuin Bugg ja Fusku, koska ne ovat näytösmäisempiä tanssilajeja. Tuomaristo on vain yhdellä puolella arvostelemassa, joten tanssilla on tanssisuunta. Buggissa sen sijaan tuomaristo levittäytyy ympäri tanssilattiaa, ja tanssin on näytettävä hyvältä joka suuntaan. Tässä mielessä Buggilla ja Fuskulla on enemmän lavatanssimaisempia tunnelma - mikä johtuu myös siitä, että kisan aikana on monta tanssiparia lattialla samaan aikaan. BW ja WCS kisoissa on yleensä vain yksi tai kaksi paria kerralla tanssimassa.
+Kisamielessä myös BW ja WCS ovat omalla tavallaan korkeammalla kuin Bugg ja Fusku, koska ne ovat näytösmäisempiä tanssilajeja. Tuomaristo on lavan yhdellä puolella arvostelemassa yleensä joko yhden tai kahden tanssiparin tanssia, joten kaikki tanssillinen suoritus tulee näkyä siinä suunnassa. Buggissa sen sijaan tuomaristo levittäytyy ympäri tanssilattiaa, ja tanssin on näytettävä hyvältä joka suuntaan. Buggin ja Fuskun tanssimaisempi tunnelma johtuu myös siitä, että kisan aikana tanssilattialla on monta tanssiparia samaan aikaan.
 
-Kisaamista varten on siis liityttävä Cometsin jäseneksi (kirjoittamishetkellä 25 €), ostettava kisalisenssi ja vakuutus, jotka Comets maksaa takaisin, kun tekee korvaushakemuksen. Comets maksaa myös kaikki osallistumismaksut kisoihin.Jäsenyydet, lisenssit ja vakuutukset ovat voimassa kalenterivuoden ajan. Käytännössä kisaaminen siis maksaa 25 € (Comets jäsenyys) ja siihen liittyvät matkustuskustannukset, koska niitä Comets korvaa vain jos on menossa arvokisoihin (tai isompiin kuin GP- ja SM-kisat).
+Kisaamista varten on siis liityttävä Cometsin jäseneksi (kirjoittamishetkellä 25 €) ja ostettava kisalisenssi sekä -vakuutus, jotka Comets kuitenkin maksaa takaisin korvaushakemusten täyttäneille. Jäsenyydet, lisenssit ja vakuutukset ovat voimassa kalenterivuoden ajan. Comets maksaa myös kaikki osallistumismaksut kisoihin, joten käytännössä kisaaminen siis maksaa 25 € (Comets jäsenyys) ja siihen liittyvät matkustuskustannukset.
 
 Lisää voi lukea Cometsin [uuden kilpailijan ohjeista](https://www.comets.fi/osallistu-kilpailuihin/rock-ja-swing-tanssikilpailut/uuden-kilpailijan-ohjeet/).
 
-Kun kisat lähestyvät, aukeavat kisailmoittautumiset. Nämä ilmoitetaan Cometsin omassa facebook-kisaryhmässä. Ilmoittautuminen tehdään Cometsin kisavastaavalle, joka ilmoittaa osallistumisesi kisajärjestäjälle.
+Kisojen lähestyessä kisailmoittautumiset aukavat. Nämä ilmoitetaan Cometsin omassa facebook-kisaryhmässä. Ilmoittautuminen tehdään Cometsin kisavastaavalle, joka ilmoittaa osallistumisesi kisajärjestäjälle.
 
 Comets tarjoaa jäsenilleen ilmaiseksi salivuoroja harjoittelua varten. Myös HOT on antanut osakuntalaisilleen mahdollisuuden harjoitella saleissaan ilmaiseksi. Koska POT on kolmen osakunnan yhteinen tanssikerho, kannattaa kysyä omalta osakunnalta, onko saleissa mahdollista tanssia.
 
 ## Kisoihin harjoitelu
-Kannattaa muistaa, että POT:lla ja HOT:lla opetetaan sosiaalisia tansseja. Tavoitteena on, että tanssiosaaminen olisi lajien kohdalla monipuolista, ja että pystyisi tanssimaan jokaiseen musiikkiin mitä lavoilla soitetaan. Puolen vuoden aikana opetetaan kaksi kertaa jotain lajia, ja lajeja on n. kuusi erilaista. Esimerkiksi Buggia opetetaan yhteensä kauden aikana vain kolme tuntia.
+Kannattaa muistaa, että POT:lla ja HOT:lla opetetaan sosiaalisia tansseja. Tavoitteena on, että tanssiosaaminen olisi lajien kohdalla monipuolista, ja että pystyisi tanssimaan jokaiseen musiikkiin mitä lavoilla soitetaan. Puolen vuoden aikana opetetaan kaksi kertaa jotakin lajia, joita on n. kuusi erilaista. Esimerkiksi Buggia opetetaan yhteensä kauden aikana vain kolme tuntia.
 
-Comets opettaa yhtä lajia kerralla, jolloin Buggia tulee treenattua kauden aikana n. kuusinkertainen määrä siihen, mitä POT:lla ja HOT:lla.
+Comets opettaa yhtä lajia kerralla, jolloin Buggia tulee treenattua kauden aikana n. kuusinkertainen määrä siihen, mitä POT:lla ja HOT:lla opetetaan.
 
-Alimmalla taitotasolla kyllä pärjää, vaikka ei kävisikään Cometsilla harjoittelemassa. Kaikista tärkeintä on se, miten paljon aikoo harjoitella kurssien ulkopuolella. Myöskin odotusten kannattaa olla realistisa. Jos aikaa ei ole harjoittelulle, olisi viisainta tähdätä ainoastaan alimman taitotason huipulle, eikä välttämättä SM-tasolle.
+Alimmalla taitotasolla kyllä pärjää, vaikka ei kävisikään Cometsilla harjoittelemassa. Kaikista tärkeintä on se, miten paljon aikoo harjoitella kurssien ulkopuolella. Myöskin odotusten kannattaa olla realistisia. Harjoittelukerrat määrittävät sen, kuinka korkealle taitotasolle kannaattaa tähdätä.
 
 Alimmalla tasolla pärjää vähäisellä harjoittelulle, jos ei kilpailusta halua tehdä itselleen intohimoa tai haluaa välttää tanssi-burnoutin.
 
