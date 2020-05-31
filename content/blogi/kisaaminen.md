@@ -65,27 +65,25 @@ Comets opettaa yhtä lajia kerralla, jolloin Buggia tulee treenattua kauden aika
 
 Alimmalla taitotasolla kyllä pärjää, vaikka ei kävisikään Cometsilla harjoittelemassa. Kaikista tärkeintä on se, miten paljon aikoo harjoitella kurssien ulkopuolella. Myöskin odotusten kannattaa olla realistisia. Harjoittelukerrat määrittävät sen, kuinka korkealle taitotasolle kannaattaa tähdätä.
 
-Alimmalla tasolla pärjää vähäisellä harjoittelulle, jos ei kilpailusta halua tehdä itselleen intohimoa tai haluaa välttää tanssi-burnoutin.
+Esilletuloa ja lopetusta kannattaa harjoitella erikseen. Tätä ei yleensä missään muualla paitsi kisaryhmän oppitunneilla harjoitella. Esilletulo on yllättävän haastavaa. Se kannattaa videoida ja harjoitella kunnolla eri kuvakulmien kautta, koska vain siten pystyy näkemään, miltä se todella näyttää. Hyvin suunniteltu ja toteutettu esilletulo antaa tuomareille sekä yleisölle hyvän ensivaikutelman. Se on myös melko sovittu koreografia, joten sopikaa partnerin kanssa, miten se tapahtuu.
 
-Esilletuloa ja lopetusta kannattaa harjoitella erikseen. Tätä ei yleensä missään muualla paitsi kisaryhmän oppitunneilla harjoitella. Esilletulo on yllättävän haastava. Se kannattaa videoida, koska mututuntumalta sitä ei kannata harjoitella. Esilletulo on myös melko sovittu koreografia, joten sopikaa partnerin kanssa miten se tapahtuu.
+Myös lopetus on tehtävä tyylikkäästi. Usein lopetuksen vaarana on, että lopettaa liian aikaisin. Musiikki yleensä hiljennetään pikkuhiljaa, mutta tanssia voi periaatteessa jatkaa musiikin ohikin. Liian nopeasti lopetettu tanssi vaikuttaa hätiköidyltä ja huolimattomalta. On parempi lopettaa liian myöhään kuin liian aikaisin. Lopussakin kannaattaa tehdä jonkinlainen kumarrus ja kiitos yleisöä päin. 
 
-Myös lopetus on tehtävä tyylikkäästi. Usein lopetuksen vaarana on, että lopettaa liian aikaisin. Musiikki yleensä hiljennetään pikkuhiljaa, mutta tanssia voi periaatteessa jatkaa musiikin ohikin. Liian nopeasti lopetettu tanssi vaikuttaa hätiköidyltä ja luo kuvan, että tanssiminen ei ollut hauskaa. On parempi lopettaa liian myöhään kuin liian aikaisin. Lopussakin siis jonkinlainen kumarrus ja kiitos yleisöä päin.
-
-Vaikka salissa olisikin peilit, suosittelen kuitenkin, että harjoitukset videokuvataan. Jos videokuvaukseen on mahdollista, on silloin oikeastaan peilitön sali parempi. Peili aiheuttaa sen, että katsotaan liikaa omaa suoritusta, jolloin se myös näkyy kisatilanteessa. Tarkoitus on, että tanssitaan omalle parille tai yleisölle.
+Vaikka tanssisalissa olisikin peilit, on suositeltavaa kuvata harjoitukset videolle. Se antaa realistisemman kuvan omasta tanssitaidostaan ja mahdollisuuden oman tanssin arvostelemiseen ja parantamiseen.
 
 Monessa lajissa alimmalla taitotasolla on ainoastaan yksi osuus: nopea osuus. Ei siis ihan heti tarvitse harjoitella hidasta osuutta. Jos on suunnitelmana pysyä alimmassa taitotasossa, ei hidasta osuutta tarvitse lainkaan harjoitella.
 
-Hidas osuus on osakuntien tanssikerholaisille hieman ongelmallinen, sillä hidasta versiota ei juurikaan opeteta.
+Osakuntien tanssikerhoissa hidasta versiota tanssilajeista ei opeteta. 
 
 ## Lyhyesti
-Osakuntien tanssikerholaisten kannattaa valita ensimmäiseksi lajikseen joko Fusku tai Bugg. Jos valitaan Bugg, kannattaa lukea [säännöt](https://www.dancesport.fi/wp-content/uploads/2019/07/RS-s%c3%a4%c3%a4nn%c3%b6t_8.2019.pdf). Fuskuun ei kohdistu niin tarkkoja sääntöjä. Mikäänhän ei estä osallistumasta kumpaankin lajiin. Jos Bugg ja Fusku tuntuvat tasavahvoilta, kannattaa osallistua kumpaankin. Kilpailupäivänä voi nimittäin joutua odottamaan tunteja, että pääsee vihdoinkin tekemään kisasuorituksen. Kisasuorituskin kestää vain puolitoista minuuttia.
+Osakuntien tanssikerholaisten kannattaa valita ensimmäiseksi lajikseen joko Fusku tai Bugg. Jos valitaan Bugg, kannattaa lukea [säännöt](https://www.dancesport.fi/wp-content/uploads/2019/07/RS-s%c3%a4%c3%a4nn%c3%b6t_8.2019.pdf). Fuskuun ei kohdistu niin tarkkoja sääntöjä. Mikään ei estä osallistumasta kumpaankin tanssilajiin. Jos Bugg ja Fusku tuntuvat tasavahvoilta, kannattaa osallistua kumpaankin. Kilpailupäivänä voi nimittäin joutua odottamaan tunteja omaa kisasuorituksta. Kisasuorituskin kestää vain puolitoista minuuttia.
 
 Liity Cometsin jäseneksi ja lue [ensikertaa kisoihin osallistuvan ohjeet](https://www.comets.fi/osallistu-kilpailuihin/rock-ja-swing-tanssikilpailut/uuden-kilpailijan-ohjeet/) Cometsin nettisivuilta. Rock'n'swing [kilpailujen aikataulut](https://www.comets.fi/osallistu-kilpailuihin/rock-ja-swing-tanssikilpailut/kilpailut-suomessa/) näkyvät Cometsin sivuilla. Ilmoittautumisen aukeaminen kerrotaan Cometsin facebook-ryhmässä.
 
-Kuka tahansa osakunan tanssikerholainen, joka käy viimeisintä kurssitasoa, pärjää alimmassa taitotasossa Buggissa ja Fuskussa. Hyvällä omalla tunnolla voi mennä siis kisaamaan. Kisaaminen on jännittävä kokemus, jota suosittelen jokaiselle. Taitotaso on helppo valita itselleen sen mukaan, miten paljon on valmis treenaamaan.
+Kuka tahansa osakunnan tanssikerholainen, joka käy viimeistä kurssitasoa, pärjää alimmassa taitotasossa Buggissa ja Fuskussa. Hyvällä omalla tunnolla voi mennä siis kisaamaan. Kisaaminen on jännittävä kokemus, jota suosittelen jokaiselle. Taitotaso on helppo valita itselleen sen mukaan, miten paljon on valmis treenaamaan.
 
-Bonuksena vielä se, että kisaajat saavat jäädä seuraamaan kisoja ilmaiseksi. Ei pelkästään tämä, mutta kisaajana pääset samoihin lämmittelytiloihin kuin maailman mestarit! Se on aitiopaikka nähdä huippuja läheltä ja päästä vähän sisälle heidän kisastrategioistaan. Ilma säkenöi jännitystä, kun tanssijat lämmittelevät kisoja varten. Kisaajat näyttävät hermostuneilta, mutta kun tulee näytön paikka, kaikki stressi katoaa.
+Bonuksena vielä se, että kisaajat saavat jäädä seuraamaan kisoja ilmaiseksi. Ei pelkästään tämä, mutta kisaajana pääset samoihin lämmittelytiloihin kuin maailman mestarit! Se on aitiopaikka nähdä huippuja läheltä ja päästä vähän sisälle heidän kisastrategioistaan. Ilma säkenöi jännitystä, kun tanssijat lämmittelevät kisoja varten. Kisaajat näyttävät hermostuneilta, mutta näytön paikan tullen kaikki stressi katoaa.
 
-Itse tanssi kestää puolitoista minuuttia. Tanssienssa se tuntuu pitkältä, mutta kun se loppu, se tuntuu loppuvan liian nopeasti. Suorituksen jälkeen voi ottaa rennosti ja ihailla muiden suorituksia.
+Itse tanssi kestää puolitoista minuuttia. Tanssiessa se tuntuu pitkältä, mutta sen loputtua, aika tuntuikin menevän liian nopeasti. Suorituksen jälkeen voi ottaa rennosti ja ihailla muiden suorituksia.
 
-Kisakokemusta on vaikea kuvailla. Uskoisin myös, että moni kokee kisaamisen hiaman eri tavalla. Paras tapa on vain tulla kokeilamaan miltä kisaaminen tuntuu.!
+Kisakokemusta on vaikea kuvailla. Uskoisin myös, että moni kokee kisaamisen hiaman eri tavalla. Paras tapa on vain tulla kokeilemaan, miltä kisaaminen tuntuu!
