@@ -1,7 +1,13 @@
 {{ define "main" }}
   {{ .Content }}
+
+  {{ with .Page.Params.vue }}
+  <script src="https://cdn.jsdelivr.net/npm/vue@2.6.11"></script>
+  {{ end }}
+
   {{ range .Page.Params.js }}
-  {{ $js := resources.Get "js/pastEvents.js" | minify| fingerprint }}
+  {{ $js := resources.Get ( . | printf "%s%s" "js/" ) | minify | fingerprint }}
   <script src="{{ $js.Permalink }}"></script>
   {{ end }}
+
 {{ end }}
