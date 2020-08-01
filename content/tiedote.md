@@ -1,15 +1,13 @@
 ---
 title: "Tiedote"
-date: 2020-03-19T12:02:34+02:00
-draft: false
+date: 2020-08-01T09:52:25+03:00
 ---
-## Koronaviruksen vaikutus tanssikerhon toimintaan
-Koronapoikkeustilan johdosta POTin hallitus on päättänyt perua kaikki loput kevään tanssitunnit ja tanssibileet. Myös muita [tapahtumia on peruutettu]({{< ref "./tapahtumat.md">}}). Opettajamme tekevät kotiharjoitteluun soveltuvia videoita tämän kevään kurssilaisille ja kannatusjäsenille huhti-toukokuun aikana. Jos liityt nyt [kannatusjäseneksi]({{< ref "./ry/kannatusjasenyys.md">}}), ja haluat saada linkkejä videoihin, ota yhteyttä [hallituksen tiedottajaan]({{< ref "./hallitus.md">}}) ja lähetä kuvakaappaus maksusuoritteesta.
+## 2020 syksyn kurssit
 
-Kiitos kaikille tanssikeväästä tähän asti, ja toivottavasti nähdään taas syksyn tanssikursseilla!
+POTin hallitus on aloittanut tulevan syksyn kurssien suunnittelun. Kurssien toteutuksessa noudatetaan erityisjärjestelyitä koronatilanteen johdosta sekä seurataan tilanteen kehittymistä. 
 
--Pohjalaisten tanssikerhon hallitus
+Kursseilla pyritään tanssimaan mahdollisimman paljon saman parin kanssa kontaktien vähentämiseksi. Lähtökohtaisesti kaikilla kursseilla tanssitaan oman parin kanssa. Parinvaihto eri opetuskertojen välillä tai tuntien aikana pienemmissä ryhmissä on kuitenkin mahdollista halukkaille tilanteen salliessa, eikä haittaa, jos sinulla ei ole vielä paria kurssin alkaessa.
 
-Tämä tiedote on viimeksi päivitetty 30.03.2020
+Ennen syyskauden ohjelman suunnittelua POTin hallitus haluaisi kuulla tanssikerholaisten ja kursseista kiinnostuneiden toiveita ja ajatuksia kurssien järjestämiseen liittyen. Käy siis [vastaamassa ennakkokyselyyn](https://forms.gle/xjpBMyJJYak4HkEW6), mikäli suunnittelet osallistuvasi syksyn tanssikursseille tai jos haluat lähettää muita terveisiä POTin hallitukselle.
 
-
+Kiitos! :)
