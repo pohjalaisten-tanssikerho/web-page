@@ -7,7 +7,7 @@ description: Kaikille viikottaisille kursseille yhteistä asiaa ja käytäntöj�
 ---
 # Yleistä kursseista
 
-Pohjalaisten tanssikerho järjestää lukukauden pituisia tanssikursseja, joiden aikana opetetaan suosituimmat lavatanssit ja vähän ekstraakin. Yhteensä kursseja on neljä kolmessa eri taitotasossa:
+Pohjalaisten tanssikerho järjestää lukukauden pituisia tanssikursseja, joiden aikana opetetaan suosituimmat lavatanssit ja vähän ekstraakin. Yhteensä kursseja on kolme:
 
 * [alkeiskurssi]({{< ref "/kurssi/kausi/alkeiskurssi.md" >}})
 * [alkeisjatkokurssi]({{< ref "/kurssi/kausi/alkeisjatko.md" >}})
