@@ -8,6 +8,6 @@ POTin hallitus on aloittanut tulevan syksyn kurssien suunnittelun. Kurssien tote
 
 Kursseilla pyritään tanssimaan mahdollisimman paljon saman parin kanssa kontaktien vähentämiseksi. Lähtökohtaisesti kaikilla kursseilla tanssitaan oman parin kanssa. Parinvaihto eri opetuskertojen välillä tai tuntien aikana pienemmissä ryhmissä on kuitenkin mahdollista halukkaille tilanteen salliessa, eikä haittaa, jos sinulla ei ole vielä paria kurssin alkaessa.
 
-Ennen syyskauden ohjelman suunnittelua POTin hallitus haluaisi kuulla tanssikerholaisten ja kursseista kiinnostuneiden toiveita ja ajatuksia kurssien järjestämiseen liittyen. Käy siis [vastaamassa ennakkokyselyyn](https://forms.gle/xjpBMyJJYak4HkEW6), mikäli suunnittelet osallistuvasi syksyn tanssikursseille tai jos haluat lähettää muita terveisiä POTin hallitukselle.
+Pysykää terveinä ja pitäkää huolta toisistanne. Toivottavasti nähdään lavoilla!
 
-Kiitos! :)
+\-  POT Hallitus
