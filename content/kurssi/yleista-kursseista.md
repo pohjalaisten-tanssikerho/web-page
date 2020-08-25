@@ -17,7 +17,7 @@ Pohjalaisten tanssikerho järjestää lukukauden pituisia tanssikursseja, joiden
 
 Koronatilanteesta johtuen syksyn 2020 kurssit pidetään erikoisjärjestelyin. **Lähtökohtaisesti kaikilla kursseilla tanssitaan oman parin kanssa.** Kursseille voi ilmoittautua ilman paria, mutta tällöin kursseille tulleet parittomat tanssivat keskenään. Pyrimme järjestämään jokaiselle parittomalle tanssijalle mahdollisuus harjoitella jonkun kanssa. Ei haittaa siis, vaikka et omaa paria saakaan mukaan!
 
-Kuhunkin **kurssiin sisältyy 14 opetuskertaa**. Kursseilla on alussa on koronatilanteen takia vain yksi ilmainen kokeilukertaa, kun viime vuosina on ollut kaksi. Kesken kurssin on mahdollista liittyä mukaan, mutta tätä ennen on ensin otettava yhteys [hallitukseen]({{< ref "/hallitus.md" >}}). Kesken kurssin aloittavalla on yksi ilmainen kokeilukerta.
+Kuhunkin **kurssiin sisältyy 13 opetuskertaa**. Kursseilla on alussa on koronatilanteen takia vain yksi ilmainen kokeilukertaa, kun viime vuosina on ollut kaksi. Kesken kurssin on mahdollista liittyä mukaan, mutta tätä ennen on ensin otettava yhteys [hallitukseen]({{< ref "/hallitus.md" >}}). Kesken kurssin aloittavalla on yksi ilmainen kokeilukerta.
 
 Koronatilanteesta johtuvan epävarmuuden takia annamme kursseillemme rahanpalautustakuun. Mikäli pakollisista syistä tai vahvojen suositusten takia joudumme peruuttamaan kurssit, palautamme maksetut kurssimaksut takaisin samassa suhteessa, miten monta kurssituntia on ehditty pitämään. Palautus on pyydettävä erikseen. Palauttamattomilla varoilla POT tukee opettajiamme ja varmistaa yhdistyksen toiminnan jatkumisen.
 

@@ -7,12 +7,12 @@ description: >-
   Pitkälle edistyneille tanssijoille. Täällä tanssitekniikka ja kuviot hiotaan
   yhä parempaan kuntoon.
 ---
+
 # Jatkokurssi
-Alkeisjatkokurssin käytyäsi tai muualla pidempää tanssittuasi voit osallistua jatkokurssille, jolla opitaan lisää tanssilajeja ja -tekniikkaa. Tahti jatkokurssilla on alkeisjatkokurssia nopeampi ja perusaskeleita tansseista ei kerrata. Poikkeuksia ovat jatkokurssilla uutena tulevat lajit, kuten bachata. Syksyn ja kevään jatkokurssit ovat sisällöltään erilaiset. Jatkokursseilla riittää helposti oppimista ainakin koko vuodeksi!
 
-Jatkokurssilla on kiertävä parin vaihto!
+Alkeisjatkokurssin käytyäsi tai muualla pidempää tanssittuasi voit osallistua jatkokurssille, jossa opitaan lisää tanssilajeja ja -tekniikkaa. Tahti jatkokurssilla on alkeisjatkokurssia nopeampi ja perusaskeleita tansseista ei kerrata. Jatkokurssiin pyritään saamaan hieman tavallisesta poikkeavia tanssilajeja. Syksyn ja kevään jatkokurssit ovat sisällöltään erilaiset; kurssilla riittää helposti oppimista ainakin koko vuodeksi!
 
-[Täytä kurssi-ilmoittautuminen]({{< link signin >}}) ja tule kursseille!
+<!-- [Täytä kurssi-ilmoittautuminen]({{< link signin >}}) ja tule kursseille! -->
 
 {{% courseMeta jatko %}}
 

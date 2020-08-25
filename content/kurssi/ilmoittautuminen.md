@@ -6,5 +6,9 @@ subdirectories:
 subdirectories_weight: 3
 description: "Ilmoittaudu kursseille."
 ---
+
 # Ilmoittautuminen kursseille
-Kausikursseille ilmoittautuminen tapahtuu täyttämällä [ilmoittautumislomake]({{< link signin >}}). Tiiviskursseille ilmoittautuminen tapahtuu erillisellä lomakkeella, joka on tiiviskurssisivun yhteydessä.
+
+<!-- Kausikursseille ilmoittautuminen tapahtuu täyttämällä [ilmoittautumislomake]({{< link signin >}}). -->
+
+Kausikursseille ilmoittautuminen tapahtuu täyttämällä ilmoittautumislomake. Vuoden 2020 syksyn kurssien ilmoittautuminen ei ole vielä auennut. Tiiviskursseille ilmoittautuminen tapahtuu erillisellä lomakkeella, joka on tiiviskurssisivun yhteydessä.
