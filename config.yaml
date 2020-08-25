@@ -18,10 +18,10 @@ params:
     header:
       - item:
           label: etusivu
-          url: http://pohjalaiset.fi/tanssikerho/
+          url: 
       - item:
           label: kurssit
-          url: http://pohjalaiset.fi/tanssikerho/kurssi/
+          url: kurssi/
           subdir:
             - sub: kurssi_yleista
             - sub: kurssi_kausi
@@ -30,13 +30,13 @@ params:
               title: tiiviskurssit
       - item:
           label: tapahtumat
-          url: http://pohjalaiset.fi/tanssikerho/tapahtumat/
+          url: tapahtumat/
       - item:
           label: hallitus
-          url: http://pohjalaiset.fi/tanssikerho/hallitus/
+          url: hallitus/
       - item:
           label: blogi
-          url: http://pohjalaiset.fi/tanssikerho/blogi/
+          url: blogi/
           subdir:
             - sub: blogi
 

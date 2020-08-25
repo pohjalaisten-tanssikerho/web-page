@@ -15,7 +15,6 @@
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
-
       gtag('config', 'UA-175353356-1');
     </script>
 
@@ -48,7 +47,7 @@
 
           <ul>
             {{ range .Site.Params.navigation.header }}
-            <li><a href="{{ .item.url }}"><div class="logo-bullet"></div>{{ .item.label | upper}}</a>
+            <li><a href="/tanssikerho/{{ .item.url }}"><div class="logo-bullet"></div>{{ .item.label | upper}}</a>
               {{ with .item.subdir }}
                 <ul>
                   {{ range . }}
