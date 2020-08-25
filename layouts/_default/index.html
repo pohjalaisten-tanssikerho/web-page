@@ -20,8 +20,15 @@
 
     {{ $courses := index .Site.Data.courses "courses" }}
     {{ $firstThree := first 3 (sort (where $courses "date" "ge" (now.Format "2006-01-02")) "date" "asec") }}
-    <div>
+    <div id="nextThreeCourses">
       <h2>Seuraavat kurssit</h2>
+
+      <!-- <script src="https://cdn.jsdelivr.net/npm/moment@2/moment.min.js"></script> -->
+      <!-- <script src="https://apis.google.com/js/api.js"></script> -->
+      <!-- {{ $firstThreeCourses := resources.Get "/js/firstThreeCourses.js" }} -->
+      <!-- <script src="{{ $firstThreeCourses.Permalink }}"></script> -->
+
+
       {{ if eq ($firstThree | len) 0 }}
       <p>Viikottaiset kurssit ovat loppu tältä erää. Ensi kaudella taas lisää!</p>
       <!-- <p>Kurssien alkamisajankohdan muistutuksen voi tilata sähköpostiin. Sähköpostia käytetään vain tähän tarkoitukseen, ja muistutuksen jälkeen sähköpostiosoite poistetaan järjestelmästä pysyvästi.</p> -->
