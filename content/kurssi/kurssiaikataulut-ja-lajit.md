@@ -6,15 +6,16 @@ subdirectories:
 subdirectories_weight: 2
 description: "Kaikkien viikottaisten kurssien aikataulut ja lajit."
 ---
+
 # Kurssiaikataulut ja lajit
 
 Kaikki kurssit ovat tiistaisin.
 
 <!-- {{< courseMeta all >}} -->
 
-  - alkeet kello 17:00 - 18:30
-  - alkeisjatko kello 17:00 - 18:30 
-  - jatkokurssi kello 18:45 - 20:15
+<!-- - alkeet kello 17:00 - 18:30 -->
+<!-- - alkeisjatko kello 17:00 - 18:30  -->
+<!-- - jatkokurssi kello 18:45 - 20:15 -->
 
 {{< courses all >}}
 
