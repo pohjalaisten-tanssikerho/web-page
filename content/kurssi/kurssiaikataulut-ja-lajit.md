@@ -9,7 +9,9 @@ description: "Kaikkien viikottaisten kurssien aikataulut ja lajit."
 
 # Kurssiaikataulut ja lajit
 
-Kaikki kurssit ovat tiistaisin.
+Kaikki kurssit ovat tiistaisin. Kurssit alkavat joko 17:00 tai 18:45. Tarkempi aikataulu ilmoitetaan pian.
+
+Jokainen kurssi kestää puolitoista tuntia.
 
 <!-- {{< courseMeta all >}} -->
 
