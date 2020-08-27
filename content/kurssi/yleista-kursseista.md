@@ -15,7 +15,7 @@ Pohjalaisten tanssikerho järjestää lukukauden pituisia tanssikursseja, joiden
 
 <!-- Alkeiskursseja on kaksi erilaista. Toisella alkeiskurssilla tanssitaan pareja vaihtaen, mikä usein tukee tanssin oppimista. Toinen alkeiskurssi pidetään niille, jotka haluavat tanssia oman parinsa kanssa. Alkeisjatko- ja jatkokursseilla tanssitaan paria vaihtaen. -->
 
-Koronatilanteesta johtuen syksyn 2020 kurssit pidetään erikoisjärjestelyin. **Lähtökohtaisesti kaikilla kursseilla tanssitaan oman parin kanssa.** Kursseille voi ilmoittautua ilman paria, mutta tällöin kursseille tulleet parittomat tanssivat keskenään. Pyrimme järjestämään jokaiselle parittomalle tanssijalle mahdollisuus harjoitella jonkun kanssa. Ei haittaa siis, vaikka et omaa paria saakaan mukaan!
+Koronatilanteesta johtuen syksyn 2020 kurssit pidetään erikoisjärjestelyin. **Lähtökohtaisesti kaikilla kursseilla tanssitaan oman parin kanssa.** Kursseille otetaan yhtä monta viejää ja seuraajaa, ja ilman paria ilmoittautuneille pari pyritään löytämään paikan päällä. Ilman paria ilmoittautuneet voivat myös tanssia saman parin kanssa yhden tunnin kerrallaan tai mahdollisesti tanssia paria vaihtaen. Ei haittaa siis, vaikka et omaa paria saakaan mukaan!
 
 Kuhunkin **kurssiin sisältyy 13 opetuskertaa**. Kursseilla on alussa on koronatilanteen takia vain yksi ilmainen kokeilukertaa, kun viime vuosina on ollut kaksi. Kesken kurssin on mahdollista liittyä mukaan, mutta tätä ennen on ensin otettava yhteys [hallitukseen]({{< ref "/hallitus.md" >}}). Kesken kurssin aloittavalla on yksi ilmainen kokeilukerta.
 
