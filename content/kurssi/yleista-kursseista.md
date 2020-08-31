@@ -13,6 +13,8 @@ Pohjalaisten tanssikerho järjestää lukukauden pituisia tanssikursseja, joiden
 * [alkeisjatkokurssi]({{< ref "/kurssi/kausi/alkeisjatko.md" >}})
 * [jatkokurssi]({{< ref "/kurssi/kausi/jatkokurssi.md" >}})
 
+Kaikki kausikurssit ja yleensä myös lyhytkurssit, pidetään Bottalla osoitteessa {{< address >}}
+
 <!-- Alkeiskursseja on kaksi erilaista. Toisella alkeiskurssilla tanssitaan pareja vaihtaen, mikä usein tukee tanssin oppimista. Toinen alkeiskurssi pidetään niille, jotka haluavat tanssia oman parinsa kanssa. Alkeisjatko- ja jatkokursseilla tanssitaan paria vaihtaen. -->
 
 Koronatilanteesta johtuen syksyn 2020 kurssit pidetään erikoisjärjestelyin. **Lähtökohtaisesti kaikilla kursseilla tanssitaan oman parin kanssa.** Kursseille otetaan yhtä monta viejää ja seuraajaa, ja ilman paria ilmoittautuneille pari pyritään löytämään paikan päällä. Ilman paria ilmoittautuneet voivat myös tanssia saman parin kanssa yhden tunnin kerrallaan tai mahdollisesti tanssia paria vaihtaen. Ei haittaa siis, vaikka et omaa paria saakaan mukaan!

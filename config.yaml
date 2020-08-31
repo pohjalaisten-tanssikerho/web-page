@@ -7,7 +7,7 @@ languageCode: "fi-fi"
 params:
   address: "Töölönkatu 3 A, 00940 Helsinki, 5krs."
   links:
-    signin: "https://docs.google.com/forms/d/e/1FAIpQLScvIIl5l7a7bnPIYUmLxaijReK-bgoOt8C44nhTOxInNASBGg/viewform?usp=sf_link"
+    signin: "https://docs.google.com/forms/d/e/1FAIpQLSd8_DLHRutiprjsUyHGdTFXJPiFp2lvzaUX623_8-yK4SqaOg/viewform"
     facebook: "https://www.facebook.com/groups/pot.tanssikerho/"
     whatsapp: "https://chat.whatsapp.com/GW5RsQ8aocE29pmXUCY229"
   bank:

@@ -12,7 +12,7 @@ description: >-
 
 Alkeisjatkokurssin käytyäsi tai muualla pidempää tanssittuasi voit osallistua jatkokurssille, jossa opitaan lisää tanssilajeja ja -tekniikkaa. Tahti jatkokurssilla on alkeisjatkokurssia nopeampi ja perusaskeleita tansseista ei kerrata. Jatkokurssiin pyritään saamaan hieman tavallisesta poikkeavia tanssilajeja. Syksyn ja kevään jatkokurssit ovat sisällöltään erilaiset; kurssilla riittää helposti oppimista ainakin koko vuodeksi!
 
-<!-- [Täytä kurssi-ilmoittautuminen]({{< link signin >}}) ja tule kursseille! -->
+[Täytä kurssi-ilmoittautuminen]({{< link signin >}}) ja tule kursseille!
 
 {{% courseMeta jatko %}}
 
