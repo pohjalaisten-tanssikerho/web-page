@@ -1,0 +1,87 @@
+form {
+  max-width: $text-width;
+  margin: 0 auto;
+  fieldset {
+    &:hover {
+      border: solid 2px $neonblue;
+    }
+    margin-bottom: 1em;
+    color: $orange;
+    font-weight: bold;
+    // min-width: 320px;
+    background-color: rgba(0,0,0,0.2);
+    font-size: 1.1em;
+    border: solid 2px $tintblue;
+    P {
+      font-weight: normal;
+    }
+    label {
+      color: $white;
+      font-weight: normal;
+      margin-left: .5em;
+    }
+    textarea {
+      display: block;
+      max-width: $text-width;
+      min-width: 340px;
+      margin: 0 auto 1em auto;
+    }
+    input {
+      width: 1.5em;
+      height: 1.5em;
+    }
+    input, textarea {
+      padding: .5em;
+      border-radius: 3px;
+      border-style: solid;
+      border: solid 2px $white;
+      background-color: $white;
+      &:focus {
+        border: solid 2px $neonblue;
+        border-radius: 3px;
+        outline: none;
+      }
+      &:hover {
+        border-color: $neonblue;
+      }
+    }
+    input[type=text] {
+      width: 250px;
+      height: .6em;
+      margin-left: 1em;
+    }
+    input[type=checkbox]:checked {
+      color: $neonblue;
+      color: $orange;
+      background-color: $orange;
+    }
+    ul.form {
+      margin-top: .3em;
+      li {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        margin: .1em 0 .1em 0;
+      }
+    }
+    .sm-margin-left {
+      margin-left: 1em;
+      width: 320px;
+    }
+    .no-bottom-margin {
+      margin-bottom: 0;
+    }
+  }
+  button {
+    width: 200px;
+    height: 3em;
+    float: right;
+    background: rgba(0,0,0,0.1);
+    border: solid 2px $tintblue;
+    color: $white;
+    font-weight: bold;
+    &:hover {
+      border-color: $neonblue;
+    }
+  }
+}
