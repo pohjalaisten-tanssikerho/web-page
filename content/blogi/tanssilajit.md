@@ -56,11 +56,11 @@ Kizomba on lähitanssilajiksi erittäin monipuolinen. Tanssilavoilla sen suosio 
 
 ## Rumba bolero
 
-Rumbaa nelijakoinen yleensä suljetun otteen tanssilaji, jota tanssitaan bolero-rytmilajiin. Tunnelmaltaan se on rauhallinen ja intensiivisen hidas. Aika harvinainen lavoilla.
+Rumba on Kuubasta kotoisin oleva nelijakoinen latinalaistanssilaji, jota tahdittaa bolero-rytmilajiin kuuluva musiikki. Sitä tanssitaan usein suljetussa tanssiotteessa ilman vartalokontaktia, mutta voidaan tanssia myös avoimessa tanssiotteessa. Tunnelmaltaan se on rauhallinen ja intensiivisen hidas, joka näkyy myös tanssille ominaisena venyvänä kehon liikehdintänä. Lavoilla sitä tanssitaan yleensä vain vähän.  
 
 ## Salsa
 
-Salsa on latinotansseista ehkä jopa suosituin tanssilaji. Nelijakoinen tanssi.
+Salsa on latinotansseista ehkä jopa suosituin tanssilaji, jota näkee niin lavoilla ympäri Suomea kuin muuallakin maailmassa. Se on nelijakoinen tanssi, jonka musiikin rytmikuvioiden päällekkäisyys ja reipas tahti vie nopeasti mukanaan. Sitä tanssitaan suljetussa tanssiotteessa ilman vartalokontaktia, mutta usein suurin osa tanssista kuitenkin tapahtuu avoimessa tanssiotteessa monien kuvioiden kera.   
 
 ## Samba
 
