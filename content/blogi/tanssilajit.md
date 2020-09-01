@@ -46,7 +46,7 @@ Hauska ja rytmikäs fusku on rock'n'swing- tansseihin kuuluva tanssilaji ja erit
 
 Jive on hieman fuskua ja buggia muistuttava nelijakoinen paritanssi, joka kuitenkin kuuluu latinalaistanssien perheeseen. Tunnelmaltaan se on nopeatempoinen ja iloinen tanssi, jonka perustekniikka ja oikeaoppinen kehon liikehdintä tekee vähän haastavaksi paritanssiksi. Sitä tanssitaan nopeatempoiseen swing-musiikkiin. Jive on lavoilla vähän harvinaisempi, mutta kilpatanssimaailmassa laji elää vielä vahvasti.
 
-{{< youtube id="0hgEowDa7V8" class="meida" >}}
+{{< youtube id="0hgEowDa7V8" class="media" >}}
 
 ## Kansantanssit
 
