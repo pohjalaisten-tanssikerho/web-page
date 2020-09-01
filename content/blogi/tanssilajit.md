@@ -66,7 +66,7 @@ Salsa on latinotansseista ehkä jopa suosituin tanssilaji, jota näkee niin lavo
 
 ## Samba
 
-Samban suosio on vähän laskenut lavoilla, mutta siihen saattaa silloin tällöin törmätä. Se on kaksijakoisena tanssi, joka on luonteeltan vähän hypähtelevä ja joustava. Suljetun otteen tanssi ilman vartalokontaktia.
+Samba on kaksijakoinen tanssilaji, jonka tunnelman on reipas jota tanssitaan usein suljetussa tanssiotteessa ilman vartalokontaktia. jonka suosio on ajan myötä laskenut, ja sitä näkee siten aika harvoi mutta siihen saattaa silloin tällöin törmätä. Se on kaksijakoisena tanssi, joka on luonteeltan vähän hypähtelevä ja joustava. Suljetun otteen tanssi ilman vartalokontaktia.
 
 ## Tango
 
