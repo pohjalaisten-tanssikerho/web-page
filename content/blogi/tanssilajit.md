@@ -68,7 +68,7 @@ Samban suosio on vähän laskenut lavoilla, mutta siihen saattaa silloin tällö
 
 ## Tango
 
-Suomalainen tango on erittäin suosittu lavatanssilaji. Tyyliltään se on etenevä ja hienostunut tanssi, jota nimensä mukaisesti tanssitaan tango-musiikkiin. Musikkin aiheena on yleensä rakkaus korostamassa tanssin tunnelmaa. Myös argentiinalainen tango on herättänyt suosiota lavoilla. Normaalista tangosta se eroaa varsinkin jalkavariaatioiden suhteen, sillä siinä niitä ei ole tarkoin määritelty. 
+Suomalainen tango on nelijakoinen, erittäin suosittu lavatanssilaji, jota näkee oikeastaan kaikilla lavoilla ympäri Suomea. Tyyliltään se on etenevä ja hienostunut tanssi, jota nimensä mukaisesti tanssitaan tango-musiikkiin. Musiikin aiheina ovat yleensä rakkaus, tuska tai onni korostamassa tanssin tunnelmaa. Sitä tanssitaan suljetussa tanssiotteessa, mutta esimerkiksi promenadissa ja joidenkin muiden kuvioiden kohdalla tanssiote irrottautuu, esimerkiksi promenadissa. Myös argentiinalainen tango on herättänyt suosiota lavoilla. Normaalista tangosta se eroaa varsinkin jalkavariaatioiden suhteen, sillä siinä niitä ei ole tarkoin määritelty. 
 
 ## Valssi
 
