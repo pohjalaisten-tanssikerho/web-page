@@ -54,7 +54,7 @@ Suomen kansantanssien ryhmä on aika suuri, mutta lavoilla yleisimpiä niistä o
 
 ## Kizomba
 
-Kizomba on lähitanssilajiksi erittäin monipuolinen. Tanssilavoilla sen suosio on kasvanut hurjaa vauhtia. Tunnelmaltaan se on rauhallinen ja intensiivinen. Sille ominaista on vartalokontaktin lisäksi erilaiset askelvariaatiot ja yläkropasta tapahtuva vienti sekä seuraaminen.  Sitä tanssitaan tunnistettavaan ja voimakkaaseen kizomba-musiikkiin.
+Kizomba on lähitanssilajiksi erittäin monipuolinen. Tanssilavoilla sen suosio on kasvanut hurjaa vauhtia. Tunnelmaltaan se on rauhallinen ja intensiivinen. Sille ominaista on vartalokontaktin lisäksi erilaiset askelvariaatiot ja yläkropasta tapahtuva vienti sekä seuraaminen. Sitä tanssitaan tunnistettavaan ja voimakkaaseen kizomba-musiikkiin.
 
 ## Rumba bolero
 
