@@ -14,7 +14,7 @@ Bachata on usein latinotansseihin yhdistetty nelitahtinen tanssilaji, joka on sa
 
 ## Boogie woogie
 
-50-luvulta peräisin oleva Boogie woogie on avoimen otteen rock'n'swing-tanssilaji, jota tanssitaan rock'n'roll- musiikkiin. Tanssin ominaispiirteisiin kuuluvat tyypillisesti linjamaisuus, musiikkiin eläytyminen, hassuttelu ja akrobaattiset liikkeet.
+50-luvulta peräisin oleva Boogie woogie on avoimen otteen rock'n'swing-tanssilaji, jota tanssitaan rock'n'roll- musiikkiin. Tanssin ominaispiirteisiin kuuluvat linjamaisuus, musiikkiin eläytyminen, hassuttelu ja akrobaattiset liikkeet, jotka luovat tanssiin hauskan ja pirteän tunnelman. Tanssi on vähän harvinaisempi lavoilla, mutta erityisen suosittu kilpatanssimaailmassa. 
 
 {{< youtube id="1y-lQzN2-2I" class="media" >}}
 
@@ -26,7 +26,7 @@ Ruotsista kotoisin olevaa rock'n'swing-tanssia tanssitaan avoimessa otteessa ja 
 
 ## Cha cha
 
-Cha cha on nelijakoinen latinotanssilaji, jota tanssitaan suljetussa tanssiotteessa ilman vartalokontaktia tai avoimessa tanssiotteessa. Cha cha-musiikki ja tanssin keinuttavat askeleet luovat mukaansa vievän tanssifiiliksen, ja siksi se onkin aika yleinen tanssilaji lavoilla.
+Cha cha on nelijakoinen latinotanssilaji, jota tanssitaan sekä suljetussa tanssiotteessa ilman vartalokontaktia että avoimessa tanssiotteessa. Rumban tavoin cha cha:n tyyli on venyvä, mutta iloisen napakka. Cha cha-musiikki yhdessä keinuttavin askelin tempaisevat mukaansa tanssimaan. Se on salsan tapaan melko yleinen tanssilaji lavoilla.
 
 {{< youtube id="T6a7RxPP7pI" class="media" >}}
 
