@@ -46,6 +46,8 @@ Hauska ja rytmikäs fusku on rock'n'swing- tansseihin kuuluva tanssilaji ja erit
 
 Jive on hieman fuskua ja buggia muistuttava nelijakoinen paritanssi, joka kuitenkin kuuluu latinalaistanssien perheeseen. Tunnelmaltaan se on nopeatempoinen ja iloinen tanssi, jonka perustekniikka ja oikeaoppinen kehon liikehdintä tekee vähän haastavaksi paritanssiksi. Sitä tanssitaan nopeatempoiseen swing-musiikkiin. Jive on lavoilla vähän harvinaisempi, mutta kilpatanssimaailmassa laji elää vielä vahvasti.
 
+{{< https://youtu.be/0hgEowDa7V8 class="meida" >}}
+
 ## Kansantanssit
 
 Suomen kansantanssien ryhmä on aika suuri, mutta lavoilla yleisimpiä niistä ovat polkka, jenkka ja humppa. Polkkaa ja jenkkaa tanssitaan nopeatempoiseen, iloiseen ja pianon sekä harmonikan säestämään musiikkiin. Molemmat tanssit ovat luonteeltaan aika hyppeleviä ja hyväntuulisia. Jenkkaa pystyy kyllä tanssimaan myös ilman hypähteleviä askelia, jolloin tanssi muuttuu sottiisiksi (köyhän miehen jenkka). Jenkan perusakel etenee promenadissa askel-askel-hyp-py askel-askel-hyp-py, jonka jälkeen yleensä hypätään molemmilla jaloilla kaksi kertaa.  
