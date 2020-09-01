@@ -44,7 +44,7 @@ Hauska ja rytmikäs fusku on rock'n'swing- tansseihin kuuluva tanssilaji ja erit
 
 ## Jive
 
-Jive on hieman fuskua ja buggia muistuttava paritanssi, joka kuitenkin kuuluu latinalaistanssien perheeseen. Tunnelmaltaan se on nopeatempoinen ja iloinen tanssi. Tehty tanssittavaksi swing-musiikkiin. Lavoilla vähän harvinaisempi.
+Jive on hieman fuskua ja buggia muistuttava nelijakoinen paritanssi, joka kuitenkin kuuluu latinalaistanssien perheeseen. Tunnelmaltaan se on nopeatempoinen ja iloinen tanssi, jonka perustekniikka ja oikeaoppinen kehon liikehdintä tekee vähän haastavaksi paritanssiksi. Sitä tanssitaan nopeatempoiseen swing-musiikkiin. Jive on lavoilla vähän harvinaisempi, mutta kilpatanssimaailmassa laji elää vielä vahvasti.
 
 ## Kansantanssit
 
@@ -72,6 +72,6 @@ Suomalainen tango on erittäin suosittu lavatanssilaji. Tyyliltään se on etene
 
 ## Valssi
 
-Vanhin tanssilaji, jota tanssitaan niin lavoilla kuin esimerkiksi häissä. Kolmijakoisen tanssina se on hienostunut ja ylväs lähitanssi ilman vartalokontaktia. Perinteiden mukaisesti valssi aloittaa sekä lopettaa tanssiaiset.
+Vanhin tanssilaji, jota tanssitaan niin lavoilla kuin esimerkiksi häissä. Kolmijakoisena tanssina se on erittäin hienostunut ja ylväs lähitanssi ilman vartalokontaktia. Valssi aloitti paritanssin historian, jonka vuoksi perinteiden mukaisesti valssi aloittaa sekä lopettaa tanssiaiset. Sitä säestää 3/4 jakoinen musiikki, jossa ykkösisku on korostettuna. Valssin keinuvaan ja etenevän pyörivään huumaan pääsee helposti kiinni.  
 
 <!-- 1) minkälainen tanssi, millä kurssilla opetetaan, kuinka yleinen,  -->
