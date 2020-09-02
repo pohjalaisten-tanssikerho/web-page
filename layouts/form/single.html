@@ -1,18 +1,18 @@
 {{ define "main" }}
   {{ .Content }}
 
-  <form name="feedback" method="POST" data-netlify="true">
+  <form name="feedback" method="POST" action="localhost:8080">
 
     <fieldset>
       <legend>Henkilötiedot</legend>
       <p>Palaute on anonyyminen. Mikäli kuitenkin haluat vastauksen palautteellesi, kirjoita kenttään sähköpostiosoitteesi.</p>
-      <input type="text" id="email" class="sm-margin-left" name="How" value="">
+      <input type="text" id="email" class="sm-margin-left" name="email" value="">
     </fieldset>
 
     <fieldset>
       <legend>Yleinen palaute</legend>
       <p>Vapaa sana. Tähän voi antaa palautetta esimerkiksi opetuksen laadusta, hallituksen toiminnasta, nettisivuista tai muusta asiasta.</p>
-      <textarea name="message" rows="10" cols="30"></textarea>
+      <textarea id="message" name="message" rows="10" cols="30"></textarea>
     </fieldset>
 
     <fieldset>
@@ -20,47 +20,47 @@
       <p class="no-bottom-margin">Miten kuulit meistä?</p>
       <ul class="form">
         <li>
-          <input type="checkbox" id="heardOfUs-1" name="How" value="posteri">
+          <input type="checkbox" id="heardOfUs-1" name="heardFrom" value="poster">
           <label for="heardOfUs_1">ilmoitustaulun posteri</label>
         </li>
         <li>
-          <input type="checkbox" id="heardOfUs-2" name="How" value="posteri">
+          <input type="checkbox" id="heardOfUs-2" name="heardFrom" value="flyer">
           <label for="heardOfUs_2">jakelulehtiö, flyer</label>
         </li>
         <li>
-          <input type="checkbox" id="heardOfUs-3" name="How" value="posteri">
+          <input type="checkbox" id="heardOfUs-3" name="heardFrom" value="kaveri">
           <label for="heardOfUs_3">kaveri</label>
         </li>
         <li>
-          <input type="checkbox" id="heardOfUs-4" name="How" value="posteri">
+          <input type="checkbox" id="heardOfUs-4" name="heardFrom" value="sclub">
           <label for="heardOfUs_4">osakunta (PPO, EPO, VN)</label>
         </li>
         <li>
-          <input type="checkbox" id="heardOfUs-4" name="How" value="posteri">
+          <input type="checkbox" id="heardOfUs-4" name="heardFrom" value="search">
           <label for="heardOfUs_4">Google tai vastaava haku</label>
         </li>
         <li>
           <label for="heardOfUs_5">Muu, mikä? </label>
-          <input type="text" id="heardOfUs-5" name="How" value="">
+          <input type="text" id="heardOfUs-5" name="heardFrom" value="">
         </li>
       </ul>
 
       <p class="no-bottom-margin">Mihin tiedotukseen haluaisit meidän panostavan enemmän?</p>
       <ul class="form">
         <li>
-          <input type="checkbox" id="improve_1" name="How" value="posteri">
+          <input type="checkbox" id="improve_1" name="improveAd" value="facebook">
           <label for="improve_1">facebook</label>
         </li>
         <li>
-          <input type="checkbox" id="improve_2" name="How" value="posteri">
+          <input type="checkbox" id="improve_2" name="improveAd" value="whatsapp">
           <label for="improve_2">whatsapp</label>
         </li>
         <li>
-          <input type="checkbox" id="improve_3" name="How" value="posteri">
+          <input type="checkbox" id="improve_3" name="improveAd" value="mailinglist">
           <label for="improve_3">sähköpostituslista</label>
         </li>
         <li>
-          <input type="checkbox" id="improve_4" name="How" value="posteri">
+          <input type="checkbox" id="improve_4" name="improveAd" value="webpage">
           <label for="improve_4">nettisivut</label>
         </li>
       </ul>
@@ -68,19 +68,19 @@
       <p class="no-bottom-margin">Mihin tiedotukseen haluaisit meidän panostavan vähemmän?</p>
       <ul class="form">
         <li>
-          <input type="checkbox" id="deimprove_1" name="How" value="posteri">
+          <input type="checkbox" id="deimprove_1" name="deimproveAd" value="facebook">
           <label for="deimprove_1">facebook</label>
         </li>
         <li>
-          <input type="checkbox" id="deimprove_2" name="How" value="posteri">
+          <input type="checkbox" id="deimprove_2" name="deimproveAd" value="whatsapp">
           <label for="deimprove_2">whatsapp</label>
         </li>
         <li>
-          <input type="checkbox" id="deimprove_3" name="How" value="posteri">
+          <input type="checkbox" id="deimprove_3" name="deimproveAd" value="mailinglist">
           <label for="deimprove_3">sähköpostituslista</label>
         </li>
         <li>
-          <input type="checkbox" id="deimprove_4" name="How" value="posteri">
+          <input type="checkbox" id="deimprove_4" name="deimproveAd" value="webpage">
           <label for="deimprove_4">nettisivut</label>
         </li>
       </ul>
