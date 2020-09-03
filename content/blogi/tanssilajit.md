@@ -8,13 +8,13 @@ description: 'Lyhyt esittely tanssilajeista, mitä Pohjalaisten tanssikerho ja H
 
 ## Bachata
 
-Bachata on usein latinotansseihin yhdistetty nelitahtinen tanssilaji, joka on saanut vaikutteita muista tansseista kuten bolerosta. Bachata-musiikkiin tanssittavaa lajia pystyy tanssimaan sekä avoimessa että suljetussa tanssiotteessa vartalo kontaktilla tai ilman. Perusasekeleet ovat yksinkertaiset sivulta sivulle kulkevat, joissa yleensä neljäs askel on täppi tai muu vastaava. Lavoilla bachata on vielä aika harvinainen, mutta sen suosio nousee räjähdysmäisesti. 
+Bachata on usein latinotansseihin yhdistetty nelitahtinen tanssilaji, joka on saanut vaikutteita muista tansseista kuten bolerosta. Bachata-musiikkiin tanssittavaa lajia pystyy tanssimaan sekä avoimessa että suljetussa tanssiotteessa vartalo kontaktilla tai ilman. Perusaskeleet ovat yksinkertaiset sivulta sivulle kulkevat, joissa yleensä neljäs askel on täppi tai muu vastaava. Lavoilla bachata on vielä aika harvinainen, mutta sen suosio nousee räjähdysmäisesti. 
 
 {{< youtube id="0jP0h3wIZCE" class="media" >}}
 
 ## Boogie woogie
 
-50-luvulta peräisin oleva Boogie woogie on avoimen otteen rock'n'swing-tanssilaji, jota tanssitaan rock'n'roll- musiikkiin. Tanssin ominaispiirteisiin kuuluvat linjamaisuus, musiikkiin eläytyminen, hassuttelu ja akrobaattiset liikkeet, jotka luovat tanssiin hauskan ja pirteän tunnelman. Tanssi on vähän harvinaisempi lavoilla, mutta erityisen suosittu kilpatanssimaailmassa. 
+50-luvulta peräisin oleva Boogie woogie on avoimen otteen rock'n'swing-tanssilaji, jota tanssitaan rock'n'roll- musiikkiin. Tanssin ominaispiirteisiin kuuluvat muun muassa musiikkiin eläytyminen, hassuttelu ja akrobaattiset liikkeet, jotka luovat tanssiin hauskan ja pirteän tunnelman. Sitä tanssitaan linjassa ja sen perusaskeleet koostuvat kahdeksan askeleen kokonaisuuksista, jotka nopeimmilla lajin tanssijoilla saavat näyttämään aivan kuin he leijuisivat ilmassa. Tanssi on vähän harvinaisempi lavoilla, mutta erityisen suosittu kilpatanssimaailmassa. 
 
 {{< youtube id="1y-lQzN2-2I" class="media" >}}
 
