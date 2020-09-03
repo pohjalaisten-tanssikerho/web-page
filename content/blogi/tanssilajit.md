@@ -20,7 +20,7 @@ Bachata on usein latinotansseihin yhdistetty nelitahtinen tanssilaji, joka on sa
 
 ## Bugg
 
-Ruotsista kotoisin olevaa rock'n'swing-tanssia tanssitaan avoimessa otteessa ja kehällä, mutta on mahdollista tanssia myös etenevänä ja linjana. Suosittua tanssilajia pystyy tanssimaan lähes kaikkiin nelijakoisiin kappaleisiin lähes kaikilla nopeuksilla. Pohjalaisten ja Hämäläisosakunnan-tanssikursseilla sitä opetetaan jo alkeiskurssilla.
+Ruotsista kotoisin oleva Bugg on rock'n'swing-tanssi, jota tanssitaan avoimessa otteessa ja kehällä, mutta mahdollisesti myös etenevänä ja linjana. Bugg on erttäin suosittu tanssilaji, joka saattaa johtua sen yksinkertaisesta perusaskeleesta ja Suosittua Buggia pystyy tanssimaan lähes kaikkiin nelijakoisiin kappaleisiin lähes kaikilla nopeuksilla. Buggin suosio saattaa perustua sen yksinkertaiseen perusaskeleeseen ja sekä seuraajan että viejän vapauteen luoda tanssiin uutta ytyä. Perusaskelikko on yksinkertainen Bugg löytyy aika varmasti jokaisen lavatanssin tanssilistalta.
 
 {{< youtube id="GcpiJZKgW8s" class="media" >}}
 
