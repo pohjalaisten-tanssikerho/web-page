@@ -52,7 +52,7 @@ Jive on hieman fuskua ja buggia muistuttava nelijakoinen paritanssi, joka kuiten
 
 Suomen kansantanssien ryhmä on suuri ja niissä on paljon alueellisia eroja. Kansantansseista yleisimpiä lavoilla ovat polkka, jenkka ja humppa. Polkkaa ja jenkkaa tanssitaan nopeatempoiseen, iloiseen ja pianon sekä harmonikan säestämään musiikkiin. Molemmat tanssit ovat luonteeltaan hyppeleviä ja hyväntuulisia. Jenkkaa pystyy kyllä tanssimaan myös ilman hypähteleviä askelia, jolloin tanssi muuttuu sottiisiksi (köyhän miehen jenkka). Jenkan perusaskel etenee promenadissa askel-askel-hyp-py askel-askel-hyp-py, jonka jälkeen yleensä hypätään molemmilla jaloilla kaksi kertaa. Humppaa tanssitaan pääosin suljetussa otteessa ilman vartalokontaktia, ja sen perusaskel on enemmänkin hypähtävä vaihtoaskel. 
 
-{{< youtube id="RY5msQ1svTI class="media" >}}
+{{< youtube id="RY5msQ1svTI" class="media" >}}
 
 {{< youtube id="uYKKgpiM_9E" class="media" >}}
 
