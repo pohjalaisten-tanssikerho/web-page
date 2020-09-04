@@ -8,7 +8,7 @@ description: 'Lyhyt esittely tanssilajeista, mitä Pohjalaisten tanssikerho ja H
 
 ## Bachata
 
-Bachata on usein latinotansseihin yhdistetty nelitahtinen tanssilaji, joka on saanut vaikutteita muista tansseista kuten bolerosta. Bachata-musiikkiin tanssittavaa lajia pystyy tanssimaan sekä avoimessa että suljetussa tanssiotteessa vartalo kontaktilla tai ilman. Perusaskeleet ovat yksinkertaiset sivulta sivulle kulkevat, joissa yleensä neljäs askel on täppi tai muu vastaava. Lavoilla bachata on vielä aika harvinainen, mutta sen suosio nousee räjähdysmäisesti. 
+Bachata on usein latinotansseihin yhdistetty nelitahtinen tanssilaji, joka on saanut vaikutteita muista tansseista kuten bolerosta. Bachata-musiikkiin tanssittavaa lajia pystyy tanssimaan sekä avoimessa että suljetussa tanssiotteessa vartalo kontaktilla tai ilman. Tanssille ominaista on varsinkin seuraajan keinuva liike ja ylävartalosta viedyt vartalon rotaatiot. Viemisen vahvasta roolista huolimatta tanssi tarjoaa monta hyvää kohtaa koristella tanssia ja nauttia siitä. Perusaskeleet ovat yksinkertaiset sivulta sivulle kulkevat, joissa yleensä neljäs askel on täppi tai muu vastaava. Lavoilla bachata on vielä aika harvinainen, mutta sen suosio nousee koko ajan räjähdysmäisesti. 
 
 {{< youtube id="0jP0h3wIZCE" class="media" >}}
 
@@ -78,14 +78,20 @@ Salsa on latinotansseista ehkä jopa suosituin tanssilaji, jota näkee niin lavo
 
 ## Samba
 
-Samba on kaksijakoinen tanssilaji, jonka tunnelman on reipas jota tanssitaan usein suljetussa tanssiotteessa ilman vartalokontaktia. jonka suosio on ajan myötä laskenut, ja sitä näkee siten aika harvoi mutta siihen saattaa silloin tällöin törmätä. Se on kaksijakoisena tanssi, joka on luonteeltan vähän hypähtelevä ja joustava. Suljetun otteen tanssi ilman vartalokontaktia.
+Samba on kaksijakoinen latinotanssilaji, jota tanssitaan usein suljetussa tanssiotteessa ilman vartalokontaktia. Sen perusaskeleet seuraavat rytmiä "yks-a-kaks, yks-a-kaks" ponnauttaen painon jalalta toiselle ja aiheuttaen tanssille ominaisen keinuvan liikkeen. Se on reipas ja joustava paritanssi. Samban kultakausi meni ohi jo kymmeniä vuosia sitten, joten se on aika harvinainen lavoilla, mutta yleinen kilpatanssimaailmassa. Muun muassa salsa on vienyt suosiota pois sambasta.
+
+{{< youtube id="FWYObhtY89c" class="media" >}} 
 
 ## Tango
 
-Suomalainen tango on nelijakoinen, erittäin suosittu lavatanssilaji, jota näkee oikeastaan kaikilla lavoilla ympäri Suomea. Tyyliltään se on etenevä ja hienostunut tanssi, jota nimensä mukaisesti tanssitaan tango-musiikkiin. Musiikin aiheina ovat yleensä rakkaus, tuska tai onni korostamassa tanssin tunnelmaa. Sitä tanssitaan suljetussa tanssiotteessa, mutta esimerkiksi promenadissa ja joidenkin muiden kuvioiden kohdalla tanssiote irrottautuu, esimerkiksi promenadissa. Myös argentiinalainen tango on herättänyt suosiota lavoilla. Normaalista tangosta se eroaa varsinkin jalkavariaatioiden suhteen, sillä siinä niitä ei ole tarkoin määritelty. 
+Suomalainen tango on nelijakoinen, erittäin suosittu lavatanssilaji, jota näkee oikeastaan kaikilla lavoilla ympäri Suomea. Tyyliltään se on etenevä ja hienostunut tanssi, jota nimensä mukaisesti tanssitaan tango-musiikkiin. Musiikin aiheina ovat yleensä rakkaus, tuska tai onni korostamassa tanssin tunnelmaa. Sitä tanssitaan suljetussa tanssiotteessa, mutta esimerkiksi promenadissa ja joidenkin muiden kuvioiden kohdalla tanssiote irrottautuu. Myös argentiinalainen tango on herättänyt suosiota lavoilla. Normaalista tangosta se eroaa varsinkin jalkavariaatioiden suhteen, sillä siinä niitä ei ole tarkoin määritelty. 
+
+{{< youtube id="DLF8ro3ROPI" class="media" >}} 
 
 ## Valssi
 
-Vanhin tanssilaji, jota tanssitaan niin lavoilla kuin esimerkiksi häissä. Kolmijakoisena tanssina se on erittäin hienostunut ja ylväs lähitanssi ilman vartalokontaktia. Valssi aloitti paritanssin historian, jonka vuoksi perinteiden mukaisesti valssi aloittaa sekä lopettaa tanssiaiset. Sitä säestää 3/4 jakoinen musiikki, jossa ykkösisku on korostettuna. Valssin keinuvaan ja etenevän pyörivään huumaan pääsee helposti kiinni.  
+Vanhin tanssilaji, jota tanssitaan niin lavoilla kuin esimerkiksi häissä. Kolmijakoisena tanssina se on erittäin hienostunut ja ylväs lähitanssi ilman vartalokontaktia. Valssi aloitti paritanssin historian, jonka vuoksi perinteiden mukaisesti valssi aloittaa sekä lopettaa tanssiaiset. Sitä säestää 3/4 jakoinen musiikki, jossa ykkösisku on korostettuna. Valssin keinuvaan ja etenevän pyörivään huumaan pääsee helposti kiinni. 
+
+{{< youtube id="UiWFmCN9KWU" class="media" >}}
 
 <!-- 1) minkälainen tanssi, millä kurssilla opetetaan, kuinka yleinen,  -->
