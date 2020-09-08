@@ -29,8 +29,7 @@
   h2 {
     margin: 25px 10px 10px 10px;
     font-size: 19px;
-    border-left: 4px solid $orange;
-    padding-left: .7em;
+    padding-left: .9em;
   }
   .some {
     @media only screen and (max-width: 650px) {
@@ -39,9 +38,22 @@
     margin: 0 20px;
   }
   div {
+    position: relative;
+  }
+  .logo-bullet {
+    width: 15px;
+    height: 15px;
+    position: absolute;
+    background-color: $orange;
+    transform: scaleX(0.7) rotate(45deg);
+    left: 3px;
+    top: 31px;
+    // z-index: 1;
+  }
+  div {
     @media only screen and (max-width: 650px) {
       margin: 0;
-      width: 290px;
+      width: 300px;
     }
   }
 }
