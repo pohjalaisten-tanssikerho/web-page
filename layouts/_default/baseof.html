@@ -31,10 +31,12 @@
         <div class="middle">
 
           <span class="hide mobile-header">
-            <a href="#" onclick="toggleMobileMenu()"><i class="material-icons md-48">menu</i></a>
+            <a href="#" onclick="toggleMobileMenu()"><div class="logo-bullet"></div></a>
 
             <script>
               function toggleMobileMenu() {
+                document.querySelector(".mobile-header .logo-bullet").classList.toggle('highlight')
+                document.querySelector("nav ul").classList.toggle("visible")
                 let menuList = document.querySelectorAll("nav ul li")
                 let display = (menuList[0].style.display == "") ? "block" : ""
                 for (i = 0; i< menuList.length; i++) {
@@ -138,6 +140,17 @@
           }
         });
       }
+    </script>
+
+    <script>
+      let resizeTimer;
+      window.addEventListener("resize", () => {
+        document.body.classList.add("resize-animation-stopper");
+        clearTimeout(resizeTimer);
+        resizeTimer = setTimeout(() => {
+          document.body.classList.remove("resize-animation-stopper");
+        }, 400);
+      });
     </script>
 
   </body>

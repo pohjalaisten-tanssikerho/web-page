@@ -9,7 +9,7 @@ body {
 
 a {
   text-decoration: none;
-  color: white;
+  color: $white;
   transition: 0.3s;
   &:hover {
     color: $orange;
@@ -38,4 +38,9 @@ hr {
 
 .center {
   text-align: center;
+}
+
+.resize-animation-stopper * {
+  animation: none !important;
+  transition: none !important;
 }
