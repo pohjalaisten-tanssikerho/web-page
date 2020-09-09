@@ -9,10 +9,12 @@ jobs:
     steps:
       - checkout
       - run:
-          name: Install lftp
+          name: install lftp
           command: |
             sudo apt-get update;
             sudo apt-get install lftp
       - run: HUGO_ENV=production hugo --gc --minify -v -d $HUGO_BUILD_DIR
       - run: echo "hello world"
-      - run: tree ~/hugo/public
+      - deploy:
+          name: upload public
+          command: lftp -c "open -u kwander,$PASSWORD sftp://porthan.osakunta.fi; set ftp:ssl-allow yes; set ssl:verify-certificate no; mirror -R $HUGO_BUILD_DIR /group/other/tanssikerho/public_html"
