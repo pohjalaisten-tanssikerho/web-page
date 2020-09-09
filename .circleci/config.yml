@@ -3,9 +3,9 @@ jobs:
   build:
     docker:
       - image: cibuilds/hugo:latest
-    working_directory: ~/hugo
-    environment:
-      HUGO_BUILD_DIR: ~/hugo/public
+    # working_directory: ~/hugo
+    # environment:
+    #   HUGO_BUILD_DIR: ~/hugo/public
     steps:
       - checkout
       - run:
@@ -13,8 +13,8 @@ jobs:
           command: |
             sudo apt-get update;
             sudo apt-get install lftp
-      - run: HUGO_ENV=production hugo --gc --minify -v -d $HUGO_BUILD_DIR
+      - run: HUGO_ENV=production hugo --gc --minify -v
       - run: echo "hello world"
       - deploy:
           name: upload public
-          command: lftp -c "open -u kwander,$PASSWORD sftp://porthan.osakunta.fi; set ftp:ssl-allow yes; set ssl:verify-certificate no; mirror -R $HUGO_BUILD_DIR /group/other/tanssikerho/public_html"
+          command: lftp -c "open -u kwander,$PASSWORD sftp://porthan.osakunta.fi; set ftp:ssl-allow yes; set ssl:verify-certificate no; mirror -R public /group/other/tanssikerho/public_html"
