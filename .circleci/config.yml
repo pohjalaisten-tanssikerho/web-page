@@ -1,19 +1,10 @@
 version: 2
 jobs:
   build:
-    machine:
-      image: circleci/classic:latest
-      branches:
-        only:
-          - master
-        steps:
-          - run:
-            name: Install LFTP
-            command: |
-              sudo apt-get update;
-              sudo apt-get install lftp;
-          - checkout
-          - run:
-            name: Send Via SFTP
-            # command: lftp sftp://${username}:${password}@${hostname} -e "mirror -v -R --exclude .git/ --exclude .circleci/ ./ ${site_name}/wp-content/themes/${theme}; quit"
-            command: echo "Hello world!"
+    docker:
+      - image: cibuilds/hugo:latest
+    working_directory: ~/hugo
+    environment:
+      HUGO_BUILD_DIR: ~/hugo/public
+    steps:
+      - run: echo "hello world"
