@@ -17,4 +17,6 @@ jobs:
       - run: echo ${PASSWORD}
       - deploy:
           name: upload public
-          command: lftp -c "open -u kwander --password ${PASSWORD} sftp://porthan.osakunta.fi; set ftp:ssl-allow yes; set ssl:verify-certificate no; mirror -R public /group/other/tanssikerho/public_html"
+          command: |
+            export LFTP_PASSWORD=${PASSWORD}
+            lftp -c "open -u kwander --env-password sftp://porthan.osakunta.fi; set ftp:ssl-allow yes; set ssl:verify-certificate no; mirror -R public /group/other/tanssikerho/public_html"
