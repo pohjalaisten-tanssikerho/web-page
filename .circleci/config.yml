@@ -20,7 +20,6 @@ jobs:
             sudo apt-get update;
             sudo apt-get install lftp
       - run: HUGO_ENV=production hugo --gc --minify -v
-      - run: echo ${PASSWORD}
-      - run:
+      - deploy:
           name: upload public
           command: lftp -c "open -u kwander --password ${DEPLOY_PASSWORD} sftp://porthan.osakunta.fi; set ftp:ssl-allow yes; set ssl:verify-certificate no; mirror -R public /group/other/tanssikerho/public_html"
