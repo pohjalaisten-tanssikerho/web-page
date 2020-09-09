@@ -7,7 +7,8 @@ jobs:
     environment:
       HUGO_BUILD_DIR: ~/hugo/public
     steps:
-      - run: apk update && apk add lftp
+      # - run: apk update && apk add lftp
+      - run: switch lftp
       - run: HUGO_ENV=production hugo --gc --minify -v -d $HUGO_BUILD_DIR
       - run: echo "hello world"
       - run: tree ~/hugo/public
