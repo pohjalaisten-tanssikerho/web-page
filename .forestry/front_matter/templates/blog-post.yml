@@ -29,5 +29,3 @@ fields:
   hidden: false
   label: Subdirectories
   description: Mihin menun alakategoriaan tämä blogi kuuluu.
-pages:
-- content/blogi/vastauksia-palautteisiin.md
