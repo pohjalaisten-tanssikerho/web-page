@@ -2,13 +2,6 @@
 label: Blog post
 hide_body: false
 fields:
-- name: description
-  type: text
-  config:
-    required: false
-  label: Kuvaus
-  description: Kuvaus artikkelista. Kuvaus näkyy mm. listauksessa. Kuvaus on lyhyt
-    esittely blogista ja mitä aiheita blogi käsittelee.
 - name: title
   type: text
   config:
@@ -18,3 +11,21 @@ fields:
     sisältöön; se ei tule näkyviin itsestään. Tämän avulla linkin nimi voi olla eri
     kuin otsikko artikkelissa. Linkin nimi kannattaa pitää lyhyenä, mutta otsikko
     voi halutessa olla pitkä.
+- name: description
+  type: text
+  config:
+    required: false
+  label: Kuvaus
+  description: Kuvaus artikkelista. Kuvaus näkyy mm. listauksessa. Kuvaus on lyhyt
+    esittely blogista ja mitä aiheita blogi käsittelee.
+- name: subdirectories
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+    source:
+      type: simple
+  hidden: true
+  label: Subdirectories
+  description: Mihin menun alakategoriaan tämä blogi kuuluu.
