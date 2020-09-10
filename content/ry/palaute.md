@@ -1,6 +1,5 @@
 ---
 title: "Palaute"
-date: 2020-08-31T08:57:54+03:00
 categories: ["ry"]
 categories_weight: 4
 type: "form"

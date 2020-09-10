@@ -1,6 +1,5 @@
 ---
 title: "Ohjeet sähköpostilistalle liittymiseen"
-date: 2019-12-21T16:39:43+02:00
 ---
 # Ohjeet sähköpostille liittymiseen
 Ilmoitusasiat hoidetaan pääosin tanssikerhon postituslistan kautta, jonne kaikkien kurssilaisten on syytä liittyä. Tanssikerhon sähköpostilistalle pääsee mailaamalla osoitteeseen majordomo@helsinki.fi viestin, jonka tekstiosassa lukee:

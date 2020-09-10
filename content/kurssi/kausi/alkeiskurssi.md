@@ -1,6 +1,5 @@
 ---
 title: "Alkeiskurssi"
-date: 2020-08-08T12:10:39+03:00
 description: "Tanssin ensiasekeleet."
 subdirectories: ["kurssi_kausi"]
 subdirectories_weight: 2

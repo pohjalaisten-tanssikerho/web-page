@@ -1,6 +1,5 @@
 ---
 title: "Tiedote"
-date: 2020-08-01T09:52:25+03:00
 ---
 
 ## 2020 syksyn kurssit alkavat!

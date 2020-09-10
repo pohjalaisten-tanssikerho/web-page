@@ -1,6 +1,5 @@
 ---
 title: "Alkeisjatko"
-date: 2019-12-17T13:21:39+02:00
 description: "Vähän edistyneimmille. Kannattaa olla vähän myös lavatanssikokemusta."
 subdirectories: ["kurssi_kausi"]
 subdirectories_weight: 4

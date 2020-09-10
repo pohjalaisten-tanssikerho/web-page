@@ -1,6 +1,5 @@
 ---
 title: "Kort på svenska"
-date: 2020-09-08T13:37:09+03:00
 categories: ["ry"]
 categories_weight: 5
 ---

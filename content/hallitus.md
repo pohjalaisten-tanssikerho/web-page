@@ -1,6 +1,5 @@
 ---
 title: "Hallitus"
-date: 2019-06-08T15:15:54+03:00
 categories: ["sivu"]
 categories_weight: 3
 ---

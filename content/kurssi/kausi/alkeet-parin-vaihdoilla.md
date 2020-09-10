@@ -1,6 +1,5 @@
 ---
 title: "Alkeet parin vaihdoilla"
-date: 2019-12-17T13:20:11+02:00
 description: "Tälle kurssille et tarvitse omaa paria. Sosiaalitanssia ja uusiin ihmisiin tutustumista parhaimmillaan."
 subdirectories: ["kurssi_kausi"]
 subdirectories_weight: 2

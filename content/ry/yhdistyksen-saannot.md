@@ -1,6 +1,5 @@
 ---
 title: "Yhdistyksen säännöt"
-date: 2019-12-17T11:35:34+02:00
 categories: ["ry"]
 categories_weight: 1
 ---
