@@ -26,6 +26,6 @@ fields:
     max: 
     source:
       type: simple
-  hidden: true
+  hidden: false
   label: Subdirectories
   description: Mihin menun alakategoriaan tämä blogi kuuluu.
