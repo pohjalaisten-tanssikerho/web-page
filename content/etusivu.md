@@ -1,13 +1,12 @@
 ---
 title: Pohjalaisten tanssikerho
-date: 2019-06-07T17:41:06.000Z
+date: 2019-06-07T17:41:06.000+00:00
 categories:
-  - etusivu
-description: >-
-  Opetusta, bileitä ja ekskursioita. Pohjalaisten tanssikerho tuo opiskelijan
+- etusivu
+description: Opetusta, bileitä ja ekskursioita. Pohjalaisten tanssikerho tuo opiskelijan
   elämään tanssin iloa.
----
 
+---
 # Paritanssin huumaa pohjalaismielisille opiskelijoille!
 
 {{< twoColumnImage imgPlacement="right" height="573" src="annika-juuso.jpg">}} Paritanssi on hauska, sosiaalinen ja liikunnallinen harrastus, jossa viihtyy jokainen. Tanssi on aina ollut osa kulttuuria ja historiaa, ja täten myös sivistystä. Jokainen törmää paritansseihin viimeistään elämänsä kohokohdissa, joista tunnetuimmat lienevät häiden valssit ja lukion vanhojen tanssit. Kansantanssijoihinkin saattaa törmätä Helsingin keskustassa ja välimeren lomakohteilla salsa on tuttu näky.
@@ -38,4 +37,4 @@ Osakunnat ovat Helsingin yliopistossa toimivia poikkitieteellisiä opiskelijayhd
 
 Osakunnat ovat ensimmäisiä opiskelijajärjestöjä Suomessa. Osakunnat ovat myös suuria: ne omistavat kiinteistöjä, jotka ovat opiskelijoiden käytettävissä. On osuvasti sanottu, että osakunta on opiskelijan olohuone keskellä Helsinkiä. Osakuntien tarkoitus on kehittää opiskelijoiden hyvinvointia mm. harrastusten kautta.
 
-Tanssikerho suosittelee kaikkia tanssikerhon jäseniä liittymään osakuntiin! Mukavan opiskelijaelämän lisäksi osakunta tarjoaa opiskelijoille monia opiskelijaetuuksia. Osakuntalaiselle (VN, PPO, EPO) opiskelijalle tanssikerho tarjoaa kursseja alennettuun hintaan.
+Tanssikerho suosittelee kaikkia tanssikerhon jäseniä liittymään osakuntiin! Mukavan opiskelijaelämän lisäksi osakunta tarjoaa opiskelijoille monia opiskelijaetuuksia. Osakuntalaiselle (VN, PPO, EPO) opiskelijalle tanssikerho tarjoaa kursseja alennettuun hintaan. DEPLOY TEST with Embedded shortcodes from Hugo.
