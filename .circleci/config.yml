@@ -1,10 +1,5 @@
 version: 2.1
 
-workflows:
-  test-env-vars:
-    jobs:
-      - build
-
 jobs:
   build:
     docker:
