@@ -1,6 +1,5 @@
 ---
 title: Pohjalaisten tanssikerho
-date: 2019-06-07T17:41:06.000Z
 categories:
   - etusivu
 description: >-
