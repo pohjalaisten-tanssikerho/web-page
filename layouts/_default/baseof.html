@@ -131,18 +131,6 @@
     </div>
 
     <script>
-      if (window.netlifyIdentity) {
-        window.netlifyIdentity.on("init", user => {
-          if (!user) {
-            window.netlifyIdentity.on("login", () => {
-              document.location.href = "/admin/";
-            });
-          }
-        });
-      }
-    </script>
-
-    <script>
       let resizeTimer;
       window.addEventListener("resize", () => {
         document.body.classList.add("resize-animation-stopper");
