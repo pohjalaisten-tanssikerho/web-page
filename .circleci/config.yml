@@ -9,13 +9,17 @@ jobs:
     #   HUGO_BUILD_DIR: ~/hugo/public
     steps:
       - checkout
-      - run: echo "porthan.osakunta.fi,185.87.111.99 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICXpgRNPcpj4cgC0eGEwBMWlM9UrEDGFZHNOQ+2S1D8l" >> ~/.ssh/known_hosts
       - run:
-          name: install lftp
+          name: Add Porthan as known hosts
+          command: echo "porthan.osakunta.fi,185.87.111.99 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICXpgRNPcpj4cgC0eGEwBMWlM9UrEDGFZHNOQ+2S1D8l" >> ~/.ssh/known_hosts
+      - run:
+          name: Install lftp
           command: |
             sudo apt-get update;
             sudo apt-get install lftp
-      - run: HUGO_ENV=production hugo --gc --minify -v
+      - run:
+          name: Generate webpage with Hugo
+          command: HUGO_ENV=production hugo --gc --minify -v
       - deploy:
-          name: upload public
+          name: Upload Hugo generated public folder to Porthan server
           command: lftp -c "open -u kwander --password ${DEPLOY_PASSWORD} sftp://porthan.osakunta.fi; set ftp:ssl-allow yes; set ssl:verify-certificate no; mirror -R public /group/other/tanssikerho/public_html"
