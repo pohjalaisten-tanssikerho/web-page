@@ -18,3 +18,5 @@ fields:
   label: Kuvaus
   description: Kuvaus artikkelista. Kuvaus näkyy mm. listauksessa. Kuvaus on lyhyt
     esittely blogista ja mitä aiheita blogi käsittelee.
+pages:
+- content/blogi/uuden-blogin-testaus.md
