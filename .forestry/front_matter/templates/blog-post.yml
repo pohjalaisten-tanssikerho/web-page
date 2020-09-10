@@ -7,14 +7,14 @@ fields:
   config:
     required: false
   label: Linkin nimi
-  description: Linkin nimi, mikä näkyy pudotusvalikossa. Itse otsikko on kirjoitettava
-    sisältöön; se ei tule näkyviin itsestään. Tämän avulla linkin nimi voi olla eri
-    kuin otsikko artikkelissa. Linkin nimi kannattaa pitää lyhyenä, mutta otsikko
-    voi halutessa olla pitkä.
+  description: Linkin nimi, mikä näkyy pudotusvalikossa. Artikkelin otsikko on kirjoitettava
+    sisältöön; se ei tule näkyviin itsestään. Tämän ansiosta linkin ankkuroitava teksti
+    voi olla eri kuin otsikko artikkelissa. Linkin nimi kannattaa pitää lyhyenä, mutta
+    otsikko voi halutessa olla pitkä.
 - name: description
   type: text
   config:
     required: false
   label: Kuvaus
-  description: Kuvaus artikkelista. Kuvaus näkyy mm. listauksessa. Kuvaus on lyhyt
-    esittely blogista ja mitä aiheita blogi käsittelee.
+  description: Kuvaus artikkelista. Kuvaus näkyy listauksessa. Kuvaus on lyhyt esittely
+    blogista ja mitä aiheita blogi käsittelee.
