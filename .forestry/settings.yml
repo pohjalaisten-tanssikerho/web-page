@@ -7,23 +7,25 @@ sections:
 - type: directory
   path: content
   label: Pages
-  create: all
+  create: none
   match: "*"
 - type: directory
   path: content/ry
   label: Ry
-  create: all
+  create: none
   match: "**/*"
 - type: directory
   path: content/kurssi
   label: Kurssi
-  create: all
+  create: none
   match: "**/*"
 - type: directory
   path: content/blogi
   label: Blogi
-  create: all
+  create: documents
   match: "**/*"
+  templates:
+  - blog-post
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
