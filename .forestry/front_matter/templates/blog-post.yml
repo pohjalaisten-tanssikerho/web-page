@@ -18,14 +18,5 @@ fields:
   label: Kuvaus
   description: Kuvaus artikkelista. Kuvaus näkyy mm. listauksessa. Kuvaus on lyhyt
     esittely blogista ja mitä aiheita blogi käsittelee.
-- name: subdirectories
-  type: list
-  config:
-    use_select: false
-    min: 
-    max: 
-    source:
-      type: simple
-  hidden: false
-  label: Subdirectories
-  description: Mihin menun alakategoriaan tämä blogi kuuluu.
+pages:
+- content/blogi/uuden-blogin-testaus.md
