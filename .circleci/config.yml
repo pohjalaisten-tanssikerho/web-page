@@ -14,6 +14,7 @@ jobs:
     #   HUGO_BUILD_DIR: ~/hugo/public
     steps:
       - checkout
+      - run: echo "porthan.osakunta.fi,185.87.111.99 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICXpgRNPcpj4cgC0eGEwBMWlM9UrEDGFZHNOQ+2S1D8l" >> ~/.ssh/known_hosts
       - run:
           name: install lftp
           command: |
