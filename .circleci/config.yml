@@ -1,19 +1,5 @@
 version: 2.1
 
-workflows:
-  version: 2
-  commit:
-    jobs:
-      - deploy
-  nightly:
-    triggers:
-      - schedule:
-          cron: "0 0 * * *"
-          filters:
-            branches:
-              only:
-                - master
-
 jobs:
   build:
     docker:
