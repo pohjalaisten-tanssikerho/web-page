@@ -1,15 +1,16 @@
 version: 2.1
 
 workflows:
-  workflow:
+  commit:
+    jobs:
+      - build_deploy
+  nightly:
     triggers:
       - schedule:
           cron: "0 14 * * *"
           filters:
             branches:
               only: master
-    jobs:
-      - build_deploy
 
 jobs:
   build_deploy:
