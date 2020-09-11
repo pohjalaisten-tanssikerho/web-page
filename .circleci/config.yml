@@ -1,7 +1,7 @@
 version: 2.1
 
 workflows:
-  nightly-build:
+  workflow:
     triggers:
       - schedule:
           cron: "0 14 * * *"
