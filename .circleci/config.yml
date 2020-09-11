@@ -1,7 +1,18 @@
 version: 2.1
 
+workflows:
+  nightly-build:
+    triggers:
+      - schedule:
+          cron: "0 14 * * *"
+          filters:
+            branches:
+              only: master
+    jobs:
+      - build_deploy
+
 jobs:
-  build:
+  build_deploy:
     docker:
       - image: cibuilds/hugo:latest
     steps:
