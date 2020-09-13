@@ -41,3 +41,5 @@ draft: false
 **Läsnäolijoista pidetään listaa nimenhuudon avulla.** 
 
   - Jos osallistuja myöhästyy nimenhuudosta, hän huolehtii, että nimi tulee merkityksi.
+
+**Asennathan puhelimeesi Koronavilkku-sovelluksen!**
