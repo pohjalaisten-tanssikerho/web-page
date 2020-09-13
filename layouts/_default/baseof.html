@@ -5,6 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     {{ $styles := resources.Get "sass/index.scss" | toCSS | minify | fingerprint }}
     <link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}" media="all">
+    {{ range .Page.Params.customCSS }}
+    <link rel="stylesheet" href="/tanssikerho/customCSS/{{ . }}"  media="all">
+    {{ end }}
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <title>Pohjalaisten Tanssikerho</title>
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
