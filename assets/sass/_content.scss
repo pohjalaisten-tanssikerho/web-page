@@ -177,6 +177,14 @@
       text-decoration: none;
       padding-bottom: .1em;
     }
+    h1 {
+      margin: 0 auto;
+      padding: 0 auto;
+      // margin: 0;
+      padding-top: 0;
+      padding-bottom: .5em;
+      font-size: 1.7em;
+    }
   }
   .past-line {
     color: $orange;

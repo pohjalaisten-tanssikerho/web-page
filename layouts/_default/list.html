@@ -1,10 +1,30 @@
 {{ define "main" }}
 
+{{ if eq .Section "kurssi" }}
+
 <div class="list">
-{{ range .Pages.ByParam "categories_weight" }}
-<h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-<p>{{ .Description }}</p>
-{{ end }}
+  {{ range index .Site.Taxonomies.subdirectories "kurssi_yleista" }}
+  <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+  <p>{{ .Description }}</p>
+  {{ end }}
+
+  <h1>Kurssitarjonta</h1>
+  {{ range index .Site.Taxonomies.subdirectories "kurssi_kausi" }}
+  <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+  <p>{{ .Description }}</p>
+  {{ end }}
 </div>
+
+{{ end }}
+
+{{ if eq .Section "blogi" }}
+<div class="list">
+  {{ range .Pages }}
+  <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+  <p>{{ .Description }}</p>
+  {{ end }}
+</div>
+{{ end }}
+
 
 {{ end }}
