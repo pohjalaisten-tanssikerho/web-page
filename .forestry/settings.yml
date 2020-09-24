@@ -34,7 +34,7 @@ sections:
   match: "**/*"
   exclude: _index.md
   templates:
-  - blog-post
+  - tapahtuma
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
