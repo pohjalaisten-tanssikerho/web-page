@@ -32,6 +32,7 @@ sections:
   label: Tapahtumat
   create: documents
   match: "**/*"
+  exclude: _index.md
   templates:
   - blog-post
 upload_dir: static/uploads
