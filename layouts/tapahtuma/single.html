@@ -4,7 +4,7 @@
 
   <ul class="event-item-head">
     <li>{{ with .Params.address }}{{ . }}{{ end }}</li>
-    <li><div class="logo-bullet"></div>{{ with .Params.eventDate }}{{ dateFormat "2006.01.02" . }}{{ end }}</li>
+    <li><div class="logo-bullet"></div>{{ with .Date }}{{ dateFormat "2006.01.02" . }}{{ end }}</li>
     <li><div class="logo-bullet"></div>{{ with .Params.clock }}{{ . }}{{ end }}</li>
   </ul>
 
