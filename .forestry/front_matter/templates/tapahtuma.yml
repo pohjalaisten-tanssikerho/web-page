@@ -13,7 +13,8 @@ fields:
   name: articleTitle
   label: Tapahtuman otsikko
   description: Toisin kuin linkin nimi, tapahtuman otsikko saa olla pitkä ja jopa
-    kuvaava.
+    kuvaava. Tämä otsikko laitetaan automaattisesti näkyville artikkelissa, joten
+    et tarvitse tapahtumaasi otsikkoa. Saa tietenkin olla väliotsikoita jos haluaa.
 - type: list
   name: subdirectories
   label: subdirectories
@@ -34,20 +35,17 @@ fields:
 - type: text
   name: clock
   label: Kellon aika
-  description: Kellon aika voidaan antaa missä muodossa tahansa. Tähän kenttään tulee
-    sekä aloitusaika että lopetusaika. Esimerkiksi 17 - 18, 17:00 - 18:00, 1700 -
-    1800, 17:30 - 18, jne.<br><br>On myös mahdollista laittaa ainoastaan aloitusaika.<br><br>Suositellaan
-    käytettävän aikamuotoa HH:MM - HH:MM. Kun kaikki ajat ovat samassa aikamuodossa,
-    on se sivujen kävijöille miellyttävempää.
+  description: Kellon aika voidaan antaa missä muodossa tahansa. Suositellaan kuitenkin
+    muotoa HH:MM - HH:MM, eli aloitusaika ja lopetusaika. Voidaan myös antaa ilman
+    lopetusaikaa.
 - type: text
   name: address
   label: Osoite
-  description: Missä tapahtuma järjestetään? Huomaa, että nettisivu tekee osoitteesta
-    automaattisesti karttalinkit. Kannattaa siis tarkistaa, että löytävätkö Google
-    Maps ja Reittiopas juuri tällä osoitteella oikeaan paikkaan. Joskus riittää, että
-    paikan nimi kirjoitetaan. "Botta" ei välttämättä riitä, koska Google Maps näyttää
-    sen väärässä paikassa, vaikkakin kuva on oikea. Sen sijaan "Helsinki Pavi" löytää
-    oikeaan paikkaan.
+  description: Tapahtuman osoite. Huomaa, että nettisivu tekee osoitteesta automaattisesti
+    karttalinkit. Kannattaa siis tarkistaa, että löytävätkö Google Maps ja Reittiopas
+    juuri tällä osoitteella oikeaan paikkaan. Joskus riittää, että paikan nimi kirjoitetaan.
+    "Botta" ei välttämättä riitä, koska Google Maps näyttää sen väärässä paikassa,
+    vaikkakin kuva on oikea. Sen sijaan "Helsinki Pavi" löytää oikeaan paikkaan.
 pages:
 - content/tapahtuma/pot-tanssibileet-1.md
 - content/tapahtuma/pot-tanssibileet.md
