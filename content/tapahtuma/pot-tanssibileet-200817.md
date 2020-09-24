@@ -6,7 +6,6 @@ description: "POT järjestää tanssibileet keskustassa, kaikki ovat tervetullei
 date: "2020-08-17"
 clock: "17:00 - 21:30"
 address: "Kalasatamanpuisto"
-link:
 ---
 
 Aurinkoisten kelejen myötä POTin kesätanssit jatkuvat! Viikko avataan tanssienergialla ma upouudella Kalasatamanpuiston lavalla 17.8.2020. Tanssilava sijaitsee Kalasatamanpuiston pohjoispäädyssä kauppakeskus Redin vieressä hienoissa merellisissä kaupunkimaisemissa. Aivan Helsingin ytimessä. Uusi hyvä puulattia. Tanssit alkavat klo 17.00 ja musiikkii soi klo 21.30 asti.

@@ -6,7 +6,6 @@ description: "POT järjestää tanssibileet puistossa, kaikki ovat tervetulleita
 date: "2020-08-07"
 clock: "17:00 - 21:30"
 address: "Larin Kyöstintie 7, Helsinki"
-link:
 ---
 
 POTin kesätanssit jatkuvat! Pe tanssitaan Oulunkylän lavalla kauniissa puistomaisemissa uudestaan. Oulunkylän juna-asemalta on paikalle lyhyt matka, keskustasta pääsee paikalle helposti minuuteissa. Autolla saapuville tiedoksi, lavan vieressä Oulunkylän seurahuoneen edustalla on autoille parkkipaikkoja. Tanssit alkavat klo 17.00 ja musiikkii soi klo 21.30 asti. Lava on kaikkien kansalaisten yleisessä käytössä, joten mikäli siellä on täyttä varasuunnitelmana tanssimme lavan viereisessä vehreässä puistossa nurmikentällä. Yleensä lavalle on mahtunut hyvin. Lähellä on myös pikkukosken uimaranta jossa uimahalukkaat voivat tanssien jälkeen käydä pulahtamassa virvoittavassa jokivedessä.

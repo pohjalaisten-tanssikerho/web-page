@@ -6,7 +6,6 @@ description: "POTin tammikuun tanssibileet, vain POT ja HOT jäsenille."
 date: "2020-01-26"
 clock: "16:00 - 21:00"
 address: "Botta"
-link:
 ---
 
 Tervetuloa vuosikymmenen ensimmäisiin POTin tammikuun tanssibileisiin! Bileet järjestetään tanssikursseiltakin tutussa paikassa Bottalla sunnuntaina 26.1. klo. 16–21.

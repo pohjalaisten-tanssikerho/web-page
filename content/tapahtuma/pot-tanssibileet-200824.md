@@ -6,7 +6,6 @@ description: "POT järjestää tanssit Helsingin keskustassa, kaikki ovat tervet
 date: "2020-08-24"
 clock: "17:00 - 21:30"
 address: "Kalasatamanpuisto"
-link:
 ---
 
 Viihtyisät maanantaitanssit Helsingin ytimessä kutsuu meitä uudestaan tanssimaan! Viikko avataan tanssienergialla ma upouudella Kalasatamanpuiston lavalla 24.8.2020. Tanssilava sijaitsee Kalasatamanpuiston pohjoispäädyssä kauppakeskus Redin vieressä hienoissa merellisissä kaupunkimaisemissa. Aivan Helsingin ytimessä. Uusi hyvä puulattia. Tanssit alkavat klo 17.00 ja musiikkii soi klo 21.30 asti.

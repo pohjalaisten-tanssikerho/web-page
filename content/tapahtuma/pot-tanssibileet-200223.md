@@ -6,7 +6,6 @@ description: "POT järjestää helmikuussa tanssibileet POT ja HOT jäsenille."
 date: "2020-02-23"
 clock: "16:00 - 21:00"
 address: "Botta"
-link:
 ---
 
 Helmikuu! Bileet! Tervetuloa!

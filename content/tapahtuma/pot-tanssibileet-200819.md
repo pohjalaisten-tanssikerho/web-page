@@ -6,7 +6,6 @@ description: "POT järjestää rantatanssit Hietsussa, kaikki ovat tervetulleita
 date: "2020-08-19"
 clock: "17:00 - 21:30"
 address: "Hietaniemi beach"
-link:
 ---
 
 Helle hellii, joten juhlistamme keskiviikkoa rantatansseilla ikonisella Hietaniemen uimarannalla! Tanssit alkavat klo 17.00 ja musiikkii soi klo 21.30 asti. Sijainti rannan keskellä lentopallokenttien lähellä tai vasemmassa laidassa. Hiekkaranta-alue on kompaktin kokoinen joten paikka löytyy helposti.

@@ -6,7 +6,6 @@ description: "POT järjestää kattotanssit REDIssä, kaikki ovat tervetulleita"
 date: "2020-08-27"
 clock: "17:00 - 21:00"
 address: "REDI"
-link:
 ---
 
 Hyvää säätä lupailee, joten torstaina tanssitaan after school / after work tanssit yläilmoissa uudella Redin kattopuistoterassilla! Paikka on palkittu vuoden ympäristörakenteena sekä katolta on hienot maisemat kaupungille. Tanssilavana toimii miellyttävä terassin tekonurmi. Kokeiltu jalan alla ja toimii hyvin tanssimiseen. Tanssailut alkavat klo 17.00 ja musiikkii soi klo 21.00 asti.

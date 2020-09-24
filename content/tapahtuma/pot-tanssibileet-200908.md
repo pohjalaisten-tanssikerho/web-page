@@ -3,7 +3,7 @@ title: "POT Tanssibileet"
 articleTitle: "POTin kesätanssibileet Eiranrannalla"
 subdirectories: ["tapahtuma"]
 description: "POT järjestää rantatanssit, kaikki ovat tervetulleita"
-date: "2020-09-07"
+date: "2020-09-23"
 clock: "17:00 - 21:30"
 address: "Eiranranta"
 ---

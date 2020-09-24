@@ -6,7 +6,6 @@ description: "Syksyn 2020 tanssikurssit alkavat. Muista ilmoittautua mukaan.1"
 date: "2020-09-15"
 clock: "17:00 - 20:00"
 address: "Botta"
-link:
 ---
 
 Pohjalaisten tanssikerhon syksyn 2020 paritanssikurssit alkavat syyskuussa. Tervetuloa kaikki opiskelijat ja opiskelijamieliset!
