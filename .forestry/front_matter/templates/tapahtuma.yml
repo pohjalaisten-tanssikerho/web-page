@@ -32,8 +32,9 @@ fields:
     että mikäli numero on alle kymmenen, on lisättävä nolla eteen, eli jos on kyse
     4. päivästä, on kirjoitettava 04. Jos on kyse helmikuusta, on kirjoitettava 02.
   config:
-    date_format: DD-MM-YYYY
+    date_format: DD.MM.YYYY
     export_format: YYYY-MM-DD
+    time_format: " "
 - type: text
   name: clock
   label: Kellon aika
