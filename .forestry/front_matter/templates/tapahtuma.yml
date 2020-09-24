@@ -4,22 +4,47 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Linkin nimi
+  description: Pudotusvalikkoon tulevan linkin nimi. Pidä tämä mahdollisimman lyhyenä.
+    Bileistä esim. "POT Tanssibileet" on riittävä. Ei haittaa, vaikka on paljo saman
+    nimisiä linkkejä; oikeastaan parempi että näin on, koska se on silloin sivua katsovalle
+    paljon loogisempaa.
 - type: text
   name: articleTitle
-  label: articleTitle
+  label: Tapahtuman otsikko
+  description: Toisin kuin linkin nimi, tapahtuman otsikko saa olla pitkä ja jopa
+    kuvaava.
 - type: list
   name: subdirectories
   label: subdirectories
+  hidden: true
 - type: text
   name: description
   label: description
+  description: Jätä tyhjäksi. Kenttä poistetaan, kun todetaan, että kuvauksella ei
+    tee enään mitään.
 - type: datetime
   name: date
-  label: date
+  label: Tapahtuman päivä
+  description: Tapahtuman päivä on annettava muodossa YYYY-MM-DD. Näin kone osaa verrata
+    tapahtumien aikajärjestyksiä toisiinsa. Esimerkiksi jos halutaan pitää tapahtuma
+    2. päivä joulukuuta vuonna 2025, on tähän kenttään kirjoitettava 2025-12-02<br><br>Huomaa,
+    että mikäli numero on alle kymmenen, on lisättävä nolla eteen, eli jos on kyse
+    4. päivästä, on kirjoitettava 04. Jos on kyse helmikuusta, on kirjoitettava 02.
 - type: text
   name: clock
-  label: clock
+  label: Kellon aika
+  description: Kellon aika voidaan antaa missä muodossa tahansa. Tähän kenttään tulee
+    sekä aloitusaika että lopetusaika. Esimerkiksi 17 - 18, 17:00 - 18:00, 1700 -
+    1800, 17:30 - 18, jne.<br><br>On myös mahdollista laittaa ainoastaan aloitusaika.<br><br>Suositellaan
+    käytettävän aikamuotoa HH:MM - HH:MM. Kun kaikki ajat ovat samassa aikamuodossa,
+    on se sivujen kävijöille miellyttävempää.
 - type: text
   name: address
-  label: address
+  label: Osoite
+  description: Missä tapahtuma järjestetään? Huomaa, että nettisivu tekee osoitteesta
+    automaattisesti karttalinkit. Kannattaa siis tarkistaa, että löytävätkö Google
+    Maps ja Reittiopas juuri tällä osoitteella oikeaan paikkaan. Joskus riittää, että
+    paikan nimi kirjoitetaan. "Botta" ei välttämättä riitä, koska Google Maps näyttää
+    sen väärässä paikassa, vaikkakin kuva on oikea. Sen sijaan "Helsinki Pavi" löytää
+    oikeaan paikkaan.
