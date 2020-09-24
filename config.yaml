@@ -4,6 +4,9 @@ title: "Pohjalaisten Tanssikerho"
 DefaultContentLanguage: "fi"
 languageCode: "fi-fi"
 
+buildFuture: true
+summaryLength: 35
+
 params:
   address: "Töölönkatu 3 A, 00940 Helsinki, 5krs."
   links:
@@ -30,7 +33,9 @@ params:
               title: tiiviskurssit
       - item:
           label: tapahtumat
-          url: tapahtumat/
+          url: tapahtuma/
+          subdir:
+            - sub: tapahtuma
       - item:
           label: hallitus
           url: hallitus/

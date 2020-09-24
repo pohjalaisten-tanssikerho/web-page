@@ -70,6 +70,29 @@ nav {
         opacity: 1;
       }
     }
+    li.sm-print {
+      font-size: .8em;
+    }
+    li.sm-print, li.sm-margin {
+      margin: 0;
+    }
+    div.menu-breaker {
+      z-index: 1;
+      width: 16px;
+      height: 16px;
+      position: absolute;
+      background-color: $tintblue;
+      transform: scaleX(0.7) rotate(45deg);
+      left: 1em;
+      bottom: 6px;
+    }
+    div.menu-item {
+      position: relative;
+      margin-bottom: 1em;
+      a:hover {
+        color: $orange;
+      }
+    }
     ul {
       @media only screen and (max-width: $header-snap) {
         display: block;
@@ -142,5 +165,8 @@ nav {
     left: -8px;
     top: -2px;
     z-index: -1;
+  }
+  a.blue-link {
+    color: $neonblue;
   }
 }

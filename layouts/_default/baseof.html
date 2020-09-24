@@ -60,8 +60,28 @@
                       {{ with .title }}
                         <li><h4>{{ . }}</h4></li>
                       {{ end }}
-                      {{ range (index $.Site.Taxonomies.subdirectories .sub) }}
-                        <li><a href="{{ .Page.RelPermalink }}">{{ .Title }}</a></li>
+                      {{ if eq .sub "tapahtuma" }}
+
+                        {{ $events := where $.Site.RegularPages "Section" "tapahtuma" }}
+                        {{ $events := $events | intersect (where $events "Date" "ge" now) | first 3 }}
+
+                        {{ if eq ($events | len) 0 }}
+                        <li>Ei tulevia tapahtumia tällä hetkellä. Menneitä tapahtumia voi katsella <a href="/tanssikerho/tapahtuma" class="blue-link">tapahtuma-sivuilta</a>.</li>
+                        {{ else }}
+
+                          {{ range $events }}
+                            <div class="menu-item">
+                              <li class="sm-margin"><a href="{{ .Page.RelPermalink }}">{{ .Title }}</a></li>
+                              {{ with .Page.Params.date }} <li class="sm-print"> {{ dateFormat "2006.01.02" . }}</li> {{ end }}
+                              {{ with .Page.Params.address }} <li class="sm-print"> {{ . }}</li> {{ end }}
+                              {{ with .Page.Params.clock }} <li class="sm-print"> {{ . }}</li> {{ end }}
+                            </div>
+                          {{ end }}
+                        {{ end }}
+                      {{ else }}
+                        {{ range (index $.Site.Taxonomies.subdirectories .sub) }}
+                          <li><a href="{{ .Page.RelPermalink }}">{{ .Title }}</a></li>
+                        {{ end }}
                       {{ end }}
                     {{ end }}
                   {{ end }}

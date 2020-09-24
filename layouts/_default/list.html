@@ -26,4 +26,25 @@
   </div>
   {{ end }}
 
+  {{ if eq .Section "tapahtuma" }}
+  <div class="list events">
+    {{ range .Pages.ByDate.Reverse }}
+        <a href="{{ .Permalink }}">
+          <h1 class="no-bottom no-decoration">{{ .Params.articleTitle }}</h1>
+
+          <ul class="event-item-head">
+            <li>{{ with .Params.address }}{{ . }}{{ end }}</li>
+            <li><div class="logo-bullet"></div>{{ with .Date }}{{ dateFormat "2006.01.02" . }}{{ end }}</li>
+            <li><div class="logo-bullet"></div>{{ with .Params.clock }}{{ . }}{{ end }}</li>
+          </ul>
+
+          <p>{{ .Summary | markdownify}}</p>
+          {{ if .Truncated }}
+            <p>Lue lisää...</p>
+          {{ end }}
+        </a>
+    {{ end }}
+  </div>
+  {{ end }}
+
 {{ end }}

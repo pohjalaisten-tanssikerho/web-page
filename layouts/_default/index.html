@@ -81,22 +81,24 @@
 
     <div>
       <h2>Tapahtumat</h2>
-      {{ $events := index .Site.Data.events "events" }}
+
+      {{ $events := where .Site.RegularPages "Section" "tapahtuma" }}
+      {{ $events := $events | intersect (where $events "Date" "ge" now) | first 3 }}
+
       {{ if eq ($events | len) 0 }}
-      <p>Tällä hetkellä ei ole bileitä tai tapahtumia tiedossa.</p>
+      <p>Tällä hetkellä ei ole tulevia bileitä tai tapahtumia tiedossa.</p>
       {{ else }}
       <ul>
-        {{ range first 3 (sort (where $events "date" "ge" (now.Format "2006-01-02")) "date" "asec") }}
-        {{ $t := time .date }}
-        <li><span class="date-event">{{ $t.Day }}.{{ printf "%d" $t.Month }}.</span><span class="title-event">{{ .title }}</span>
-          {{ with .description }}
-          <p>{{ . | markdownify }}</p>
+        {{ range $events }}
+        <li><span class="date-event">{{ .Date.Format "01.02." }}</span><span class="title-event">{{ .Title }}</span>
+          {{ with .Params.description }}
+            <p>{{ . }}</p>
           {{ end }}
         </li>
         {{ end }}
       </ul>
       {{ end }}
-      <p>Löydä lisää tapahtumia <a href="{{ ref . `tapahtumat.md` }}">tapahtuma-sivuilta</a>.</p>
+      <p>Löydä kaikki tapahtumat <a href="/tanssikerho/tapahtuma">tapahtuma-sivuilta</a>.</p>
     </div>
   </div>
 </div>

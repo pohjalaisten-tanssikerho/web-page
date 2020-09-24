@@ -1,0 +1,32 @@
+{{ define "main" }}
+
+  {{ with .Params.articleTitle }}<h1 class="no-bottom no-max-width">{{ . }}</h1>{{ end }}
+
+  <ul class="event-item-head">
+    <li>{{ with .Params.address }}{{ . }}{{ end }}</li>
+    <li><div class="logo-bullet"></div>{{ with .Params.eventDate }}{{ dateFormat "2006.01.02" . }}{{ end }}</li>
+    <li><div class="logo-bullet"></div>{{ with .Params.clock }}{{ . }}{{ end }}</li>
+  </ul>
+
+  <ul class="event-item-address">
+    <li><div class="logo-bullet"></div>avaa osoite <a href="">Google Mapsilla</a> tai <a href="">Reittioppaalla</a></li>
+  </ul>
+
+  <div class="logo-break">
+    <div class="left"></div>
+    <div class="center"></div>
+    <div class="right"></div>
+  </div>
+
+  {{ .Content }}
+
+  {{ with .Page.Params.vue }}
+  <script src="https://cdn.jsdelivr.net/npm/vue@2.6.11"></script>
+  {{ end }}
+
+  {{ range .Page.Params.js }}
+  {{ $js := resources.Get ( . | printf "%s%s" "js/" ) | minify | fingerprint }}
+  <script src="{{ $js.Permalink }}"></script>
+  {{ end }}
+
+{{ end }}
