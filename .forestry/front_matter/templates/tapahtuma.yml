@@ -1,0 +1,25 @@
+---
+label: Tapahtuma
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: articleTitle
+  label: articleTitle
+- type: list
+  name: subdirectories
+  label: subdirectories
+- type: text
+  name: description
+  label: description
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: clock
+  label: clock
+- type: text
+  name: address
+  label: address
