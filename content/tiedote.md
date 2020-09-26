@@ -1,5 +1,6 @@
 ---
 title: "Tiedote"
+draft: true
 ---
 
 ## 2020 syksyn kurssit alkavat!
