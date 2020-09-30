@@ -41,7 +41,15 @@
           {{ end }}
         </tr>
         <tr>
-          <th>Alkeet</th>
+          <th>Alkeet <br> klo 17:00 </th>
+          {{ range $firstThree }}
+          {{ if eq .message "" }}
+          <td class="trigger">{{ .alkeetOma }}</td>
+          {{ end }}
+          {{ end }}
+        </tr>
+        <tr>
+          <th>Alkeet <br> klo 18:45</th>
           {{ range $firstThree }}
           {{ if eq .message "" }}
           <td class="trigger">{{ .alkeet }}</td>
@@ -50,14 +58,6 @@
           {{ end }}
           {{ end }}
         </tr>
-        <!-- <tr> -->
-        <!--   <th>Alkeet <br> oma pari</th> -->
-        <!--   {{ range $firstThree }} -->
-        <!--   {{ if eq .message "" }} -->
-        <!--   <td class="trigger">{{ .alkeetOma }}</td> -->
-        <!--   {{ end }} -->
-        <!--   {{ end }} -->
-        <!-- </tr> -->
         <tr>
           <th>Alkeisjatko</th>
           {{ range $firstThree }}

@@ -2,8 +2,8 @@
 <table class="course-table">
   <tr>
     <th></th>
-    <th>Alkeet</th>
-    <!-- <th>Alkeet <br> oma pari</th> -->
+    <th>Alkeet <br> klo 17:00</th>
+    <th>Alkeet <br> klo 18:45</th>
     <th>Alkeisjatko</th>
     <th>Jatko</th>
   </tr>
@@ -13,8 +13,8 @@
   <tr>
     {{ $t := time .date }}
     <th class="date">{{ $t.Day }}.{{ printf "%d" $t.Month }}.</th>
+    <td>{{ .alkeetOma }}</td>
     <td>{{ .alkeet }}</td>
-    <!-- <td>{{ .alkeetOma }}</td> -->
     <td>{{ .alkeisjatko }}</td>
     <td>{{ .jatko }}</td>
   </tr>
@@ -22,7 +22,7 @@
   <tr>
     {{ $t := time .date }}
     <th class="date">{{ $t.Day }}.{{ printf "%d" $t.Month }}.</th>
-    <td colspan="3">{{ .message }}</td>
+    <td colspan="4">{{ .message }}</td>
   </tr>
   {{ end }}
   {{ end }}

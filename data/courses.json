@@ -4,7 +4,7 @@
       "date": "2020-09-15",
       "message": "",
       "alkeet": "foksi",
-      "alkeetOma": "foksi",
+      "alkeetOma": "bugg",
       "alkeisjatko": "fusku",
       "jatko": "tango"
     },
@@ -12,7 +12,7 @@
       "date": "2020-09-22",
       "message": "",
       "alkeet": "foksi",
-      "alkeetOma": "foksi",
+      "alkeetOma": "bugg",
       "alkeisjatko": "fusku / foksi",
       "jatko": "tango"
     },
@@ -20,7 +20,7 @@
       "date": "2020-09-29",
       "message": "",
       "alkeet": "foksi / fusku",
-      "alkeetOma": "foksi / fusku",
+      "alkeetOma": "foksi",
       "alkeisjatko": "foksi",
       "jatko": "bugg"
     },
@@ -28,7 +28,7 @@
       "date": "2020-10-06",
       "message": "",
       "alkeet": "fusku",
-      "alkeetOma": "fusku",
+      "alkeetOma": "foksi",
       "alkeisjatko": "bugg",
       "jatko": "bugg"
     },
@@ -36,7 +36,7 @@
       "date": "2020-10-13",
       "message": "",
       "alkeet": "fusku",
-      "alkeetOma": "fusku",
+      "alkeetOma": "foksi / fusku",
       "alkeisjatko": "bugg",
       "jatko": "rumba bolero"
     },
@@ -44,7 +44,7 @@
       "date": "2020-10-20",
       "message": "",
       "alkeet": "fusku / foksi",
-      "alkeetOma": "fusku / foksi",
+      "alkeetOma": "foksi",
       "alkeisjatko": "kizomba",
       "jatko": "rumba bolero"
     },
@@ -52,7 +52,7 @@
       "date": "2020-10-27",
       "message": "",
       "alkeet": "bugg",
-      "alkeetOma": "bugg",
+      "alkeetOma": "foksi",
       "alkeisjatko": "kizomba",
       "jatko": "west coast swing"
     },
@@ -68,7 +68,7 @@
       "date": "2020-11-10",
       "message": "",
       "alkeet": "bugg",
-      "alkeetOma": "bugg",
+      "alkeetOma": "kertaus",
       "alkeisjatko": "hidas valssi",
       "jatko": "west coast swing"
     },

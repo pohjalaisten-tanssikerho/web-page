@@ -3,16 +3,16 @@
     {
       "name": "alkeet vaihtuvilla pareilla",
       "teacher": "Kimmo Luukkonen",
-      "start": "17:00",
+      "start": "18:45",
       "end": "18:30"
     }
   ],
   "alkeetOma": [
     {
       "name": "alkeet oman parin kanssa",
-      "teacher": "Kimmo Luukkonen",
+      "teacher": "Marianne Krause",
       "start": "17:00",
-      "end": "18:30"
+      "end": "18:45"
     }
   ],
   "alkeisjatko": [
@@ -26,7 +26,7 @@
   "jatko": [
     {
       "name": "jatkokurssi",
-      "teacher": "Marianne Krause",
+      "teacher": "Kimmo Luukkonen",
       "start": "18:45",
       "end": "20:15"
     }
