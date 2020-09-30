@@ -1,9 +1,10 @@
 ---
-title: "Kort på svenska"
-categories: ["ry"]
-categories_weight: 5
----
+title: Kort på svenska
+categories:
+- ry
+categories_weight: "5"
 
+---
 # Välkommen till Österbottniska dansklubben!
 
 **Kurserna börjar på tisdagen 15.9.2020. Välkommen med!**
@@ -12,20 +13,22 @@ categories_weight: 5
 
 De tre kursnivåerna övar varje tisdag:
 
-**Nybörjarkurs**\
-tis 18:45-20:15 (och möjligen 17:00-18:30, om det finns flera deltagare. Anmälda blir informerade om det här möjligheten via e-post.)
-Ingen erfarenhet av dans behövs för att delta i nybörjarkursen. På kursen läras grunder i de viktigaste pardanserna. Med dessa pardanser klarar du dig på dansbanan, bröllop och på andra dansgolv. 
+**Nybörjarkurs**  
+tis 18:45-20:15 och 17:00-18:30 
 
-**Fortsättning**\
+Anmälda blir informerade om det här möjligheten via e-post.) Ingen erfarenhet av dans behövs för att delta i nybörjarkursen. På kursen läras grunder i de viktigaste pardanserna. Med dessa pardanser klarar du dig på dansbanan, bröllop och på andra dansgolv.
+
+**Fortsättning**  
 tis 17:00-18:30
 
-Riktad till dansare som har gått nybörjarkursen och gärna dansat på dansbanan och/eller klubbens dansparty. 
+Riktad till dansare som har gått nybörjarkursen och gärna dansat på dansbanan och/eller klubbens dansparty.
 
-**Avancerad nivå**\
+**Avancerad nivå**  
 tis 18:45-20:15
+
 Riktad till dansare som har gått på fortsättningskursen åtminstone för en termin, gärna två terminer, och har dansat på dansbanan och/eller klubbens dansparty.
 
-Programmet [hittas här]({{< ref "/kurssi/kurssiaikataulut-ja-lajit">}}). Kom med i bekväma kläder och sockor eller skor med hala sulor. 
+Programmet [hittas här]({{< ref "/kurssi/kurssiaikataulut-ja-lajit">}}). Kom med i bekväma kläder och sockor eller skor med hala sulor.
 
 **Kom ihåg att anmäla dig före den första lektionen!**
 
@@ -39,11 +42,11 @@ Coronagaranti! Om kurserna blir inställda på grund av coronasituationen, får 
 
 **Kursavgiften ska vara betald före den andra lektionen tis 22.9.**
 
-Kom ihåg att använda referensnummret och ta kvittot med på andra lektionen. 
+Kom ihåg att använda referensnummret och ta kvittot med på andra lektionen.
 
 Priserna nedan (medlemmarna i VN, EPO eller PPO / studerande / andra)  
-Nybörjarkurs 20 € / 40 € / 80 €\
-Fortsättning 40 € / 60 € / 90 €\
+Nybörjarkurs 20 € / 40 € / 80 €  
+Fortsättning 40 € / 60 € / 90 €  
 Avancerad nivå 40 € / 60 € / 90 €
 
 Mera info hittar du på [websidan]({{< ref "/kurssi/hinnasto-ja-maksaminen.md" >}}).
@@ -55,4 +58,3 @@ Klubben arrangerar också dansparty, kortkurser och ekskursioner. Mera informati
 **Nånting att fråga?**
 
 Ta kontakt i styrelsen på adressen pohjalaistentanssikerho.ry@gmail.com
-
