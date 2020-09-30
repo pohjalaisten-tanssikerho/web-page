@@ -1,10 +1,10 @@
 ---
-title: "Opettajat"
----
+title: Opettajat
 
+---
 # Opettajat
 
-Pohjalaisten tanssikerholla on kaksi vakituista tanssin opettajaa, jotka ovat ohjanneet tunteja kerhon alkuajoista lähtien. Nämä veteraanit ovat ammattinsa huippukärkeä. Heidän opetuksessa tanssin salat aukeavat helposti ja hauskasti.
+Pohjalaisten tanssikerholla on kaksi vakituista tanssin opettajaa, jotka ohjaavat kerhon tunteja jo toista vuosikymmentä. Nämä veteraanit ovat ammattinsa huippukärkeä. Heidän opetuksessa tanssin salat aukeavat helposti ja hauskasti.
 
 {{< twoColumnImage imgPlacement="left" height="480" src="kimmo-luukkonen.jpg" >}}
 
@@ -26,4 +26,3 @@ Marianne on ilmiö. Usein hänen opetuksensa kuuluu käytäville asti, joten voi
 Mariannessa on se parasta, että hänelle tanssin opettaminen on kutsumus. Opettajasta näkee, että hän on juuri oikealla asialla ja tekee sitä mitä rakastaa. Marianne viettää hyvin paljon aikaa Pohjalaisten osakuntien kanssa ja osallistuu aktiivisesti opiskelijoiden tanssibileisiin. Marianne siis ei ole pelkästään opettaja, mutta omalla tavallaan myös tanssikerhomme aktiivinen jäsen.
 
 {{< /twoColumnImage >}}
-
