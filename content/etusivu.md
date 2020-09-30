@@ -17,6 +17,32 @@ Pohjalaisten tanssikerho järjestää opiskelijoille ja opiskelijamielisille luk
 
 Tervetuloa iloiseen joukkoomme! Nähdään tanssilattialla! {{< /twoColumnImage >}}
 
+# Tanssin opettajat
+
+Pohjalaisten tanssikerholla on kaksi vakituista tanssin opettajaa, jotka ovat ohjanneet tunteja kerhon alkuajoista lähtien. Nämä veteraanit ovat ammattinsa huippukärkeä. Heidän opetuksessa tanssin salat aukeavat helposti ja hauskasti.
+
+{{< crew >}}
+
+  {{% crewItem kimmo-luukkonen.jpg %}}
+
+# Kimmo Luukkonen
+
+Kimmon tunneilla ei ole koskaan tylsää. Hän osaa keventää tunnelmaa vallattoman huumorinsa ja persoonansa avulla, mikä vapauttaa ja rentouttaa kehon tanssitunnelmaan. Tunneilla tanssii vapaammin ja paremmin kuin missään muualla.
+
+Kimmosta saa lisää tietoa [hänen omilta sivuiltaan](https://kimmoluukkonen.wordpress.com/).
+
+  {{% /crewItem %}}
+
+  {{% crewItem marianne-krause.jpg %}}
+
+# Marianne Krause
+
+Marianne on ilmiö. Usein hänen opetuksensa kuuluvat käytävillekin asti, joten jokainen voi olla varma, että takarivin oppilaatkin kuulevat. Marianne pitää oppilaansa hereillä, haastaa heitä ja etenee opetuksessaan määrätietoisesti. Hänen opetuksensa etenee pienin askelin; kuin asialla olisi taitava tarinan kertoja. Lopussa kaikki tanssin palaset loksahtavat yhteen ja oppilaat pääsevät tuntemaan ylpeyttä omasta etenemisestään ja oppimisestaan. Marianne vie "ahaa" elämyksen aivan uudelle tasolle.
+
+  {{% /crewItem %}}
+
+{{< /crew >}}
+
 # Pohjalaisten valtuuskunta
 
 Pohjalaisten tanssikerho ry on itsenäinen voittoa tavoittelematon yhdistys, jonka juuret ovat Pohjalaisissa osakunnissa. Idea tanssikerhon perustamiselle on siis kolmen eri osakunnan yhteinen ajatus. Tanssikerho perustettiin 80-luvun alussa ja vuonna 2015 Tanssikerho rekisteröityi yhdistykseksi. Tanssikerho on olemassa osakuntia ja opiskelijoita varten, ja tekee yhteistyötä Pohjalaisten valtuuskunnan kanssa.
