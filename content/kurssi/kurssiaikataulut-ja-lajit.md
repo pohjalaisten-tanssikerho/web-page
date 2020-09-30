@@ -1,16 +1,14 @@
 ---
-title: "Kurssiaikataulut ja lajit"
+title: Kurssiaikataulut ja lajit
 subdirectories:
-  - kurssi_yleista
-subdirectories_weight: 2
-description: "Kaikkien viikottaisten kurssien aikataulut ja lajit."
----
+- kurssi_yleista
+subdirectories_weight: "2"
+description: Kaikkien viikottaisten kurssien aikataulut ja lajit.
 
+---
 # Kurssiaikataulut ja lajit
 
-Kaikki kurssit ovat tiistaisin. Kurssit alkavat joko 17:00 tai 18:45. Tarkempi aikataulu ilmoitetaan pian.
-
-Jokainen kurssi kestää puolitoista tuntia.
+Kaikki kurssit ovat tiistaisin. Kurssit alkavat joko 17:00 tai 18:45 ja jokainen tanssitunti kestää puolitoista tuntia.
 
 <!-- {{< courseMeta all >}} -->
 
