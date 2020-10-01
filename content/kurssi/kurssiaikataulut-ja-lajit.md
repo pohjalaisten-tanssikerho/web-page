@@ -8,13 +8,14 @@ description: Kaikkien viikottaisten kurssien aikataulut ja lajit.
 ---
 # Kurssiaikataulut ja lajit
 
-Kaikki kurssit ovat tiistaisin. Kurssit alkavat joko 17:00 tai 18:45 ja jokainen tanssitunti kestää puolitoista tuntia.
+Kaikki kurssit ovat tiistaisin.
 
 <!-- {{< courseMeta all >}} -->
 
-<!-- - alkeet kello 17:00 - 18:30 -->
-<!-- - alkeisjatko kello 17:00 - 18:30  -->
-<!-- - jatkokurssi kello 18:45 - 20:15 -->
+  - alkeet #1 kello 17:00 - 18:30
+  - alkeet #2 kello 18:45 - 20:15
+  - alkeisjatko kello 17:00 - 18:30
+  - jatkokurssi kello 18:45 - 20:15
 
 {{< courses all >}}
 
