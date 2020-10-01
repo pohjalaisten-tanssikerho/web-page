@@ -19,10 +19,13 @@ Koronatilanteesta johtuen kursseilla pyritään pääsääntöisesti tanssimaan 
 
 Pedagogisessa mielessä tanssilajit sopivat vähän eri tavalla oman parin kanssa tanssivilla ja niille, jotka eivät tanssi oman parin kanssa. Nämä lajit ovat kuitenkin jääneet, joten kaksi alkeiskurssia tanssivat kurssin alussa lajeja vähän eri järjestyksessä.
 
+
 ### Kello 17:00 alkava alkeiskurssi
 
+{{% courseMeta alkeetOma %}}
 {{< course alkeetOma >}}
 
 ### Kello 18:45 alkava alkeiskurssi
 
+{{% courseMeta alkeet %}}
 {{< course alkeet >}}
