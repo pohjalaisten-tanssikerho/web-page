@@ -33,5 +33,5 @@ Pohjalaisten tanssikerho ja Hämäläis-Osakunnan tanssikerho järjestävät tii
 
 ## Tiedotus
 
-Kaikkia kurssilaisia kehotetaan liittymään tanssikerhon [sähköpostilistalle]({{< ref "/sahkopostilista.md" >}}). Listan kautta tiedotetaan mm. mahdollisista muutoksista kurssien aikatauluihin! Muita kerholaisia ja vapaampaa tanssikeskustelua löydät myös kerhon [Facebook-]({{< link facebook >}}) ja [Whatsapp-ryhmästä]({{< link whatsapp >}}). Kannattaa käydä katsomassa myös [tapahtumat-sivua]({{< ref "/tapahtumat.md" >}}).
+Kaikkia kurssilaisia kehotetaan liittymään tanssikerhon [sähköpostilistalle]({{< ref "/sahkopostilista.md" >}}). Listan kautta tiedotetaan mm. mahdollisista muutoksista kurssien aikatauluihin! Muita kerholaisia ja vapaampaa tanssikeskustelua löydät myös kerhon [Facebook-ryhmästä]({{< link facebook >}}). Kannattaa käydä katsomassa myös [tapahtumat-sivua]({{< ref "/tapahtumat.md" >}}).
 
