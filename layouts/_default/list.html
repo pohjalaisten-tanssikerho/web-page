@@ -37,7 +37,7 @@
         </ul>
         <p>{{ .Summary | markdownify}}</p>
       {{ if .Truncated }}
-        <p><a href=".PermaLink">Lue lisää...</a><p>
+      <p><a href="{{ .Permalink }}">Lue lisää...</a><p>
       {{ end }}
     {{ end }}
   </div>
