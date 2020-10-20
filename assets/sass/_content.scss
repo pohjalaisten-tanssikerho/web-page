@@ -137,6 +137,11 @@
   figure {
     text-align: center;
     margin: 0 auto;
+    &.border img {
+      max-width: $text-width - 10px;
+      width: 98%;
+      border: solid 3px $lightblue;
+    }
   }
   .footnote {
     font-size: 12px;
