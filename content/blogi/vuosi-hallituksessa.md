@@ -1,5 +1,5 @@
 ---
-title: "Vuosi Hallituksessa"
+title: "Vuosi hallituksessa"
 subdirectories: ["blogi"]
 author: "Henna Jylhä"
 description: "Kokemuksia yhdistystoiminnasta."
