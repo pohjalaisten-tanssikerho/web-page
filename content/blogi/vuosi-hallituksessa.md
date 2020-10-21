@@ -6,6 +6,8 @@ author: Henna Jylhä
 description: Kokemuksia yhdistystoiminnasta.
 
 ---
+21\.10.2020
+
 # Tanssimaan? Hallitukseen? Miksipä ei!
 
 Moikka! Täällä kirjoittelee Henna, Pohjalaisten tanssikerhon vuoden 2020 hallituksen tiedottaja. Haluaisin kertoa tarinan siitä, kuinka hurahdin tanssimiseen ja miten päädyin POTin hallitukseen. Kerhon syyskokous ja uuden hallituksen valinta on käsillä aivan pian – olisiko hallituspesti ehkä myös sinun juttusi?
