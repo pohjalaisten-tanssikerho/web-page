@@ -26,7 +26,7 @@ Hallitukseen liittyminen jännitti aluksi, kun en tuntenut juuri ketään etukä
 
 Vuosi 2020 on ollut poikkeuksellinen ja POTin hallitus on seurannut pandemiatilanteen kehittymistä tarkasti. Vaikeasta tilanteesta huolimatta kerho on edelleen pystyssä, minkä kunniaksi voisin kohottaa maljan vaikka heti! Kevään kurssit jouduttiin keskeyttämään kauden puolivälissä, mutta kesällä koronatartuntojen ollessa suvantovaiheessa aktiivinen tapahtumavastaavamme otti tilanteesta kaiken irti. POT järjesti monet pienet ulkoilmatanssibileet Helsingin kauniissa merenranta- ja puistomaisemissa, joissa oli helppo pitää turvavälejä eikä ilmanvaihdosta tarvinnut huolehtia. Syksyn tanssikurssien osallistujamääriä jouduttiin rajoittamaan ja muitakin poikkeusjärjestelyjä tekemään, mutta tästä huolimatta kaikki kurssit saatiin käynnistettyä. Tanssin ilon näkeminen kurssilaisten kasvoilla on ollut ehdottomasti kaiken vaivan arvoista. Toivottavasti tilanne pian helpottaa ja päästään taas tanssimaan kunnolla!
 
-Jos hallitustoiminta kiinnostaa, niin laita kalenteriin POTin syyskokous 22.11.2020 Nykyiset hallituslaiset vastaavat myös mielellään kaikenlaisiin hallitustoimintaan liittyviin kysymyksiin. Meihin saat yhteyden sähköpostitse osoitteesta pohjalaistentanssikerho.ry(at)gmail.com.
+Jos hallitustoiminta kiinnostaa, niin laita kalenteriin POTin syyskokous 22.11.2020. Nykyiset hallituslaiset vastaavat myös mielellään kaikenlaisiin hallitustoimintaan liittyviin kysymyksiin. Meihin saat yhteyden sähköpostitse osoitteesta pohjalaistentanssikerho.ry(at)gmail.com.
 
 \-Henna ja muut hallituslaiset
 
