@@ -80,7 +80,7 @@ Salsa on latinotansseista ehkä jopa suosituin tanssilaji, jota näkee niin lavo
 
 ## Samba
 
-Samba on kaksijakoinen latinotanssilaji, jota tanssitaan usein suljetussa tanssiotteessa ilman vartalokontaktia. Sen perusaskeleet seuraavat rytmiä "yks-a-kaks, yks-a-kaks" ponnauttaen painon jalalta toiselle ja aiheuttaen tanssille ominaisen keinuvan liikkeen. Se on reipas ja joustava paritanssi. Samban kultakausi meni ohi jo kymmeniä vuosia sitten, joten se on aika harvinainen lavoilla, mutta yleinen kilpatanssimaailmassa. Muun muassa salsa on vienyt suosiota pois sambasta.
+Samba on kaksijakoinen latinotanssilaji, jota tanssitaan usein suljetussa tanssiotteessa ilman vartalokontaktia. Sen perusaskeleet seuraavat rytmiä "yks-a-kaks, yks-a-kaks" ponnauttaen painon jalalta toiselle ja aiheuttaen tanssille ominaisen keinuvan liikkeen. Se on reipas ja joustava paritanssi. Lavoilla samba ei ole enää viime vuosina ollut kovin yleinen tanssilaji kun muut lattarit, kuten salsa, ovat yleistyneet. Kilpatanssimaailmassa sambaa kuitenkin tanssitaan enemmän. Lisäksi samban harhoittelusta on paljon hyötyä monia muita tanssilajeja ajatellen!
 
 {{< youtube id="FWYObhtY89c" class="media" >}}
 
