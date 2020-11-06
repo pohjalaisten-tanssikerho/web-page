@@ -4,7 +4,7 @@ articleTitle: "Hallituksen syyskokous 2020"
 subdirectories: ["tapahtuma"]
 description: "POT sääntömääräinen syyskokous 2020"
 date: "2020-11-22"
-clock: "14:00 - 16:00"
+clock: "14:00"
 address: "Töölönkatu 3 A"
 ---
 
