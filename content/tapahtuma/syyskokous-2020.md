@@ -2,7 +2,7 @@
 title: "Syyskokous 2020"
 articleTitle: "Hallituksen syyskokous 2020"
 subdirectories: ["tapahtuma"]
-description: "POT sääntömääräinen syyskokous 2020"
+description: "Sääntömääräinen kokous. Kaikki tanssikerhon jäsenet ovat tervetulleita. Kokouksessa valitaan ensi vuoden hallitus."
 date: "2020-11-22"
 clock: "14:00"
 address: "Töölönkatu 3 A"
