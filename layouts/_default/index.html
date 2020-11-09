@@ -90,7 +90,7 @@
       {{ else }}
       <ul>
         {{ range $events }}
-        <li><span class="date-event">{{ .Date.Format "01.02." }}</span><span class="title-event">{{ .Title }}</span>
+        <li><span class="date-event">{{ .Date.Format "02.01." }}</span><span class="title-event">{{ .Title }}</span>
           {{ with .Params.description }}
             <p>{{ . }}</p>
           {{ end }}

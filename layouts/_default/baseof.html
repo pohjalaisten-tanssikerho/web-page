@@ -74,7 +74,7 @@
                           {{ range $events }}
                             <div class="menu-item">
                               <li class="sm-margin"><a href="{{ .Page.RelPermalink }}">{{ .Title }}</a></li>
-                              {{ with .Page.Params.date }} <li class="sm-print"> {{ dateFormat "2006.01.02" . }}</li> {{ end }}
+                              {{ with .Page.Params.date }} <li class="sm-print"> {{ dateFormat "02.01.2006" . }}</li> {{ end }}
                               {{ with .Page.Params.address }} <li class="sm-print"> {{ . }}</li> {{ end }}
                               {{ with .Page.Params.clock }} <li class="sm-print"> {{ . }}</li> {{ end }}
                             </div>
