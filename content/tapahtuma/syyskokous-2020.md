@@ -1,5 +1,5 @@
 ---
-title: "Syyskokous 2020"
+title: "Hallituksen syyskokous"
 articleTitle: "Hallituksen syyskokous 2020"
 subdirectories: ["tapahtuma"]
 description: "Sääntömääräinen kokous. Kaikki tanssikerhon jäsenet ovat tervetulleita. Kokouksessa valitaan ensi vuoden hallitus."
