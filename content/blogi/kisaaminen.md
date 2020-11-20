@@ -31,14 +31,14 @@ Suomen tanssiurheiluliitto on koostanut [säännöt omaksi sivukseen](]https://w
 
 Kisaamista ei tarvitse ottaa liian vakavasti. Kisoissa tanssilajien eri taitotasoista on mahdollista valita mieleisensä ja osallistua sen mukaan, kuinka paljon on valmis viettämään aikaa tanssin harjoitteluun. Käytännössä POT:n ja HOT:n jatkotason (viimeisin taso) kurssit antavat riittävät taidot kisaamiseen lähes minkä tahansa tanssilajin alimmassa taitoluokkatasossa.
 
-Kisaaminen on loistava yhteisharrastus, sillä harjoittelukertojen lisääntyminen antaa arvokasta aikaa toisen kanssa ja yhdessä kehittyminen antaa ainutlaatuisen onnistumisen tunteen. Tekniikan lisäksi yhteinen musiikintulkintakin kehittyy tasolle, jossa se on kuin ajatusten lukemista. 
+Kisaaminen on loistava yhteisharrastus, sillä harjoittelukertojen lisääntyminen antaa arvokasta aikaa toisen kanssa ja yhdessä kehittyminen tuo ainutlaatuisen onnistumisen tunteen. Tekniikan lisäksi yhteinen musiikintulkintakin kehittyy tasolle, jossa se on kuin ajatusten lukemista. 
 
-Jos kisaaminen säilyttäen "uusiin ihmisiin tutustumisen" kiinnostaa, on West Coast Swing hyvä laji siihen. Kisoissa viejälle arvotaan  seuraaja, joka saa päättää soitettavan musiikin.
+Yleensä kisataan saman parin kanssa, mutta on myös olemassa kisoja, joissa pari arvotaan. Jos erityisesti tykkää tutustua uusiin ihmisiin tanssin kautta, ja haluaisi sen tapahtuvan myös kisoissa, on West Coast Swing hyvä laji siihen. Kisoissa viejälle arvotaan seuraaja, joka saa päättää soitettavan musiikin.
 
 ## Kisoihin osallistuminen
-Jos suoraan virallisiin kisoihin osallistuminen pelottaa, kannattaa ensin osallistua satunnaisesti järjestettäviin kevyihin kisoihin, joihin voi siis osallistua ilman tanssijärjestön kisalisenssiä ja vakuutusta. Esimerkiksi Comets tanssiseura järjestää joskus näitä epävirallisia kisoja, mutta POT ja HOT eivät, koska kerhot keskittyvät lavatansseihin.
+Jos suoraan virallisiin kisoihin osallistuminen pelottaa, kannattaa ensin osallistua satunnaisesti järjestettäviin kevyihin kisoihin, joihin voi siis osallistua ilman tanssijärjestön kisalisenssiä ja vakuutusta. Esimerkiksi Comets tanssiseura ja Avec tanssikerho järjestävät joskus näitä epävirallisia kisoja. POT ja HOT eivät kisoja yleensä pidä, koska kerhot keskittyvät lavatansseihin.
 
-Epävirallisissa kisoissa usein arvotaan satunnainen tanssipari, joten jos oman parin kanssa kisaaminen kiinnostaa enemmän, virallisiin kisoihin osallistuminen on oikeastaan ainoa vaihtoehto.
+Epävirallisissa kisoissa usein arvotaan satunnainen tanssipari, joten jos oman parin kanssa kisaaminen kiinnostaa enemmän, virallisiin kisoihin osallistuminen voi olla ainoa vaihtoehto.
 
 Virallisiin kisoihin voi osallistua vain seurojen kautta. Helsingissä toimii esimerkiksi Comets, jonka kisailtavat lajit ovat mm. Boogie Woogie, Bugg, Rockabilly, Lindy Hop, Fusku, West Coast Swing jne. Käytännössä POT:ia ja HOT:ia ei voi edustaa kisoissa, vaikka yllättävän iso osa kisoihin osallistuneista nuorista onkin osakuntien tanssikerhoista.
 
@@ -46,9 +46,9 @@ Comets keskittyy lähinnä Rock'n'Roll Swing tyylisiin lajeihin. Jos haluaa kisa
 
 POTtilaisten ja HOTtilaisten kannattanee keskittyä Cometsin kautta kilpailevista lajeista Fuskuun ja Buggiin, sillä kyseisten tanssilajien opetusta annetaan kaikista eniten osakunnan tanssikerhoissa. Alin taitotasoluokka ei myöskään ole murskaavan kova verrattuna esimerkiksi Boogie Woogiehin ja West Coast Swingiin. Lähinnä tämä johtuu vain siitä, että näitä lajeja ei opetata kovin paljon POT:lla ja HOT:lla. BW ja WCS esiintyvät yleensä vain erilliskursseina ja satunnaisesti kausikursseina.
 
-Kisamielessä myös BW ja WCS ovat omalla tavallaan korkeammalla kuin Bugg ja Fusku, koska ne ovat näytösmäisempiä tanssilajeja. Tuomaristo on lavan yhdellä puolella arvostelemassa yleensä joko yhden tai kahden tanssiparin tanssia, joten kaikki tanssillinen suoritus tulee näkyä siinä suunnassa. Buggissa sen sijaan tuomaristo levittäytyy ympäri tanssilattiaa, ja tanssin on näytettävä hyvältä joka suuntaan. Buggin ja Fuskun tanssimaisempi tunnelma johtuu myös siitä, että kisan aikana tanssilattialla on monta tanssiparia samaan aikaan.
+Kisamielessä myös BW ja WCS ovat omalla tavallaan korkeammalla kuin Bugg ja Fusku, koska ne ovat näytösmäisempiä tanssilajeja. Tuomaristo on lavan yhdellä puolella arvostelemassa yleensä joko yhden tai kahden tanssiparin tanssia, joten kaikki tanssillinen suoritus tulee näkyä siinä suunnassa. Buggissa sen sijaan tuomaristo levittäytyy ympäri tanssilattiaa, ja tanssin on näytettävä hyvältä joka suuntaan. Buggin ja Fuskun tanssilavamaisempi tunnelma johtuu myös siitä, että kisan aikana tanssilattialla on monta tanssiparia samaan aikaan.
 
-Kisaamista varten on siis liityttävä Cometsin jäseneksi (kirjoittamishetkellä 25 €) ja ostettava kisalisenssi sekä -vakuutus, jotka Comets kuitenkin maksaa takaisin korvaushakemusten täyttäneille. Jäsenyydet, lisenssit ja vakuutukset ovat voimassa kalenterivuoden ajan. Comets maksaa myös kaikki osallistumismaksut kisoihin, joten käytännössä kisaaminen siis maksaa 25 € (Comets jäsenyys) ja siihen liittyvät matkustuskustannukset.
+Kisaamista varten on siis liityttävä Cometsin jäseneksi (kirjoittamishetkellä 25 €) ja ostettava kisalisenssi sekä -vakuutus, jotka Comets maksaa takaisin korvaushakemusten täyttäneille. Jäsenyydet, lisenssit ja vakuutukset ovat voimassa kalenterivuoden ajan. Comets maksaa myös kaikki osallistumismaksut kisoihin, joten käytännössä kisaaminen siis maksaa 25 € (Comets jäsenyys) ja siihen liittyvät matkustuskustannukset.
 
 Lisää voi lukea Cometsin [uuden kilpailijan ohjeista](https://www.comets.fi/osallistu-kilpailuihin/rock-ja-swing-tanssikilpailut/uuden-kilpailijan-ohjeet/).
 
@@ -61,11 +61,11 @@ Kannattaa muistaa, että POT:lla ja HOT:lla opetetaan sosiaalisia tansseja. Tavo
 
 Comets opettaa yhtä lajia kerralla, jolloin Buggia tulee treenattua kauden aikana n. kuusinkertainen määrä siihen, mitä POT:lla ja HOT:lla opetetaan.
 
-Alimmalla taitotasolla kyllä pärjää, vaikka ei kävisikään Cometsilla harjoittelemassa. Kaikista tärkeintä on se, miten paljon aikoo harjoitella kurssien ulkopuolella. Myöskin odotusten kannattaa olla realistisia. Harjoittelukerrat määrittävät sen, kuinka korkealle taitotasolle kannaattaa tähdätä.
+Alimmalla taitotasolla kyllä pärjää, vaikka ei kävisikään Cometsilla harjoittelemassa. Kaikista tärkeintä on se, miten paljon aikoo harjoitella kurssien ulkopuolella. Myöskin odotusten kannattaa olla realistisia. Harjoittelukerrat määrittävät sen, kuinka korkealle taitotasolle kannattaa tähdätä.
 
 Esilletuloa ja lopetusta kannattaa harjoitella erikseen. Tätä ei yleensä missään muualla paitsi kisaryhmän oppitunneilla harjoitella. Esilletulo on yllättävän haastavaa. Se kannattaa videoida ja harjoitella kunnolla eri kuvakulmien kautta, koska vain siten pystyy näkemään, miltä se todella näyttää. Hyvin suunniteltu ja toteutettu esilletulo antaa tuomareille sekä yleisölle hyvän ensivaikutelman. Se on myös melko sovittu koreografia, joten sopikaa partnerin kanssa, miten se tapahtuu.
 
-Myös lopetus on tehtävä tyylikkäästi. Usein lopetuksen vaarana on, että lopettaa liian aikaisin. Musiikki yleensä hiljennetään pikkuhiljaa, mutta tanssia voi periaatteessa jatkaa musiikin ohikin. Liian nopeasti lopetettu tanssi vaikuttaa hätiköidyltä ja huolimattomalta. On parempi lopettaa liian myöhään kuin liian aikaisin. Lopussakin kannaattaa tehdä jonkinlainen kumarrus ja kiitos yleisöä päin. 
+Myös lopetus on tehtävä tyylikkäästi. Usein lopetuksen vaarana on, että lopettaa liian aikaisin. Musiikki yleensä hiljennetään pikkuhiljaa, mutta tanssia voi periaatteessa jatkaa musiikin ohikin. Liian nopeasti lopetettu tanssi vaikuttaa hätiköidyltä ja huolimattomalta. On parempi lopettaa liian myöhään kuin liian aikaisin. Lopussakin kannattaa tehdä jonkinlainen kumarrus ja kiitos yleisöä päin. 
 
 Vaikka tanssisalissa olisikin peilit, on suositeltavaa kuvata harjoitukset videolle. Se antaa realistisemman kuvan omasta tanssitaidostaan ja mahdollisuuden oman tanssin arvostelemiseen ja parantamiseen.
 
@@ -74,11 +74,11 @@ Monessa lajissa alimmalla taitotasolla on ainoastaan yksi osuus: nopea osuus. Ei
 Osakuntien tanssikerhoissa hidasta versiota tanssilajeista ei opeteta. 
 
 ## Lyhyesti
-Osakuntien tanssikerholaisten kannattaa valita ensimmäiseksi lajikseen joko Fusku tai Bugg. Jos valitaan Bugg, kannattaa lukea [säännöt](https://www.dancesport.fi/wp-content/uploads/2019/07/RS-s%c3%a4%c3%a4nn%c3%b6t_8.2019.pdf). Fuskuun ei kohdistu niin tarkkoja sääntöjä. Mikään ei estä osallistumasta kumpaankin tanssilajiin. Jos Bugg ja Fusku tuntuvat tasavahvoilta, kannattaa osallistua kumpaankin. Kilpailupäivänä voi nimittäin joutua odottamaan tunteja omaa kisasuorituksta. Kisasuorituskin kestää vain puolitoista minuuttia.
+Osakuntien tanssikerholaisten kannattaa valita ensimmäiseksi lajikseen joko fusku tai bugg. Jos valitaan bugg, kannattaa lukea [säännöt](https://www.dancesport.fi/wp-content/uploads/2019/07/RS-s%c3%a4%c3%a4nn%c3%b6t_8.2019.pdf). Fuskuun ei kohdistu niin tarkkoja sääntöjä. Mikään ei estä osallistumasta kumpaankin tanssilajiin. Jos bugg ja fusku tuntuvat tasavahvoilta, kannattaa osallistua kumpaankin. Kilpailupäivänä voi nimittäin joutua odottamaan tunteja ennen omaa kisasuoritusta. Yksi kisasuoritus kestää yleensä puolitoista minuuttia.
 
 Liity Cometsin jäseneksi ja lue [ensikertaa kisoihin osallistuvan ohjeet](https://www.comets.fi/osallistu-kilpailuihin/rock-ja-swing-tanssikilpailut/uuden-kilpailijan-ohjeet/) Cometsin nettisivuilta. Rock'n'swing [kilpailujen aikataulut](https://www.comets.fi/osallistu-kilpailuihin/rock-ja-swing-tanssikilpailut/kilpailut-suomessa/) näkyvät Cometsin sivuilla. Ilmoittautumisen aukeaminen kerrotaan Cometsin facebook-ryhmässä.
 
-Kuka tahansa osakunnan tanssikerholainen, joka käy viimeistä kurssitasoa, pärjää alimmassa taitotasossa Buggissa ja Fuskussa. Hyvällä omalla tunnolla voi mennä siis kisaamaan. Kisaaminen on jännittävä kokemus, jota suosittelen jokaiselle. Taitotaso on helppo valita itselleen sen mukaan, miten paljon on valmis treenaamaan.
+Kuka tahansa osakunnan tanssikerholainen, joka käy viimeistä kurssitasoa, pärjää alimmassa taitotasossa buggissa ja fuskussa. Hyvällä omalla tunnolla voi mennä siis kisaamaan. Kisaaminen on jännittävä kokemus, jota suosittelen jokaiselle. Taitotaso on helppo valita itselleen sen mukaan, miten paljon on valmis treenaamaan.
 
 Bonuksena vielä se, että kisaajat saavat jäädä seuraamaan kisoja ilmaiseksi. Ei pelkästään tämä, mutta kisaajana pääset samoihin lämmittelytiloihin kuin maailman mestarit! Se on aitiopaikka nähdä huippuja läheltä ja päästä vähän sisälle heidän kisastrategioistaan. Ilma säkenöi jännitystä, kun tanssijat lämmittelevät kisoja varten. Kisaajat näyttävät hermostuneilta, mutta näytön paikan tullen kaikki stressi katoaa.
 
