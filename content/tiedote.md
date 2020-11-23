@@ -1,12 +1,13 @@
 ---
-title: "Tiedote"
-draft: false
+title: Tiedote
+
 ---
+## TIEDOTE - SYKSYN TANSSIKURSSIT KESKEYTETÄÄN
 
-## Syksyn kurssien erikoisjärjestelyt
+Pääkaupunkiseudulla ollaan siirrytty koronaviruksen leviämisvaiheeseen, ja koronakoordinaatioryhmä on antanut uusia rajoituksia ja suosituksia. Aikuisten joukkue- ja kontaktilajien harrastustoiminta lopetetaan kaupungin tiloissa seuraavan 3 viikon ajaksi, ja samaa suositellaan myös muille toimijoille. Lisäksi Suomen tanssinopettajain liitto on suositellut kaiken paritanssien opetus- ja kilpailutoiminnan (poislukien yksityisopetus) keskeyttämistä toistaiseksi Helsingin, Espoon, Vantaan ja Kauniaisten alueella. Tämän johdosta olemme päättäneet keskeyttää POTin syksyn tanssikurssit.
 
-Syksyn kurssit ovat lähteneet mukavasti käyntiin, ja on ollut ilo nähdä näinkin paljon osallistujia korona-tilanteesta huolimatta. Tämän vuoden syksyn kurssit käydään [erikoisjärjestelyin]({{< ref "/kurssi/erityistoimet-korona-aikana.md">}}), joita on onnistuttu hyvin noudattamaan. Lisäohjeistuksena tartuntariskin vähentämiseksi toivoisimme, että oman ja muiden turvallisuuden vuoksi **eteiseen ei jäädä seurustelemaan ennen tai jälkeen tuntien**.
+Kurssilaisille tiedotetaan vielä asiasta erikseen sähköpostse. Lisäksi suunnitteilla on korvaavaa ohjelmaa, ja opettajien kanssa keskustellaan mahdollisuuksista yksityistuntien järjestämiseen. Pysykää siis kuulolla 😊
 
-Varovaisuuden ja ohjeistuksien noudattamisen ansiosta, kerhomme tanssijat ja opettajat ovat pysyneet terveinä. Myös jatkossakin, pitäkää huolta toisistanne ja pysykää terveinä.
+Kiitos jo tässä vaiheessa kaikille kuluneesta kaudesta, joka saatiin kunnialla ja turvallisesti lähes maaliin. Ja tervetuloa taas kursseille tulevana keväänä, mikäli koronatilanne sallii silloin jo tanssimisen!
 
-\-  POT Hallitus
+\-  POTin hallitus 23.11.2020
