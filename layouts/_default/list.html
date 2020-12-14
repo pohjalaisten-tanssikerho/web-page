@@ -27,6 +27,7 @@
   {{ end }}
 
   {{ if eq .Section "tapahtuma" }}
+  <h1>Tapahtumat ja tiedotteet</h1>
   <div class="list">
     {{ range .Pages.ByDate.Reverse }}
         <h1 class="no-bottom no-decoration">{{ .Params.articleTitle }}</h1>
