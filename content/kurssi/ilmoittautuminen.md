@@ -4,6 +4,7 @@ subdirectories:
   - kurssi_yleista
 subdirectories_weight: 3
 description: "Ilmoittaudu kursseille."
+js: ["registration.js"]
 ---
 
 # Ilmoittautuminen kursseille
