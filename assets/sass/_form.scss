@@ -1,19 +1,25 @@
 form {
   max-width: $text-width;
   margin: 0 auto;
+  font-size: .9em;
   fieldset {
+    fieldset {
+      legend {
+        font-weight: normal;
+        color: $white;
+      }
+    }
     &:hover {
       border: solid 2px $neonblue;
     }
     margin-bottom: 1em;
     color: $orange;
     font-weight: bold;
-    // min-width: 320px;
     background-color: rgba(0,0,0,0.2);
-    font-size: 1.1em;
     border: solid 2px $tintblue;
     P {
       font-weight: normal;
+      font-size: inherit;
     }
     label {
       color: $white;
@@ -25,10 +31,6 @@ form {
       max-width: $text-width;
       min-width: 340px;
       margin: 0 auto 1em auto;
-    }
-    input {
-      width: 1.5em;
-      height: 1.5em;
     }
     input, textarea {
       padding: .5em;
@@ -46,7 +48,6 @@ form {
       }
     }
     input[type=text] {
-      width: 250px;
       height: .6em;
       margin-left: 1em;
     }
@@ -64,10 +65,6 @@ form {
         margin: .1em 0 .1em 0;
       }
     }
-    .sm-margin-left {
-      margin-left: 1em;
-      width: 320px;
-    }
     .no-bottom-margin {
       margin-bottom: 0;
     }
@@ -80,8 +77,64 @@ form {
     border: solid 2px $tintblue;
     color: $white;
     font-weight: bold;
+    outline: none;
     &:hover {
       border-color: $neonblue;
     }
+    &:active {
+      border-color: $orange;
+    }
+  }
+  fieldset.personal {
+    div {
+      margin: 1em;
+    }
+    label {
+      width: 50px;
+      margin-right: 2em;
+    }
+    input[type=text] {
+      width: 100%;
+    }   
+  }
+  fieldset.home {
+    div {
+      input[type=radio] {
+        width: 1.2em;
+        height: 1.2em;
+      }
+      label {
+        width: 30px;
+      }
+    }
+  }
+  fieldset {
+    &.student,&.courses,&.support,&.home {
+      div {
+        margin: .3em 0 0 0;
+      }
+    }
+    .support {
+      input[type=text] {
+        width: 2em;
+        margin-left: 1em;
+      }
+    }
+  }
+  .hidden {
+    display: none;
+  }
+  .margin-top {
+    margin-top: .5em;
+  }
+  .no-margin-bottom {
+    margin-bottom: .3em;
+  }
+  .no-left-margin {
+    margin-left: 0;
+  }
+  .flex-group {
+    display: flex;
+    align-items: center;
   }
 }

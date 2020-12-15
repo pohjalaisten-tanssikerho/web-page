@@ -1,0 +1,127 @@
+<form action="">
+  <fieldset class="personal">
+    <legend>Henkilötiedot</legend>
+    <div class="flex-group">
+      <label for="fname">Etunimi:</label>
+      <input type="text" id="fname" name="fname" placeholder="Etunimi">
+    </div>
+    <div class="flex-group">
+      <label for="lname">Sukunimi:</label>
+      <input type="text" id="lname" name="lname" placeholder="Sukunimi">
+    </div>
+    <div class="flex-group">
+      <label for="email">Sähköposti:</label>
+      <input type="text" id="email" name="email" placeholder="Sähköposti">
+    </div>
+  </fieldset>
+  <fieldset class="home">
+    <legend>Kotikunta</legend>
+    <div class="flex-group">
+      <input type="radio" id="helsinki" name="home">
+      <label for="helsinki">Helsinki</label>
+    </div>
+    <div class="flex-group">
+      <input type="radio" id="espoo" name="home"> 
+      <label for="espoo">Espoo</label>
+    </div>
+    <div class="flex-group">
+      <input type="radio" id="vantaa" name="home"> 
+      <label for="vantaa">Vantaa</label>
+    </div>
+    <div class="flex-group">
+      <input type="radio" id="muu" name="home"> 
+      <label for="vantaa">muu: </label>
+      <input type="text" id="other" placeholder="mikä?">
+    </div>
+  </fieldset>
+  <fieldset class="student">
+    <legend>Opiskelijastatus</legend>
+    <div class="flex-group.">
+      <input type="checkbox" id="student" name="student"> 
+      <label for="support">Opiskelija</label>
+    </div>
+    <div class="flex-group.">
+      <input type="checkbox" id="club" name="club"> 
+      <label for="support">Osakuntalainen, PPO, EPO, VN</label>
+    </div>
+    <div class="flex-group.">
+      <label for="support">Jos olet HYY-jäsen, kirjoita HYY-tunnus: </label>
+      <input type="text" id="hyy" name="hyy"> 
+    </div>
+  </fieldset>
+  <fieldset class="courses">
+    <legend>Kurssit ja kannatusjäsenyys</legend>
+    <p>Valitse kurssi tai kurssit joihin haluat osallistua. Kursseille osallistuminen tekee sinusta tanssikerhon jäsenen. Jos haluat liittyä jäseneksi käymättä kausikursseja, voit liittyä <a href="#">kannatusjäsenenä</a>.</p>
+    <fieldset>
+      <legend>17:00 alkavat kurssit</legend>
+      <div class="flex-group">
+        <input type="radio" name="first-course" checked> 
+        <label for="">En osallistu</label>
+      </div>
+      <div class="flex-group">
+        <input type="radio" id="alkeetOma" name="first-course"> 
+        <label for="alkeetOma">Alkeet oman parin kanssa</label>
+      </div>
+      <div class="flex-group">
+        <input type="radio" id="alkeisjatko" name="first-course"> 
+        <label for="alkeisjatko">Alkeisjatko</label>
+      </div>
+      <fieldset class="margin-top no-margin-bottom">
+        <div class="flex-group">
+          <legend>Parini tiedot</legend>
+          <label for="partner-name">Parini nimi: </label>
+          <input type="text" id="partner-name" name="home"> 
+        </div>
+      </fieldset>
+      <fieldset class="margin-top no-margin-bottom">
+        <legend>Rooli</legend>
+        <div class="flex-group">
+          <input type="radio" id="first-course-leader" name="first-role"> 
+          <label for="first-course-leader">Viejä</label>
+        </div>
+        <div class="flex-group">
+          <input type="radio" id="first-course-follower" name="first-role"> 
+          <label for="first-course-follower">Seuraaja</label>
+        </div>
+      </fieldset>
+    </fieldset>
+    <fieldset>
+      <legend>18:45 alkavat kurssit</legend>
+      <div class="flex-group">
+        <input type="radio" name="second-course" checked> 
+        <label for="">En osallistu</label>
+      </div>
+      <div class="flex-group">
+        <input type="radio" id="alkeet" name="second-course"> 
+        <label for="alkeetOma">Alkeet</label>
+      </div>
+      <div class="flex-group">
+        <input type="radio" id="jatko" name="second-course"> 
+        <label for="jatko">jatko</label>
+      </div>
+      <fieldset class="margin-top no-margin-bottom">
+        <legend>Rooli</legend>
+        <div class="flex-group">
+          <input type="radio" id="second-course-leader" name="second-role"> 
+          <label for="second-course-leader">Viejä</label>
+        </div>
+        <div class="flex-group">
+          <input type="radio" id="second-course-follower" name="second-role"> 
+          <label for="second-course-follower">Seuraaja</label>
+        </div>
+      </fieldset>
+    </fieldset>
+    <fieldset class="support">
+      <legend>Kannatusjäsenyys</legend>
+      <div class="flex-group">
+        <input type="checkbox" id="support" name="second-course"> 
+        <label for="support">Haluan liittyä kannatusjäseneksi</label>
+      </div>
+      <div class="flex-group">
+        <label for="support-amount" class="no-left-margin">Lahjoitukseni on suuruudeltaan: </label>
+        <input type="text" id="support-amount">
+      </div>
+    </fieldset>
+  </fieldset>
+  <button type="submit">Lähetä</button>
+</form>
