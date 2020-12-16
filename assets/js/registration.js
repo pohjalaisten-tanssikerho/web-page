@@ -37,6 +37,7 @@ const amountWarning = () => {
   else warning.classList.add('hidden')
 }
 
+
 document.addEventListener('submit', event => {
   event.preventDefault();
   const form = document.getElementById('registeration')
@@ -45,12 +46,32 @@ document.addEventListener('submit', event => {
   for (let key of data.keys()) {
     obj[key] = data.get(key)
   }
-  // console.log(obj)
+
+  const firstCourse = {
+    courseId: data.get('first-course'),
+    role: data.get('first-role'),
+    paid: false,
+    partnerName: data.get('partner-name')
+  }
+
+  const secondCourse = {
+    courseId: data.get('second-course'),
+    role: data.get('second-role'),
+    paid: false,
+  }
+
+  const supportMember = {
+    courseId: data.get('support-member'),
+    amount: data.get('support-amount'),
+    paid: false,
+  }
+  console.log(supportMember)
 
   const member = {
     fname: data.get('fname'),
     lname: data.get('lname'),
     email: data.get('email'),
+    hometown: data.get('home'),
     membership: [{
       student: (data.get('student') === 'true') ? true : false, 
       club: (data.get('club') === 'true') ? true : false,
@@ -58,6 +79,10 @@ document.addEventListener('submit', event => {
     }],
     courses: []
   }
+
+  if (firstCourse.courseId !== 'false') member.courses.push(firstCourse)
+  if (secondCourse.courseId !== 'false') member.courses.push(secondCourse)
+  if (supportMember.courseId !== null) member.courses.push(supportMember)
 
   console.log(member)
   
