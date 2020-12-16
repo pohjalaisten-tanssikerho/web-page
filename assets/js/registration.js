@@ -35,5 +35,30 @@ const amountWarning = () => {
   const warning = document.getElementById('amount-warning')
   if (amount < 10) warning.classList.remove('hidden')
   else warning.classList.add('hidden')
-  console.log(amount)
 }
+
+document.addEventListener('submit', event => {
+  event.preventDefault();
+  const form = document.getElementById('registeration')
+  const data = new FormData(form)
+  const obj = {}
+  for (let key of data.keys()) {
+    obj[key] = data.get(key)
+  }
+  // console.log(obj)
+
+  const member = {
+    fname: data.get('fname'),
+    lname: data.get('lname'),
+    email: data.get('email'),
+    membership: [{
+      student: (data.get('student') === 'true') ? true : false, 
+      club: (data.get('club') === 'true') ? true : false,
+      hyy: data.get('hyy')
+    }],
+    courses: []
+  }
+
+  console.log(member)
+  
+})
