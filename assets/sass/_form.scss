@@ -119,6 +119,15 @@ form {
         width: 2em;
         margin-left: 1em;
       }
+      p {
+        padding: .7em;
+        padding-left: 0;
+      }
+      span {
+        color: $white;
+        font-weight: normal;
+        margin-left: .5em;
+      }
     }
   }
   .hidden {
