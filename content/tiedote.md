@@ -2,10 +2,14 @@
 title: Tiedote
 
 ---
-## SYKSYN KAIKKI TANSSIKURSSIT KESKEYTETÄÄN
+## Kiitos kuluneesta syksystä!
 
-Pääkaupunkiseudulla ollaan siirrytty koronaviruksen leviämisvaiheeseen, ja koronakoordinaatioryhmä on antanut uusia rajoituksia ja suosituksia. **Tästä johtuen kaikki tunnit, mukaan lukien yksityistunnit, lopetetaan välittömästi.**
+Kiitos kaikille kuluneesta kaudesta, joka saatiin kunnialla ja turvallisesti lähes maaliin. Yhtään vakavaa onnettomuutta ei ole käynyt. Siitä kiitos kurssilaisille, jotka ovat noudattaneet turvaohjeita hyvin. Tällä mielin on mukava lopettaa kausi.
 
-Kiitos jo tässä vaiheessa kaikille kuluneesta kaudesta, joka saatiin kunnialla ja turvallisesti lähes maaliin. Ja tervetuloa taas kursseille tulevana keväänä, mikäli koronatilanne sallii silloin jo tanssimisen!
+Muistathan jättää [palauteen](https://forms.gle/ufxtJp8UJbhAvXms9). Luemme kaikki palautteet, ja pyrimme niiden avulla parantamaan kurssiemme laatua ja toimintaamme. Jos haluat vaikuttaa muun kuin palautteen kautta, on hallituksessa vielä muutama paikka auki. Hallituksessa pääset vaikuttamaan itse :)
 
-\-  POTin hallitus 27.11.2020
+Ja tervetuloa taas kursseille tulevana keväänä, mikäli koronatilanne sallii silloin jo tanssimisen.
+
+Mukavaa joulun ja uudenvuoden odottelua!
+
+\-  POTin hallitus 17.12.2020
