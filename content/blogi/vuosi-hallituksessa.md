@@ -6,7 +6,7 @@ author: Henna Jylhä
 description: Kokemuksia yhdistystoiminnasta.
 
 ---
-21\.10.2020
+<!-- 21\.10.2020 -->
 
 # Tanssimaan? Hallitukseen? Miksipä ei!
 
