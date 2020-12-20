@@ -1,13 +1,15 @@
 ---
-title: "Hallituksen syyskokous"
-articleTitle: "Hallituksen syyskokous 2020"
-subdirectories: ["tapahtuma"]
-description: "Sääntömääräinen kokous. Kaikki tanssikerhon jäsenet ovat tervetulleita. Kokouksessa valitaan ensi vuoden hallitus."
-date: "2020-11-22"
-clock: "14:00"
-address: "Töölönkatu 3 A"
----
+title: Kerhon syyskokous
+articleTitle: Kerhon syyskokous 2020
+subdirectories:
+- tapahtuma
+description: Sääntömääräinen kokous. Kaikki tanssikerhon jäsenet ovat tervetulleita.
+  Kokouksessa valitaan ensi vuoden hallitus.
+date: 2020-11-22
+clock: '14:00'
+address: Töölönkatu 3 A
 
+---
 Moikka!
 
 Tämän kuun lopulla, su 22.11.2020 klo 14:00 pidetään Potin sääntömääräinen syyskokous, tervetuloa mukaan! Kokous on oiva paikka tutustua paremmin kerhon toimintaan. Voit osallistua livenä Bottalla (Töölönkatu 3A, 5. krs) tai etäyhteyden välityksellä Zoomissa. Linkin zoomiin saat [hallituksen]({{< ref "hallitus.md">}}) puheenjohtajalta, sihteeriltä tai tiedottajalta.
@@ -20,5 +22,4 @@ Nähdään kokouksessa!
 
 Terkuin,  
 Selina Virtanen  
-POTin puheenjohtaja  
-
+POTin puheenjohtaja
