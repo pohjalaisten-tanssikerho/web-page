@@ -64,13 +64,18 @@ document.addEventListener('submit', event => {
     amount: data.get('support-amount'),
     paid: false,
   }
+
   console.log(supportMember)
+
+  const hometown = (data.get('home') !== 'true') ? data.get('home') : data.get('home-other')
+  console.log('hometown: ', hometown)
 
   const member = {
     fname: data.get('fname'),
     lname: data.get('lname'),
     email: data.get('email'),
-    hometown: data.get('home'),
+    // hometown: data.get('home'),
+    hometown: hometown,
     membership: [{
       student: (data.get('student') === 'true') ? true : false, 
       club: (data.get('club') === 'true') ? true : false,
@@ -83,7 +88,13 @@ document.addEventListener('submit', event => {
   if (secondCourse.courseId !== 'false') member.courses.push(secondCourse)
   if (supportMember.courseId !== null) member.courses.push(supportMember)
 
-  db.collection('2020k').add(member)
+  db.collection('2020k')
+    .add(member)
+    // .then(() => location.href="../../tanssikerho")
+    .then(() => location.href="/tanssikerho/kiitos-osallistumisesta")
+    .catch((err) => {
+      console.error('Could register a member: ', err)
+    })
 
   console.log(member)
   

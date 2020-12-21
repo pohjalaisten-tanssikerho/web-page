@@ -30,7 +30,7 @@
     </div>
     <div class="flex-group">
       <input type="radio" id="muu" name="home" value="true"> 
-      <label for="vantaa">muu: </label>
+      <label for="vantaa">muu</label>
       <input type="text" id="other" name="home-other" placeholder="mikä?">
     </div>
   </fieldset>
@@ -78,11 +78,11 @@
       <fieldset id="first-course-role" class="margin-top no-margin-bottom hidden">
         <legend>Rooli</legend>
         <div class="flex-group">
-          <input type="radio" id="first-course-leader" value="leader" name="first-role"> 
+          <input type="radio" id="first-course-leader" value="viejä" name="first-role"> 
           <label for="first-course-leader">Viejä</label>
         </div>
         <div class="flex-group">
-          <input type="radio" id="first-course-follower" value="follower" name="first-role"> 
+          <input type="radio" id="first-course-follower" value="seuraaja" name="first-role"> 
           <label for="first-course-follower">Seuraaja</label>
         </div>
       </fieldset>
@@ -104,7 +104,7 @@
       <fieldset id="second-course-role" class="margin-top no-margin-bottom hidden">
         <legend>Rooli</legend>
         <div class="flex-group">
-          <input type="radio" id="second-course-leader" value="leader" name="second-role"> 
+          <input type="radio" id="second-course-leader" value="viejä" name="second-role"> 
           <label for="second-course-leader">Viejä</label>
         </div>
         <div class="flex-group">
@@ -116,7 +116,7 @@
     <fieldset class="support">
       <legend>Kannatusjäsenyys</legend>
       <div class="flex-group">
-        <input type="checkbox" id="support" value="support" name="support-member" onclick="toggleHidden(['support-amount-field'])"> 
+        <input type="checkbox" id="support" value="kannatus" name="support-member" onclick="toggleHidden(['support-amount-field'])"> 
         <label for="support">Haluan liittyä kannatusjäseneksi</label>
       </div>
       <div id="support-amount-field" class="hidden">
