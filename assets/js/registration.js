@@ -16,8 +16,6 @@ const firebaseConfig = {
 const firebaseApp = firebase.initializeApp(firebaseConfig)
 const db = firebaseApp.firestore()
 
-// const getDoc = db.collection('members').doc('2021k')
-
 const toggleHidden = (elementsById) => {
   elementsById.forEach( e => document.getElementById(e).classList.toggle('hidden'))
 }
@@ -39,12 +37,16 @@ const amountWarning = () => {
 
 document.addEventListener('submit', event => {
   event.preventDefault();
+
   const form = document.getElementById('registeration')
   const data = new FormData(form)
-  const obj = {}
-  for (let key of data.keys()) {
-    obj[key] = data.get(key)
-  }
+
+  const emailPattern = /^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}$/
+  if (!emailPattern.test(data.get('email'))) {
+    displayHidden(['general-registeration-warning', 'email-validation-warning'])
+    document.getElementById('registeration').scrollIntoView()
+    return
+  } 
 
   const firstCourse = {
     courseId: data.get('first-course'),
@@ -65,7 +67,12 @@ document.addEventListener('submit', event => {
     paid: false,
   }
 
-  console.log(supportMember)
+  if ((supportMember.courseId === null)
+    && (secondCourse.courseId === 'false') 
+    && (firstCourse.courseId === 'false')) {
+    displayHidden(['choose-course-warning', 'general-registeration-warning'])
+    return;
+  }
 
   const hometown = (data.get('home') !== 'true') ? data.get('home') : data.get('home-other')
   console.log('hometown: ', hometown)
@@ -74,7 +81,6 @@ document.addEventListener('submit', event => {
     fname: data.get('fname'),
     lname: data.get('lname'),
     email: data.get('email'),
-    // hometown: data.get('home'),
     hometown: hometown,
     membership: [{
       student: (data.get('student') === 'true') ? true : false, 
@@ -90,12 +96,9 @@ document.addEventListener('submit', event => {
 
   db.collection('2020k')
     .add(member)
-    // .then(() => location.href="../../tanssikerho")
     .then(() => location.href="/tanssikerho/kiitos-osallistumisesta")
     .catch((err) => {
-      console.error('Could register a member: ', err)
+      console.error('Could not register a member: ', err)
     })
 
-  console.log(member)
-  
 })

@@ -3,33 +3,34 @@
     <legend>Henkilötiedot</legend>
     <div class="flex-group">
       <label for="fname">Etunimi:</label>
-      <input type="text" id="fname" name="fname" placeholder="Etunimi">
+      <input type="text" id="fname" name="fname" placeholder="Etunimi" required>
     </div>
     <div class="flex-group">
       <label for="lname">Sukunimi:</label>
-      <input type="text" id="lname" name="lname" placeholder="Sukunimi">
+      <input type="text" id="lname" name="lname" placeholder="Sukunimi" required>
     </div>
     <div class="flex-group">
       <label for="email">Sähköposti:</label>
-      <input type="text" id="email" name="email" placeholder="Sähköposti">
+      <input type="text" id="email" name="email" placeholder="Sähköposti" required>
     </div>
+      <p id="email-validation-warning" class="hidden bold">Sähköpostiosoite ei ole kirjoitettu oikeassa muodossa.</p>
   </fieldset>
   <fieldset class="home">
     <legend>Kotikunta</legend>
     <div class="flex-group">
-      <input type="radio" id="helsinki" name="home" value="Helsinki">
+      <input type="radio" id="helsinki" name="home" value="Helsinki" required>
       <label for="helsinki">Helsinki</label>
     </div>
     <div class="flex-group">
-      <input type="radio" id="espoo" name="home" value="Espoo"> 
+      <input type="radio" id="espoo" name="home" value="Espoo" required> 
       <label for="espoo">Espoo</label>
     </div>
     <div class="flex-group">
-      <input type="radio" id="vantaa" name="home" value="Vantaa"> 
+      <input type="radio" id="vantaa" name="home" value="Vantaa" required> 
       <label for="vantaa">Vantaa</label>
     </div>
     <div class="flex-group">
-      <input type="radio" id="muu" name="home" value="true"> 
+      <input type="radio" id="muu" name="home" value="true" required> 
       <label for="vantaa">muu</label>
       <input type="text" id="other" name="home-other" placeholder="mikä?">
     </div>
@@ -87,7 +88,7 @@
         </div>
       </fieldset>
     </fieldset>
-    <fieldset>
+    <fieldset id="courses-and-support">
       <legend>18:45 alkavat kurssit</legend>
       <div class="flex-group">
         <input type="radio" name="second-course" value="false" checked onclick="hide(['second-course-role'])"> 
@@ -127,8 +128,10 @@
         <p id="amount-warning" class="hidden">Kannatusjäsenyys on mahdollista vain, jos lahjoituksen summa on 10 euroa tai suurempi. Tanssikerho ottaa mielellään myös alle 10 euron lahjoituksia, mutta tämä ei tee sinusta tanssikerhon jäsentä.</p>
       </div>
     </fieldset>
+    <p id="choose-course-warning" class="hidden bold">Valitse vähintään kurssi tai kannatusjäsenyys.</p>
   </fieldset>
   <button type="submit">Lähetä</button>
+  <p id="general-registeration-warning" class="hidden bold">Lomaketta ei ole lähetetty, koska se ei ole täytetty oikein. Yritä uudelleen, kun olet korjannut tai täyttänyt puuttuvat kohdat.</p>
 </form>
 <script src="https://www.gstatic.com/firebasejs/8.2.0/firebase-app.js"></script>
 <script src="https://www.gstatic.com/firebasejs/8.1.2/firebase-firestore.js"></script>
