@@ -2,7 +2,7 @@
 title: "Vastauksia palautteisiin"
 subdirectories:
   - blogi
-description: 'Lavoilla on syytä osata käyttäytymissääntöjä, jotta kaikki voivat viihtyä.'
+description: 'Palautteiden antaminen on ollut turhan yksipuolista keskustelua. Nyt hallitus antaa vastauksia palautteisiin.'
 
 ---
 
