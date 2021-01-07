@@ -1,11 +1,13 @@
 
 # Pohjalaisten tanssikerhon nettisivut
 
-Nettisivut ovat on julkaistu osoitteessa http://pohjalaiset.fi/tanssikerho
+Nettisivut löytyvät osoitteessa http://pohjalaiset.fi/tanssikerho
 
-Sisällön tuottajille on oma CMS sivustonsa, missä sisältö voi muokata helposti. Ohjeiden avulla nettisivujen sisältöä on mahdollista muokata myös versionhallinnan kautta.
+Sisällön tuottajille on oma CMS sivustonsa, missä sisältö voi muokata helposti. CMS on osoitteessa forestry.io 
 
-Tällä hetkellä CMS ei ole kehitteillä, koska odotamme osoitteen muutosta. CMS toimii, mutta ei ole taattua, että toimivat varmasti. Kaikkia asioita ei CMS:stä pysty muuttamaan, koska CMS kehitys on pysäytetty. Ohjeet sivujen muokkaamiseen Githubin kautta onnistuu, ja ohjeet lukevat alla.
+Tarvitset käyttäjätunnuksen ja salasanan, jotta voit muokata sivuja forestry.io kautta.
+
+Sivuja on mahdollista muokata myös versionhallinnan kautta, eli Githubin kautta. Ensisijaisesti kuitenkin suositellaan nettisivujen muokkaamista CMS:n kautta, koska se on helpompaa. Jos tästä huolimatta haluaa muokata sivuja versionhallinan kautta, on täällä kattavat ohjeet miten se tehdään.
 
 Sisällön tuottajille riittää, että lukee kohdat "Ohjeet sisällön tuottajille" ja "Tietokantojen muokkaus". Lukemista kannattaa jatkaa vain, jos haluaa syventää tietoa, tai jos on kiinnostunut kehittämään nettisivuja muulla tavalla kuin sisältöä tuottamalla.
 
@@ -41,22 +43,20 @@ Vinkkinä vielä, kuinka löytää oikea tiedosto mitä muokata. Mene nettisivui
 
 Tietokantamainen sisältö löytyy [data](https://github.com/pohjalaisten-tanssikerho/web-page/tree/master/data) kansiosta.
 
-Tietokanta on kirjoitettu .json muodossa. Tämänkin kirjoitustavan (syntaksin) ymmärtää yleensä jo vain katsomalla tiedostoa. JSONin kanssa on oltava varovainen, sillä vaikka se on helppo ymmärtää, on se myös helppo kirjoittaa vahingossa väärin. Jos virheeseen on epäilys, kopioi koko .json tiedosto sisältö [tarkastajaan](https://jsonlint.com/), joka katsoo mahdolliset kirjoitusvirheet.
+Tietokanta on kirjoitettu .json muodossa. Tämänkin kirjoitustavan (syntaksin) ymmärtää yleensä jo vain katsomalla tiedostoa. JSONin kanssa on kuitenkin oltava varovainen, sillä vaikka se on helppo ymmärtää, on se myös helppo kirjoittaa vahingossa väärin. Jos virheeseen on epäilys, kopioi koko .json tiedosto sisältö [tarkastajaan](https://jsonlint.com/), joka katsoo mahdolliset kirjoitusvirheet.
 
 Yleinen virhe JSONin kanssa on ylimääräinen pilkku: listan viimeisimpään kohtaan ei tule pilkkua.
 
 Selitys tietokantojen merkityksistä:
 
   - [board.json](https://github.com/pohjalaisten-tanssikerho/web-page/blob/master/data/board.json) - hallituksen jäsenet
-  - [oldBoard.json](https://github.com/pohjalaisten-tanssikerho/web-page/blob/master/data/oldBoard.json) - edeltävät hallituksen jäsenet
-  - [events.json](https://github.com/pohjalaisten-tanssikerho/web-page/blob/master/data/events.json) - tapahtumat ja tiedotteet
   - [courses.json](https://github.com/pohjalaisten-tanssikerho/web-page/blob/master/data/courses.json) - kurssiajat ja lajit
   - [courseMeta.json](https://github.com/pohjalaisten-tanssikerho/web-page/blob/master/data/courseMeta.json) - kurssien alkamisajat ja loppumisajat, sekä kurssien opettajat
-  - [prices/](https://github.com/pohjalaisten-tanssikerho/web-page/blob/master/data/prices/) - kurssien hinnat
+  - [prices.json](https://github.com/pohjalaisten-tanssikerho/web-page/blob/master/data/prices.json) - kurssien hinnat
 
 On erityisen tärkeää, että päivämääriä muokattaessa pidetään aikaformaatti muodossa `YYYY-MM-DD`. Näin kone ymmärtää tapahtumien keskinäisen suhteen, eli mitkä ovat ennen toisia.
 
-**Tätä edemmäs ei sisällöntuottajien tarvitse lukea!** Näillä ohjeilla ja päättelykyvyillä pitäisi pärjätä jo aika pitkälle. Seuraavissa aliotsikoissa käydään vähän tarkemmin yleisimmät skenaariot, mitä ehkä vastaan voi tulla.
+**Tätä edemmäs ei sisällöntuottajien tarvitse lukea!** Näillä ohjeilla ja omalla päättelykyvyillä pitäisi pärjätä jo aika pitkälle. Seuraavissa aliotsikoissa käydään vähän tarkemmin yleisimmät skenaariot, mitä ehkä vastaan voi tulla.
 
 #### Tiedotteen muokkaaminen
 
@@ -66,7 +66,8 @@ Tiedote tulee etusivulle ja se on nostettu erittäin näkyvälle paikalle. Täst
 
 #### Uuden tapahtuman luominen
 
-Tapahtumat ovat tiedostossa [events.json](https://github.com/pohjalaisten-tanssikerho/web-page/blob/master/data/events.json). Ei ole väliä mihin kohtaan uuden tapahtuman tiedostossa laittaa, mutta on suositeltavaa, että ne laitetaan oikeassa aika järjestyksessä. Koneelle sillä ei ole mitään väliä, mutta ihmisille tapahtumien lukeminen sekavassa järjestyksessä voi olla hankalaa.
+Uusi tapahtuma luodaan tekemällä uusi tiedosto kansioon [tapahtuma](https://github.com/pohjalaisten-tanssikerho/web-page/blob/master/content/tapahtuma/)
+Helpoin tapa lienee kopioida vanha ja muuttaa meta-tietoja. Meta-tiedot ovat merkkien `---` välissä olevia tietoja. Muuta vain otsikko ja päivämäärä.
 
 #### Ilmoittautumislinkin päivittäminen
 
@@ -74,7 +75,7 @@ Ilmoittautumislinkki päivitetään tiedostoon [config.yaml](https://github.com/
 
 #### Hallitussivun päivittäminen
 
-Hallituksen jäsenet löytyvät tietokannasta [board.json](https://github.com/pohjalaisten-tanssikerho/web-page/blob/master/data/board.json). Kuvan saa henkilölle laittamalla kuvan kansioon [board](https://github.com/pohjalaisten-tanssikerho/web-page/tree/master/static/img/board) ja viittaamalla siihen kentästä `pictures` board.json tiedostossa. Kuvan tulee olla kooltaan 214px x 220px tai samassa kuvasuhteessa.
+Hallituksen jäsenet löytyvät tietokannasta [board.json](https://github.com/pohjalaisten-tanssikerho/web-page/blob/master/data/board.json). Kuvan saa henkilölle laittamalla kuvan kansioon [board](https://github.com/pohjalaisten-tanssikerho/web-page/tree/master/static/img/board) ja viittaamalla siihen kentästä `pictures` board.json tiedostossa. **Kuvan tulee olla kooltaan 214px x 220px tai samassa kuvasuhteessa.**
 
 ### Monipuolisempaa sisällön esilletuontia
 
@@ -111,15 +112,13 @@ Tiedosto `config.yaml` on kirjoitettu yaml:lla, jonka syntaksi on myös aika hel
 
 Sivut on rakennettu Hugolla, joka on staattinen sivugeneraattori. Hugo on hyvin dokumentoitu omilla [kotisivuilla](https://gohugo.io), mutta dokumentaatiosta voi olla vaikea oppia. Alkuun pääsemiseksi kannattaa tutustua Hugon [opetusvideoihin Youtubessa](https://www.youtube.com/watch?v=qtIqKaDlqXo&list=PLLAZ4kZ9dFpOnyRlyS-liKL5ReHDcj4G3).
 
-<!-- Julkaisussa käytetään [Netlify](https://www.netlify.com/) palvelua. Käytännössä aina kun versionhallintasivuun työnnetään päivityksiä, Netlify rakentaa siitä uudet nettisivut ja julkaisee ne. -->
-
 Projekti käyttää [SCSS:ssää](https://sass-lang.com/), joka on CSS esiprosessoija. SASS tiedostot löytyvät kansiosta [assets/sass/](https://github.com/pohjalaisten-tanssikerho/web-page/tree/master/assets/sass).
 
 Pyrkimys on, että sivut näyttävät hyviltä 320px ja 1920px (full hd) välillä. Näiden ulkopuolelle kuuluvia laitteita ei tueta.
 
 ### Suositeltu tapa kehittää sivuja
 
-Kloonaa projekti paikalliselle koneelle. Hugon pystyy ajamaan nettisivut paikallisesti omalla palvelimellaan. Paikallisella palvelimella on se etu, että sivuihin tehdyt muutokset näkyvät välittömästi.
+Kloonaa projekti paikalliselle koneelle. Hugo pystyy käynnistämään nettisivut paikallisesti omalta koneelta. Paikallisella palvelimella on se etu, että sivuihin tehdyt muutokset näkyvät välittömästi.
 
 Esimerkiksi jos git ja Hugo on asennettu, voi projektin hakea, ja palvelimen käynnistää seuraavasti:
 ```bash
@@ -127,9 +126,9 @@ git clone https://github.com/pohjalaisten-tanssikerho/web-page.git
 cd web-page
 hugo server
 ```
-Jos muita palvelimia ei ole ajossa tällä hetkellä, näkyvät sivut osoitteessa http://localhost:1313
+Jos muita palvelimia ei ole ajossa tällä hetkellä, näkyvät sivut osoitteessa http://localhost:1313/tanssikerho
 
-Älä tee muutoksia `public`-kansioon, jonka Hugo rakentaa silloin kun annetaan `hugo` komento. `public`-kansio sisältää nettisivujen julkaistavan osan.
+Älä tee muutoksia `public`-kansioon, jonka Hugo rakentaa silloin kun annetaan kmoento `hugo`. `public`-kansio sisältää nettisivujen julkaistavan osan.
 
 ### Shortcodes
 
@@ -137,7 +136,7 @@ Kansiossa [shortcodes](https://github.com/pohjalaisten-tanssikerho/web-page/tree
 
 ### Projektin periaatteita
 
-On muistettava, että sivua päivittävät myös ne henkilöt, joilla ei ole ohjelmointitaustaa tai kiinnostusta mitään kiinnostusta ohjelmoimiseen. Tämän takia kehittäjän on tehtävä sisällön tuotannosta mahdollisimman yksinkertaista. Sisällön tuottajalta voidaan ainoastaan olettaa ymmärtävän Markdownia ja hieman jsonia, sekä yamlia. Olisi hyvä, jos heidän ei tarvitsisi koskaan koskea shortcodeihin tai layoutteihin. Esimerkiksi kaikkialla yleisesti esiintyvä tieto laitetaan tiedostoon `config.yaml` ja käytetään shortcodeja niiden hakemiseen. Näin sisällöntuottajan täytyy käsitellä vain `config.yaml` tiedostoa, eikä hänen tarvitse koskaan kurkistaa shortcodeihin. Lisäksi tieto pysyy samassa paikassa helposti käsiteltävänä.
+On muistettava, että sivua päivittävät myös ne henkilöt, joilla ei ole ohjelmointitaustaa tai kiinnostusta ohjelmoimiseen. Tämän takia kehittäjän on tehtävä sisällön tuotannosta mahdollisimman yksinkertaista. Olisi hyvä, jos heidän ei tarvitsisi koskaan koskea shortcodeihin tai layoutteihin. Esimerkiksi kaikkialla yleisesti esiintyvä tieto laitetaan tiedostoon `config.yaml` ja käytetään shortcodeja niiden hakemiseen. Näin sisällöntuottajan täytyy käsitellä vain `config.yaml` tiedostoa, eikä hänen tarvitse koskaan kurkistaa shortcodeihin. Lisäksi tieto pysyy samassa paikassa helposti käsiteltävänä.
 
 ### Projektin kieli
 
@@ -160,7 +159,7 @@ Tähän liittyvä koodi on kuitenkin jätetty, jos sittenkin muutetaan mieltä, 
 
 #### Viestin lähetys formilla
 
-Nettisivuilla näkyy tällä hetkellä kaikkien sähköpostit, mutta olisi parempi, jos olisi oma viestin lähetys-sivut, mistä sähköpostia voi lähettää kullekin hallituksen jäsenelle ilman, että lähettäjän tarvitsee tietää sähköpostia. Viesti tulisi siis suoraan sähköpostiin. Sähköposti saa tulla ilmi silloin, kun hallituslainen lähettää takaisin sähköpostia.
+Nettisivuilla näkyy tällä hetkellä kaikkien sähköpostit, mutta olisi parempi, jos olisi oma viestin lähetys-sivut, mistä sähköpostia voi lähettää kullekin hallituksen jäsenelle ilman, että lähettäjän tarvitsee tietää sähköpostia. Viesti tulisi siis suoraan sähköpostiin. Sähköpostin osoite saa tulla ilmi, jos hallituslainen lähettää takaisin sähköpostia.
 
 Netlify tukee tätä ominaisuutta, mutta ei ole varmaa miten helppoa näiden tuunaaminen on sellaiselle tanssikerhon hallitukselle, jossa ei istu yhtäkään nörttiä. Ei saisi tulla ongelmia viestien lähetysten kanssa, kun uusi hallitus aloittaa toimintansa.
 
