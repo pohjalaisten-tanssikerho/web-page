@@ -29,10 +29,11 @@ const hide = (elementsById) => {
 }
 
 const amountWarning = () => {
-  const amount = document.getElementById('support-amount').value
+  const amount = document.getElementById('support-amount')
   const warning = document.getElementById('amount-warning')
-  if (amount < 10) warning.classList.remove('hidden')
+  if (amount.value < 10) warning.classList.remove('hidden')
   else warning.classList.add('hidden')
+  if (amount.value !== "" && amount.value <= 0) amount.value = 1
 }
 
 document.addEventListener('submit', event => {
