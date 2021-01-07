@@ -40,12 +40,15 @@ document.addEventListener('submit', event => {
   event.preventDefault();
 
   const form = document.getElementById('registeration')
+  if (form.classList.contains('is-submitting')) return
+  form.classList.add('is-submitting')
   const data = new FormData(form)
 
   const emailPattern = /^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}$/
   if (!emailPattern.test(data.get('email'))) {
     displayHidden(['general-registeration-warning', 'email-validation-warning'])
     document.getElementById('registeration').scrollIntoView()
+    form.classList.remove('is-submitting')
     return
   } 
 
@@ -72,6 +75,7 @@ document.addEventListener('submit', event => {
     && (secondCourse.courseId === 'false') 
     && (firstCourse.courseId === 'false')) {
     displayHidden(['choose-course-warning', 'general-registeration-warning'])
+    form.classList.remove('is-submitting')
     return;
   }
 
@@ -100,6 +104,8 @@ document.addEventListener('submit', event => {
     .then(() => location.href="/tanssikerho/kiitos-osallistumisesta")
     .catch((err) => {
       console.error('Could not register a member: ', err)
+      form.classList.remove('is-submitting')
+      displayHidden(['server-registeration-warning'])
     })
 
 })
