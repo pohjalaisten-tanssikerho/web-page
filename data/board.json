@@ -29,32 +29,11 @@
       "email": "etunimi.sukunimi@gmail.com"
     },
     {
-      "firstname": "Henna",
-      "lastname": "Jylhä",
-      "picture": "henna-jylha.jpg",
-      "role": "tiedottaja",
-      "email": "etunimi.sukunimi@aalto.fi"
-    },
-    {
       "firstname": "Lasse",
       "lastname": "Vaskelainen",
       "picture": "lasse-vaskelainen.jpg",
       "role": "tapahtumavastaava",
       "email": "etunimi.sukunimi@gmail.com"
-    },
-    {
-      "firstname": "Elina",
-      "lastname": "Illikainen",
-      "picture": "elina-illikainen.jpg",
-      "role": "jäsen",
-      "email": "el-liina (ät) hotmail . com"
-    },
-    {
-      "firstname": "Kaisa",
-      "lastname": "Autere",
-      "picture": "",
-      "role": "jäsen",
-      "email": "etunimi.sukunimi@wmail.fi"
     }
   ]
 }
