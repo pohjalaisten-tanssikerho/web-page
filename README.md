@@ -3,7 +3,7 @@
 
 Nettisivut löytyvät osoitteessa http://pohjalaiset.fi/tanssikerho
 
-Sisällön tuottajille on oma CMS sivustonsa, missä sisältö voi muokata helposti. CMS on osoitteessa forestry.io 
+Sisällön tuottajille on oma CMS sivustonsa, missä sisältö voi muokata helposti. CMS on osoitteessa https://forestry.io 
 
 Tarvitset käyttäjätunnuksen ja salasanan, jotta voit muokata sivuja forestry.io kautta.
 
