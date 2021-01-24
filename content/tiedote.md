@@ -4,8 +4,6 @@ title: Tiedote
 ---
 ## Kauden alkua joudutaan lykkäämään
 
-Vallitsevasta covid-19 tilanteesta johtue POT:in tanssikursseja ei valitettavasti voida aloittaa totuttuun tapaan tammikuussa. POTin hallitus seuraa tilannetta ja tiedottaa lisää myöhemmin. Tällä hetkellä suunnitelmana on aloittaa tanssikurssit helmi-maaliskuussa.
+Covid-19 tilanne ei näytä pk-seudulla parantuneen ja rajoitusten lieventäminen ei näytä ajankohtaiselta. Tästä johtuen POT ei aloita tanssikurssejaan ainakaan helmikuun aikana. POTin hallitus jatkaa tilanteen seuraamista.
 
-Kursseille suositellaan ilmoittautumista parin kanssa. Paria voi kysellä esimerkiksi Potin fb- tai Whatsapp-ryhmässä
-
-\-  POTin hallitus 05.01.2021
+\-  POTin hallitus 24.01.2021
