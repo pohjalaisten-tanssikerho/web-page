@@ -34,6 +34,13 @@
       "picture": "lasse-vaskelainen.jpg",
       "role": "tapahtumavastaava",
       "email": "etunimi.sukunimi@gmail.com"
+    },
+    {
+      "firstname": "Anni",
+      "lastname": "Seilo",
+      "picture": "anni-seilo.jpg",
+      "role": "jäsen",
+      "email": "etu.suku@outlook.com"
     }
   ]
 }
