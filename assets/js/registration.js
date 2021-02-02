@@ -80,7 +80,6 @@ document.addEventListener('submit', event => {
   }
 
   const hometown = (data.get('home') !== 'true') ? data.get('home') : data.get('home-other')
-  console.log('hometown: ', hometown)
 
   const member = {
     fname: data.get('fname'),
@@ -99,7 +98,9 @@ document.addEventListener('submit', event => {
   if (secondCourse.courseId !== 'false') member.courses.push(secondCourse)
   if (supportMember.courseId !== null) member.courses.push(supportMember)
 
-  db.collection('2020k')
+  const currentCollection = document.getElementById('fire-collection').value
+
+  db.collection(currentCollection)
     .add(member)
     .then(() => location.href="/tanssikerho/kiitos-osallistumisesta")
     .catch((err) => {

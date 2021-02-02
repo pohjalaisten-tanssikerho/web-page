@@ -1,4 +1,7 @@
 <form id="registeration" action="">
+  {{ $currentYear := now.Format "2006" }}
+  {{ $currentSeason := cond (lt (now.Format "2") 7) "k" "s" }}
+  <input type="hidden" id="fire-collection" value="{{ $currentYear }}{{ $currentSeason }}">
   <fieldset class="personal">
     <legend>Henkilötiedot</legend>
     <div class="flex-group">
