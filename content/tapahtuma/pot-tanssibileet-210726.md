@@ -4,7 +4,7 @@ articleTitle: "POTin kesätanssibileet Kalasatamanpuistossa"
 subdirectories: ["tapahtuma"]
 description: "POT järjestää avoimet ulkoilmatanssit, kaikki ovat tervetulleita."
 date: "2021-07-26"
-clock: "17:30 - 22:00"
+clock: "17:30 - 21:30"
 address: "Kalasatamanpuisto"
 ---
 
