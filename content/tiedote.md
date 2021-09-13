@@ -2,8 +2,8 @@
 title: Tiedote
 
 ---
-## Viikottaiset kausikurssit perutaan tältä kaudelta
+## Viikottaiset kausikurssit perutaan 2021 syksyn osalta
 
-Covid-19 tilanne ei näytä pk-seudulla parantuneen ja rajoitusten lieventäminen ei näytä ajankohtaiselta. Tästä johtuen POT ei aloita kevään 2021 kausikurssejaan. POTin hallitus jatkaa covid-tilanteen seuraamista ja mikäli tiiviskursseja voidaan kevään tai kesän 2021 aikana järjestää, tiedotamme siitä erikseen.
+Pohjalaisten tansikerho ei pidä viikottaisia kursseja tällä kaudella. Avaamme kauden kuitenkin kahdella tiiviskurssilla. Lisää tiivikursseja on kuitenkin luvassa!
 
-\-  POTin hallitus 25.02.2021
+\-  POTin hallitus 13.09.2021
