@@ -22,7 +22,7 @@ jobs:
       - checkout
       - run:
           name: Add Porthan as known hosts
-          command: echo "porthan.osakunta.fi,185.87.111.99 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICXpgRNPcpj4cgC0eGEwBMWlM9UrEDGFZHNOQ+2S1D8l" >> ~/.ssh/known_hosts
+          command: echo "porthan.osakunta.fi ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMO8QOl7Wse9Akubt34ngR4358dZyK1frVEuVT66RLZ8" >> ~/.ssh/known_hosts
       - run:
           name: Install lftp
           command: |
