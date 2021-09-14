@@ -7,53 +7,45 @@ categories_weight: "5"
 ---
 # Välkommen till Österbottniska dansklubben!
 
-**Kurserna börjar på tisdagen 15.9.2020. Välkommen med!**
+**Kurserna börjar på tisdagen 5.10.2021. Välkommen med!**
 
-Österbottniska dansklubben (Pohjalaisten tanssikerho, POT) är Österbottniska delegationens klubb, som erbjuder pardanskurser både för nybörjare och avancerade dansare. Kurserna hålls i Botta, Tölögatan 3 A, 5. vån. Kurserna består av 13 lektioner, och på alla lektioner kan lärarna Marianne Krause eller Kimmo Luukkonen hjälpa också på svenska.
+Österbottniska dansklubben (Pohjalaisten tanssikerho, POT) är Österbottniska delegationens klubb, som erbjuder pardanskurser både för nybörjare och avancerade dansare. Kurserna hålls i Botta, Tölögatan 3 A, 5. vån. Proffsinstruktörerna Marianne Krause eller Kimmo Luukkonen kan hjälpa dig också på svenska.
 
-De tre kursnivåerna övar varje tisdag:
+I oktober arrangerar klubben två kortkurser:
 
 **Nybörjarkurs**  
-tis 18:45-20:15 och 17:00-18:30 
+tis 5.10. och 12.10. kl 18:00-20:00
 
-Anmälda blir informerade om det här möjligheten via e-post.) Ingen erfarenhet av dans behövs för att delta i nybörjarkursen. På kursen läras grunder i de viktigaste pardanserna. Med dessa pardanser klarar du dig på dansbanan, bröllop och på andra dansgolv.
+För att delta i nybörjarkursen ingen erfarenhet av dans behövs. På kursen läras grunder i de viktigaste pardanserna. Med dessa pardanser klarar du dig på dansbanan, bröllop och på andra dansgolv.
 
 **Fortsättning**  
-tis 17:00-18:30
+tis 19.10. och 26.10. kl 18:00-20:00
 
 Riktad till dansare som har gått nybörjarkursen och gärna dansat på dansbanan och/eller klubbens dansparty.
 
-**Avancerad nivå**  
-tis 18:45-20:15
+Kom med i bekväma kläder och sockor eller skor med hala sulor.
 
-Riktad till dansare som har gått på fortsättningskursen åtminstone för en termin, gärna två terminer, och har dansat på dansbanan och/eller klubbens dansparty.
+**Kom ihåg att anmäla dig och betala kursavgiften före den första lektionen!**
 
-Programmet [hittas här]({{< ref "/kurssi/kurssiaikataulut-ja-lajit">}}). Kom med i bekväma kläder och sockor eller skor med hala sulor.
+Under coronapandemin kan vi ta bara en avgränsad mängd av deltagare in till kurserna.
 
-**Kom ihåg att anmäla dig före den första lektionen!**
+På kurserna är det möjligt att dansa med bytande par, vilket är till nytta i att lära sig pardans. Som alternativ det går också att dansa med eget par.
 
-I den första lektionen 15.9. kan du delta gratis, men kom ihåg att anmäla dig! Under coronapandemin kan vi ta bara en avgränsad mängd av deltagare in till kurserna. Bekräftelsen på anmälan skickas vid 13.9. Om du vill senare delta, ta kontakt i styrelsen (pohjalaistentanssikerho.ry@gmail.com).
+Länk till [anmälningsblanketten]({{< https://docs.google.com/forms/d/e/1FAIpQLSfzk-xtgL3YcQRjJyvUVh1kdIy5aECt9h1B4fBb0-ZBczAuMw/viewform?usp=sf_link >}}).
 
-På grund av coronapandemin rekommenderas det att anmäla sig och dansa med eget par, men du kan också anmäla dig utan par och hitta dig ett par senare på lektionen. Om coronasituationen gör det möjligt, kan du dansa med bytande par, som traditionellt.
+Priserna per en kurs
 
-Länk till [anmälningsblanketten]({{< link signin >}}).
+medlemmarna i VN, EPO eller PPO 10 €  
+studerande 15 €  
+andra 20 €
 
-Coronagaranti! Om kurserna blir inställda på grund av coronasituationen, får du be tillbaka en del av kursavgiften. Delen motsvarar den mängd av lektioner som kunde inte arrangeras.
-
-**Kursavgiften ska vara betald före den andra lektionen tis 22.9.**
-
-Kom ihåg att använda referensnummret och ta kvittot med på andra lektionen.
-
-Priserna nedan (medlemmarna i VN, EPO eller PPO / studerande / andra)  
-Nybörjarkurs 20 € / 40 € / 80 €  
-Fortsättning 40 € / 60 € / 90 €  
-Avancerad nivå 40 € / 60 € / 90 €
+Kom ihåg att använda referensnummret och ta kvittot med på första lektionen.
 
 Mera info hittar du på [websidan]({{< ref "/kurssi/hinnasto-ja-maksaminen.md" >}}).
 
-Länk till [Facebook-evenemanget]({{< link facebook >}}) (på finska).
+Länk till [Facebook-evenemanget]({{< https://fb.me/e/4FjS9o323 >}}) (på finska).
 
-Klubben arrangerar också dansparty, kortkurser och ekskursioner. Mera information om det här på websidan och Facebook-gruppen ‘Pohjalaisten tanssikerho’.
+Klubben ska arrangera också dansparty, kortkurser och ekskursioner då coronasituationen lättar. Mera information om det här på websidan och Facebook-gruppen ‘Pohjalaisten tanssikerho’.
 
 **Nånting att fråga?**
 
