@@ -9,7 +9,7 @@ categories_weight: "5"
 
 **Kurserna börjar på tisdagen 5.10.2021. Välkommen med!**
 
-Österbottniska dansklubben (Pohjalaisten tanssikerho, POT) är Österbottniska delegationens klubb, som erbjuder pardanskurser både för nybörjare och avancerade dansare. Kurserna hålls i Botta, Tölögatan 3 A, 5. vån. Proffsinstruktörerna Marianne Krause eller Kimmo Luukkonen kan hjälpa dig också på svenska.
+Österbottniska dansklubben (Pohjalaisten tanssikerho, POT) är Österbottniska delegationens klubb, som erbjuder pardanskurser både för nybörjare och avancerade dansare. Kurserna hålls i Botta, Tölögatan 3 A, 5. vån. Proffsinstruktörerna Marianne Krause och Kimmo Luukkonen kan hjälpa dig också på svenska.
 
 I oktober arrangerar klubben två kortkurser:
 
@@ -27,9 +27,9 @@ Kom med i bekväma kläder och sockor eller skor med hala sulor.
 
 **Kom ihåg att anmäla dig och betala kursavgiften före den första lektionen!**
 
-Under coronapandemin kan vi ta bara en avgränsad mängd av deltagare in till kurserna.
+Under coronapandemin kan tas bara en avgränsad mängd av deltagare in till kurserna.
 
-På kurserna är det möjligt att dansa med bytande par, vilket är till nytta i att lära sig pardans. Som alternativ det går också att dansa med eget par.
+På kurserna är det möjligt att dansa med bytande par, vilket är till nytta i att lära sig pardans. Som alternativ går det också att dansa med eget par.
 
 Länk till [anmälningsblanketten](https://docs.google.com/forms/d/e/1FAIpQLSfzk-xtgL3YcQRjJyvUVh1kdIy5aECt9h1B4fBb0-ZBczAuMw/viewform?usp=sf_link).
 
@@ -43,7 +43,7 @@ Kom ihåg att använda referensnummret och ta kvittot med på första lektionen.
 
 Mera info hittar du på [websidan]({{< ref "/kurssi/hinnasto-ja-maksaminen.md" >}}).
 
-Länk till [Facebook-evenemanget]({{< link facebook >}}) (på finska).
+Länk till [Facebook-evenemanget]({{< https://fb.me/e/4FjS9o323 >}}).
 
 Klubben ska arrangera också dansparty, kortkurser och ekskursioner då coronasituationen lättar. Mera information om det här på websidan och Facebook-gruppen ‘Pohjalaisten tanssikerho’.
 

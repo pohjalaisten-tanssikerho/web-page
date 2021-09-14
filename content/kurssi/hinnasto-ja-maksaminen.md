@@ -1,9 +1,10 @@
 ---
-title: "Hinnasto ja maksaminen"
+title: Hinnasto ja maksaminen
 subdirectories:
-  - kurssi_yleista
-subdirectories_weight: 4
-description: "Kaikkien kurssien hintatiedot ja maksuohjeet."
+- kurssi_yleista
+subdirectories_weight: "4"
+description: Kaikkien kurssien hintatiedot ja maksuohjeet.
+
 ---
 # Hinnasto ja maksaminen
 
@@ -12,6 +13,16 @@ Maksu tapahtuu tilisiirrolla tilille:
 {{% bank %}}
 
 Muista käyttää viitettä!
+
+Syksyn 2021 tiiviskurssit:
+
+Hinnat 10 € / 15 € / 20 € (osakuntalainen / opiskelija /muu)
+
+**Viitenumero 5034**
+
+ 
+
+Syksyn 2020 tiiviskurssit:
 
 {{< prices >}}
 
@@ -22,5 +33,5 @@ Ota talteen kuitti ja pidä se mukana kursseilla, kunnes maksut on tarkistettu.
 {{< /footnote >}}
 
 {{< footnote >}}
-\*\* Myös jatko-opiskelijat.
+\** Myös jatko-opiskelijat.
 {{< /footnote >}}

@@ -1,13 +1,12 @@
 ---
 title: Jatkokurssi
 subdirectories:
-  - kurssi_kausi
-subdirectories_weight: 5
-description: >-
-  Pitkälle edistyneille tanssijoille. Täällä tanssitekniikka ja kuviot hiotaan
-  yhä parempaan kuntoon.
----
+- kurssi_kausi
+subdirectories_weight: "5"
+description: Pitkälle edistyneille tanssijoille. Täällä tanssitekniikka ja kuviot
+  hiotaan yhä parempaan kuntoon.
 
+---
 # Jatkokurssi
 
 Alkeisjatkokurssin käytyäsi tai muualla pidempää tanssittuasi voit osallistua jatkokurssille, jossa opitaan lisää tanssilajeja ja -tekniikkaa. Tahti jatkokurssilla on alkeisjatkokurssia nopeampi ja perusaskeleita tansseista ei kerrata. Jatkokurssiin pyritään saamaan hieman tavallisesta poikkeavia tanssilajeja. Syksyn ja kevään jatkokurssit ovat sisällöltään erilaiset; kurssilla riittää helposti oppimista ainakin koko vuodeksi!
@@ -16,5 +15,6 @@ Alkeisjatkokurssin käytyäsi tai muualla pidempää tanssittuasi voit osallistu
 
 {{% courseMeta jatko %}}
 
-## Kurssiaikataulu ja lajit
+## Kurssiaikataulu ja lajit syksyllä 2020
+
 {{< course jatko >}}
