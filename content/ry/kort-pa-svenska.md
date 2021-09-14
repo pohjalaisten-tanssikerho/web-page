@@ -31,7 +31,7 @@ Under coronapandemin kan vi ta bara en avgränsad mängd av deltagare in till ku
 
 På kurserna är det möjligt att dansa med bytande par, vilket är till nytta i att lära sig pardans. Som alternativ det går också att dansa med eget par.
 
-Länk till [anmälningsblanketten]({{< https://docs.google.com/forms/d/e/1FAIpQLSfzk-xtgL3YcQRjJyvUVh1kdIy5aECt9h1B4fBb0-ZBczAuMw/viewform?usp=sf_link >}}).
+Länk till [anmälningsblanketten](https://docs.google.com/forms/d/e/1FAIpQLSfzk-xtgL3YcQRjJyvUVh1kdIy5aECt9h1B4fBb0-ZBczAuMw/viewform?usp=sf_link).
 
 Priserna per en kurs
 
@@ -43,7 +43,7 @@ Kom ihåg att använda referensnummret och ta kvittot med på första lektionen.
 
 Mera info hittar du på [websidan]({{< ref "/kurssi/hinnasto-ja-maksaminen.md" >}}).
 
-Länk till [Facebook-evenemanget]({{< https://fb.me/e/4FjS9o323 >}}) (på finska).
+Länk till [Facebook-evenemanget]({{< link facebook >}}) (på finska).
 
 Klubben ska arrangera också dansparty, kortkurser och ekskursioner då coronasituationen lättar. Mera information om det här på websidan och Facebook-gruppen ‘Pohjalaisten tanssikerho’.
 
