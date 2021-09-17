@@ -43,7 +43,9 @@ Kom ihåg att använda referensnummret och ta kvittot med på första lektionen.
 
 Mera info hittar du på [websidan]({{< ref "/kurssi/hinnasto-ja-maksaminen.md" >}}).
 
-Länk till [Facebook-evenemanget]({{< link facebook >}}) (på finska).
+<!-- Länk till [Facebook-evenemanget]({{< link facebook >}}) (på finska). -->
+
+Länk till [Facebook-evenemanget](https://facebook.com/events/s/pohjalaisten-tanssikerhon-loka/2050750828425717/) (på finska).
 
 Klubben ska arrangera också dansparty, kortkurser och ekskursioner då coronasituationen lättar. Mera information om det här på websidan och Facebook-gruppen ‘Pohjalaisten tanssikerho’.
 
