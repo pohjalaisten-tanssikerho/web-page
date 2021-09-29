@@ -7,7 +7,7 @@ categories_weight: 3
 
 {{< board >}}
 
-# Järjestötöiminta
+# Järjestötoiminta
 
 Pohjalaisten tanssikerho toimii täysin vapaaehtoisvoimin. Palvelun on siis tuottanut tanssikerhon jäsen tanssikerholaiselle. Yhdistyksen tavoite ei ole kerätä voittoa vaan tuottaa jäsenilleen hyötyä.
 
