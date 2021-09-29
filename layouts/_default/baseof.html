@@ -75,7 +75,7 @@
                         <li>Ei tulevia tapahtumia tällä hetkellä. Menneitä tapahtumia voi katsella <a href="/tanssikerho/tapahtuma" class="blue-link">tapahtuma-sivuilta</a>.</li>
                         {{ else }}
 
-                          {{ range $events }}
+                          {{ range (sort $events "Date" "asec")}}
                             <div class="menu-item">
                               <li class="sm-margin"><a href="{{ .Page.RelPermalink }}">{{ .Title }}</a></li>
                               {{ with .Page.Params.date }} <li class="sm-print"> {{ dateFormat "02.01.2006" . }}</li> {{ end }}

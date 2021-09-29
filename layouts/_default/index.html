@@ -89,7 +89,7 @@
       <p>Tällä hetkellä ei ole tulevia bileitä tai tapahtumia tiedossa.</p>
       {{ else }}
       <ul>
-        {{ range $events }}
+        {{ range (sort $events "Date" "asec")}}
         <li><span class="date-event">{{ .Date.Format "02.01." }}</span><span class="title-event"><a href="{{ .Permalink }}">{{ .Title }}</a></span>
           {{ with .Params.description }}
           <p>{{ . }} </p>
