@@ -41,6 +41,6 @@ Hinnat per tiiviskurssi:
 
 {{%bank%}}
 
-Osallistujille lähetetään maksutiedot sähköpostitse. Käytäthän maksaessasi viitenumeroa ja esitäthän kuitin ensimmäiselle tunnille tullessasi.
+Osallistujille lähetetään maksutiedot sähköpostitse. Käytäthän maksaessasi viitenumeroa 5034 ja esitäthän kuitin ensimmäiselle tunnille tullessasi.
 
 Kurssit pidetään Ostrobotnia-talossa (Botta), osoitteessa Töölönkatu 3A, 5.krs.
