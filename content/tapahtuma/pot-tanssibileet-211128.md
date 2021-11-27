@@ -2,11 +2,13 @@
 title: "Pikkujoutanssibileet"
 articleTitle: "POTin pikkujoulubileet"
 subdirectories: ["tapahtuma"]
-description: "POTin pikkujoulun tanssibileet"
+description: "PERUTTU"
 date: "2021-11-28"
 clock: "17:30 - 21:30"
 address: "Bota"
 ---
+
+**PERUTTU**
 
 Joulun lähestyessä on aika pikkujouluilla! Mikäpä sen parempi tapa toteuttaa joulutunnelmiin virittäytyminen kuin tanssien, joten tanssikerho järjestää pikkujouluilu-tanssibileet su 28.11.2021 klo 17.30-21.30. Tanssibileet ovat hyvä mahdollisuus antaa luovuudelle valta, päästää tanssijalat valloilleen, tutustua tanssikavereihin ja sulatella joulukinkut/vegekinkut sekä puurot etukäteen. Tanssit ovat Bottalla tuolla tutulla ja turvallisella paikalla Manalan yläkerrassa - lähellä tanssitaivasta - pohjalaisten osakuntien tiloissa (5. kerros). Tanssailut alkavat klo 17.30 ja musiikki soi rytmikkäitä säveliään 21.30 asti.
 
