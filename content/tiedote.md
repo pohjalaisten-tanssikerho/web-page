@@ -2,8 +2,8 @@
 title: Tiedote
 
 ---
-## Viikottaiset kausikurssit perutaan 2021 syksyn osalta
+## Hyvää uuttavuotta 2022!
 
-Pohjalaisten tansikerho ei pidä viikottaisia kursseja tällä kaudella. Avaamme kauden kuitenkin kahdella tiiviskurssilla. Lisää tiivikursseja saattaa olla kuitenkin luvassa!
+Kevätkauden paritanssikurssit on tarkoitus aloittaa tammi-helmikuussa heti kun koronarajoitukset tämän sallivat. Kurssit tiistai iltaisin Bottalla, monipuolisesti lavatanssilajeja, swingejä ja lattareita. Lähiaikoina kun tammi- ja helmikuun koronatilannetiedot selkiävät tulossa tarkemmat tiedot kurssien toteutuksesta.
 
-\-  POTin hallitus 13.09.2021
+\-  POTin hallitus 02.01.2022
