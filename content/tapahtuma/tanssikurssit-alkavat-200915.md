@@ -24,7 +24,7 @@ Koronavaratoimena kursseille on ilmoittauduttava etukäteen ennen ensimmäistä 
 
 Ensimmäinen kurssikerta on ilmainen kokeilukerta. Jos haluat liittyä mukaan kesken kurssin, olethan ensin yhteydessä hallitukseen (esim. sähköpostiosoitteeseen alla). Viimeinen kurssikerta on 15.12.2020.
 
-Kursseja järjestetään kolmella taitotasolla. Jos alkeiskurssille tulee paljon ilmoittautuneita, kurssi jaetaan kahteen ryhmään, joista toinen tanssii klo. 17.00-18.30. Kaikilla kursseilla suositaan poikkeuksellisesti oman parin kanssa tanssimista. Tilanteen salliessa parinvaihtoa voidaan toteuttaa pienissä ryhmissä. Kursseille voit ilmoittautua parin kanssa tai ilman. Ilman paria ilmoittautuneet muodostavat pareja tunnilla tai tilanteen mukaan voivat tanssia vaihtuvan parin kanssa. Lisätietoa kursseista ja niiden erityisjärjestelyistä on [nettisivuillamme](http://pohjalaiset.fi/tanssikerho/kurssi/yleista-kursseista/).
+Kursseja järjestetään kolmella taitotasolla. Jos alkeiskurssille tulee paljon ilmoittautuneita, kurssi jaetaan kahteen ryhmään, joista toinen tanssii klo. 17.00-18.30. Kaikilla kursseilla suositaan poikkeuksellisesti oman parin kanssa tanssimista. Tilanteen salliessa parinvaihtoa voidaan toteuttaa pienissä ryhmissä. Kursseille voit ilmoittautua parin kanssa tai ilman. Ilman paria ilmoittautuneet muodostavat pareja tunnilla tai tilanteen mukaan voivat tanssia vaihtuvan parin kanssa. Lisätietoa kursseista ja niiden erityisjärjestelyistä on [nettisivuillamme](/kurssi/yleista-kursseista/).
 
 Kurssit ovat edullisimpia pohjalaisten osakuntien (EPO, PPO, VN) jäsenille.
 
@@ -32,13 +32,13 @@ osakuntalainen / opiskelija / muu
   - Alkeiskurssit: 20 € / 40 € / 80 €
   - Alkeisjatko- ja jatkokurssi: 40 € / 60 € / 90 €
 
-Lisätiedot [nettisivuiltamme](http://pohjalaiset.fi/tanssikerho/kurssi/hinnasto-ja-maksaminen/)
+Lisätiedot [nettisivuiltamme](/kurssi/hinnasto-ja-maksaminen/)
 
 Maksut tarkastetaan toisella kurssikerralla 22.9. Varaathan tällöin mukaasi tositteen maksusta (kuvakaappaus verkkopankista tai tuloste). Jos haluat liittyä mukaan kesken kurssin, olethan ensin yhteydessä hallitukseen (esim. sähköpostiosoitteeseen alla).
 
 Lyhyesti: Miten pääsen mukaan?
   1. [Ilmoittaudu kurssille](https://docs.google.com/forms/d/e/1FAIpQLSd8_DLHRutiprjsUyHGdTFXJPiFp2lvzaUX623_8-yK4SqaOg/viewform?fbclid=IwAR2xqcGEBK4CsJabRnRXQLAX_awaRBt_UmQvdnOguFRySoR6pd-7d2o9tvA)
-  2. [Maksa kurssimaksu](http://pohjalaiset.fi/tanssikerho/kurssi/hinnasto-ja-maksaminen/)
+  2. [Maksa kurssimaksu](/kurssi/hinnasto-ja-maksaminen/)
 
 Ilmoittaudu etukäteen ja maksa kurssimaksu ennen toista kurssikertaa.
 

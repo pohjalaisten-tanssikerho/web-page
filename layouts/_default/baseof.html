@@ -11,10 +11,10 @@
     <link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}" media="all">
 
     {{ range .Page.Params.customCSS }}
-      <link rel="stylesheet" href="/tanssikerho/customCSS/{{ . }}"  media="all">
+      <link rel="stylesheet" href="/customCSS/{{ . }}"  media="all">
     {{ end }}
 
-    <link rel="icon" type="image/svg+xml" href="/tanssikerho/favicon.svg">
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg">
     <!-- <link rel="alternate icon" href="/tanssikerho/favicon.ico"> -->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
@@ -58,7 +58,7 @@
 
           <ul>
             {{ range .Site.Params.navigation.header }}
-            <li><a href="/tanssikerho/{{ .item.url }}"><div class="logo-bullet"></div>{{ .item.label | upper}}</a>
+            <li><a href="/{{ .item.url }}"><div class="logo-bullet"></div>{{ .item.label | upper}}</a>
               {{ with .item.subdir }}
                 <ul>
                   {{ range . }}
@@ -72,7 +72,7 @@
                         {{ $events := $events | intersect (where $events "Date" "ge" now) | first 3 }}
 
                         {{ if eq ($events | len) 0 }}
-                        <li>Ei tulevia tapahtumia tällä hetkellä. Menneitä tapahtumia voi katsella <a href="/tanssikerho/tapahtuma" class="blue-link">tapahtuma-sivuilta</a>.</li>
+                        <li>Ei tulevia tapahtumia tällä hetkellä. Menneitä tapahtumia voi katsella <a href="/tapahtuma" class="blue-link">tapahtuma-sivuilta</a>.</li>
                         {{ else }}
 
                           {{ range (sort $events "Date" "asec")}}
