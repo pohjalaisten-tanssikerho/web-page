@@ -1,4 +1,4 @@
-baseURL: "https://pohjalaiset.fi/tanssikerho/"
+# baseURL: "https://pohjalaiset.fi/tanssikerho/"
 title: "Pohjalaisten Tanssikerho"
 
 DefaultContentLanguage: "fi"
