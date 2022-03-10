@@ -6,7 +6,7 @@ subdirectories_weight: "5"
 description: Ohjeistuksia koronan aikaisille kursseille.
 customCSS:
 - listStyleTypeCircle.css
-
+draft: true
 ---
 # Erityistoimet korona-aikana
 

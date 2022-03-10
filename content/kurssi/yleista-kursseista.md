@@ -16,11 +16,11 @@ Kaikki kausikurssit ja yleensä myös lyhytkurssit, pidetään Bottalla osoittee
 
 <!-- Alkeiskursseja on kaksi erilaista. Toisella alkeiskurssilla tanssitaan pareja vaihtaen, mikä usein tukee tanssin oppimista. Toinen alkeiskurssi pidetään niille, jotka haluavat tanssia oman parinsa kanssa. Alkeisjatko- ja jatkokursseilla tanssitaan paria vaihtaen. -->
 
-Koronatilanteesta johtuen [syksyn 2020 kurssit pidetään erikoisjärjestelyin]({{< ref "/kurssi/erityistoimet-korona-aikana.md" >}}). **Lähtökohtaisesti kaikilla kursseilla tanssitaan oman parin kanssa.** Kursseille otetaan yhtä monta viejää ja seuraajaa, ja ilman paria ilmoittautuneille pari pyritään löytämään paikan päällä. Ilman paria ilmoittautuneet voivat myös tanssia saman parin kanssa yhden tunnin kerrallaan tai mahdollisesti tanssia paria vaihtaen. Ei haittaa siis, vaikka et omaa paria saakaan mukaan!
+Lähtökohtaisesti kaikilla kursseilla on kiertävä parin vaihto, eli kursseille voi osallistua ilman omaa paria. Parin vaihto on kuitenkin vain vahva suositus, eli jos haluaa tanssia ainoastaan oman parinsa kanssa, sekin onnistuu. 
+
+**Koronatilanteesta johtuen suosittelemme kaikille maskin käyttöä tunnin aikana.**
 
 Kuhunkin **kurssiin sisältyy 9 opetuskertaa**. Kursseilla on alussa on koronatilanteen takia vain yksi ilmainen kokeilukertaa, kun viime vuosina on ollut kaksi. Kesken kurssin on mahdollista liittyä mukaan, mutta tätä ennen on ensin otettava yhteys [hallitukseen]({{< ref "/hallitus.md" >}}). Kesken kurssin aloittavalla on yksi ilmainen kokeilukerta.
-
-Koronatilanteesta johtuvan epävarmuuden takia annamme kursseillemme rahanpalautustakuun. Mikäli pakollisista syistä tai vahvojen suositusten takia joudumme peruuttamaan kurssit, palautamme maksetut kurssimaksut takaisin samassa suhteessa, miten monta kurssituntia on ehditty pitämään. Palautus on pyydettävä erikseen. Palauttamattomilla varoilla POT tukee opettajiamme ja varmistaa yhdistyksen toiminnan jatkumisen.
 
 Kurssimme ovat tarkoitettuja ensisijaisesti opiskelijoille ja Pohjalaisten osakuntien jäsenille. Kursseille voi osallistua myös, vaikka et enää olisikaan opiskelija. Koronatilanteesta johtuen kursseihin osallistuneiden määrää rajoitetaan. Kannattaa siis varata paikkasi ajoissa! Ethän myöskään ilmoittaudu turhaan ja vie jonkun toisen paikkaa kurssilla. Jos pakollisista syistä et pääsekään kursseille, muista perua ilmoittautumisesi, jotta varasijalla olleet tanssijat pääsevät mukaan.
 
