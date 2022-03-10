@@ -12,10 +12,8 @@ Kaikki kurssit ovat tiistaisin.
 
 <!-- {{< courseMeta all >}} -->
 
-  - alkeet #1 kello 17:00 - 18:30
-  - alkeet #2 kello 18:45 - 20:15
-  - alkeisjatko kello 17:00 - 18:30
-  - jatkokurssi kello 18:45 - 20:15
+  - alkeet kello 17:00 - 19:00
+  - alkeisjatko kello 19:00 - 21:00
 
 {{< courses all >}}
 
