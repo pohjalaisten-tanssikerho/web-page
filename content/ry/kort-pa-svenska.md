@@ -3,7 +3,7 @@ title: Kort på svenska
 categories:
 - ry
 categories_weight: "5"
-
+draft: true
 ---
 # Välkommen till Österbottniska dansklubben!
 
