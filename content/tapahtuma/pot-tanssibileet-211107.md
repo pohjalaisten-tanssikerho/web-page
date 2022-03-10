@@ -5,7 +5,7 @@ subdirectories: ["tapahtuma"]
 description: "Kauden myöhäiset avajaisbileet!"
 date: "2021-11-07"
 clock: "17:30 - 21:30"
-address: "Bota"
+address: "Botta"
 ---
 
 Arvon tanssi-ihmiset ilolla ilmoitamme sisätilabileiden alkavan! Tanssibileet ovat hyvä mahdollisuus kerrata kursseilla opittuja asioita, antaa luovuudelle valta, päästää tanssijalat valloilleen ja tutustua tanssikavereihin. Tanssit ovat Bottalla tuolla tutulla ja turvallisella paikalla Manalan yläkerrassa pohjalaisten

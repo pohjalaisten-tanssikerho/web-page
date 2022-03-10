@@ -5,7 +5,7 @@ subdirectories: ["tapahtuma"]
 description: "PERUTTU"
 date: "2021-11-28"
 clock: "17:30 - 21:30"
-address: "Bota"
+address: "Botta"
 ---
 
 **PERUTTU**

@@ -18,7 +18,7 @@ Kaikki kausikurssit ja yleensä myös lyhytkurssit, pidetään Bottalla osoittee
 
 Koronatilanteesta johtuen [syksyn 2020 kurssit pidetään erikoisjärjestelyin]({{< ref "/kurssi/erityistoimet-korona-aikana.md" >}}). **Lähtökohtaisesti kaikilla kursseilla tanssitaan oman parin kanssa.** Kursseille otetaan yhtä monta viejää ja seuraajaa, ja ilman paria ilmoittautuneille pari pyritään löytämään paikan päällä. Ilman paria ilmoittautuneet voivat myös tanssia saman parin kanssa yhden tunnin kerrallaan tai mahdollisesti tanssia paria vaihtaen. Ei haittaa siis, vaikka et omaa paria saakaan mukaan!
 
-Kuhunkin **kurssiin sisältyy 13 opetuskertaa**. Kursseilla on alussa on koronatilanteen takia vain yksi ilmainen kokeilukertaa, kun viime vuosina on ollut kaksi. Kesken kurssin on mahdollista liittyä mukaan, mutta tätä ennen on ensin otettava yhteys [hallitukseen]({{< ref "/hallitus.md" >}}). Kesken kurssin aloittavalla on yksi ilmainen kokeilukerta.
+Kuhunkin **kurssiin sisältyy 9 opetuskertaa**. Kursseilla on alussa on koronatilanteen takia vain yksi ilmainen kokeilukertaa, kun viime vuosina on ollut kaksi. Kesken kurssin on mahdollista liittyä mukaan, mutta tätä ennen on ensin otettava yhteys [hallitukseen]({{< ref "/hallitus.md" >}}). Kesken kurssin aloittavalla on yksi ilmainen kokeilukerta.
 
 Koronatilanteesta johtuvan epävarmuuden takia annamme kursseillemme rahanpalautustakuun. Mikäli pakollisista syistä tai vahvojen suositusten takia joudumme peruuttamaan kurssit, palautamme maksetut kurssimaksut takaisin samassa suhteessa, miten monta kurssituntia on ehditty pitämään. Palautus on pyydettävä erikseen. Palauttamattomilla varoilla POT tukee opettajiamme ja varmistaa yhdistyksen toiminnan jatkumisen.
 
