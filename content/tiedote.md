@@ -1,6 +1,6 @@
 ---
 title: Tiedote
-
+draft: true
 ---
 ## Hyvää uuttavuotta 2022!
 
