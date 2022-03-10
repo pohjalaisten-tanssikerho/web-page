@@ -22,7 +22,7 @@
   <tr>
     {{ $t := time .date }}
     <th class="date">{{ $t.Day }}.{{ printf "%d" $t.Month }}.</th>
-    <td colspan="2">{{ .message }} {{ $courses | len}}</td>
+    <td colspan="2">{{ .message }}</td>
   </tr>
   {{ end }}
   {{ end }}
