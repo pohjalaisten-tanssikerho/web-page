@@ -1,9 +1,9 @@
 {
   "members": [
     {
-      "firstname": "Selina",
-      "lastname": "Virtanen",
-      "picture": "selina-virtanen.jpg",
+      "firstname": "Lasse",
+      "lastname": "Vaskelainen",
+      "picture": "lasse-vaskelainen.jpg",
       "role": "puheenjohtaja",
       "email": "etunimi.sukunimi@gmail.com"
     },
@@ -12,7 +12,7 @@
       "lastname": "Lim",
       "picture": "greatman-lim.jpg",
       "role": "varapuheenjohtaja",
-      "email": "etunimi.sukunimi@mahti.org"
+      "email": "sukunimi.etunimi@gmail.org"
     },
     {
       "firstname": "Suvi",
@@ -22,24 +22,10 @@
       "email": "zukkasd (ät) gmail . com"
     },
     {
-      "firstname": "Niina",
-      "lastname": "Kajovuori",
-      "picture": "niina-kajovuori.jpg",
-      "role": "sihteeri",
-      "email": "etunimi.sukunimi@gmail.com"
-    },
-    {
-      "firstname": "Lasse",
-      "lastname": "Vaskelainen",
-      "picture": "lasse-vaskelainen.jpg",
-      "role": "tapahtumavastaava",
-      "email": "etunimi.sukunimi@gmail.com"
-    },
-    {
       "firstname": "Anni",
       "lastname": "Seilo",
       "picture": "anni-seilo.jpg",
-      "role": "jäsen",
+      "role": "sihteeri",
       "email": "etu.suku@outlook.com"
     }
   ]
