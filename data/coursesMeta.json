@@ -7,28 +7,12 @@
       "end": "20:15"
     }
   ],
-  "alkeetOma": [
-    {
-      "name": "alkeet oman parin kanssa",
-      "teacher": "Marianne Krause",
-      "start": "17:00",
-      "end": "18:30"
-    }
-  ],
   "alkeisjatko": [
     {
       "name": "alkeisjatko",
       "teacher": "Marianne Krause",
       "start": "17:00",
       "end": "18:30"
-    }
-  ],
-  "jatko": [
-    {
-      "name": "jatkokurssi",
-      "teacher": "Kimmo Luukkonen",
-      "start": "18:45",
-      "end": "20:15"
     }
   ]
 }

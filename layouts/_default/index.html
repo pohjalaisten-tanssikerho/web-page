@@ -40,18 +40,18 @@
           <th class="date-courses">{{ $t.Day }}.{{ printf "%d" $t.Month }}.</th>
           {{ end }}
         </tr>
-        <tr>
-          <th>Alkeet <br> klo 17:00 </th>
-          {{ range $firstThree }}
-          {{ if eq .message "" }}
-          <td class="trigger">{{ .alkeetOma }}</td>
-          {{ else }}
-          <td rowspan="4" class="trigger"><span class="vertical-text">{{ .message | upper }}</span></td>
-          {{ end }}
-          {{ end }}
-        </tr>
-        <tr>
-          <th>Alkeet <br> klo 18:45</th>
+        <!-- <tr> -->
+        <!--   <th>Alkeet -->
+        <!--   {{ range $firstThree }} -->
+        <!--   {{ if eq .message "" }} -->
+        <!--   <td class="trigger">{{ .alkeetOma }}</td> -->
+        <!--   {{ else }} -->
+        <!--   <td rowspan="4" class="trigger"><span class="vertical-text">{{ .message | upper }}</span></td> -->
+        <!--   {{ end }} -->
+        <!--   {{ end }} -->
+        <!-- </tr> -->
+        <!-- <tr> -->
+          <th>Alkeet </th>
           {{ range $firstThree }}
           {{ if eq .message "" }}
           <td class="trigger">{{ .alkeet }}</td>
@@ -66,14 +66,14 @@
           {{ end }}
           {{ end }}
         </tr>
-        <tr>
-          <th>Jatko</th>
-          {{ range $firstThree }}
-          {{ if eq .message "" }}
-          <td>{{ .jatko }}</td>
-          {{ end }}
-          {{ end }}
-        </tr>
+        <!-- <tr> -->
+        <!--   <th>Jatko</th> -->
+        <!--   {{ range $firstThree }} -->
+        <!--   {{ if eq .message "" }} -->
+        <!--   <td>{{ .jatko }}</td> -->
+        <!--   {{ end }} -->
+        <!--   {{ end }} -->
+        <!-- </tr> -->
       </table>
       <p>Lyhyt esittely kustakin lajista löytyy <a href="{{ ref . `/tanssilajit.md` }}">blogista</a>.</p>
     {{ end }}

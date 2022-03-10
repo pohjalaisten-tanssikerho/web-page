@@ -2,10 +2,10 @@
 <table class="course-table">
   <tr>
     <th></th>
-    <th>Alkeet <br> klo 17:00</th>
-    <th>Alkeet <br> klo 18:45</th>
+    <th>Alkeet</th>
+    <!-- <th>Alkeet <br> klo 18:45</th> -->
     <th>Alkeisjatko</th>
-    <th>Jatko</th>
+    <!-- <th>Jatko</th> -->
   </tr>
   {{ $courses := index .Site.Data.courses "courses" }}
   {{ range sort $courses "date" "asec" }}
@@ -13,10 +13,10 @@
   <tr>
     {{ $t := time .date }}
     <th class="date">{{ $t.Day }}.{{ printf "%d" $t.Month }}.</th>
-    <td>{{ .alkeetOma }}</td>
+    <!-- <td>{{ .alkeetOma }}</td> -->
     <td>{{ .alkeet }}</td>
     <td>{{ .alkeisjatko }}</td>
-    <td>{{ .jatko }}</td>
+    <!-- <td>{{ .jatko }}</td> -->
   </tr>
   {{ else }}
   <tr>
@@ -56,14 +56,14 @@
     {{ end }}
     {{ end }}
   </tr>
-  <tr>
-    <th>Alkeet <br> oma pari</th>
-    {{ range $course }}
-    {{ if eq .message "" }}
-    <td class="trigger">{{ .alkeetOma }}</td>
-    {{ end }}
-    {{ end }}
-  </tr>
+  <!-- <tr> -->
+  <!--   <th>Alkeet <br> oma pari</th> -->
+  <!--   {{ range $course }} -->
+  <!--   {{ if eq .message "" }} -->
+  <!--   <td class="trigger">{{ .alkeetOma }}</td> -->
+  <!--   {{ end }} -->
+  <!--   {{ end }} -->
+  <!-- </tr> -->
   <tr>
     <th>Alkeisjatko</th>
     {{ range $course }}
@@ -72,14 +72,14 @@
     {{ end }}
     {{ end }}
   </tr>
-  <tr>
-    <th>Jatko</th>
-    {{ range $course }}
-    {{ if eq .message "" }}
-    <td>{{ .jatko }}</td>
-    {{ end }}
-    {{ end }}
-  </tr>
+  <!-- <tr> -->
+  <!--   <th>Jatko</th> -->
+  <!--   {{ range $course }} -->
+  <!--   {{ if eq .message "" }} -->
+  <!--   <td>{{ .jatko }}</td> -->
+  <!--   {{ end }} -->
+  <!--   {{ end }} -->
+  <!-- </tr> -->
 </table>
 <p>Lyhyt esittely kustakin lajista löytyy <a href="{{ ref . `/tanssilajit.md` }}">blogista</a>.</p>
 </div>

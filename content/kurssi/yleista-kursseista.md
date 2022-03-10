@@ -11,7 +11,6 @@ Pohjalaisten tanssikerho järjestää lukukauden pituisia tanssikursseja, joiden
 
 * [alkeiskurssi]({{< ref "/kurssi/kausi/alkeiskurssi.md" >}})
 * [alkeisjatkokurssi]({{< ref "/kurssi/kausi/alkeisjatko.md" >}})
-* [jatkokurssi]({{< ref "/kurssi/kausi/jatkokurssi.md" >}})
 
 Kaikki kausikurssit ja yleensä myös lyhytkurssit, pidetään Bottalla osoitteessa {{< address >}}
 

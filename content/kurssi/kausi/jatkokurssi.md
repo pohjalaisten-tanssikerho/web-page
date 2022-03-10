@@ -5,7 +5,7 @@ subdirectories:
 subdirectories_weight: "5"
 description: Pitkälle edistyneille tanssijoille. Täällä tanssitekniikka ja kuviot
   hiotaan yhä parempaan kuntoon.
-
+draft: true
 ---
 # Jatkokurssi
 
