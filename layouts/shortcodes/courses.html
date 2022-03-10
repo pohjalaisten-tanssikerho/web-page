@@ -22,7 +22,7 @@
   <tr>
     {{ $t := time .date }}
     <th class="date">{{ $t.Day }}.{{ printf "%d" $t.Month }}.</th>
-    <td colspan="4">{{ .message }}</td>
+    <td colspan="2">{{ .message }} {{ $courses | len}}</td>
   </tr>
   {{ end }}
   {{ end }}
@@ -52,7 +52,7 @@
     {{ if eq .message "" }}
     <td class="trigger">{{ .alkeet }}</td>
     {{ else }}
-    <td rowspan="4" class="trigger"><span class="vertical-text">{{ .message | upper }}</span></td>
+    <td rowspan="2" class="trigger"><span class="vertical-text">{{ .message | upper }}</span></td>
     {{ end }}
     {{ end }}
   </tr>
