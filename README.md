@@ -1,7 +1,7 @@
 
 # Pohjalaisten tanssikerhon nettisivut
 
-Nettisivut löytyvät osoitteessa http://pohjalaiset.fi/tanssikerho
+Nettisivut löytyvät osoitteessa https://tanssikerho.pohjalaiset.fi
 
 Sisällön tuottajille on oma CMS sivustonsa, missä sisältö voi muokata helposti. CMS on osoitteessa https://forestry.io 
 
@@ -37,7 +37,7 @@ Muutokset eivät tule suoraan nettisivuille. Kaikki muutokset tarkistetaan ennen
 
 Jokaisen .md tiedoston alussa on kolme viivaa `---`. Älä välitä näistä viivoista tai muuta mitään, mikä on viivojen välissä.
 
-Vinkkinä vielä, kuinka löytää oikea tiedosto mitä muokata. Mene nettisivuille ja katso osoiterivin loppupäätä, esim. jos osoite on: http://pohjalaiset.fi/tanssikerho/blogi/tanssilajit nähdään tästä, että loppupää on `/blogi/tanssilajit`. Tästä voi arvata, että tähän sivuun vaikuttaa tiedosto `/content/blogi/tanssilajit.md`.
+Vinkkinä vielä, kuinka löytää oikea tiedosto mitä muokata. Mene nettisivuille ja katso osoiterivin loppupäätä, esim. jos osoite on: https://tanssikerho.pohjalaiset.fi/blogi/tanssilajit nähdään tästä, että loppupää on `/blogi/tanssilajit`. Tästä voi arvata, että tähän sivuun vaikuttaa tiedosto `/content/blogi/tanssilajit.md`.
 
 ### Tietokantojen muokkaus
 
