@@ -29,7 +29,7 @@ Pohjalaisten tanssikerholla on kaksi vakituista tanssin opettajaa, jotka ovat oh
 
 Kimmon tunneilla ei ole koskaan tylsää. Hän osaa keventää tunnelmaa vallattoman huumorinsa ja persoonansa avulla, mikä vapauttaa ja rentouttaa kehon tanssitunnelmaan. Tunneilla tanssii vapaammin ja paremmin kuin missään muualla.
 
-Kimmosta saa lisää tietoa [hänen omilta sivuiltaan](https://kimmoluukkonen.wordpress.com/).
+[Kimmosta saa lisää tietoa](https://kimmoluukkonen.wordpress.com/) hänen omilta sivuiltaan.
 
   {{% /crewItem %}}
 
