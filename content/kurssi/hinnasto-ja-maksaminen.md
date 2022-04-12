@@ -14,12 +14,6 @@ Maksu tapahtuu tilisiirrolla tilille:
 
 Muista käyttää viitettä!
 
-## Syksyn 2021 tiiviskurssit
-
-Hinnat 10 € / 15 € / 20 € (osakuntalainen / opiskelija /muu)
-
-Käytä viitenumeroa 5034
-
 ## Kausikurssien hinnasto
 
 {{< prices >}}
