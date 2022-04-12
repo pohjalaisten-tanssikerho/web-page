@@ -2,52 +2,37 @@
   "osakuntalainen": [
     {
       "name": "alkeet",
-      "price": "20€",
+      "price": "35€",
       "ref": "1012"
     },
     {
       "name": "alkeisjatko",
-      "price": "40€",
+      "price": "35€",
       "ref": "1038"
-    },
-    {
-      "name": "jatko",
-      "price": "40€",
-      "ref": "1041"
     }
   ],
   "opiskelija": [
     {
       "name": "alkeet",
-      "price": "40€",
+      "price": "50€",
       "ref": "1119"
     },
     {
       "name": "alkeisjatko",
-      "price": "60€",
+      "price": "50€",
       "ref": "1135"
-    },
-    {
-      "name": "jatko",
-      "price": "60€",
-      "ref": "1148"
     }
   ],
   "muut": [
     {
       "name": "alkeet",
-      "price": "80€",
+      "price": "72€",
       "ref": "1915"
     },
     {
       "name": "alkeisjatko",
-      "price": "90€",
+      "price": "72€",
       "ref": "1931"
-    },
-    {
-      "name": "jatko",
-      "price": "90€",
-      "ref": "1944"
     }
   ]
 }
