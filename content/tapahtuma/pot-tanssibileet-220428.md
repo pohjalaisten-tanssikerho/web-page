@@ -1,8 +1,8 @@
 ---
-title: "Vapputanssit"
+title: "POT Vapputanssit"
 articleTitle: "Vapputanssit"
 subdirectories: ["tapahtuma"]
-description: "POTin järjestämä vapputanssit"
+description: "POTin järjestämät vapputanssit"
 date: "2022-04-28"
 clock: "17:30 - 22:00"
 address: "Botta"
