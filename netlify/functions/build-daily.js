@@ -1,4 +1,5 @@
 const { schedule } = require('@netlify/functions')
+const fetch = request('node-fetch').default
 
 const handler = async function(event, context) {
   fetch('https://api.netlify.com/build_hooks/622c7a05e6bcc356aeae7a63', {
