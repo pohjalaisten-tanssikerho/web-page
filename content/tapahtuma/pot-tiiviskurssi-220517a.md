@@ -28,7 +28,7 @@ Kurssimaksujen maksu tanssikerhon tilille. Tilitiedot kurssimaksuja varten:
 
 {{% bank %}}
 
-Käytäthän maksaessa viitetä 5035
+Käytäthän maksaessa viitetä 5036
 
 Kursseille et tarvitse omaa paria (tunneilla on käytäntönä kiertävä parinvaihto, tanssitaan kaikkien paria vaihtavien kanssa - helppoa ja stressitöntä) tai halutessasi voit tanssia oman parinkin kanssa. Vaihtuvan parin kanssa tanssiminen on oppimisen kannalta hyödyllistä ja samalla tutustuu uusin mukaviin tanssikaverihin, mutta voit tanssia myös oman parinkin kanssa.
 
