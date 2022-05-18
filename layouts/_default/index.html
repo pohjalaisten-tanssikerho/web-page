@@ -82,7 +82,7 @@
     <div>
       <h2>Tapahtumat</h2>
 
-      {{ $events := where .Site.RegularPages "Section" "tapahtuma" | first 3 }}
+      {{ $events := where (where .Site.RegularPages "Section" "tapahtuma") "Date" "ge" now | first 3 }}
 
       {{ if eq ($events | len) 0 }}
       <p>Tällä hetkellä ei ole tulevia bileitä tai tapahtumia tiedossa.</p>
