@@ -3,7 +3,7 @@ title: "Syksyn tanssikurssit alkavat"
 articleTitle: "Syksyn 2022 tanssikurssit alkavat"
 subdirectories: ["tapahtuma"]
 description: "Syksyn 2022 tanssikurssit alkavat."
-date: "2022-09-06"
+date: "2022-09-13"
 clock: "17:00 - 22:00"
 address: "Botta"
 ---
