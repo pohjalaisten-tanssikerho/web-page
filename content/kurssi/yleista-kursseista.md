@@ -20,9 +20,9 @@ Lähtökohtaisesti kaikilla kursseilla on kiertävä parin vaihto, eli kursseill
 
 **Koronatilanteesta johtuen suosittelemme kaikille maskin käyttöä tunnin aikana.**
 
-Kuhunkin **kurssiin sisältyy 9 opetuskertaa**. Kursseilla on alussa on koronatilanteen takia vain yksi ilmainen kokeilukertaa, kun viime vuosina on ollut kaksi. Kesken kurssin on mahdollista liittyä mukaan, mutta tätä ennen on ensin otettava yhteys [hallitukseen]({{< ref "/hallitus.md" >}}). Kesken kurssin aloittavalla on yksi ilmainen kokeilukerta.
+Kuhunkin **kurssiin sisältyy 13 opetuskertaa**. Kursseilla on alussa on koronatilanteen takia vain yksi ilmainen kokeilukertaa, kun viime vuosina on ollut kaksi. Kesken kurssin on mahdollista liittyä mukaan, mutta tätä ennen on ensin otettava yhteys [hallitukseen]({{< ref "/hallitus.md" >}}). Kesken kurssin aloittavalla on yksi ilmainen kokeilukerta.
 
-Kurssimme ovat tarkoitettuja ensisijaisesti opiskelijoille ja Pohjalaisten osakuntien jäsenille. Kursseille voi osallistua myös, vaikka et enää olisikaan opiskelija. Koronatilanteesta johtuen kursseihin osallistuneiden määrää rajoitetaan. Kannattaa siis varata paikkasi ajoissa! Ethän myöskään ilmoittaudu turhaan ja vie jonkun toisen paikkaa kurssilla. Jos pakollisista syistä et pääsekään kursseille, muista perua ilmoittautumisesi, jotta varasijalla olleet tanssijat pääsevät mukaan.
+Kurssimme ovat tarkoitettuja ensisijaisesti opiskelijoille ja Pohjalaisten osakuntien jäsenille. Kursseille voi osallistua myös, vaikka et enää olisikaan opiskelija. Kannattaa siis varata paikkasi ajoissa! Ethän myöskään ilmoittaudu turhaan ja vie jonkun toisen paikkaa kurssilla. Jos pakollisista syistä et pääsekään kursseille, muista perua ilmoittautumisesi, jotta varasijalla olleet tanssijat pääsevät mukaan.
 
 Kausikursseille osallistuminen tekee osallistujasta Pohjalaisten tanssikerhon jäsenen siksi ajaksi, kun kausi kestää. **Jäsenenä voi osallistua Pohjalaisten tanssikerhon ja Hämäläis-Osakunnan tanssikerhon järjestämiin tanssibileisiin.** Lisäksi jäsenellä on äänioikeus Pohjalaisten tanssikerhon kerhon kokouksissa. Jos jäsenyyden haluaa käymättä kursseja, voi kerhon jäseneksi liittyä [kannatusjäsenenä]({{< ref "/kannatusjasenyys.md" >}}).
 

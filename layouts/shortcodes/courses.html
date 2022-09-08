@@ -5,7 +5,7 @@
     <th>Alkeet</th>
     <!-- <th>Alkeet <br> klo 18:45</th> -->
     <th>Alkeisjatko</th>
-    <!-- <th>Jatko</th> -->
+    <th>Jatko</th>
   </tr>
   {{ $courses := index .Site.Data.courses "courses" }}
   {{ range sort $courses "date" "asec" }}
@@ -16,13 +16,13 @@
     <!-- <td>{{ .alkeetOma }}</td> -->
     <td>{{ .alkeet }}</td>
     <td>{{ .alkeisjatko }}</td>
-    <!-- <td>{{ .jatko }}</td> -->
+    <td>{{ .jatko }}</td>
   </tr>
   {{ else }}
   <tr>
     {{ $t := time .date }}
     <th class="date">{{ $t.Day }}.{{ printf "%d" $t.Month }}.</th>
-    <td colspan="2">{{ .message }}</td>
+    <td colspan="3">{{ .message }}</td>
   </tr>
   {{ end }}
   {{ end }}

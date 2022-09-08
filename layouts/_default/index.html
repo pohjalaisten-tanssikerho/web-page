@@ -66,14 +66,14 @@
           {{ end }}
           {{ end }}
         </tr>
-        <!-- <tr> -->
-        <!--   <th>Jatko</th> -->
-        <!--   {{ range $firstThree }} -->
-        <!--   {{ if eq .message "" }} -->
-        <!--   <td>{{ .jatko }}</td> -->
-        <!--   {{ end }} -->
-        <!--   {{ end }} -->
-        <!-- </tr> -->
+        <tr>
+          <th>Jatko</th>
+          {{ range $firstThree }}
+          {{ if eq .message "" }}
+          <td>{{ .jatko }}</td>
+          {{ end }}
+          {{ end }}
+        </tr>
       </table>
       <p>Blogeista löytyy <a href="{{ ref . `/tanssilajit.md` }}">lyhyet esittely kustakin lajeista</a>.</p>
     {{ end }}

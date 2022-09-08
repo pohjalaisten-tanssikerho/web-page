@@ -1,64 +1,102 @@
 {
   "courses": [
     {
-      "date": "2022-03-08",
+      "date": "2022-09-13",
       "message": "",
-      "alkeet": "valssi",
-      "alkeisjatko": "fusku / lindy hop"
+      "alkeet": "foksi",
+      "alkeisjatko": "foksi ja fusku",
+      "jatko": "bugg"
     },
     {
-      "date": "2022-03-15",
+      "date": "2022-09-20",
       "message": "",
-      "alkeet": "valssi",
-      "alkeisjatko": "lindy hop"
+      "alkeet": "foksi",
+      "alkeisjatko": "foksi ja fusku",
+      "jatko": "bugg"
     },
     {
-      "date": "2022-03-22",
+      "date": "2022-09-27",
       "message": "",
-      "alkeet": "bugg",
-      "alkeisjatko": "slovari"
+      "alkeet": "fusku",
+      "alkeisjatko": "bachata",
+      "jatko": "salsa"
     },
     {
-      "date": "2022-03-29",
+      "date": "2022-10-04",
       "message": "",
-      "alkeet": "bugg",
-      "alkeisjatko": "slovari"
+      "alkeet": "fusku",
+      "alkeisjatko": "bachata",
+      "jatko": "salsa"
     },
     {
-      "date": "2022-04-05",
-      "message": "",
-      "alkeet": "tango",
-      "alkeisjatko": "west coast swing"
-    },
-    {
-      "date": "2022-04-12",
+      "date": "2022-10-11",
       "message": "Ei tunteja",
       "alkeet": "",
-      "alkeisjatko": ""
+      "alkeisjatko": "",
+      "jatko": ""
     },
     {
-      "date": "2022-04-19",
+      "date": "2022-10-18",
+      "message": "",
+      "alkeet": "bugg",
+      "alkeisjatko": "",
+      "jatko": "argentiinalainen tango"
+    },
+    {
+      "date": "2022-10-25",
+      "message": "",
+      "alkeet": "bugg",
+      "alkeisjatko": "hidas valssi",
+      "jatko": "argentiinalainen tango"
+    },
+    {
+      "date": "2022-11-01",
+      "message": "",
+      "alkeet": "bugg",
+      "alkeisjatko": "hidas valssi",
+      "jatko": "west coast swing"
+    },
+    {
+      "date": "2022-11-08",
+      "message": "",
+      "alkeet": "valssi",
+      "alkeisjatko": "tango",
+      "jatko": "west coast swing"
+    },
+    {
+      "date": "2022-11-15",
+      "message": "",
+      "alkeet": "valssi",
+      "alkeisjatko": "tango",
+      "jatko": "slow fox / slovari"
+    },
+    {
+      "date": "2022-11-22",
+      "message": "",
+      "alkeet": "salsa",
+      "alkeisjatko": "rumba bolero",
+      "jatko": "slow fox / slovari"
+    },
+    {
+      "date": "2022-11-29",
+      "message": "",
+      "alkeet": "salsa",
+      "alkeisjatko": "rumba bolero",
+      "jatko": "swing stailauksia"
+    },
+    {
+      "date": "2022-12-08",
       "message": "",
       "alkeet": "tango",
-      "alkeisjatko": "tango"
+      "alkeisjatko": "jve",
+      "jatko": "swing stailaukset"
     },
     {
-      "date": "2022-04-26",
+      "date": "2022-12-13",
       "message": "",
-      "alkeet": "foksi / fusku",
-      "alkeisjatko": "tango"
-    },
-    {
-      "date": "2022-05-03",
-      "message": "",
-      "alkeet": "slovari",
-      "alkeisjatko": "bugg"
-    },
-    {
-      "date": "2022-05-10",
-      "message": "",
-      "alkeet": "slovari",
-      "alkeisjatko": "bugg"
+      "alkeet": "tango",
+      "alkeisjatko": "jive",
+      "jatko": "toive"
     }
   ]
 }

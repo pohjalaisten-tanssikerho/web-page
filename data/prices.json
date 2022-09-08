@@ -3,36 +3,51 @@
     {
       "name": "alkeet",
       "price": "35€",
-      "ref": "5034"
+      "ref": "1012"
     },
     {
       "name": "alkeisjatko",
-      "price": "35€",
-      "ref": "5034"
+      "price": "40€",
+      "ref": "1119"
+    },
+    {
+      "name": "jatko",
+      "price": "40€",
+      "ref": "1915"
     }
   ],
   "opiskelija": [
     {
       "name": "alkeet",
-      "price": "50€",
-      "ref": "5034"
+      "price": "55€",
+      "ref": "1012"
     },
     {
       "name": "alkeisjatko",
-      "price": "50€",
-      "ref": "5034"
+      "price": "60€",
+      "ref": "1119"
+    },
+    {
+      "name": "jatko",
+      "price": "60€",
+      "ref": "1915"
     }
   ],
   "muut": [
     {
       "name": "alkeet",
-      "price": "72€",
-      "ref": "5034"
+      "price": "75€",
+      "ref": "1012"
     },
     {
       "name": "alkeisjatko",
-      "price": "72€",
-      "ref": "5034"
+      "price": "80€",
+      "ref": "1119"
+    },
+    {
+      "name": "jatko",
+      "price": "80€",
+      "ref": "1915"
     }
   ]
 }
