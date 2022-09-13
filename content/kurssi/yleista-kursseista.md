@@ -19,8 +19,6 @@ Kaikki kausikurssit ja yleensä myös lyhytkurssit, pidetään Bottalla osoittee
 
 Lähtökohtaisesti kaikilla kursseilla on kiertävä parin vaihto, eli kursseille voi osallistua ilman omaa paria. Parin vaihto on kuitenkin vain vahva suositus, eli jos haluaa tanssia ainoastaan oman parinsa kanssa, sekin onnistuu. 
 
-**Koronatilanteesta johtuen suosittelemme kaikille maskin käyttöä tunnin aikana.**
-
 Kuhunkin **kurssiin sisältyy 13 opetuskertaa**. Kursseilla on alussa on koronatilanteen takia vain yksi ilmainen kokeilukertaa, kun viime vuosina on ollut kaksi. Kesken kurssin on mahdollista liittyä mukaan, mutta tätä ennen on ensin otettava yhteys [hallitukseen]({{< ref "/hallitus.md" >}}). Kesken kurssin aloittavalla on yksi ilmainen kokeilukerta.
 
 Kurssimme ovat tarkoitettuja ensisijaisesti opiskelijoille ja Pohjalaisten osakuntien jäsenille. Kursseille voi osallistua myös, vaikka et enää olisikaan opiskelija. Kannattaa siis varata paikkasi ajoissa! Ethän myöskään ilmoittaudu turhaan ja vie jonkun toisen paikkaa kurssilla. Jos pakollisista syistä et pääsekään kursseille, muista perua ilmoittautumisesi, jotta varasijalla olleet tanssijat pääsevät mukaan.
