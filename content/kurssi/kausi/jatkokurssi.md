@@ -15,6 +15,4 @@ Alkeisjatkokurssin käytyäsi tai muualla pidempää tanssittuasi voit osallistu
 
 {{% courseMeta jatko %}}
 
-## Kurssiaikataulu ja lajit syksyllä 2020
-
 {{< course jatko >}}
