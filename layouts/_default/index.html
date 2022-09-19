@@ -85,7 +85,7 @@
       {{ $events := where (where .Site.RegularPages "Section" "tapahtuma") "Date" "ge" now | first 3 }}
 
       {{ if eq ($events | len) 0 }}
-      <p>Tällä hetkellä ei ole tulevia bileitä tai tapahtumia tiedossa.</p>
+      <p>Tällä hetkellä ei ole tulevia bileitä, tiiviskursseja tai muita tapahtumia tiedossa. Huomaathan, että kausikurssit ovat kuitenkin käynnissä!</p>
       {{ else }}
       <ul>
         {{ range (sort $events "Date" "asec")}}
