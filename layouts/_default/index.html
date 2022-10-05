@@ -50,11 +50,13 @@
         <!--   {{ end }} -->
         <!--   {{ end }} -->
         <!-- </tr> -->
-        <!-- <tr> -->
+        <tr>
           <th>Alkeet </th>
           {{ range $firstThree }}
           {{ if eq .message "" }}
           <td class="trigger">{{ .alkeet }}</td>
+          {{ else }}
+          <td rowspan="4" class="trigger"><span class="vertical-text">{{ .message | upper }}</span></td>
           {{ end }}
           {{ end }}
         </tr>
