@@ -46,3 +46,5 @@ fields:
     juuri tällä osoitteella oikeaan paikkaan. Joskus riittää, että paikan nimi kirjoitetaan.
     "Botta" ei välttämättä riitä, koska Google Maps näyttää sen väärässä paikassa,
     vaikkakin kuva on oikea. Sen sijaan "Helsinki Pavi" löytää oikeaan paikkaan.
+pages:
+- content/tapahtuma/kevaankurssit2023.md
