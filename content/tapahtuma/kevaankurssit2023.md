@@ -4,7 +4,6 @@ articleTitle = ""
 clock = ""
 date = ""
 description = ""
-draft = true
 subdirectories = []
 title = ""
 
