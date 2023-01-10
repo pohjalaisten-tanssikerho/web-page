@@ -3,24 +3,32 @@
     {
       "name": "alkeet",
       "teacher": "Kimmo Luukkonen",
-      "start": "17:30",
-      "end": "19:15"
+      "start": "17:15",
+      "end": "19:00"
+    }
+  ],
+  "alkeetOma": [
+    {
+      "name": "alkeetOma",
+      "teacher": "Marianne Krause",
+      "start": "19:00",
+      "end": "20:45"
     }
   ],
   "alkeisjatko": [
     {
       "name": "alkeisjatko",
       "teacher": "Kimmo Luukkonen",
-      "start": "19:15",
-      "end": "21:00"
+      "start": "19:00",
+      "end": "20:45"
     }
   ],
   "jatko": [
     {
       "name": "jatko",
       "teacher": "Marianne Krause",
-      "start": "19:30",
-      "end": "21:00"
+      "start": "17:15",
+      "end": "19:00"
     }
   ]
 }

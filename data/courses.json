@@ -1,102 +1,124 @@
 {
   "courses": [
     {
-      "date": "2022-09-13",
+      "date": "2023-01-10",
+      "message": "",
+      "alkeet": "bugg",
+      "alkeetOma": "bugg",
+      "alkeisjatko": "fusku",
+      "jatko": "foksi"
+    },
+    {
+      "date": "2023-01-17",
+      "message": "",
+      "alkeet": "bugg",
+      "alkeetOma": "bugg",
+      "alkeisjatko": "fusku",
+      "jatko": "foksi"
+    },
+    {
+      "date": "2023-01-24",
       "message": "",
       "alkeet": "foksi",
-      "alkeisjatko": "foksi ja fusku",
+      "alkeetOma": "foksi",
+      "alkeisjatko": "foksi",
       "jatko": "bugg"
     },
     {
-      "date": "2022-09-20",
+      "date": "2023-01-31",
       "message": "",
       "alkeet": "foksi",
-      "alkeisjatko": "foksi ja fusku",
+      "alkeetOma": "foksi",
+      "alkeisjatko": "foksi",
       "jatko": "bugg"
     },
     {
-      "date": "2022-09-27",
+      "date": "2023-02-07",
       "message": "",
-      "alkeet": "fusku",
-      "alkeisjatko": "bachata",
-      "jatko": "salsa"
-    },
-    {
-      "date": "2022-10-04",
-      "message": "",
-      "alkeet": "fusku",
-      "alkeisjatko": "bachata",
-      "jatko": "salsa"
-    },
-    {
-      "date": "2022-10-11",
-      "message": "Ei tunteja",
-      "alkeet": "",
-      "alkeisjatko": "",
-      "jatko": ""
-    },
-    {
-      "date": "2022-10-18",
-      "message": "",
-      "alkeet": "foksi / fusku",
+      "alkeet": "bugg / fusku",
+      "alkeetOma": "bugg / fusku",
       "alkeisjatko": "bugg",
-      "jatko": "argentiinalainen tango"
+      "jatko": "tango"
     },
     {
-      "date": "2022-10-25",
+      "date": "2023-02-14",
       "message": "",
-      "alkeet": "bugg",
-      "alkeisjatko": "hidas valssi",
-      "jatko": "argentiinalainen tango"
+      "alkeet": "fusku",
+      "alkeetOma": "fusku",
+      "alkeisjatko": "bugg",
+      "jatko": "tango"
     },
     {
-      "date": "2022-11-01",
+      "date": "2023-02-21",
       "message": "",
-      "alkeet": "bugg",
-      "alkeisjatko": "hidas valssi",
-      "jatko": "west coast swing"
+      "alkeet": "fusku",
+      "alkeetOma": "fusku",
+      "alkeisjatko": "salsa",
+      "jatko": "rumba bolero"
     },
     {
-      "date": "2022-11-08",
-      "message": "",
-      "alkeet": "valssi",
-      "alkeisjatko": "tango",
-      "jatko": "west coast swing"
-    },
-    {
-      "date": "2022-11-15",
+      "date": "2023-02-28",
       "message": "",
       "alkeet": "valssi",
+      "alkeetOma": "valssi",
+      "alkeisjatko": "salsa",
+      "jatko": "rumba bolero"
+    },
+    {
+      "date": "2023-03-07",
+      "message": "",
+      "alkeet": "valssi",
+      "alkeetOma": "valssi",
       "alkeisjatko": "tango",
-      "jatko": "slow fox / slovari"
+      "jatko": "salsa"
     },
     {
-      "date": "2022-11-22",
+      "date": "2023-03-14",
+      "message": "",
+      "alkeet": "fusku / valssi",
+      "alkeetOma": "fusku / valssi",
+      "alkeisjatko": "tango",
+      "jatko": "salsa"
+    },
+    {
+      "date": "2023-03-21",
       "message": "",
       "alkeet": "salsa",
-      "alkeisjatko": "rumba bolero",
-      "jatko": "slow fox / slovari"
+      "alkeetOma": "salsa",
+      "alkeisjatko": "valssi",
+      "jatko": "jive"
     },
     {
-      "date": "2022-11-29",
+      "date": "2023-03-28",
       "message": "",
       "alkeet": "salsa",
-      "alkeisjatko": "rumba bolero",
-      "jatko": "swing stailauksia"
+      "alkeetOma": "salsa",
+      "alkeisjatko": "valssi",
+      "jatko": "jive"
     },
     {
-      "date": "2022-12-08",
+      "date": "2023-04-04",
       "message": "",
       "alkeet": "tango",
-      "alkeisjatko": "jve",
-      "jatko": "swing stailaukset"
+      "alkeetOma": "tango",
+      "alkeisjatko": "lindy hop",
+      "jatko": "fusku"
     },
     {
-      "date": "2022-12-13",
+      "date": "2023-04-11",
       "message": "",
       "alkeet": "tango",
-      "alkeisjatko": "jive",
-      "jatko": "toive"
+      "alkeetOma": "tango",
+      "alkeisjatko": "lindy hop",
+      "jatko": "fusku"
+    },
+    {
+      "date": "2023-04-18",
+      "message": "",
+      "alkeet": "cha cha / lattari / toive",
+      "alkeetOma": "cha cha / lattari / toive",
+      "alkeisjatko": "cha cha",
+      "jatko": "bachata"
     }
   ]
 }
