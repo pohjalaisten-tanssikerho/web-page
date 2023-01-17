@@ -10,11 +10,11 @@ description: Kaikkien viikottaisten kurssien aikataulut ja lajit.
 
 Kaikki kurssit ovat tiistaisin.
 
-<!-- {{< courseMeta all >}} -->
+{{< courseMeta all >}}
 
-  - alkeet kello 17:30 - 19:15
-  - alkeisjatko kello 19:15 - 21:00
-  - jatko kello 19:30 - 21:00
+  <!-- - alkeet kello 17:30 - 19:15 -->
+  <!-- - alkeisjatko kello 19:15 - 21:00 -->
+  <!-- - jatko kello 19:30 - 21:00 -->
 
 {{< courses all >}}
 
