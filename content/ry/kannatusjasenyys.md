@@ -3,6 +3,7 @@ title: Kannatusjäsenyys
 categories:
   - ry
 categories_weight: 3
+draft: true
 ---
 # Kannatusjäsenyys
 
