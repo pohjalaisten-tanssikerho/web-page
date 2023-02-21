@@ -32,7 +32,3 @@ Pohjalaisten tanssikerhon nettisivuja päivitetään jatkuvasti. Jos sinulla on 
 Nettisivujen tekemiseen tarvitaan myös kääntäjiä, koodaajia ja blogi-kirjoittajia. Suosimme englannin ja ruotsin taitajia. Koodaajien kannattaisi ainakin ymmärtää perus nettisivupalikoiden (css, html) lisäksi Hugoa (staattista nettisivugeneraattoria) ja vähän Gittiä sekä Githubia, tai vähintään omata kykyä ja intoa oppia edellä olevia. Blogisteilta toivotaan kevyttä kirjoituskättä ja hyvää mieltä tuottavaa ilmaisutaitoa.
 
 Nettisivujen versionhallinnassa käytettään [Githubia](https://github.com/pohjalaisten-tanssikerho/web-page). Linkin takaa näkee miten nämä nettisivut on rakennettu.
-
-## Kannatusjäsenyys
-
-Taloudellista tukea voi antaa [liittymällä kannatusjäseneksi]({{< ref "/kannatusjasenyys.md" >}}).
