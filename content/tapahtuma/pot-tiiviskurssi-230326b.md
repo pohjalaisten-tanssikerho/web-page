@@ -4,7 +4,7 @@ articleTitle: "Bugg tiiviskurssi edistyneille"
 subdirectories: ["tapahtuma"]
 description: "Jatkotason bugg tiiviskurssi"
 date: "2023-03-26"
-clock: "16:30 - 18:00"
+clock: "18:00 - 19:30"
 address: "Botta"
 ---
 
