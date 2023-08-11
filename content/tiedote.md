@@ -1,9 +1,9 @@
 ---
 title: Tiedote
-draft: true
+draft: false
 ---
-## Hyvää uuttavuotta 2022!
+## Syyskausi on alkamassa
 
-Kevätkauden paritanssikurssit on tarkoitus aloittaa tammi-helmikuussa heti kun koronarajoitukset tämän sallivat. Kurssit tiistai iltaisin Bottalla, monipuolisesti lavatanssilajeja, swingejä ja lattareita. Lähiaikoina kun tammi- ja helmikuun koronatilannetiedot selkiävät tulossa tarkemmat tiedot kurssien toteutuksesta.
+Syyskauden kurssien suunnittelu on jo täydessä vauhdissa. Kausikurssit alkavat syyskuussa, kurssit pidetään tiistaisin Ostrobotnia-talon viidennessä kerroksessa. Tarkemmat tiedot tulevat sivuille elokuun aikana.
 
-\-  POTin hallitus 02.01.2022
+\-  POTin hallitus 11.08.2023
