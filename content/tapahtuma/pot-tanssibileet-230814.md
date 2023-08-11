@@ -2,7 +2,7 @@
 title: "POT Tanssibileet"
 articleTitle: "POT Kesätanssibileet"
 subdirectories: ["tapahtuma"]
-description: "Tanssibileet"
+description: "Kesätanssibileet Designmuseon ulkolavalla"
 date: "2023-08-14"
 clock: "17:30 - 21:00"
 address: "Designmuseo"
