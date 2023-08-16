@@ -9,7 +9,7 @@ summaryLength: 35
 params:
   address: "Töölönkatu 3 A, 00940 Helsinki, 5krs."
   links:
-    signin: ""
+    signin: "https://docs.google.com/forms/d/1zBaFquiaG0-ReMatiXg8AG9jJdCmIh2GOtpzg_GCbOs/prefill"
     facebook: "https://www.facebook.com/groups/pot.tanssikerho/"
     whatsapp: "https://chat.whatsapp.com/GW5RsQ8aocE29pmXUCY229"
   bank:
