@@ -1,6 +1,6 @@
 ---
 title: Tiedote
-draft: false
+draft: true
 ---
 ## Syyskausi on alkamassa
 
