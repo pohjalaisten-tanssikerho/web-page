@@ -1,124 +1,124 @@
 {
   "courses": [
     {
-      "date": "2023-01-10",
-      "message": "",
-      "alkeet": "bugg",
-      "alkeetOma": "bugg",
-      "alkeisjatko": "fusku",
-      "jatko": "foksi"
-    },
-    {
-      "date": "2023-01-17",
-      "message": "",
-      "alkeet": "bugg",
-      "alkeetOma": "bugg",
-      "alkeisjatko": "fusku",
-      "jatko": "foksi"
-    },
-    {
-      "date": "2023-01-24",
-      "message": "",
-      "alkeet": "foksi",
-      "alkeetOma": "foksi",
-      "alkeisjatko": "foksi",
-      "jatko": "bugg"
-    },
-    {
-      "date": "2023-01-31",
-      "message": "",
-      "alkeet": "foksi",
-      "alkeetOma": "foksi",
-      "alkeisjatko": "foksi",
-      "jatko": "bugg"
-    },
-    {
-      "date": "2023-02-07",
-      "message": "",
-      "alkeet": "bugg / foksi",
-      "alkeetOma": "bugg / fusku",
-      "alkeisjatko": "bugg",
-      "jatko": "tango"
-    },
-    {
-      "date": "2023-02-14",
-      "message": "",
-      "alkeet": "fusku",
-      "alkeetOma": "fusku",
-      "alkeisjatko": "bugg",
-      "jatko": "tango"
-    },
-    {
-      "date": "2023-02-21",
-      "message": "",
-      "alkeet": "fusku",
-      "alkeetOma": "fusku",
-      "alkeisjatko": "salsa",
-      "jatko": "rumba bolero"
-    },
-    {
-      "date": "2023-02-28",
-      "message": "",
-      "alkeet": "valssi",
-      "alkeetOma": "valssi",
-      "alkeisjatko": "salsa",
-      "jatko": "rumba bolero"
-    },
-    {
-      "date": "2023-03-07",
-      "message": "",
-      "alkeet": "valssi",
-      "alkeetOma": "valssi",
-      "alkeisjatko": "tango",
-      "jatko": "salsa"
-    },
-    {
-      "date": "2023-03-14",
-      "message": "",
-      "alkeet": "fusku / valssi",
-      "alkeetOma": "fusku / valssi",
-      "alkeisjatko": "tango",
-      "jatko": "salsa"
-    },
-    {
-      "date": "2023-03-21",
+      "date": "2023-09-12",
       "message": "",
       "alkeet": "salsa",
       "alkeetOma": "salsa",
-      "alkeisjatko": "valssi",
-      "jatko": "jive"
+      "alkeisjatko": "fusku",
+      "jatko": "bugg"
     },
     {
-      "date": "2023-03-28",
+      "date": "2023-09-19",
       "message": "",
       "alkeet": "salsa",
       "alkeetOma": "salsa",
-      "alkeisjatko": "valssi",
-      "jatko": "jive"
-    },
-    {
-      "date": "2023-04-04",
-      "message": "",
-      "alkeet": "tango",
-      "alkeetOma": "tango",
-      "alkeisjatko": "lindy hop",
+      "alkeisjatko": "fusku",
       "jatko": "fusku"
     },
     {
-      "date": "2023-04-11",
+      "date": "2023-09-26",
       "message": "",
-      "alkeet": "tango",
-      "alkeetOma": "tango",
-      "alkeisjatko": "lindy hop",
-      "jatko": "fusku"
+      "alkeet": "valssi",
+      "alkeetOma": "valssi",
+      "alkeisjatko": "bugg",
+      "jatko": "salsa & polkka"
     },
     {
-      "date": "2023-04-18",
+      "date": "2023-10-03",
       "message": "",
-      "alkeet": "cha cha / lattari / toive",
-      "alkeetOma": "cha cha / lattari / toive",
-      "alkeisjatko": "cha cha",
+      "alkeet": "valssi",
+      "alkeetOma": "valssi",
+      "alkeisjatko": "bugg",
+      "jatko": "salsa & polkka"
+    },
+    {
+      "date": "2023-10-10",
+      "message": "",
+      "alkeet": "kertaus",
+      "alkeetOma": "kertaus",
+      "alkeisjatko": "foksi",
+      "jatko": "bachata & polkka"
+    },
+    {
+      "date": "2023-17-10",
+      "message": "",
+      "alkeet": "bugg",
+      "alkeetOma": "bugg",
+      "alkeisjatko": "foksi",
       "jatko": "bachata"
+    },
+    {
+      "date": "2023-24-10",
+      "message": "",
+      "alkeet": "bugg",
+      "alkeetOma": "bugg",
+      "alkeisjatko": "west coast swing",
+      "jatko": "hidas foksi"
+    },
+    {
+      "date": "2023-10-31",
+      "message": "",
+      "alkeet": "foksi",
+      "alkeetOma": "foksi",
+      "alkeisjatko": "west coast swing",
+      "jatko": "hidas foksi"
+    },
+    {
+      "date": "2023-11-07",
+      "message": "",
+      "alkeet": "foksi",
+      "alkeetOma": "foksi",
+      "alkeisjatko": "tango",
+      "jatko": "lindy hop"
+    },
+    {
+      "date": "2023-11-14",
+      "message": "",
+      "alkeet": "kertaus",
+      "alkeetOma": "kertaus",
+      "alkeisjatko": "tango",
+      "jatko": "lindy hop"
+    },
+    {
+      "date": "2023-11-21",
+      "message": "",
+      "alkeet": "fusku",
+      "alkeetOma": "fusku",
+      "alkeisjatko": "salsa",
+      "jatko": "tango"
+    },
+    {
+      "date": "2023-11-28",
+      "message": "",
+      "alkeet": "fusku",
+      "alkeetOma": "fusku",
+      "alkeisjatko": "salsa",
+      "jatko": "tango"
+    },
+    {
+      "date": "2023-12-05",
+      "message": "",
+      "alkeet": "tango",
+      "alkeetOma": "tango",
+      "alkeisjatko": "bachata",
+      "jatko": "hidas valssi"
+    },
+    {
+      "date": "2023-12-12",
+      "message": "",
+      "alkeet": "tango",
+      "alkeetOma": "tango",
+      "alkeisjatko": "bachata",
+      "jatko": "jive/boogie woogie"
+    },
+    {
+      "date": "2023-12-19",
+      "message": "",
+      "alkeet": "kertaus",
+      "alkeetOma": "kertaus",
+      "alkeisjatko": "hidas valssi",
+      "jatko": "jive/boogie woogie"
     }
   ]
 }
