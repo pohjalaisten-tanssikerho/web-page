@@ -4,7 +4,7 @@
       "name": "Alkeet",
       "teacher": "Kimmo Luukkonen",
       "start": "17:15",
-      "end": "18:45"
+      "end": "19:00"
     }
   ],
   "alkeetOma": [
@@ -12,7 +12,7 @@
       "name": "Alkeet omalla parilla",
       "teacher": "Marianne Krause",
       "start": "19:00",
-      "end": "20:30"
+      "end": "20:45"
     }
   ],
   "alkeisjatko": [
@@ -20,7 +20,7 @@
       "name": "Alkeisjatko",
       "teacher": "Kimmo Luukkonen",
       "start": "19:00",
-      "end": "20:30"
+      "end": "20:45"
     }
   ],
   "jatko": [
@@ -28,7 +28,7 @@
       "name": "Jatko",
       "teacher": "Marianne Krause",
       "start": "17:15",
-      "end": "18:45"
+      "end": "19:00"
     }
   ]
 }
