@@ -1,5 +1,5 @@
 ---
-title: "Alkeet parin vaihdoilla"
+title: "Alkeet parinvaihdoilla"
 description: "Tälle kurssille et tarvitse omaa paria. Sosiaalitanssia ja uusiin ihmisiin tutustumista parhaimmillaan."
 subdirectories: ["kurssi_kausi"]
 subdirectories_weight: 2
