@@ -12,7 +12,7 @@ Alkeiskurssille voi osallistua ilman minkäänlaista aiempaa tanssikokemusta ja 
 
 **Kurssilla tanssitaan oman parin kanssa!**
 
-[Täytä kurssi-ilmoittautuminen](https://docs.google.com/forms/d/e/1FAIpQLScNwqSARqS1uUOpHWRjzuHKtx05SlpSwJTLgvOR39xMxRju-Q/viewform?fbclid=IwAR3hM4fVcHwDL5dmN2rOoCNT1mRrVP5qPcROuxe3A0XQvO4DtFbE03tCtDQ) ja tule kursseille!
+[Täytä kurssi-ilmoittautuminen]({{< link signin >}}) ja tule kursseille!
 
 {{% courseMeta alkeetOma %}}
 {{< course alkeetOma >}}
