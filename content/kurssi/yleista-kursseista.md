@@ -9,7 +9,7 @@ description: Kaikille viikottaisille kursseille yhteistä asiaa ja käytäntöj�
 
 Pohjalaisten tanssikerho järjestää lukukauden pituisia tanssikursseja, joiden aikana opetetaan suosituimpia lavatansseja ja vähän ekstraakin. Yhteensä kursseja on neljä:
 
-* [alkeiskurssi oman parin kanssa]({{< ref "/kurssi/kausi/alkeet-oman-parin-kanssa.md" >}})
+* [alkeiskurssi oman parin kanssa]({{< ref "/kurssi/kausi/alkeiskurssi.md" >}})
 * [alkeiskurssi vaihtuvilla pareilla]({{< ref "/kurssi/kausi/alkeet-parin-vaihdoilla.md" >}})
 * [alkeisjatkokurssi]({{< ref "/kurssi/kausi/alkeisjatko.md" >}})
 * [jatkokurssi]({{< ref "/kurssi/kausi/jatkokurssi.md" >}})
