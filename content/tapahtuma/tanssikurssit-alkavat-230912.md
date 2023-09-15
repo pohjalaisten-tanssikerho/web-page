@@ -10,7 +10,7 @@ address: "Ostrobotnia-talo, Botta"
 
 Pohjalaisten tanssikerhon kausikurssit alkavat tiistaina 12.9.2023! Tarkemmat tiedot tanssilajeista sekä ilmoittautumislomakkeet löytyvät näiltä nettisivuilta.
 
-Kursseilla on yhteensä kolme ilmaiskokeilukertaa (12.9, 19.9. ja 26.9.), jonne ei tarvitse ilmoittautua etukäteen. Mikäli päätät 26.9.2023 kurssikerran jälkeen jatkaa kurssilla käymistä, ilmoittauduthan kurssille 1.10.2023 mennessä.
+Kursseilla on yhteensä kolme ilmaiskokeilukertaa (12.9, 19.9. ja 26.9.), jonne ei tarvitse ilmoittautua etukäteen. Mikäli päätät 26.9.2023 kurssikerran jälkeen jatkaa kurssilla käymistä, ilmoittauduthan kurssille 1.10.2023 mennessä. Ilmoittautumisvahvistus maksutietoineen lähetetään lomakkeella ilmoittamaasi sähköpostiosoitteeseen 1.10. jälkeen.
 
 ALKEISKURSSIT VAIHTUVILLA PAREILLA TANSSIEN:
 Tiistaisin 12.9-19.12.2023 klo 17:15-19:00. Hinnat 35 e osakuntalainen (EPO, PPO, VN) / 45 e opiskelija / 75 e muu.
