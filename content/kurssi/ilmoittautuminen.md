@@ -10,7 +10,7 @@ description: "Ilmoittaudu kursseille."
 
 Kausikursseille ilmoittautuminen tapahtuu täyttämällä [ilmoittautumislomake]({{< link signin >}}). Tiiviskursseille ilmoittautuminen tapahtuu erillisellä lomakkeella, joka on tiiviskurssisivun yhteydessä.
 
-1.10.2023 jälkeen ilmoittautuminen sähköpostilla pohjalaistentanssikerho.ry@gmail.com. Kirjoitathan viestikenttään seuraavat tiedot: 
+1.10.2023 jälkeen kausikursseille ilmoittautuminen sähköpostilla pohjalaistentanssikerho.ry@gmail.com. Kirjoitathan viestikenttään seuraavat tiedot: 
 - kurssi/kurssit, jolle aiot ilmoittautua
 - etunimi ja sukunimi
 - kotipaikkakunta
