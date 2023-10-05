@@ -15,5 +15,5 @@ Kausikursseille ilmoittautuminen tapahtuu täyttämällä [ilmoittautumislomake]
 - etunimi ja sukunimi
 - kotipaikkakunta
 - rooli: seuraaja/viejä
-- osakunnan jäsen EPO, PPO tai VN / opiskelija / muu
+- olet: osakunnan jäsen EPO, PPO tai VN / opiskelija / muu
 - saa lisätä tanssikerhon sähköpostilistalle / ei saa lisätä sähköpostilistalle
