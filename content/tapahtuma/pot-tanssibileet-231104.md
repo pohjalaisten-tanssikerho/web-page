@@ -1,6 +1,6 @@
 ---
 title: "POT buggin tiiviskurssi ja tanssibileet"
-articleTitle: "POT tanssibileet"
+articleTitle: "POT buggin tiiviskurssi ja tanssibileet"
 subdirectories: ["tapahtuma"]
 description: "Tanssibileet Bottalla"
 date: "2023-11-04"
