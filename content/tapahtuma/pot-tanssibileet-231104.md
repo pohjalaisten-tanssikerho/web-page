@@ -1,5 +1,5 @@
 ---
-title: "POT Tanssibileet"
+title: "POT buggin tiiviskurssi ja tanssibileet"
 articleTitle: "POT tanssibileet"
 subdirectories: ["tapahtuma"]
 description: "Tanssibileet Bottalla"
