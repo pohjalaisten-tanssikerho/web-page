@@ -11,9 +11,11 @@ address: "Botta"
 Käännetään marraskuu valoisaksi sekä lämpimäksi tanssien la 4.11 klo 18.00-puolille öin asti💃🕺😃
 Viihdytään ja pidetään hauskaa tanssibailutunnelmissa mukavassa seurassa tanssien🎉✨
 
+Ennen tanssibileitä klo 17-18:30 vasemmalla sijaitsevassa salissa pidetään buggin tiiviskurssi aiheena musiikin rytmi ja sen hyötykäyttäminen tanssissa. Tiiviskurssilla keskitytään nimensäkin mukaisesti musiikin rytmiin ja sen rakenteeseen. Otamme ne osaksi tanssimista antaen tanssille uutta ulottuvuutta. Tiiviskurssi on suunnattu jo buggin alkeet käyneille tanssijoille. Valmentajina toimivat Suvi Mäenpää ja Greatman Lim. Tiiviskurssi on maksuton.
+
 Käytössä on kaksi tanssisalia. DJ:t soittavat modernia nuorekasta lavatanssimusiikkia (valssit, tangot, foksit, slovarit), rock & swingejä (bugg, fusku, west coast swing, lindy hop) ja lattareita (salsa, bachata, rumba bolero, cha cha) monipuolisesti 😎 
 
-Vasemmalla sijaitsevassa salissa tanssimusiikki soi kappalepareittain tanssilajit koko illan. Oikeanpuoleisessa salissa musiikki soi jaksotettuna lajeittain - laji tunti kerrallaan: bugg(klo 18-19), west coast swing(klo 19-20), fusku(klo 20-21), tango(klo 21-22), foksi/slovarit(klo 23-00)🎺🎷🎼
+Vasemmalla sijaitsevassa salissa tanssimusiikki soi kappalepareittain tanssilajit koko illan. Oikeanpuoleisessa salissa musiikki soi jaksotettuna lajeittain - laji tunti kerrallaan: tango(klo 18-19), bugg(klo 19-20), west coast swing(klo 20-21), fusku(klo 21-22), tango(klo 22-23), foksi/slovarit(klo 23-00)🎺🎷🎼
 
 Lämpimästi tervetuloa nykyiset ja entiset tanssikerholaiset (POT, HOT), sekä nykyiset ja entiset osakuntalaiset (PPO, EPO, VN). Lisäksi näihin tanssibileisiin ovat tervetulleita myös kaikki korkeakouluopiskelijat, avecit sekä vierailijaluvalliset.
 Vierailijalupaa pystyt hakemaan seuraavan lomakkeen kautta:
