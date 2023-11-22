@@ -49,14 +49,16 @@ Aika ja paikka: Kurssi pidetään su 26.11. klo 19:45-21:15. Paikkana Pohjalaist
 
 Maksutiedot:
 
-Summa:
-5 € osakuntalainen (EPO, PPO, VN)
-10 € opiskelija
-15 € muut
-Saaja: Pohjalaisten tanssikerho ry
-Tilinumero: FI51 7997 7998 0564 23
-BIC: HOLVFIHH
-Viite: 3340
+Maksutiedot:
+
+  - Summa: 
+  - 5 € osakuntalainen (EPO, PPO, VN)
+  - 10 € opiskelija
+  - 15 € muut
+  - Saaja: Pohjalaisten tanssikerho ry
+  - Tilinumero: FI51 7997 7998 0564 23
+  - BIC: HOLVFIHH
+  - Viite: 3340
 
 Maksathan kurssimaksun omatoimisesti viimeistään 10.12, kiitos.
 
