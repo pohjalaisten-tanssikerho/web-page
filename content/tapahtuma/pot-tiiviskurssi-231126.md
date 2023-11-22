@@ -22,6 +22,7 @@ Opettajat: Helena Metsä ja Timo Huhtinen
 Aika ja paikka: Kurssi pidetään su 26.11. klo 18:15-19:45. Paikkana Pohjalaisten osakuntien vasemmanpuoleinen iso tanssisali Ostrobotnia-talolla (Töölönkatu 3A, 5. kerros).
 
 Maksutiedot:
+
 Summa:
 5 € osakuntalainen (EPO, PPO, VN)
 10 € opiskelija
@@ -47,6 +48,7 @@ Opettajat: Timo Huhtinen ja Helena Metsä
 Aika ja paikka: Kurssi pidetään su 26.11. klo 19:45-21:15. Paikkana Pohjalaisten osakuntien vasemmanpuoleinen iso tanssisali Ostrobotnia-talolla (Töölönkatu 3A, 5. kerros).
 
 Maksutiedot:
+
 Summa:
 5 € osakuntalainen (EPO, PPO, VN)
 10 € opiskelija
