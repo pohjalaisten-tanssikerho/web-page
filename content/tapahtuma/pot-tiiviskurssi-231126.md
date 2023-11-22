@@ -49,8 +49,6 @@ Aika ja paikka: Kurssi pidetään su 26.11. klo 19:45-21:15. Paikkana Pohjalaist
 
 Maksutiedot:
 
-Maksutiedot:
-
   - Summa: 
   - 5 € osakuntalainen (EPO, PPO, VN)
   - 10 € opiskelija
