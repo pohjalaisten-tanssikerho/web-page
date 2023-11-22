@@ -11,6 +11,7 @@ address: "Botta"
 Su 26.11 nautitaan fuskun Suomen mestarien opetuksesta fuskuun ja lindy hoppiin💃🕺😃 Tanssikerholle tulee vierailemaan kokeneet huippu tanssiopettajat. Rock and swing tanssikilpailuissa Helena Metsä ja Timo Huhtinen ovat olleet vuosia Suomen kärkeä🙂
 
 FUSKU TIIVISTANSSIKURSSI
+
 Tiivarilla syvennymme siihen, miten saamme fuskusta enemmän fuskua. Käydään läpi tekniikkaa ja hauskoja kuvioita. Löydetään uusia keinoja, millä saadaan tanssista enemmän tanssillista ja näyttävää.
 Kurssi soveltuu jo fuskun perusteet osaaville jatkotasojen alkeisjatko ja jatko tanssijoille. Tanssilajin alkeita ei siis enää opeteta. Täydentää hyvin kausikursseilla opittua ja tuo uutta.
 Tunneilla on kiertävä parinvaihto, eli et tarvitse omaa paria.
