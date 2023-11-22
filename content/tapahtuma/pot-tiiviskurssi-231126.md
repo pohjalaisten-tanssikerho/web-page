@@ -53,7 +53,7 @@ Viite: 3340
 Maksathan kurssimaksun omatoimisesti viimeistään 10.12, kiitos.
 
 Kummallekin tiiviskurssille ilmoittaudutaan seuraavan lomakkeen kautta:
-linkki tulossa
+(https://docs.google.com/forms/d/e/1FAIpQLSeAfZqjES_53xmXAlz_spokBo1iUfFja3LJmzNJVsmSkmzMeg/viewform)
 
 Ilmoittautumisen jälkeen voit saapua suoraan paikalle kurssin alkamisaikaan.
 
