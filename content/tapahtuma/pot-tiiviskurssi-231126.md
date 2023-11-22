@@ -14,8 +14,11 @@ FUSKU TIIVISTANSSIKURSSI
 
 Tiivarilla syvennymme siihen, miten saamme fuskusta enemmän fuskua. Käydään läpi tekniikkaa ja hauskoja kuvioita. Löydetään uusia keinoja, millä saadaan tanssista enemmän tanssillista ja näyttävää.
 Kurssi soveltuu jo fuskun perusteet osaaville jatkotasojen alkeisjatko ja jatko tanssijoille. Tanssilajin alkeita ei siis enää opeteta. Täydentää hyvin kausikursseilla opittua ja tuo uutta.
+
 Tunneilla on kiertävä parinvaihto, eli et tarvitse omaa paria.
+
 Opettajat: Helena Metsä ja Timo Huhtinen
+
 Aika ja paikka: Kurssi pidetään su 26.11. klo 18:15-19:45. Paikkana Pohjalaisten osakuntien vasemmanpuoleinen iso tanssisali Ostrobotnia-talolla (Töölönkatu 3A, 5. kerros).
 
 Maksutiedot:
@@ -31,13 +34,16 @@ Viite: 3337
 Maksathan kurssimaksun omatoimisesti viimeistään 10.12 kiitos.
 
 Ilmoittautumislinkki löytyy alempaa.
----
 
 LINDY HOP TIIVISTANSSIKURSSI
+
 Kurssilla syvennytään lindy hoppiin tekniikan sekä uusien kuvioiden kautta.
 Kurssi on suunnattu lindy hopin perusteet käyneille, heille ketkä ovat jo aikaisemmin käyneet esim. lindy hoppia potin tai hotin kausikursseilla, tiivareilla tai muualla.
+
 Tunneilla on kiertävä parinvaihto, eli et tarvitse omaa paria.
+
 Opettajat: Timo Huhtinen ja Helena Metsä
+
 Aika ja paikka: Kurssi pidetään su 26.11. klo 19:45-21:15. Paikkana Pohjalaisten osakuntien vasemmanpuoleinen iso tanssisali Ostrobotnia-talolla (Töölönkatu 3A, 5. kerros).
 
 Maksutiedot:
