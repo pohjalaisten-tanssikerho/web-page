@@ -16,7 +16,7 @@ Vasemmalla sijaitsevassa salissa tanssimusiikki soi kappalepareittain tanssilaji
 Bileiden alkuun on suunniteilla myös tiiviskurssimahdollisuus tanssiopetusta😃💃🕺 Tästä tulossa linkki tiivarin tapahtumainfoon kunhan toteutus selviää tarkemmin.
 Bileet ovat ilmaiset maksuttomat. Lämpimästi tervetuloa nykyiset ja entiset tanssikerholaiset POTit ja HOTit sekä nykyiset ja entiset osakuntalaiset. Lisäksi näihin tanssibileisiin ovat tervetulleita myös avecit, kaikki korkeakouluopiskelijat sekä vierailijaluvalliset.
 Vierailijalupaa pystyy hakemaan seuraavan lomakkeen kautta:
-[https://docs.google.com/forms/d/e/1FAIpQLSfgBKmt2CZkwgjVvfXtrZd5QvZwXGufUJgSN4QEKCeomH3MHw/viewform]
+https://docs.google.com/forms/d/e/1FAIpQLSfgBKmt2CZkwgjVvfXtrZd5QvZwXGufUJgSN4QEKCeomH3MHw/viewform
 Avecin tuominen ei koske vierailijaluvallisia. Nykyiset sekä entiset tanssikerholaiset POT tai HOT ja osakuntalaiset (PPO, EPO, VN) voivat tuoda mukanaan kaverin. Kaikki kerhon kausitanssikursseilla kävijät ovat kerhon jäseniä.
 Kirjaathan nimesi paikalle saapuessa vieraskirjaan, kiitos🙂
 ---------------------
