@@ -7,7 +7,6 @@ date: "2023-12-10"
 clock: "18:00 - 23:00"
 address: "Botta"
 ---
-
 Seuraavat tanssibileet su 10.12. klo 18-23. Pidetään hauskaa, nautitaan tanssimisesta sekä rennosta tanssibiletunnelmasta💃🕺🎉
 
 Käytössä on kaksi tanssisalia. DJ:t soittavat modernia nuorekasta tanssimusiikkia, monipuolisesti lavatansseja (mm. valssit, tangot, foksit, slovarit) rock&swingejä (bugg, fusku, west coast swing, lindy hop) ja lattareita (salsa, bachata, rumba bolero, cha cha)😎
