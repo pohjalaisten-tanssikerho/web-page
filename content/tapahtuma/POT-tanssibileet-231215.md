@@ -1,6 +1,6 @@
 ---
-title: "POT Pikkujoulutanssibileet"
-articleTitle: "Tanssibileet"
+title: "POT tanssibileet"
+articleTitle: "POT Pikkujoulutanssibileet"
 subdirectories: ["tapahtuma"]
 description: "POTin järjestämät tanssibileet"
 date: "2023-12-15"
