@@ -1,6 +1,6 @@
 ---
 title: "POT Tanssibileet"
-articleTitle: "Tanssibileet"
+articleTitle: "POT Tanssibileet"
 subdirectories: ["tapahtuma"]
 description: "POTin järjestämät tanssibileet"
 date: "2023-12-10"
