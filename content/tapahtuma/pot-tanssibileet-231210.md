@@ -23,6 +23,7 @@ Avecin tuominen ei koske vierailijaluvallisia. Nykyiset ja entiset tanssikerhola
 Kirjaathan nimesi paikalle saapuessa vieraskirjaan, kiitos🙂
 
 ---------------------
+
 Tanssiaisissa on vapaa sekahaku. Haetaan kohteliaasti toisiamme tanssimaan. Yleensä uuden tanssiparin kanssa tapana on tanssia kappalepari, pari kappaletta ennen parinvaihtoa. Etenevissä tanssilajeissa tanssisuunta on vastapäivään salia ympäri kiertäen ja vähemmän liikkuvat/paikoillaan tanssittavat lajit tanssialue keskellä lattiaa.
 
 Tanssisalien läheltä löytyy musiikkilistat tanssilajeineen. Tanssisalien välissä sijaitsee hengailu istuskelu aulatila jossa on hyvä tanssien lomassa levähtää ja tutustua tanssikavereihin. Tarjolla syötävää ja juotavaa🎉
