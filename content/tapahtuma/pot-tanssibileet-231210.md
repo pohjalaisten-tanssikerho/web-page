@@ -29,5 +29,6 @@ Tanssisalien läheltä löytyy musiikkilistat tanssilajeineen. Tanssisalien väl
 Suunnistamisohjeet: Manala ravintolan vierestä Töölönkatu 3A Bottan ulko-ovesta sisään, portailla tai hissillä ylös Pohjalaisten osakuntien tanssitaivasta kohti 5. krs. Oven avaamalla saavut 5. krs aulaan jonka vieressä tanssisalit sijaitsevat.
 Kivoja kuvia kerhon tanssibileiden tunnelmasta ja toiminnasta vuosien varrelta on nähtävissä intagramista pohjalaistentanssikerho:
 https://www.instagram.com/pohjalaistentanssikerho/
+
 Herätessä mieleen kysyttävää, ajatuksia tai toiveita sähköposti pohjalaistentanssikerho.ry@gmail.com tai kysymällä kerhon hallituslaisilta (Lasse, Siru, Greatman, Suvi) tansseissa.
 Tanssin iloa!🙂
