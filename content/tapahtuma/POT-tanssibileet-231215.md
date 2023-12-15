@@ -18,7 +18,10 @@ https://docs.google.com/forms/d/e/1FAIpQLSfgBKmt2CZkwgjVvfXtrZd5QvZwXGufUJgSN4QE
 Avecin tuominen ei koske vierailijaluvallisia. Nykyiset sekä entiset tanssikerholaiset POT tai HOT ja osakuntalaiset (PPO, EPO, VN) ja opiskelijat voivat tuoda mukanaan kaverin. Kaikki kerhon kausitanssikursseilla kävijät ovat kerhon jäseniä. Kirjaathan nimesi paikalle saapuessa vieraskirjaan, kiitos🙂
 Tarjolla on joulutunnelmaa luomaan glögiä sekä joulusia herkkuja🎉🎄🎅
 
+
 Tanssiaisissa on vapaa sekahaku. Haetaan kohteliaasti toisiamme tanssimaan. Alkeiskurssilaiset ja uudet tanssijat ei huolta tanssikokemuksesta - POTilla kokeneet tanssijat ottavat aloittelevat tanssijat ystävällisesti vastaan. Lisäksi musiikista löytyy runsaasti alkeiskurssilla tutuiksi tulleita tanssilajeja. Mikäli olet aloittelemassa tanssimista voit sanoa olevasi aloittelija, niin pidempään tanssineet huomioivat ystävällisesti tämän, mukauttavat tanssin toisen huomioivaksi. Tärkeintä bileissä ei ole tanssitaidot, vaan hauska rento tunnelma! Paikalla vallitsee kiva yhteisöllinen sekä toisistamme välittävä henki- tehdään hauska ilta kaikki yhdessä🙂
+
+
 Navigointiohjeet: Manala ravintolan vierestä Töölönkatu 3A Bottan ulko-ovesta sisään, portailla tai hissillä ylös Pohjalaisten osakuntien tanssitaivasta kohti 5. krs. Oven avaamalla saavut 5. krs aulaan jonka vieressä tanssisalit sijaitsevat.
 Mikäli herää mieleen kysyttävää vastaamme mielellämme. Meidät tavoitat laittamalla viestiä pohjalaistentanssikerho.ry@gmail.com
 Lämpimästi tervetuloa viihtymään ja nauttimaan jouluisesta tanssi-illasta!🎅🎄💃🕺
