@@ -7,12 +7,12 @@
     },
     {
       "name": "alkeisjatko",
-      "price": "40€",
+      "price": "35€",
       "ref": "1119"
     },
     {
       "name": "jatko",
-      "price": "40€",
+      "price": "35€",
       "ref": "1915"
     }
   ],
@@ -24,19 +24,19 @@
     },
     {
       "name": "alkeisjatko",
-      "price": "50€",
+      "price": "45€",
       "ref": "1119"
     },
     {
       "name": "jatko",
-      "price": "50€",
+      "price": "45€",
       "ref": "1915"
     }
   ],
   "muut": [
     {
       "name": "alkeet",
-      "price": "75€",
+      "price": "80€",
       "ref": "1012"
     },
     {
