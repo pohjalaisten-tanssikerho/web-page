@@ -1,47 +1,31 @@
 {
   "courses": [
     {
-      "date": "2023-09-12",
+      "date": "2024-01-16",
       "message": "",
       "alkeet": "salsa",
       "alkeetOma": "salsa",
-      "alkeisjatko": "fusku",
+      "alkeisjatko": "bugg",
       "jatko": "bugg"
     },
     {
-      "date": "2023-09-19",
+      "date": "2024-01-23",
       "message": "",
       "alkeet": "salsa",
       "alkeetOma": "salsa",
-      "alkeisjatko": "fusku",
-      "jatko": "fusku"
-    },
-    {
-      "date": "2023-09-26",
-      "message": "",
-      "alkeet": "valssi",
-      "alkeetOma": "valssi",
       "alkeisjatko": "bugg",
-      "jatko": "salsa & polkka"
+      "jatko": "bugg"
     },
     {
-      "date": "2023-10-03",
+      "date": "2024-01-30",
       "message": "",
-      "alkeet": "valssi",
-      "alkeetOma": "valssi",
-      "alkeisjatko": "bugg",
-      "jatko": "salsa & polkka"
-    },
-    {
-      "date": "2023-10-10",
-      "message": "",
-      "alkeet": "kertaus",
-      "alkeetOma": "kertaus",
+      "alkeet": "bugg",
+      "alkeetOma": bugg",
       "alkeisjatko": "foksi",
-      "jatko": "bachata & polkka"
+      "jatko": "bachata"
     },
     {
-      "date": "2023-10-17",
+      "date": "2024-02-06",
       "message": "",
       "alkeet": "bugg",
       "alkeetOma": "bugg",
@@ -49,76 +33,92 @@
       "jatko": "bachata"
     },
     {
-      "date": "2023-10-24",
-      "message": "",
-      "alkeet": "bugg",
-      "alkeetOma": "bugg",
-      "alkeisjatko": "west coast swing",
-      "jatko": "hidas foksi"
-    },
-    {
-      "date": "2023-10-31",
-      "message": "",
-      "alkeet": "foksi",
-      "alkeetOma": "foksi",
-      "alkeisjatko": "west coast swing",
-      "jatko": "hidas foksi"
-    },
-    {
-      "date": "2023-11-07",
-      "message": "",
-      "alkeet": "foksi",
-      "alkeetOma": "foksi",
-      "alkeisjatko": "tango",
-      "jatko": "lindy hop"
-    },
-    {
-      "date": "2023-11-14",
+      "date": "2024-02-13",
       "message": "",
       "alkeet": "kertaus",
       "alkeetOma": "kertaus",
+      "alkeisjatko": "salsa",
+      "jatko": "tango + argtango"
+    },
+    {
+      "date": "2024-02-20",
+      "message": "",
+      "alkeet": "foksi",
+      "alkeetOma": "foksi",
+      "alkeisjatko": "salsa",
+      "jatko": "tango + argtango"
+    },
+    {
+      "date": "2024-02-27",
+      "message": "",
+      "alkeet": "foksi",
+      "alkeetOma": "foksi",
       "alkeisjatko": "tango",
-      "jatko": "lindy hop"
+      "jatko": "kizomba"
     },
     {
-      "date": "2023-11-21",
+      "date": "2024-03-05",
       "message": "",
       "alkeet": "fusku",
       "alkeetOma": "fusku",
-      "alkeisjatko": "salsa",
-      "jatko": "argentiinalainen tango"
+      "alkeisjatko": "tango",
+      "jatko": "kizomba"
     },
     {
-      "date": "2023-11-28",
+      "date": "2024-03-12",
       "message": "",
       "alkeet": "fusku",
       "alkeetOma": "fusku",
-      "alkeisjatko": "salsa",
-      "jatko": "argentiinalainen tango"
+      "alkeisjatko": "bachata",
+      "jatko": "fusku"
     },
     {
-      "date": "2023-12-05",
+      "date": "2024-03-19",
+      "message": "",
+      "alkeet": "kertaus",
+      "alkeetOma": "kertaus",
+      "alkeisjatko": "bachata",
+      "jatko": "fusku"
+    },
+    {
+      "date": "2024-03-26",
       "message": "",
       "alkeet": "tango",
       "alkeetOma": "tango",
-      "alkeisjatko": "bachata",
-      "jatko": "hidas valssi"
+      "alkeisjatko": "fusku",
+      "jatko": "cha cha"
     },
     {
-      "date": "2023-12-12",
+      "date": "2024-04-02",
       "message": "",
       "alkeet": "tango",
       "alkeetOma": "tango",
-      "alkeisjatko": "bachata",
-      "jatko": "jive/boogie woogie"
+      "alkeisjatko": "fusku",
+      "jatko": "cha cha"
     },
     {
-      "date": "2023-12-19",
+      "date": "2024-04-09",
+      "message": "",
+      "alkeet": "valssi",
+      "alkeetOma": "valssi",
+      "alkeisjatko": "west coast swing",
+      "jatko": "hidas foksi"
+    },
+    {
+      "date": "2024-04-16",
+      "message": "",
+      "alkeet": "valssi",
+      "alkeetOma": "valssi",
+      "alkeisjatko": "west coast swing",
+      "jatko": "hidas foksi"
+    },
+    {
+      "date": "2024-04-23",
       "message": "",
       "alkeet": "kertaus",
       "alkeetOma": "kertaus",
       "alkeisjatko": "hidas valssi",
-      "jatko": "jive/boogie woogie"
+      "jatko": "salsa"
     }
   ]
 }
