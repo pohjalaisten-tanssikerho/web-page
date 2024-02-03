@@ -87,7 +87,7 @@
       {{ $events := where (where .Site.RegularPages "Section" "tapahtuma") "Date" "ge" now | last 3 }}
 
       {{ if eq ($events | len) 0 }}
-      <p>Tapahtumat jatkuvat tammikuussa!</p>
+      <!-- <p>Tapahtumat jatkuvat tammikuussa!</p> -->
       {{ else }}
       <ul>
         {{ range (sort $events "Date" "asec")}}
