@@ -34,17 +34,13 @@
     },
     {
       "date": "2024-02-13",
-      "message": "",
-      "alkeet": "kertaus",
-      "alkeetOma": "kertaus",
-      "alkeisjatko": "salsa",
-      "jatko": "tango + argtango"
+      "message": "Ei opetusta"
     },
     {
       "date": "2024-02-20",
       "message": "",
-      "alkeet": "foksi",
-      "alkeetOma": "foksi",
+      "alkeet": "kertaus",
+      "alkeetOma": "kertaus",
       "alkeisjatko": "salsa",
       "jatko": "tango + argtango"
     },
@@ -53,14 +49,14 @@
       "message": "",
       "alkeet": "foksi",
       "alkeetOma": "foksi",
-      "alkeisjatko": "tango",
-      "jatko": "kizomba"
+      "alkeisjatko": "salsa",
+      "jatko": "tango + argtango"
     },
     {
       "date": "2024-03-05",
       "message": "",
-      "alkeet": "fusku",
-      "alkeetOma": "fusku",
+      "alkeet": "foksi",
+      "alkeetOma": "foksi",
       "alkeisjatko": "tango",
       "jatko": "kizomba"
     },
@@ -69,24 +65,24 @@
       "message": "",
       "alkeet": "fusku",
       "alkeetOma": "fusku",
-      "alkeisjatko": "bachata",
-      "jatko": "fusku"
+      "alkeisjatko": "tango",
+      "jatko": "kizomba"
     },
     {
       "date": "2024-03-19",
       "message": "",
-      "alkeet": "kertaus",
-      "alkeetOma": "kertaus",
+      "alkeet": "fusku",
+      "alkeetOma": "fusku",
       "alkeisjatko": "bachata",
       "jatko": "fusku"
     },
     {
       "date": "2024-03-26",
       "message": "",
-      "alkeet": "tango",
-      "alkeetOma": "tango",
-      "alkeisjatko": "fusku",
-      "jatko": "cha cha"
+      "alkeet": "kertaus",
+      "alkeetOma": "kertaus",
+      "alkeisjatko": "bachata",
+      "jatko": "fusku"
     },
     {
       "date": "2024-04-02",
@@ -99,10 +95,10 @@
     {
       "date": "2024-04-09",
       "message": "",
-      "alkeet": "valssi",
-      "alkeetOma": "valssi",
-      "alkeisjatko": "west coast swing",
-      "jatko": "hidas foksi"
+      "alkeet": "tango",
+      "alkeetOma": "tango",
+      "alkeisjatko": "fusku",
+      "jatko": "cha cha"
     },
     {
       "date": "2024-04-16",
@@ -114,6 +110,14 @@
     },
     {
       "date": "2024-04-23",
+      "message": "",
+      "alkeet": "valssi",
+      "alkeetOma": "valssi",
+      "alkeisjatko": "west coast swing",
+      "jatko": "hidas foksi"
+    },
+    {
+      "date": "2024-04-30",
       "message": "",
       "alkeet": "kertaus",
       "alkeetOma": "kertaus",
