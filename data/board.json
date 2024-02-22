@@ -4,29 +4,43 @@
       "firstname": "Lasse",
       "lastname": "Vaskelainen",
       "picture": "lasse-vaskelainen.jpg",
-      "role": "puheenjohtaja",
+      "role": "Puheenjohtaja",
       "email": "etunimi.sukunimi@gmail.com"
-    },
-    {
-      "firstname": "Greatman",
-      "lastname": "Lim",
-      "picture": "greatman-lim.jpg",
-      "role": "varapuheenjohtaja",
-      "email": "sukunimi.etunimi@gmail.org"
-    },
-    {
-      "firstname": "Suvi",
-      "lastname": "Mäenpää",
-      "picture": "suvi-maenpaa.jpg",
-      "role": "taloudenhoitaja",
-      "email": "zukkasd (ät) gmail . com"
     },
     {
       "firstname": "Siru",
       "lastname": "Uusi-Seppälä",
-      "picture": "",
-      "role": "sihteeri",
-      "email": "s.uusiseppala [at] gmail.com"
+      "picture": "Siru.jpg",
+      "role": "Varapuheenjohtaja",
+      "email": "s.uusiseppala (ät) gmail.com"
+    },
+    {
+      "firstname": "Katariina",
+      "lastname": "Pelto-Timperi",
+      "picture": "Kata.jpg",
+      "role": "Tiedottaja",
+      "email": "katariina.peltotimperi (ät) gmail.com"
+    },
+    {
+      "firstname": "Lisa",
+      "lastname": "Sparf",
+      "picture": "Lisa.jpg",
+      "role": "Sihteeri",
+      "email": "etunimi.sukunimi@gmail.com"
+    },
+    {
+      "firstname": "Severi",
+      "lastname": "Huuki",
+      "picture": "Severi.jpg",
+      "role": "Tapahtumavastaava",
+      "email": "etunimi.sukunimi@gmail.com"
+    },
+    {
+      "firstname": "Akseli",
+      "lastname": "Ingervo",
+      "picture": "Akseli.jpg",
+      "role": "Taloudenhoitaja",
+      "email": "etunimi.sukunimi@gmail.com"
     }
   ]
 }
