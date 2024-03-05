@@ -7,7 +7,7 @@ buildFuture: true
 summaryLength: 35
 
 params:
-  address: "Töölönkatu 3 A, 00940 Helsinki, 5krs."
+  address: "Töölönkatu 3 A, 00100 Helsinki, 5krs."
   links:
     signin: "https://docs.google.com/forms/d/e/1FAIpQLSeKdM7kTc8BVVwLBptgGpMKJYQB9o2erJKAHAADfVP667vl-A/viewform?fbclid=IwAR1mMZda7zS811WfSvtCEXe3dDw-7iWnJu_1kghrJcfusP1SlqaGU2yKmog"
     facebook: "https://www.facebook.com/groups/pot.tanssikerho/"
