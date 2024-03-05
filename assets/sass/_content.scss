@@ -447,6 +447,9 @@
   @extend %table-data;
   th:not(:first-child) {
     min-width: 110px;
+    @media only screen and (max-width: 480px) {
+        min-width: 95px;
+    }
   }
 }
 
@@ -503,9 +506,6 @@
   display: flex;
   flex-wrap: wrap;
   align-items: start;
-  @media only screen and (max-width: 780px) {
-    flex-direction: column;
-  }
   justify-content: center;
   ul {
     list-style-type: none;
@@ -526,7 +526,9 @@
       padding: 0;
     }
     @media only screen and (max-width: 780px) {
-      min-width: 300px;
+      flex-direction: column;
+      max-width: 100%;
+      box-sizing: border-box;
       margin-bottom: 24px;
       margin: 0 auto 24px auto;
     }
