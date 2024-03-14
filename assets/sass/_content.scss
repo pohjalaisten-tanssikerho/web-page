@@ -457,6 +457,9 @@
   @extend %table-data;
   th:not(:first-child) {
     min-width: 100px;
+    @media only screen and (max-width: 480px) {
+      min-width: 64px;
+    }
   }
 }
 
