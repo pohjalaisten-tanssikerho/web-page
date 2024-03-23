@@ -1,6 +1,6 @@
 ---
 title: "Pääsiäistanssiaiset"  # appears on front page
-description: "Tanssibilieet Bottalla 🐰🌸🥚"  # appears on front page
+description: "Tanssibileet Bottalla 🐰🌸🥚"  # appears on front page
 articleTitle: "POTin pääsiäistanssiaiset"
 subdirectories: ["tapahtuma"] # no need to modify
 date: "2024-03-31"
