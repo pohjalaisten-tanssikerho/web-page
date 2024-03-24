@@ -14,22 +14,22 @@ Kokous on avoin kaikille kerholaisille. Kevätkokoukseen voivat osallistua kaikk
 
 PS. Kokouksen jälkeen illalla pääsiäistanssibileet!
 
-Kokouksessa läpikäytävät asiat, esityslista:
-1. Kokouksen avaus
-2. Kokouksen järjestäytyminen
-a. puheenjohtajan valinta
-b. sihteerin valinta
-c. kahden pöytäkirjantarkastajan ja ääntenlaskijan valinta
-3. Kokouksen laillisuus ja päätösvaltaisuus
-4. Esityslistan hyväksyminen
-5. Edellisen vuoden toimintakertomuksen hyväksyminen
-6. Edellisen vuoden tuloslaskelman ja taseen hyväksyminen
-7. Edellisen vuoden tilinpäätöksen hyväksyminen
-8. Toiminnantarkastajan lausunto
-9. Vastuuvapauden myöntäminen tilivelvollisille
-10. Kuluvan kauden toimintasuunnitelman hyväksyminen
-11. Kuluvan kauden talousarvion hyväksyminen
-12. Kerhon jäsenmaksujen suuruus kuluvalle toimikaudelle
-13. Jäsenmaksujen maksujen eräpäivä
-14. Muut asiat
-15. Kokouksen päättäminen
+Kokouksessa läpikäytävät asiat, esityslista:  
+1. Kokouksen avaus  
+2. Kokouksen järjestäytyminen  
+a. puheenjohtajan valinta  
+b. sihteerin valinta  
+c. kahden pöytäkirjantarkastajan ja ääntenlaskijan valinta  
+3. Kokouksen laillisuus ja päätösvaltaisuus  
+4. Esityslistan hyväksyminen  
+5. Edellisen vuoden toimintakertomuksen hyväksyminen  
+6. Edellisen vuoden tuloslaskelman ja taseen hyväksyminen  
+7. Edellisen vuoden tilinpäätöksen hyväksyminen  
+8. Toiminnantarkastajan lausunto  
+9. Vastuuvapauden myöntäminen tilivelvollisille  
+10. Kuluvan kauden toimintasuunnitelman hyväksyminen  
+11. Kuluvan kauden talousarvion hyväksyminen  
+12. Kerhon jäsenmaksujen suuruus kuluvalle toimikaudelle  
+13. Jäsenmaksujen maksujen eräpäivä  
+14. Muut asiat  
+15. Kokouksen päättäminen  
