@@ -17,9 +17,9 @@ PS. Kokouksen jälkeen illalla pääsiäistanssibileet!
 Kokouksessa läpikäytävät asiat, esityslista:  
 1. Kokouksen avaus  
 2. Kokouksen järjestäytyminen  
-&ensp;a. puheenjohtajan valinta  
-&ensp;b. sihteerin valinta  
-&ensp;c. kahden pöytäkirjantarkastajan ja ääntenlaskijan valinta  
+&emsp;a. puheenjohtajan valinta  
+&emsp;b. sihteerin valinta  
+&emsp;c. kahden pöytäkirjantarkastajan ja ääntenlaskijan valinta  
 3. Kokouksen laillisuus ja päätösvaltaisuus  
 4. Esityslistan hyväksyminen  
 5. Edellisen vuoden toimintakertomuksen hyväksyminen  
