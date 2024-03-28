@@ -1,0 +1,41 @@
+---
+title: "Bugg tiiviskurssi" # Displayed on home page
+description: "Jatkotasojen speciaali" # Displayed on home page
+articleTitle: "Bugg jatkotasojen speciaali -tiiviskurssi"
+subdirectories: ["tapahtuma"]  # No need to modify
+date: "2024-04-07"
+clock: "19:45 - 21:15"
+address: "Töölönkatu 3" # No need to modify
+---
+
+Huhtikuun alussa kahtena sunnuntaina nautitaan fuskun Suomen mestarien bugg opetuksesta 😃💃🕺 Tanssikerholle tulevat opettamaan kokeneet huipputanssiopettajat 🙂💃🕺 Rock and swing tanssikilpailuissa Helena Metsä ja Timo Huhtinen ovat olleet vuosia Suomen kärkeä. 
+
+Su 7.4.2024 ja su 14.4.2024 klo 19.45-21.15 (kurssi sisältää kaksi 90 minuutin opetuskertaa) buggiin kuvioita, näyttävyyttä, musiikin tulkintaa ja tekniikkaa. Uusia ideoita buggiin. Tiivari on suunnattu buggia jo pidempään tanssineille. Pärjäät opetuksessa hyvin mukana jos olet aikaisemmin käynyt POTilla tai muualla alkeisjatko- tai jatkotason kausikurssilla ja tunnet, että lajin perusaskel ja -kuviot ovat jo hyvin hallussa.
+
+Opettajat: fuskun suomenmestarit Timo Huhtinen ja Helena Metsä.  
+Hinta:  
+4 € osakuntalainen (EPO, PPO, VN)  
+8 € muu opiskelija (yliopisto tai ammattikorkeakoulu)  
+15 € muut.
+
+---
+Ilmoittautuminen [ilmoittautumislomakkeen](https://docs.google.com/forms/d/e/1FAIpQLSeKiuLR1hIpw-a196PlNVJJ0-YD6mzsUXHNEcrqqXjo7teUqw/viewform?usp=sf_link) kautta.
+
+Ilmoittautumislomakkeen täyttämisen jälkeen voit saapua suoraan paikalle kurssin alkamisaikaan.
+
+---
+##### Maksutiedot
+
+Saaja: Pohjalaisten tanssikerho ry  
+Tilinumero: FI51 7997 7998 0564 23  
+BIC: HOLVFIHH
+
+Viite: 7919
+
+Maksathan kurssimaksun omatoimisesti viimeistään kahden viikon kuluessa kurssipäivästä, kiitos.
+
+---
+Paikka:  
+Pohjalaisten osakuntien vasemmanpuoleinen iso tanssisali Bottalla (Töölönkatu 3A, 5. kerros). Tanssin iloa ja tervetuloa 🙂
+
+Yhteystiedot: pohjalaistentanssikerho.ry@gmail.com
