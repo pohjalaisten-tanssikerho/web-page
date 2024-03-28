@@ -84,7 +84,7 @@
     <div>
       <h2>Tapahtumat</h2>
 
-      {{ $events := where (where .Site.RegularPages "Section" "tapahtuma") "Date" "ge" now | last 3 }}
+      {{ $events := where (where .Site.RegularPages "Section" "tapahtuma") "Date" "ge" now | last 4 }}
 
       {{ if eq ($events | len) 0 }}
       <!-- <p>Tapahtumat jatkuvat tammikuussa!</p> -->
