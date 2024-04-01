@@ -1,0 +1,14 @@
+# To read more on configuration:
+# https://gohugo.io/getting-started/configuration/
+
+title: "Pohjalaisten Tanssikerho"
+
+DefaultContentLanguage: "fi"
+languageCode: "fi-fi"
+
+buildFuture: true
+summaryLength: 35
+
+taxonomies:
+  category: categories
+  subdirectory: subdirectories
