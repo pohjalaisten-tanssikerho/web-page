@@ -50,4 +50,4 @@ Maksathan kurssimaksun omatoimisesti viimeistään kahden viikon kuluessa kurssi
 Paikka:  
 Pohjalaisten osakuntien vasemmanpuoleinen iso tanssisali Bottalla (Töölönkatu 3A, 5. kerros). Tanssin iloa ja tervetuloa 🙂
 
-Yhteystiedot: pohjalaistentanssikerho.ry@gmail.com
+Yhteystiedot: pohjalaistentanssikerho.ry (ät) gmail.com
