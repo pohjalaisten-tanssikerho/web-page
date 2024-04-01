@@ -3,11 +3,11 @@
 
 Nettisivut löytyvät osoitteessa https://tanssikerho.pohjalaiset.fi
 
-Sisällön tuottajille on oma CMS sivustonsa, missä sisältö voi muokata helposti. CMS on osoitteessa https://forestry.io 
+Sisällön tuottajille on oma CMS sivustonsa, missä sisältö voi muokata helposti. CMS on osoitteessa https://forestry.io
 
-Tarvitset käyttäjätunnuksen ja salasanan, jotta voit muokata sivuja forestry.io kautta.
+Tarvitset käyttäjätunnuksen ja salasanan, jotta voit muokata sivuja forestry.io:n kautta.
 
-Sivuja on mahdollista muokata myös versionhallinnan kautta, eli Githubin kautta. Ensisijaisesti kuitenkin suositellaan nettisivujen muokkaamista CMS:n kautta, koska se on helpompaa. Jos tästä huolimatta haluaa muokata sivuja versionhallinan kautta, on täällä kattavat ohjeet miten se tehdään.
+Sivuja on mahdollista muokata myös versionhallinnan kautta, eli Githubin kautta. Ensisijaisesti kuitenkin suositellaan nettisivujen muokkaamista CMS:n kautta, koska se on helpompaa. Jos tästä huolimatta haluaa muokata sivuja versionhallinan kautta, on täällä kattavat ohjeet siihen.
 
 Sisällön tuottajille riittää, että lukee kohdat "Ohjeet sisällön tuottajille" ja "Tietokantojen muokkaus". Lukemista kannattaa jatkaa vain, jos haluaa syventää tietoa, tai jos on kiinnostunut kehittämään nettisivuja muulla tavalla kuin sisältöä tuottamalla.
 
@@ -21,7 +21,7 @@ Tiedostot `content`-kansiossa edustavat kirjoitettua tekstiä ja `data` tietokan
 
 ### Sisällön muokkaus
 
-Markdown on helppo tapa kirjoittaa muotoiltua tekstiä. Yleensä idean nappaa pelkästään katsomalla jo kirjoitettuja .md tiedostoa. Tarkempia ohjeita Markdownin kirjoittamiseen voi halutessa lukea sivulta https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+Markdown on helppo tapa kirjoittaa muotoiltua tekstiä. Yleensä idean nappaa pelkästään katsomalla jo kirjoitettuja .md tiedostoja. Tarkempia ohjeita Markdownin kirjoittamiseen voi halutessa lukea sivulta https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 Eli [content](https://github.com/pohjalaisten-tanssikerho/web-page/tree/master/content) kansion tiedostoja muokkaamalla päivitetään nettisivujen kirjoitettua (esseemäistä) sisältöä. Ohjeet muokkaukseen:
 
@@ -37,13 +37,13 @@ Muutokset eivät tule suoraan nettisivuille. Kaikki muutokset tarkistetaan ennen
 
 Jokaisen .md tiedoston alussa on kolme viivaa `---`. Älä välitä näistä viivoista tai muuta mitään, mikä on viivojen välissä.
 
-Vinkkinä vielä, kuinka löytää oikea tiedosto mitä muokata. Mene nettisivuille ja katso osoiterivin loppupäätä, esim. jos osoite on: https://tanssikerho.pohjalaiset.fi/blogi/tanssilajit nähdään tästä, että loppupää on `/blogi/tanssilajit`. Tästä voi arvata, että tähän sivuun vaikuttaa tiedosto `/content/blogi/tanssilajit.md`.
+Vinkkinä vielä, kuinka löytää oikea tiedosto sisällön muokkaamiseen. Mene nettisivuille ja katso osoiterivin loppupäätä, esim. jos osoite on: https://tanssikerho.pohjalaiset.fi/blogi/tanssilajit nähdään tästä, että loppupää on `/blogi/tanssilajit`. Tästä voi arvata, että tähän sivuun vaikuttaa tiedosto `/content/blogi/tanssilajit.md`.
 
 ### Tietokantojen muokkaus
 
 Tietokantamainen sisältö löytyy [data](https://github.com/pohjalaisten-tanssikerho/web-page/tree/master/data) kansiosta.
 
-Tietokanta on kirjoitettu .json muodossa. Tämänkin kirjoitustavan (syntaksin) ymmärtää yleensä jo vain katsomalla tiedostoa. JSONin kanssa on kuitenkin oltava varovainen, sillä vaikka se on helppo ymmärtää, on se myös helppo kirjoittaa vahingossa väärin. Jos virheeseen on epäilys, kopioi koko .json tiedosto sisältö [tarkastajaan](https://jsonlint.com/), joka katsoo mahdolliset kirjoitusvirheet.
+Tietokanta on kirjoitettu .json muodossa. Tämänkin kirjoitustavan (syntaksin) ymmärtää yleensä jo vain katsomalla tiedostoa. JSONin kanssa on kuitenkin oltava varovainen, sillä vaikka se on helppo ymmärtää, on se myös helppo kirjoittaa vahingossa väärin. Jos virheestä on epäilys, kopioi koko .json tiedosto sisältö [tarkastajaan](https://jsonlint.com/), joka katsoo mahdolliset kirjoitusvirheet.
 
 Yleinen virhe JSONin kanssa on ylimääräinen pilkku: listan viimeisimpään kohtaan ei tule pilkkua.
 
@@ -56,7 +56,7 @@ Selitys tietokantojen merkityksistä:
 
 On erityisen tärkeää, että päivämääriä muokattaessa pidetään aikaformaatti muodossa `YYYY-MM-DD`. Näin kone ymmärtää tapahtumien keskinäisen suhteen, eli mitkä ovat ennen toisia.
 
-**Tätä edemmäs ei sisällöntuottajien tarvitse lukea!** Näillä ohjeilla ja omalla päättelykyvyillä pitäisi pärjätä jo aika pitkälle. Seuraavissa aliotsikoissa käydään vähän tarkemmin yleisimmät skenaariot, mitä ehkä vastaan voi tulla.
+**Tätä edemmäs ei sisällöntuottajien tarvitse lukea!** Näillä ohjeilla ja omalla päättelykyvyillä pitäisi pärjätä jo aika pitkälle. Seuraavissa aliotsikoissa käydään vähän tarkemmin yleisimmät skenaariot, joita vastaan saattaa tulla.
 
 #### Tiedotteen muokkaaminen
 
@@ -66,12 +66,12 @@ Tiedote tulee etusivulle ja se on nostettu erittäin näkyvälle paikalle. Täst
 
 #### Uuden tapahtuman luominen
 
-Uusi tapahtuma luodaan tekemällä uusi tiedosto kansioon [tapahtuma](https://github.com/pohjalaisten-tanssikerho/web-page/blob/master/content/tapahtuma/)
-Helpoin tapa lienee kopioida vanha ja muuttaa meta-tietoja. Meta-tiedot ovat merkkien `---` välissä olevia tietoja. Muuta vain otsikko ja päivämäärä.
+Uusi tapahtuma luodaan tekemällä uusi tiedosto kansioon [tapahtuma](https://github.com/pohjalaisten-tanssikerho/web-page/blob/master/content/tapahtuma/).
+Helpoin tapa lienee kopioida vanha ja muuttaa meta-tietoja. Meta-tiedot ovat merkkien `---` välissä olevia tietoja.
 
 #### Ilmoittautumislinkin päivittäminen
 
-Ilmoittautumislinkki päivitetään tiedostoon [config.yaml](https://github.com/pohjalaisten-tanssikerho/web-page/blob/master/config.yaml). Linkki laitetaan kohtaan `address` ja lainausmerkkien väliin.
+Ilmoittautumislinkki päivitetään tiedostoon [config/_default/params.yaml](https://github.com/pohjalaisten-tanssikerho/web-page/blob/master/config/_default/params.yaml). Linkki laitetaan kohtaan `signin` ja lainausmerkkien väliin.
 
 #### Hallitussivun päivittäminen
 
@@ -79,7 +79,7 @@ Hallituksen jäsenet löytyvät tietokannasta [board.json](https://github.com/po
 
 ### Monipuolisempaa sisällön esilletuontia
 
-Kansio [content](https://github.com/pohjalaisten-tanssikerho/web-page/tree/master/content) sisältää kaikki esseemäinen kirjoitus Markdown muodossa. Markdown tiedostoon on mahdollista kirjoittaa sekaan Hugon omia merkintöjä (shortcodes, koodipätkä). Näiden avulla voi upottaa mm. Youtube- tai Vimeo-videoita tekstiin. Lyhyitä ohjelmapätkiä voi myös tehdä itse tai pyytää, jos on tarve jollekin erikoisemmalle sisällön esilletuomiselle.
+Kansio [content](https://github.com/pohjalaisten-tanssikerho/web-page/tree/master/content) sisältää kaiken esseemäisen kirjoituksen Markdown muodossa. Markdown tiedostoon on mahdollista kirjoittaa sekaan Hugon omia merkintöjä (shortcodes, koodinpätkät). Näiden avulla voi upottaa mm. Youtube- tai Vimeo-videoita tekstiin. Lyhyitä ohjelmapätkiä voi myös tehdä itse tai pyytää, jos on tarve jollekin erikoisemmalle sisällön esilletuomiselle.
 
 Ohjeet Hugon omille koodeille [Hugon sivuilta](https://gohugo.io/content-management/shortcodes/).
 
@@ -87,26 +87,26 @@ Esimerkiksi Youtuben upottaminen tapahtuu seuraavasti:
 ```
 {{< youtube id="GcpiJZKgW8s" class="media">}}
 ```
-On olemassa kuitenkin muutamia itse tehtyjä koodipätkiä, joiden käytöstä ei tietenkään lue mitään Hugon sivuilla. Sisällön tuottajille on olemassa seuraavia koodipätkiä:
+On olemassa kuitenkin muutamia itse tehtyjä koodipätkiä, joiden käytöstä ei tietenkään lue mitään Hugon sivuilla. Sisällön tuottajille on olemassa mm. seuraavat koodipätkät:
 
   - `{{% address %}}` - lisää Bottan osoitteen
   - `{{% bank %}}` - lisää pankkitiedot
   - `{{< footnote >}} tekstiä välissä {{< /footnote >}}` - pienentää välissä olevan tekstin, tarkoitettu alaviitteille
   - `{{< link facebook|whatsapp|signin >}}` - antaa linkin valitsemalle argumentille
-  - `{{< twoColumnImage imgPlacemenet="left|right" height="n" src="url" >}}` - kuva ja teksti kahdessa sarakkeessa, src osoittaa kansioon https://github.com/pohjalaisten-tanssikerho/web-page/tree/master/static/img/picture jossa on `mobile` ja `desktop` kansiot, kummassakin oltava saman nimiset kuvat, height kertoo kuvan pituuden
+  - `{{< twoColumnImage imgPlacemenet="left|right" height="n" src="url" >}}` - kuva ja teksti kahdessa sarakkeessa, src osoittaa kansioon https://github.com/pohjalaisten-tanssikerho/web-page/tree/master/static/img/picture jossa on `mobile` ja `desktop` kansiot, kummassakin oltava saman nimiset kuvat, height kertoo kuvan korkeuden.
 
 On tärkeää huomata, että koodipätkien kanssa on käytettävä oikeaa merkkiä: `%` tai `< >`. Merkkki `%` kertoo, että renderöidään, ja `< >`-merkkiyhdistelmässä ei renderöidä Markdownia. Se kumpi valitaan selviää lähinnä vain itse koodia katsomalla tai juurikin tätä dokumenttia lukemalla.
 
-### Yleiset useassa kohtaa sivua esiintyvät tiedot
+### Yleiset usealla sivulla esiintyvät tiedot
 
-Yleisesti esiintyvät tiedot löytyvät projektin juurella olevasta tiedostosta [config.yaml](https://github.com/pohjalaisten-tanssikerho/web-page/blob/master/config.yaml) kohdasta params. Tästä tiedostossa on seuraavat kentät:
+Yleisesti esiintyvät tiedot löytyvät tiedostosta [config/_default/params.yaml](https://github.com/pohjalaisten-tanssikerho/web-page/blob/master/config/_default/params.yaml). Tässä tiedostossa on seuraavat kentät:
 
   - `address` - yhdistyksen osoite
-  - `signin` - ilmoittautumislinkki
   - `bank` - pankkitiedot
   - `links` - yleisesti käytettyjä linkkejä
+    - `signin` - ilmoittautumislinkki
 
-Tiedosto `config.yaml` on kirjoitettu yaml:lla, jonka syntaksi on myös aika helppo.
+Tiedosto `config/_default/params.yaml` on kirjoitettu YAML kielellä, jonka syntaksi on myös varsin helppo.
 
 ## Ohjeet kehittäjille
 
@@ -132,11 +132,11 @@ Jos muita palvelimia ei ole ajossa tällä hetkellä, näkyvät sivut osoitteess
 
 ### Shortcodes
 
-Kansiossa [shortcodes](https://github.com/pohjalaisten-tanssikerho/web-page/tree/master/layouts/shortcodes) löytyy kasa itse tehtyjä "funktioita" tai koodipätkiä.
+Kansiossa [shortcodes](https://github.com/pohjalaisten-tanssikerho/web-page/tree/master/layouts/shortcodes) löytyy kasa itse tehtyjä "funktioita" tai koodinpätkiä.
 
 ### Projektin periaatteita
 
-On muistettava, että sivua päivittävät myös ne henkilöt, joilla ei ole ohjelmointitaustaa tai kiinnostusta ohjelmoimiseen. Tämän takia kehittäjän on tehtävä sisällön tuotannosta mahdollisimman yksinkertaista. Olisi hyvä, jos heidän ei tarvitsisi koskaan koskea shortcodeihin tai layoutteihin. Esimerkiksi kaikkialla yleisesti esiintyvä tieto laitetaan tiedostoon `config.yaml` ja käytetään shortcodeja niiden hakemiseen. Näin sisällöntuottajan täytyy käsitellä vain `config.yaml` tiedostoa, eikä hänen tarvitse koskaan kurkistaa shortcodeihin. Lisäksi tieto pysyy samassa paikassa helposti käsiteltävänä.
+On muistettava, että sivuja päivittää myös henkilöitä, joilla ei ole ohjelmointitaustaa tai kiinnostusta ohjelmoimiseen. Tämän takia kehittäjän on tehtävä sisällön tuotannosta mahdollisimman yksinkertaista. Olisi hyvä, jos heidän ei tarvitsisi koskaan koskea shortcodeihin tai layoutteihin. Esimerkiksi kaikkialla yleisesti esiintyvä tieto laitetaan tiedostoon `config/_default/params.yaml` ja käytetään shortcodeja niiden hakemiseen. Näin sisällöntuottajan täytyy käsitellä vain `config/_default/params.yaml` tiedostoa, eikä hänen tarvitse koskaan kurkistaa shortcodeihin. Lisäksi tieto pysyy samassa paikassa helposti käsiteltävänä.
 
 ### Projektin kieli
 
