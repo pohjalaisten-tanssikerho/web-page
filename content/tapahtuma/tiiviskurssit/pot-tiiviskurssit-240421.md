@@ -8,7 +8,7 @@ clock: "16 - 19"
 address: "Töölönkatu 3" # No need to modify
 ---
 
-Boogie woogien maailmanmestarit Masi Sauren ja Anna Tyutyunyuk saapuvat opettamaan POTille tehokurssit boogie woogieta! Kerholla on kunnia saada huipputanssijat Masi ja Anna vieraaksi, huippumahdollisuus saada maailmanmestarien oppia, joten tätä ei kannata missata. Masi Saurén ja Anna Tyutyunyuk voittivat vuonna [2021 boogie woogien yleissarjan maailmanmestaruuden](https://wrrc.org/results/2021-316/). Heidät on myös valittu vuoden 2022 tanssiurheilijoiksi, ja Masi on moninkertainen suomenmestari useissa rock and swing tanssilajeissa. Kuuluvat Suomen menestyneimpiin kilpatanssijoihin. Kurssikuvaukset:
+Boogie woogien maailmanmestarit Masi Sauren ja Anna Tyutyunyuk saapuvat opettamaan POTille tehokurssit boogie woogieta! Kerholla on kunnia saada huipputanssijat Masi ja Anna vieraaksi, huippumahdollisuus saada maailmanmestarien oppia, joten tätä ei kannata missata. Masi Saurén ja Anna Tyutyunyuk voittivat vuonna [2021 boogie woogien yleissarjan maailmanmestaruuden](https://comets.fi/en/masi-and-anna-won-world-championship-in-boogie-woogie/). Heidät on myös valittu vuoden 2022 tanssiurheilijoiksi, ja Masi on moninkertainen suomenmestari useissa rock and swing tanssilajeissa. Kuuluvat Suomen menestyneimpiin kilpatanssijoihin. Kurssikuvaukset:
 
 BOOGIE WOOGIE PERUSTEET  
 Su 21.4.2024 klo 16-17 boogie woogie perusteet. Opetellaan ja kerrataan boogie woogien perusteita. Käydään läpi tärkeimpiä lajin perusteita. Osuus myös valmistelee jatko-osiota varten.  
