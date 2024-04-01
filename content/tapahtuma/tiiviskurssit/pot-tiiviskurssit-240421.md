@@ -1,4 +1,5 @@
 ---
+# This is the page's front matter
 title: "Boogie woogien tehokurssien supersunnuntai" # Displayed on home page
 description: "Maailanmestarit POTilla!" # Displayed on home page
 articleTitle: "Boogie woogien supersunnuntai - Maailmanmestarien tehokurssit"
@@ -37,17 +38,16 @@ Ilmoittautumislomakkeen täyttämisen jälkeen voit saapua suoraan paikalle kurs
 ---
 ##### Maksutiedot
 
-Saaja: Pohjalaisten tanssikerho ry  
-Tilinumero: FI51 7997 7998 0564 23  
-BIC: HOLVFIHH  
+{{% bank %}}
 Viitteet:  
 &emsp;boogie woogie perusteet: 7922  
 &emsp;boogie woogie jatkoa: 7935  
+Jos maksat molemmat tiiviskurssit kerralla, syötä kummatkin viitenumerot viestikenttään.
 
-Maksathan kurssimaksun omatoimisesti viimeistään kahden viikon kuluessa kurssipäivästä, kiitos.
+Maksathan kurssimaksun omatoimisesti viimeistään kahden viikon kuluessa kurssipäivästä!
 
 ---
 Paikka:  
 Pohjalaisten osakuntien vasemmanpuoleinen iso tanssisali Bottalla (Töölönkatu 3A, 5. kerros). Tanssin iloa ja tervetuloa 🙂
 
-Yhteystiedot: pohjalaistentanssikerho.ry (ät) gmail.com
+Yhteystiedot: {{< param email >}}
