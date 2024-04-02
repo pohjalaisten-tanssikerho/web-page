@@ -42,6 +42,7 @@ Ilmoittautumislomakkeen täyttämisen jälkeen voit saapua suoraan paikalle kurs
 Viitteet:  
 &emsp;boogie woogie perusteet: 7922  
 &emsp;boogie woogie jatkoa: 7935  
+
 Jos maksat molemmat tiiviskurssit kerralla, syötä kummatkin viitenumerot viestikenttään.
 
 Maksathan kurssimaksun omatoimisesti viimeistään kahden viikon kuluessa kurssipäivästä!
