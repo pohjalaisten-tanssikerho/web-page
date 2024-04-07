@@ -21,7 +21,7 @@
     {{ $courses := index .Site.Data.courses "courses" }}
     {{ $firstThree := first 3 (sort (where $courses "date" "ge" (now.Format "2006-01-02")) "date" "asec") }}
     <div id="nextThreeCourses">
-      <h2>Seuraavat kurssit</h2>
+      <h2>Seuraavat tunnit</h2>
 
       <!-- <script src="https://cdn.jsdelivr.net/npm/moment@2/moment.min.js"></script> -->
       <!-- <script src="https://apis.google.com/js/api.js"></script> -->
@@ -77,14 +77,19 @@
           {{ end }}
         </tr>
       </table>
-      <p>Blogeista löytyy <a href="{{ ref . `/tanssilajit.md` }}">lyhyet esittely kustakin lajeista</a>.</p>
+      <p>Blogista löytyy <a href="{{ ref . `/tanssilajit.md` }}">lyhyet esittely kustakin lajeista</a>.</p>
     {{ end }}
     </div>
 
     <div>
       <h2>Tapahtumat</h2>
 
-      {{ $events := where (where .Site.RegularPages "Section" "tapahtuma") "Date" "ge" now | last 4 }}
+      <!-- where returns the given collection, removing elements that do not satisfy the conditon -->
+      {{ $eventsCollection := where .Site.RegularPages "Section" "tapahtuma" }}
+      {{ $currentDateString := now | time.Format "2006-01-02" }}
+      {{ $currentDateFormatted := time.AsTime $currentDateString }}
+      {{ $events := where $eventsCollection "Date" "ge" $currentDateFormatted | last 4 }}
+      <!-- you can use printf "%#v" $someVar to debug your variables -->
 
       {{ if eq ($events | len) 0 }}
       <!-- <p>Tapahtumat jatkuvat tammikuussa!</p> -->
@@ -99,7 +104,7 @@
         {{ end }}
       </ul>
       {{ end }}
-      <p>Löydä kaikki tapahtumat <a href="/tapahtuma">tapahtuma-sivuilta</a>.</p>
+      <p><a href="/tapahtuma">Katso kaikki tapahtumat</a></p>
     </div>
   </div>
 </div>

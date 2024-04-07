@@ -69,7 +69,9 @@
                       {{ if eq .sub "tapahtuma" }}
 
                         {{ $events := where $.Site.RegularPages "Section" "tapahtuma" }}
-                        {{ $events := $events | intersect (where $events "Date" "ge" now) | first 3 }}
+                        {{ $currentDateString := now | time.Format "2006-01-02" }}
+                        {{ $currentDateFormatted := time.AsTime $currentDateString }}                  
+                        {{ $events := $events | intersect (where $events "Date" "ge" $currentDateFormatted) | first 4 }}
 
                         {{ if eq ($events | len) 0 }}
                         <li>Ei tulevia tapahtumia tällä hetkellä. Menneitä tapahtumia voi katsella <a href="/tapahtuma" class="blue-link">tapahtuma-sivuilta</a>.</li>
