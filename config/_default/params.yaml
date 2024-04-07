@@ -16,12 +16,12 @@ navigation:
         label: etusivu
         url: 
     - item:
-        label: kurssit
+        label: kausikurssit
         url: kurssi/
         subdir:
           - sub: kurssi_yleista
           - sub: kurssi_kausi
-            title: kurssit
+            title: Kurssikuvaukset
           - sub: kurssi_tiiviskurssit
             title: tiiviskurssit
     - item:
