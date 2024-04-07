@@ -5,7 +5,7 @@ description: "Maailanmestarit POTilla!" # Displayed on home page
 articleTitle: "Boogie woogien supersunnuntai - Maailmanmestarien tehokurssit"
 subdirectories: ["tapahtuma"]  # No need to modify
 date: "2024-04-21"
-clock: "16 - 19"
+clock: "16:00 - 19:00"
 address: "Töölönkatu 3" # No need to modify
 ---
 
