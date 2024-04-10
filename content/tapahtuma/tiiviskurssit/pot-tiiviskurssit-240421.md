@@ -9,11 +9,11 @@ clock: "16:00 - 19:00"
 address: "Töölönkatu 3" # No need to modify
 ---
 
-Boogie woogien maailmanmestarit Masi Sauren ja Anna Tyutyunyuk saapuvat opettamaan POTille tehokurssit boogie woogieta! Kerholla on kunnia saada huipputanssijat Masi ja Anna vieraaksi, huippumahdollisuus saada maailmanmestarien oppia, joten tätä ei kannata missata. Masi Saurén ja Anna Tyutyunyuk voittivat vuonna [2021 boogie woogien yleissarjan maailmanmestaruuden](https://comets.fi/en/masi-and-anna-won-world-championship-in-boogie-woogie/). Heidät on myös valittu vuoden 2022 tanssiurheilijoiksi, ja Masi on moninkertainen suomenmestari useissa rock and swing tanssilajeissa. Kuuluvat Suomen menestyneimpiin kilpatanssijoihin. Kurssikuvaukset:
+Boogie woogien maailmanmestarit Masi Saurén ja Anna Tyutyunyuk saapuvat opettamaan POTille tehokurssit boogie woogieta! Kerholla on kunnia saada huipputanssijat Masi ja Anna vieraaksi, huippumahdollisuus saada maailmanmestarien oppia, joten tätä ei kannata missata. Masi Saurén ja Anna Tyutyunyuk voittivat vuonna [2021 boogie woogien yleissarjan maailmanmestaruuden](https://comets.fi/en/masi-and-anna-won-world-championship-in-boogie-woogie/). Heidät on myös valittu vuoden 2022 tanssiurheilijoiksi, ja Masi on moninkertainen suomenmestari useissa rock and swing tanssilajeissa. Kuuluvat Suomen menestyneimpiin kilpatanssijoihin. Kurssikuvaukset:
 
 BOOGIE WOOGIE PERUSTEET  
 Su 21.4.2024 klo 16-17 boogie woogie perusteet. Opetellaan ja kerrataan boogie woogien perusteita. Käydään läpi tärkeimpiä lajin perusteita. Osuus myös valmistelee jatko-osiota varten.  
-Opettajat: maailmanmestarit Masi Sauren ja Anna Tyutyunyuk.  
+Opettajat: maailmanmestarit Masi Saurén ja Anna Tyutyunyuk.  
 Hinta:  
 &emsp;5 € osakuntalainen (EPO, PPO, VN)  
 &emsp;5 € muu opiskelija (yliopisto tai ammattikorkeakoulu)  
@@ -21,7 +21,7 @@ Hinta:
 
 BOOGIE WOOGIE JATKOA  
 Su 21.4.2024 klo 17.00-19.00 Opitaan boogie woogiehen lisää tekniikkaa, musiikin tulkintaa ja hauskoja kuvioita. Suunnattu boogie woogieta aikaisemmin tanssineille, lajin perusteita jo opetelleille esim. POTin tiivareilla.  
-Opettajat: maailmanmestarit Masi Sauren ja Anna Tyutyunyuk.  
+Opettajat: maailmanmestarit Masi Saurén ja Anna Tyutyunyuk.  
 Hinta:  
 &emsp;10 € osakuntalainen (EPO, PPO, VN)  
 &emsp;10 € opiskelija (yliopisto tai ammattikorkeakoulu)  
