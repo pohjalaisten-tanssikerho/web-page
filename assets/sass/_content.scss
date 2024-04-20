@@ -333,6 +333,8 @@
     .crew-item {
       width: 340px;
       .crew-image {
+        // prevent image from overflowing in mobile view
+        box-sizing: border-box;
         width: 100%;
         height: 460px;
         background-size: cover;
@@ -548,4 +550,11 @@
 .bold {
   color: $orange;
   font-weight: bold;
+}
+
+img[alt=mobilepay-qr] {
+  width: 200px;
+  // the image won't center without this
+  display: block;
+  margin: 0 auto;
 }
