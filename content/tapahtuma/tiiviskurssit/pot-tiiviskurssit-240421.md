@@ -40,12 +40,18 @@ Ilmoittautumislomakkeen täyttämisen jälkeen voit saapua suoraan paikalle kurs
 
 {{% bank %}}
 Viitteet:  
-&emsp;boogie woogie perusteet: 7922  
-&emsp;boogie woogie jatkoa: 7935  
+&emsp;boogie woogie perusteet: **7922**  
+&emsp;boogie woogie jatkoa: **7935**
 
 Jos maksat molemmat tiiviskurssit kerralla, syötä kummatkin viitenumerot viestikenttään.
 
-Maksathan kurssimaksun omatoimisesti viimeistään kahden viikon kuluessa kurssipäivästä!
+POTilla on nyt käytössä myös MobilePay! Voit siis vaihtoehtoisesti lähettää maksun skannaamalla alla olevan QR-koodin, tai valitsemalla "Lähetä" MobilePay sovelluksestasi ja etsimällä "Pohjalaisten Tanssikerho".
+
+![mobilepay-qr](/img/mobilepay-qr.png)
+
+Syötä viestikenttään tiiviskurssia vastaava viite; tai molemmat viitteet, jos haluat maksaa kummatkin tiiviskurssit kerralla. 
+
+Hoidathan maksun omatoimisesti kahden viikon kuluessa kurssipäivästä.
 
 ---
 Paikka:  
