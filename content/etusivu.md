@@ -1,5 +1,5 @@
 ---
-title: Pohjalaisten tanssikerho
+title: Pohjalaisten tanssikerho (POT)
 categories:
 - etusivu
 description: Opetusta, bileitä ja ekskursioita. Pohjalaisten tanssikerho tuo opiskelijan
@@ -11,7 +11,7 @@ description: Opetusta, bileitä ja ekskursioita. Pohjalaisten tanssikerho tuo op
 
 Tanssiharrastus on erinomainen harrastus, koska siinä yhdistyy monia asioita mielenkiintoiseksi kokonaisuudeksi. Paritanssissa musiikki ja liike kietoutuvat yhteen samalla, kun kokemus jaetaan tanssiparin kanssa. Laji ja musiikki luovat tunnetilan: tangossa on draamaa, fuskussa leikillisyyttä, buggissa vauhtia, valssissa arvokkuutta, bachatassa herkkyyttä ja sensuaalisuutta jne. Varmasti jokaiselle löytyy oma suosikki! {{< /twoColumnImage >}}
 
-{{< twoColumnImage imgPlacement="left" height="573" src="minttu-ilmari.jpg">}} Suomalainen lavatanssimaailma on erittäin lajirikas. Saman illan aikana voi olla helpostikin kymmenen eri lajia. Lajien moninaisuus on rikkautta ja se tuo tanssiin mielenkiintoa sekä tunnetilojen vaihtelevuutta. Pohjalaisten tanssikerho opettaa kaikkia yleisimpiä tanssilajeja, joita suomalaisilla lavoilla tanssitaan. Tanssikerhossa opettavat ammattiopettajat monien vuosien kokemuksella. Opettajat ja Pohjalaisten tanssikerhon lämminhenkinen yhteisö auttavat ja ovat tukena tanssikulttuuriin tutustumisessa.
+{{< twoColumnImage imgPlacement="left" height="573" src="minttu-ilmari.jpg">}} Suomalainen lavatanssimaailma on erittäin lajirikas. Saman illan aikana voi olla helpostikin kymmenen eri lajia. Lajien moninaisuus on rikkautta ja se tuo tanssiin mielenkiintoa sekä tunnetilojen vaihtelevuutta. Pohjalaisten tanssikerho opettaa kaikkia yleisimpiä tanssilajeja, joita suomalaisilla lavoilla tanssitaan. Tanssikerhossa opettavat ammattiopettajat monien vuosien kokemuksella. Opettajat ja POTin lämminhenkinen yhteisö auttavat ja ovat tukena tanssikulttuuriin tutustumisessa.
 
 Pohjalaisten tanssikerho järjestää opiskelijoille ja opiskelijamielisille lukukauden pituisia paritanssikursseja, joissa opetus tapahtuu viikottain. Näiden lisäksi kerho järjestää ekskursioita, tanssibileitä ja tiiviskursseja.
 
