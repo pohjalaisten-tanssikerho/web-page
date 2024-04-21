@@ -44,15 +44,28 @@
             <a href="#" onclick="toggleMobileMenu()"><div class="logo-bullet"></div><span class="mobile-menu">menu</span></a>
 
             <script>
+              function navigationMenu() {
+                return document.querySelector("nav ul")
+              }
               function toggleMobileMenu() {
                 document.querySelector(".mobile-header .logo-bullet").classList.toggle('highlight')
-                document.querySelector("nav ul").classList.toggle("visible")
+                navigationMenu().classList.toggle("visible")
                 let menuList = document.querySelectorAll("nav ul li")
                 let display = (menuList[0].style.display == "") ? "block" : ""
                 for (i = 0; i< menuList.length; i++) {
                   menuList[i].style.display = display
                 }
               }
+              // disable mobile navigation menu when touching outside of it
+              addEventListener("mouseup", (event) => {
+                const navMenu = navigationMenu()
+                if (!navMenu.classList.contains("visible")) return
+                if (event.target.classList.contains("mobile-menu")) return
+                if (event.target.classList.contains("logo-bullet")) return
+                if (!navMenu.contains(event.target)) {
+                  navMenu.classList.toggle("visible")
+                }
+              })
             </script>
 
           </span>
