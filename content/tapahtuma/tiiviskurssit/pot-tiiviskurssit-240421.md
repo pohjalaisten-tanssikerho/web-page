@@ -51,7 +51,7 @@ POTilla on nyt käytössä myös MobilePay! Voit siis vaihtoehtoisesti lähettä
 
 Syötä viestikenttään tiiviskurssia vastaava viite; tai molemmat viitteet, jos haluat maksaa kummatkin tiiviskurssit kerralla. 
 
-Hoidathan maksun omatoimisesti kahden viikon kuluessa kurssipäivästä.
+Hoidathan maksun omatoimisesti viimeistään kaksi viikkoa kurssipäivästä.
 
 ---
 Paikka:  
