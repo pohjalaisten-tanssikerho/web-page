@@ -1,8 +1,8 @@
 ---
 # This is the page's front matter
-title: "Musiikin tulkinta ja kuviot tangoon ja hitaaseen foksiin" # Displayed on home page
+title: "Musiikin tulkinta ja kuviot tangoon sekä hitaaseen foksiin" # Displayed on home page
 description: "Jatkotasoille suunnattu kahden opetuskerran tiiviskurssi" # Displayed on home page
-articleTitle: "Musiikin tulkinta ja kuviot tangoon ja hitaaseen foksiin - Jatkotasojen tiiviskurssi"
+articleTitle: "Musiikin tulkinta ja kuviot tangoon sekä hitaaseen foksiin - Jatkotasojen tiiviskurssi"
 subdirectories: ["tapahtuma"]  # No need to modify
 date: "2024-05-21"
 clock: "19:15 - 21:00"
