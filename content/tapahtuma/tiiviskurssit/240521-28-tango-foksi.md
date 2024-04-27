@@ -31,7 +31,9 @@ Mikäli haluat voit tanssia myös oman parin kanssa.
 
 {{% bank %}}
 <!-- UPDATE reference number(s) -->
-Viite: **7977**  
+{{% intensiveCourse/referenceNumbers
+  7977
+%}}
 
 Jos maksat useamman tiiviskurssin kerralla, syötä niiden viitenumerot viestikenttään.
 

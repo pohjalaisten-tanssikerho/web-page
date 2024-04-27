@@ -1,0 +1,8 @@
+<!-- Check if at least 2 paramaters are provided -->
+{{ if .Get 3 }}
+Viitteet:  
+&emsp;{{ .Get 0 }}: **{{ .Get 1 }}**  
+&emsp;{{ .Get 2 }}: **{{ .Get 3 }}**
+{{ else }}
+Viite: **{{ .Get 0 }}**
+{{ end }}
