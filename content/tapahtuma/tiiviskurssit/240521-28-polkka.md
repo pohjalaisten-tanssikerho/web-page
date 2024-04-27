@@ -37,7 +37,7 @@ Jos maksat useamman tiiviskurssin kerralla, syötä niiden viitenumerot viestike
 
 {{% intensiveCourse/mobilepay %}}
 
-Hoidathan maksun omatoimisesti viimeistään kaksi viikkoa kurssipäivästä.
+Hoidathan maksun omatoimisesti viimeistään kahden viikon kuluttua kurssipäivästä!
 
 ---
 Paikka:  
