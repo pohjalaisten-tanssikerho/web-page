@@ -12,7 +12,7 @@ address: "Töölönkatu 3" # No need to modify
 - Tiistaisin 21.5 ja 28.5.2024 klo 19.15-21 (kurssi sisältää kaksi 105 min opetuskertaa).
 Musiikin tulkintaa ja kuvioita käveleviin tansseihin jatkotasojen (alkeisjatko ja jatko) tanssijoille. Kurssi täydentää tanssiosaamista tangossa ja hitaassa foksissa musiikin tulkinnan ja kuvioiden kautta ja antaa uusia työkaluja tanssiin. Kurssi on tarkoitettu lajeja aikaisemmin tanssineille. Opetuksessa pysyy hyvin mukana, jos on aikaisemmin käynyt tangon ja foksin tunneilla POTilla tai muualla alkeisjatko- tai jatkotason kausikursseilla ja kokee, että lajien perusaskeleet ja- kuviot ovat jo hallussa.
 - Opettaja: kokenut ammattilainen Kimmo Luukkonen.
-<!-- Enter the pricesm separated by a space, in this order:
+<!-- Enter the prices separated by a space, in this order:
 osakuntalainen opiskelija muut -->
 {{% intensiveCourse/prices
   5 8 15
