@@ -1,5 +1,5 @@
 ---
-title: Pohjalaisten tanssikerho (POT)
+title: Pohjalaisten tanssikerho
 categories:
 - etusivu
 description: Opetusta, bileitä ja ekskursioita. Pohjalaisten tanssikerho tuo opiskelijan
