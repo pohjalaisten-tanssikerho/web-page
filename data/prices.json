@@ -19,17 +19,17 @@
   "opiskelija": [
     {
       "name": "alkeet",
-      "price": "45€",
+      "price": "50€",
       "ref": "1012"
     },
     {
       "name": "alkeisjatko",
-      "price": "45€",
+      "price": "50€",
       "ref": "1119"
     },
     {
       "name": "jatko",
-      "price": "45€",
+      "price": "50€",
       "ref": "1915"
     }
   ],
