@@ -8,6 +8,7 @@
 {{ else }}
 {{ $course := index .Site.Data.coursesMeta (.Get 0) }}
 {{ range $course }}
-Kurssin ohjaajana toimii {{ .teacher }}. Kurssi on tiistaisin ja alkaa kello {{ .start }} ja loppuu kello {{ .end }}.
+<!-- Kurssin ohjaajana toimii {{ .teacher }}. Kurssi on tiistaisin ja alkaa kello {{ .start }} ja loppuu kello {{ .end }}. -->
+Kurssi pidetään tiistaisin klo {{ .start }} - {{ .end }}.
 {{ end }}
 {{ end }}

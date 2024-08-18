@@ -8,11 +8,14 @@ subdirectories_weight: "4"
 ---
 # Alkeisjatko
 
-Alkeisjatkokurssille voit osallistua alkeiskurssin käytyäsi tai kun hallitset perusaskeleet. On suositeltavaa osallistua kurssille vuoden ajan ennen jatkokurssille osallistumista.
+Alkeisjatkokurssi sopii hyvin alkeiskurssin käyneille tai muuten tanssia harrastaneille. Kurssilla tanssitaan suosituimpia tanssilajeja monipuolisesti: lavatanssit, rock'n'swingit ja lattarit. Kurssin alkuun kerrataan alkeiskurssilla käytyjä perusteita, joiden jälkeen tanssiosaamista täydennetään teknillisin harjoittein ja uusien hauskojen kuvioiden kautta.
 
-Alkeisjatkokurssilla on kiertävä parin vaihto!
+Tunneilla on kiertävä parinvaihto, eli et tarvitse omaa paria.
 
-[Täytä kurssi-ilmoittautuminen]({{< link signin >}}) ja tule kursseille!
+<!-- [Täytä kurssi-ilmoittautuminen]({{< link signin >}}) ja tule kursseille! -->
+{{% registration %}}
 
 {{% courseMeta alkeisjatko %}}
+
+<!-- Kurssiaikataulu ja lajit -->
 {{< course alkeisjatko >}}
