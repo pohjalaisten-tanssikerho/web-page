@@ -8,7 +8,15 @@ date: "2024-09-10"
 clock: "17:15 - 21:00"
 address: "Ostrobotnia-talo, Töölönkatu 3"
 ---
-Syyskauden 2024 paritanssikurssit alkavat!🎺🎷🎼 Viime kaudella kausikursseilla oli yli 150 tanssijaa ja huipputunnelma, joka jatkuu nyt syksyllä.😃 Opetusta on kaikilla taitotasoilla uuden harrastuksen aloittavista kokeneisiin tanssijoihin.💃🕺 Opetusryhmiä on neljä: kahdet alkeet, alkeisjatko ja jatko. Kausikursseilla on 14 opetuskertaa tiistaisin aikavälillä 10.9. – 10.12.2024 klo 17:15-21:00 Bottalla (Töölönkatu 3A, 5. kerros). Ilmoittautumislomakkeet julkaistaan elokuun aikana. Tervetuloa tanssimaan ja mukaan hienoon tanssiporukkaan!🙂
+Pohjalaisten osakuntien tanssikerho POTin syyskauden 2024 paritanssikurssit alkavat!    Kausikursseilla on 14 opetuskertaa tiistaisin aikavälillä 10.9. – 10.12.2024 klo 17:15-21:00, paikkana Pohjalaisten osakuntien tilat Ostrobothnia-talolla (Töölönkatu 3A, 5. kerros).
+
+
+Opetusta kaikilla taitotasoilla uuden harrastuksen aloittavista kokeneisiin tanssijoihin.   Viime kaudella kausikursseilla oli yli 150 tanssijaa ja huipputunnelma, joka jatkuu nyt syksyllä! Tervetuloa mukaan kaikki korkeakouluopiskelijat yliopistot ja ammattikorkeakoulut. 
+Kaikilla kursseilla on alussa kaksi ilmaista kokeilukertaa (tiistait 10.9., 17.9. Kursseille ilmoittautumiset tämän [linkin](https://docs.google.com/forms/d/e/1FAIpQLSdHkK7mxSwmHvHHZfv2AHSHZh2VXAEFnyVE0BJxWV3S0gGvXQ/viewform) kautta.
+
+Ilmoittauduthan ajoissa, sillä kurssit olleet suosittuja ja osa kursseista voi täyttyä nopeasti. Kursseille pyritään ottamaan lähelle sama määrä seuraajia ja viejiä hyvän paritasapainotilanteen varmistamiseksi. Tanssisaleihin mahtumista ja paritasapainoa seuraamme ilmoittautumislomakkeen kautta.
+Ilmoittautumislomakkeen täyttämisen jälkeen voit saapua suoraan paikalle kurssin alkamisaikaan. Ilmoittautumislomakkeet sulkeutuvat kurssien mennessä täyteen tai kokeilukertojen jälkeen, joten ilmoittauduthan ennen kurssien alkamista tai kokeilukertojen aikana 24.9. mennessä.  Kesken kauden ilmoittautumiset sähköpostitse kysymällä. Mikäli et jatka kokeilukertojen jälkeen, peruutathan ilmoittautumisesi sähköpostitse pohjalaistentanssikerho.ry@gmail.com
+Tarkemmat kurssien kuvaukset alkeet, alkeisjatko ja jatkotaso, maksutiedot sekä ohjeet löytyvät alempaa.   Tanssilajeista opitaan monipuolisesti hauskimpia ja yleisimpiä paritanssilajeja: lavatanssit, rock&swingit ja lattarit.   
 
 Pohjalaisten tanssikerhon syksyn 2024 kausikurssien alustava ohjelma:
 
