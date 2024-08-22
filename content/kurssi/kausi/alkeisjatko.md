@@ -12,7 +12,7 @@ Alkeisjatkokurssi sopii hyvin alkeiskurssin käyneille tai muuten tanssia harras
 
 Tunneilla on kiertävä parinvaihto, eli et tarvitse omaa paria.
 
-<!-- [Täytä kurssi-ilmoittautuminen]({{< link signin >}}) ja tule kursseille! -->
+<!-- layouts/shortcodes/registration.html -->
 {{% registration %}}
 
 {{% courseMeta alkeisjatko %}}

@@ -13,6 +13,7 @@ Jatkokurssi tarjoaa runsaasti monipuolista opetusta aktiivisille tanssiharrastaj
 
 Tunneilla on kiertävä parinvaihto, eli et tarvitse omaa paria.
 
+<!-- layouts/shortcodes/registration.html -->
 {{% registration %}}
 
 {{% courseMeta jatko %}}

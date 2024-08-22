@@ -11,8 +11,7 @@ Alkeiskurssi on suunnattu tanssiharrastusta aloittaville tanssijoille, eikä vaa
 
 Tunneilla on kiertävä parinvaihto, eli et tarvitse omaa paria.
 
-<!-- [Täytä kurssi-ilmoittautuminen]({{< link signin >}}) ja tule kursseille! -->
-<!-- Linkki ilmoittautumislomakeeseen lisätään lähiaikoina. -->
+<!-- layouts/shortcodes/registration.html -->
 {{% registration %}}
 
 {{% courseMeta alkeet %}}
