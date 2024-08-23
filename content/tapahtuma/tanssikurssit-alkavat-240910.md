@@ -12,13 +12,12 @@ Pohjalaisten osakuntien tanssikerho POTin syyskauden 2024 paritanssikurssit alka
 
 
 Opetusta kaikilla taitotasoilla uuden harrastuksen aloittavista kokeneisiin tanssijoihin.   Viime kaudella kausikursseilla oli yli 150 tanssijaa ja huipputunnelma, joka jatkuu nyt syksyllä! Tervetuloa mukaan kaikki korkeakouluopiskelijat yliopistot ja ammattikorkeakoulut. 
-Kaikilla kursseilla on alussa kaksi ilmaista kokeilukertaa (tiistait 10.9., 17.9. Kursseille ilmoittautumiset tämän [linkin](https://docs.google.com/forms/d/e/1FAIpQLSdHkK7mxSwmHvHHZfv2AHSHZh2VXAEFnyVE0BJxWV3S0gGvXQ/viewform) kautta.
+
+Kaikilla kursseilla on alussa kaksi ilmaista kokeilukertaa (tiistait 10.9. ja 17.9). Kursseille ilmoittautumiset tämän [linkin](https://docs.google.com/forms/d/e/1FAIpQLSdHkK7mxSwmHvHHZfv2AHSHZh2VXAEFnyVE0BJxWV3S0gGvXQ/viewform) kautta.
 
 Ilmoittauduthan ajoissa, sillä kurssit olleet suosittuja ja osa kursseista voi täyttyä nopeasti. Kursseille pyritään ottamaan lähelle sama määrä seuraajia ja viejiä hyvän paritasapainotilanteen varmistamiseksi. Tanssisaleihin mahtumista ja paritasapainoa seuraamme ilmoittautumislomakkeen kautta.
-Ilmoittautumislomakkeen täyttämisen jälkeen voit saapua suoraan paikalle kurssin alkamisaikaan. Ilmoittautumislomakkeet sulkeutuvat kurssien mennessä täyteen tai kokeilukertojen jälkeen, joten ilmoittauduthan ennen kurssien alkamista tai kokeilukertojen aikana 24.9. mennessä.  Kesken kauden ilmoittautumiset sähköpostitse kysymällä. Mikäli et jatka kokeilukertojen jälkeen, peruutathan ilmoittautumisesi sähköpostitse pohjalaistentanssikerho.ry@gmail.com
+Ilmoittautumislomakkeen täyttämisen jälkeen voit saapua suoraan paikalle kurssin alkamisaikaan. Ilmoittautumislomakkeet sulkeutuvat kurssien mennessä täyteen tai kokeilukertojen jälkeen, joten ilmoittauduthan ennen kurssien alkamista tai kokeilukertojen aikana 24.9. mennessä.  Kesken kauden ilmoittautumiset sähköpostitse kysymällä. Mikäli et jatka kokeilukertojen jälkeen, peruutathan ilmoittautumisesi sähköpostitse pohjalaistentanssikerho.ry (ät) gmail.com  
 Tarkemmat kurssien kuvaukset alkeet, alkeisjatko ja jatkotaso, maksutiedot sekä ohjeet löytyvät alempaa.   Tanssilajeista opitaan monipuolisesti hauskimpia ja yleisimpiä paritanssilajeja: lavatanssit, rock&swingit ja lattarit.   
-
-Pohjalaisten tanssikerhon syksyn 2024 kausikurssien alustava ohjelma:
 
 **ALKEISKURSSIT: PARIA VAIHTAVAT JA OMA PARI**
 
@@ -44,6 +43,11 @@ Tanssilajit:
 3.12. bugg  
 10.12. tango ja bugg kertaus
 
+Hinnat:  
+35 € osakuntalainen (EPO, PPO, VN)  
+50 € muu korkeakouluopiskelija (yliopisto tai ammattikorkeakoulu)  
+80 € muut
+
 **ALKEISJATKO**
 
 Klo 19:15 - 21:00  
@@ -67,6 +71,11 @@ Tanssilajit:
 3.12. julkaistann myöhemmin
 10.12. julkaistann myöhemmin
 
+Hinnat:  
+40 € osakuntalainen (EPO, PPO, VN)  
+50 € muu korkeakouluopiskelija (yliopisto tai ammattikorkeakoulu)  
+80 € muut
+
 **JATKO**
 
 Klo 17:15 - 19:00
@@ -88,10 +97,17 @@ Tanssilajit:
 19.11 fusku  
 26.11 fusku  
 3.12 bachata tai toivelaji  
-10.12 bachata tai toivelaji  
-_
+10.12 bachata tai toivelaji
 
-Hinnat ovat kaikilla kursseilla samat:  
-35 € -- osakuntalainen (EPO, PPO, VN)  
-50 € -- muu korkeakouluopiskelija (yliopisto tai ammattikorkeakoulu)  
-80 € -- muut
+Hinnat:  
+40 € osakuntalainen (EPO, PPO, VN)  
+50 € muu korkeakouluopiskelija (yliopisto tai ammattikorkeakoulu)  
+80 € muut
+
+**Maksutiedot**
+
+{{% bank %}}
+Viitteet:  
+Alkeet (kummatkin ryhmät) → **1012**  
+Alkeisjatko → **1119**  
+Jatko → **1915**
