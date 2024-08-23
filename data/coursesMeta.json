@@ -2,7 +2,7 @@
   "alkeet": [
     {
       "name": "Alkeet",
-      "teacher": "Kimmo Luukkonen",
+      "teacher": "Kimmo Luukkonen, Timo Arstila ja Carola Winquist",
       "start": "17:15",
       "end": "19:00"
     }
@@ -10,7 +10,7 @@
   "alkeetOma": [
     {
       "name": "Alkeet omalla parilla",
-      "teacher": "Marianne Krause",
+      "teacher": "Timo Arstila, Carola Winquist ja Kimmo Luukkonen",
       "start": "19:15",
       "end": "21:00"
     }
@@ -18,7 +18,7 @@
   "alkeisjatko": [
     {
       "name": "Alkeisjatko",
-      "teacher": "Kimmo Luukkonen",
+      "teacher": "Kimmo Luukkonen, Timo Arstila ja Carola Winquist",
       "start": "19:15",
       "end": "21:00"
     }
@@ -26,7 +26,7 @@
   "jatko": [
     {
       "name": "Jatko",
-      "teacher": "Marianne Krause",
+      "teacher": "Timo Arstila, Carola Winquist ja Kimmo Luukkonen",
       "start": "17:15",
       "end": "19:00"
     }
