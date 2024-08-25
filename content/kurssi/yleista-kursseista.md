@@ -7,7 +7,7 @@ description: Kaikille viikottaisille kursseille yhteistä asiaa ja käytäntöj�
 ---
 # Yleistä kursseista
 
-Pohjalaisten tanssikerho järjestää lukukauden pituisia tanssikursseja, joiden aikana opetetaan muun muassa suosituimpia lavatansseja, rock and swingejä ja lattareita. Yhteensä kursseja on neljä:
+Pohjalaisten tanssikerho järjestää lukukauden pituisia paritanssikursseja, joiden aikana opetetaan muun muassa suosituimpia lavatansseja, rock and swingejä ja lattareita. Yhteensä kursseja on neljä:
 
 * [alkeiskurssi oman parin kanssa]({{< ref "/kurssi/kausi/alkeet-oma-pari.md" >}})
 * [alkeiskurssi parinvaihdoilla]({{< ref "/kurssi/kausi/alkeet-parinvaihto.md" >}})
@@ -18,7 +18,7 @@ Kaikki kausikurssit, ja yleensä myös lyhytkurssit, pidetään Bottalla osoitte
 
 Alkeiskursseja on kaksi erilaista. Toisella alkeiskurssilla tanssitaan pareja vaihtaen, joka usein tukee tanssin oppimista. Toinen alkeiskurssi pidetään heille, jotka haluavat tanssia oman parinsa kanssa. Alkeisjatko- ja jatkokursseilla tanssitaan paria vaihtaen.
 
-Kuhunkin **kurssiin sisältyy 14 opetuskertaa**. Kursseilla on alussa kolme ilmaista kokeilukertaa. Kesken kurssin on mahdollista liittyä mukaan, mutta tätä ennen on ensin otettava yhteys [hallitukseen]({{< ref "/hallitus.md" >}}). Kesken kurssin aloittavalla on yksi ilmainen kokeilukerta.
+Kuhunkin **kurssiin sisältyy 14 opetuskertaa**. Kursseilla on alussa kaksi ilmaista kokeilukertaa. Kesken kurssin on mahdollista liittyä mukaan, mutta tätä ennen on ensin otettava yhteys [hallitukseen]({{< ref "/hallitus.md" >}}). Kesken kurssin aloittavalla on yksi ilmainen kokeilukerta.
 
 Kurssimme ovat tarkoitettuja ensisijaisesti opiskelijoille ja Pohjalaisten osakuntien jäsenille. Kursseille voi osallistua, vaikka et enää olisikaan opiskelija. Kannattaa siis varata paikkasi ajoissa! Ethän myöskään ilmoittaudu turhaan ja vie jonkun toisen paikkaa kurssilla: jos et pääsekään kursseille, muista perua ilmoittautumisesi, jotta varasijalla olleet tanssijat pääsevät mukaan.
 
