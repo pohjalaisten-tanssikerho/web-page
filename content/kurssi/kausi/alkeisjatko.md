@@ -12,6 +12,8 @@ Alkeisjatkokurssi sopii hyvin alkeiskurssin käyneille tai muuten tanssia harras
 
 Tunneilla on kiertävä parinvaihto, eli et tarvitse omaa paria.
 
+Kauden alkupuoliskolla opettajina toimivat Kimmo Luukkonen ja Henna Jylhä (näyttöpari). Loppupuoliskolla Timo Arstila ja Carola Winqvist.
+
 <!-- layouts/shortcodes/registration.html -->
 {{% registration %}}
 

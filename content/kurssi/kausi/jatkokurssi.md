@@ -13,6 +13,8 @@ Jatkokurssi tarjoaa runsaasti monipuolista opetusta aktiivisille tanssiharrastaj
 
 Tunneilla on kiertävä parinvaihto, eli et tarvitse omaa paria.
 
+auden alkupuoliskolla opettajina toimivat Timo Arstila ja Carola Winqvist. Loppupuoliskolla Kimmo Luukkonen ja Henna Jylhä (näyttöpari).
+
 <!-- layouts/shortcodes/registration.html -->
 {{% registration %}}
 

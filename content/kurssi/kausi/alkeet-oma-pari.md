@@ -7,6 +7,8 @@ subdirectories_weight: 2
 # Alkeiskurssi oman parin kanssa
 Mikäli tahdot osallistua paritanssin alkeiskurssille yhdessä oman parisi kanssa, ilman parinvaihtoa, on tämä kurssi teitä varten. Alkeiskurssille osallistuminen ei vaadi aiempaa tanssikokemusta. Kurssilla opitaan perusteet tärkeimmistä ja käyttökelpoisimmista tanssilajeista. Näillä lajeilla pärjää niin tanssilavalla, häissä, karaokebaarissa kuin opiskelijabileiden diskossakin. Tanssikurssilla käynnin voi aloittaa niin keväällä kuin syksylläkin. 
 
+Kauden alkupuoliskolla opettajina toimivat Timo Arstila ja Carola Winqvist. Loppupuoliskolla Kimmo Luukkonen ja Henna Jylhä (näyttöpari).
+
 <!-- layouts/shortcodes/registration.html -->
 {{% registration %}}
 
