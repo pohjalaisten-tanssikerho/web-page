@@ -7,7 +7,7 @@ description: Kaikille viikottaisille kursseille yhteistä asiaa ja käytäntöj�
 ---
 # Yleistä kursseista
 
-Pohjalaisten tanssikerho järjestää lukukauden pituisia paritanssikursseja, joiden aikana opetetaan muun muassa suosituimpia lavatansseja, rock and swingejä ja lattareita. Yhteensä kursseja on neljä:
+Pohjalaisten tanssikerho (POT) järjestää lukukauden pituisia paritanssikursseja, joiden aikana opetetaan muun muassa suosituimpia lavatansseja, rock and swingejä ja lattareita. Yhteensä kursseja on neljä:
 
 * [alkeiskurssi oman parin kanssa]({{< ref "/kurssi/kausi/alkeet-oma-pari.md" >}})
 * [alkeiskurssi parinvaihdoilla]({{< ref "/kurssi/kausi/alkeet-parinvaihto.md" >}})
