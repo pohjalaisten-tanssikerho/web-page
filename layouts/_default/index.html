@@ -101,7 +101,8 @@
       <!-- <p>Tapahtumat jatkuvat tammikuussa!</p> -->
       {{ else }}
       <ul>
-        {{ range (sort $events "Date" "asec")}}
+        <!-- Sort both by clock and by date -->
+        {{ range (sort ($events.ByParam "clock") "Date" "asec")}}
         <li><span class="date-event">{{ .Date.Format "02.01." }}</span><span class="title-event"><a href="{{ .Permalink }}">{{ .Title }}</a></span>
           {{ with .Params.description }}
           <p>{{ . }} </p>
