@@ -67,16 +67,16 @@
     {
       "date": "2024-11-05",
       "message": "",
-      "alkeet": "salsa",
-      "alkeetOma": "salsa",
-      "alkeisjatko": "tango",
-      "jatko": "swing polkka + kansantanssit"
+      "alkeet": "ei tuntia",
+      "alkeetOma": "ei tuntia",
+      "alkeisjatko": "ei tuntia",
+      "jatko": "ei tuntia"
     },
     {
       "date": "2024-11-12",
       "message": "",
-      "alkeet": "tango",
-      "alkeetOma": "tango",
+      "alkeet": "salsa",
+      "alkeetOma": "salsa",
       "alkeisjatko": "tango",
       "jatko": "swing polkka + kansantanssit"
     },
@@ -85,14 +85,14 @@
       "message": "",
       "alkeet": "tango",
       "alkeetOma": "tango",
-      "alkeisjatko": "jenkka",
-      "jatko": "fusku"
+      "alkeisjatko": "tango",
+      "jatko": "swing polkka + kansantanssit"
     },
     {
       "date": "2024-11-26",
       "message": "",
-      "alkeet": "bugg",
-      "alkeetOma": "bugg",
+      "alkeet": "tango",
+      "alkeetOma": "tango",
       "alkeisjatko": "jenkka",
       "jatko": "fusku"
     },
@@ -101,11 +101,19 @@
       "message": "",
       "alkeet": "bugg",
       "alkeetOma": "bugg",
+      "alkeisjatko": "jenkka",
+      "jatko": "fusku"
+    },
+    {
+      "date": "2024-12-10",
+      "message": "",
+      "alkeet": "bugg",
+      "alkeetOma": "bugg",
       "alkeisjatko": "toivelaji",
       "jatko": "bachata tai toivelaji"
     },
     {
-      "date": "2024-12-10",
+      "date": "2024-12-17",
       "message": "",
       "alkeet": "tango & bugg kertaus",
       "alkeetOma": "tango & bugg kertaus",
