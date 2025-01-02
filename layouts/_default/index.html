@@ -21,7 +21,7 @@
     {{ $courses := index .Site.Data.courses "courses" }}
     {{ $firstThree := first 3 (sort (where $courses "date" "ge" (now.Format "2006-01-02")) "date" "asec") }}
     <div id="nextThreeCourses">
-      <h2>Syksy 2024, seuraavat tunnit</h2>
+      <h2>Kevät 2025, seuraavat tunnit</h2>
 
       <!-- <script src="https://cdn.jsdelivr.net/npm/moment@2/moment.min.js"></script> -->
       <!-- <script src="https://apis.google.com/js/api.js"></script> -->
@@ -33,7 +33,8 @@
         POTin kausikurssit jatkuvat jälleen syyskuussa tiistaisin 💃🕺
         Tanssiopetuspuolella voi mahdollisesti sitä ennen tulla tiivareita.
         Kesäkuun alkupuolella on Bottan salien lattioiden kunnostus: hionta ja vahaus.
-        Seuraavaksi tulossa POT- ja HOT-tanssikerhojen yhteisiä ulkoilmatansseja Annantalon ja Designmuseon lavoilla, sekä merellisissä maisemissa 🌞
+        Seuraavaksi tulossa POT- ja HOT-tanssikerhojen yhteisiä ulkoilmatansseja Annantalon ja Designmuseon lavoilla,
+        sekä merellisissä maisemissa 🌞
       </p>
       <!-- <p>Kurssien suunnittelu käynnissä, lisätietoa tulossa.</p> -->
       <!-- <p>Kurssien alkamisajankohdan muistutuksen voi tilata sähköpostiin. Sähköpostia käytetään vain tähän tarkoitukseen, ja muistutuksen jälkeen sähköpostiosoite poistetaan järjestelmästä pysyvästi.</p> -->
@@ -84,7 +85,7 @@
         </tr>
       </table>
       <p>Blogista löytyy <a href="{{ ref . `/tanssilajit.md` }}">lyhyet esittely kustakin lajeista</a>.</p>
-    {{ end }}
+      {{ end }}
     </div>
 
     <div>
@@ -103,7 +104,8 @@
       <ul>
         <!-- Sort both by clock and by date -->
         {{ range (sort ($events.ByParam "clock") "Date" "asec")}}
-        <li><span class="date-event">{{ .Date.Format "02.01." }}</span><span class="title-event"><a href="{{ .Permalink }}">{{ .Title }}</a></span>
+        <li><span class="date-event">{{ .Date.Format "02.01." }}</span><span class="title-event"><a
+              href="{{ .Permalink }}">{{ .Title }}</a></span>
           {{ with .Params.description }}
           <p>{{ . }} </p>
           {{ end }}
