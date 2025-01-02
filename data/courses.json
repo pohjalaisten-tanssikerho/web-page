@@ -1,124 +1,116 @@
 {
   "courses": [
     {
-      "date": "2024-09-10",
+      "date": "2025-01-14",
       "message": "",
       "alkeet": "fusku",
       "alkeetOma": "fusku",
-      "alkeisjatko": "bugg",
-      "jatko": "bugg"
-    },
-    {
-      "date": "2024-09-17",
-      "message": "",
-      "alkeet": "fusku",
-      "alkeetOma": "fusku",
-      "alkeisjatko": "bugg",
-      "jatko": "bugg"
-    },
-    {
-      "date": "2024-09-24",
-      "message": "",
-      "alkeet": "fusku",
-      "alkeetOma": "fusku",
-      "alkeisjatko": "foksi",
-      "jatko": "hitaat"
-    },
-    {
-      "date": "2024-10-01",
-      "message": "",
-      "alkeet": "foksi",
-      "alkeetOma": "foksi",
-      "alkeisjatko": "foksi",
-      "jatko": "hitaat"
-    },
-    {
-      "date": "2024-10-08",
-      "message": "",
-      "alkeet": "foksi",
-      "alkeetOma": "foksi",
-      "alkeisjatko": "rumba bolero",
-      "jatko": "lattari"
-    },
-    {
-      "date": "2024-10-15",
-      "message": "",
-      "alkeet": "foksi",
-      "alkeetOma": "foksi",
-      "alkeisjatko": "rumba bolero",
-      "jatko": "lattari"
-    },
-    {
-      "date": "2024-10-22",
-      "message": "",
-      "alkeet": "salsa",
-      "alkeetOma": "salsa",
       "alkeisjatko": "fusku",
+      "jatko": "bugg"
+    },
+    {
+      "date": "2025-01-21",
+      "message": "",
+      "alkeet": "fusku",
+      "alkeetOma": "fusku",
+      "alkeisjatko": "fusku",
+      "jatko": "bugg"
+    },
+    {
+      "date": "2025-01-28",
+      "message": "",
+      "alkeet": "valssi",
+      "alkeetOma": "valssi",
+      "alkeisjatko": "hidas valssi",
       "jatko": "foksi"
     },
     {
-      "date": "2024-10-29",
+      "date": "2025-02-04",
+      "message": "",
+      "alkeet": "valssi",
+      "alkeetOma": "valssi",
+      "alkeisjatko": "hidas valssi",
+      "jatko": "foksi"
+    },
+    {
+      "date": "2025-02-11",
+      "message": "",
+      "alkeet": "fusku ja valssi kertaus ",
+      "alkeetOma": "fusku ja valssi kertaus ",
+      "alkeisjatko": "salsa",
+      "jatko": "west coast swing tai boogie woogie"
+    },
+    {
+      "date": "2025-02-18",
       "message": "",
       "alkeet": "salsa",
       "alkeetOma": "salsa",
-      "alkeisjatko": "fusku",
-      "jatko": "polkka + kansantanssit"
+      "alkeisjatko": "salsa",
+      "jatko": "west coast swing tai boogie woogie"
     },
     {
-      "date": "2024-11-05",
-      "message": "",
-      "alkeet": "ei tuntia",
-      "alkeetOma": "ei tuntia",
-      "alkeisjatko": "ei tuntia",
-      "jatko": "ei tuntia"
-    },
-    {
-      "date": "2024-11-12",
+      "date": "2025-02-25",
       "message": "",
       "alkeet": "salsa",
       "alkeetOma": "salsa",
       "alkeisjatko": "tango",
-      "jatko": "swing polkka + kansantanssit"
+      "jatko": "rumba bolero"
     },
     {
-      "date": "2024-11-19",
+      "date": "2025-03-04",
       "message": "",
-      "alkeet": "tango",
-      "alkeetOma": "tango",
+      "alkeet": "foksi",
+      "alkeetOma": "foksi",
       "alkeisjatko": "tango",
-      "jatko": "swing polkka + kansantanssit"
+      "jatko": "rumba bolero"
     },
     {
-      "date": "2024-11-26",
+      "date": "2025-03-11",
+      "message": "",
+      "alkeet": "foksi",
+      "alkeetOma": "foksi",
+      "alkeisjatko": "cha cha",
+      "jatko": "tango"
+    },
+    {
+      "date": "2025-03-18",
       "message": "",
       "alkeet": "tango",
       "alkeetOma": "tango",
-      "alkeisjatko": "jenkka",
-      "jatko": "fusku"
+      "alkeisjatko": "cha cha",
+      "jatko": "tango taivutukset, linjat yms tulkinnat"
     },
     {
-      "date": "2024-12-03",
+      "date": "2025-03-25",
+      "message": "",
+      "alkeet": "tango",
+      "alkeetOma": "tango",
+      "alkeisjatko": "foksi",
+      "jatko": "salsa"
+    },
+    {
+      "date": "2025-04-01",
       "message": "",
       "alkeet": "bugg",
       "alkeetOma": "bugg",
-      "alkeisjatko": "jenkka",
-      "jatko": "fusku"
+      "alkeisjatko": "foksi",
+      "jatko": "salsa"
     },
     {
-      "date": "2024-12-10",
+      "date": "2025-04-08",
       "message": "",
       "alkeet": "bugg",
       "alkeetOma": "bugg",
-      "alkeisjatko": "toivelaji",
-      "jatko": "bachata tai toivelaji"
+      "alkeisjatko": "bugg",
+      "jatko": "hidas valssi"
     },
     {
-      "date": "2024-12-17",
+      "date": "2025-04-15",
       "message": "",
-      "alkeet": "tango & bugg kertaus",
-      "alkeetOma": "tango & bugg kertaus",
-      "alkeisjatko": "toivelaji",
-      "jatko": "bachata tai toivelaji"
+      "alkeet": "bugg",
+      "alkeetOma": "bugg",
+      "alkeisjatko": "bugg",
+      "jatko": "hidas valssi"
     }
   ]
 }
