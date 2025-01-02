@@ -11,7 +11,7 @@ address: "Ostrobotnia-talo, Töölönkatu 3"
 
 Pohjalaisten osakuntien tanssikerho POTin kevätkauden 2025 paritanssikurssit alkavat!💃🕺😃 Kausikursseilla on 14 opetuskertaa tiistaisin aikavälillä 14.1. – 15.4.2025 klo 17:15-21:00, paikkana Pohjalaisten osakuntien tilat Ostrobothnia-talolla (Töölönkatu 3A, 5. kerros).
 
-Opetusta kaikilla taitotasoilla uuden harrastuksen aloittavista kokeneisiin tanssijoihin.💃🕺 Viime kaudella kausikursseilla oli yli 150 tanssijaa ja huipputunnelma, joka jatkuu nyt keväällä! Tervetuloa kaikki yliopisto- ja ammattikorkeakouluopiskelijat.🙂
+Opetusta kaikilla taitotasoilla uuden harrastuksen aloittavista kokeneisiin tanssijoihin.💃🕺 Viime kaudella kausikursseilla oli yli 150 tanssijaa ja huipputunnelma, joka jatkuu nyt keväällä! Tervetuloa kaikki yliopisto- ja ammattikorkeakouluopiskelijat.🙂 Lisäksi mukaan mahtuu entisiä tanssikerholaisia ja opinnoista valmistuneita opiskelijamielisiä.
 
 Kaikilla kursseilla on alussa kaksi ilmaista kokeilukertaa (tiistait 14.1 ja 21.1). Kursseille ilmoittautumiset tämän [linkin](https://docs.google.com/forms/d/e/1FAIpQLSc0QmmIv6INy_t1Fo9gNxmEnBizGKHevqe9d43VfAnJdOh6PA/viewform?usp=header) kautta.
 
