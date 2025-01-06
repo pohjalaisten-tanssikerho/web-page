@@ -8,39 +8,32 @@
       "email": "etunimi.sukunimi@gmail.com"
     },
     {
-      "firstname": "Siru",
-      "lastname": "Uusi-Seppälä",
-      "picture": "Siru.jpg",
+      "firstname": "Krista",
+      "lastname": "Mäkelä",
+      "picture": "Krista.jpg",
       "role": "Varapuheenjohtaja",
-      "email": "s.uusiseppala (ät) gmail.com"
+      "email": ""
     },
     {
       "firstname": "Katariina",
       "lastname": "Pelto-Timperi",
       "picture": "Kata.jpg",
-      "role": "Tiedottaja",
+      "role": "Taloudenhoitaja",
       "email": "katariina.peltotimperi (ät) gmail.com"
     },
     {
-      "firstname": "Lisa",
-      "lastname": "Sparf",
-      "picture": "Lisa.jpg",
+      "firstname": "Johannes",
+      "lastname": "Halkoaho",
+      "picture": "",
       "role": "Sihteeri",
-      "email": "etunimi.sukunimi@gmail.com"
+      "email": ""
     },
     {
-      "firstname": "Severi",
-      "lastname": "Huuki",
-      "picture": "Severi.jpg",
-      "role": "Tapahtumavastaava",
-      "email": "etunimi.sukunimi@gmail.com"
-    },
-    {
-      "firstname": "Akseli",
-      "lastname": "Ingervo",
-      "picture": "Akseli.jpg",
-      "role": "Taloudenhoitaja",
-      "email": "etunimi.sukunimi@gmail.com"
+      "firstname": "Miikka",
+      "lastname": "Junnila",
+      "picture": "",
+      "role": "Yleisjäsen",
+      "email": "etu.suku (ät) tuni.fi"
     }
   ]
 }
