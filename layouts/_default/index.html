@@ -21,7 +21,7 @@
     {{ $courses := index .Site.Data.courses "courses" }}
     {{ $firstThree := first 3 (sort (where $courses "date" "ge" (now.Format "2006-01-02")) "date" "asec") }}
     <div id="nextThreeCourses">
-      <h2>Kevät 2025, seuraavat tunnit</h2>
+      <h2>Syksy 2025, seuraavat tunnit</h2>
 
       <!-- <script src="https://cdn.jsdelivr.net/npm/moment@2/moment.min.js"></script> -->
       <!-- <script src="https://apis.google.com/js/api.js"></script> -->
