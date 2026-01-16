@@ -1,11 +1,10 @@
 {
   "members": [
-    {
-      "firstname": "Lasse",
-      "lastname": "Vaskelainen",
-      "picture": "lasse-vaskelainen.jpg",
+    {"firstname": "Samuli",
+      "lastname": "Raunio",
+      "picture": "",
       "role": "Puheenjohtaja",
-      "email": "etunimi.sukunimi@gmail.com"
+      "email": ""
     },
     {
       "firstname": "Krista",
@@ -29,11 +28,32 @@
       "email": "etunimi.sukunimi@gmail.com"
     },
     {
+      "firstname": "Lasse",
+      "lastname": "Vaskelainen",
+      "picture": "lasse-vaskelainen.jpg",
+      "role": "Yleisjäsen",
+      "email": "etunimi.sukunimi@gmail.com"
+    },
+    {
+      "firstname": "Alexander",
+      "lastname": "Pietilä",
+      "picture": "",
+      "role": "Yleisjäsen",
+      "email": ""
+    },
+    {
       "firstname": "Miikka",
       "lastname": "Junnila",
       "picture": "Miikka.jpg",
       "role": "Yleisjäsen",
       "email": "etu.suku (ät) tuni.fi"
+    },
+        {
+      "firstname": "Ronja",
+      "lastname": "Marwedel",
+      "picture": "Ronja.JPG",
+      "role": "Yleisjäsen",
+      "email": "etunimi (ät) sukunimi.eu"
     }
   ]
 }
