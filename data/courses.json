@@ -1,124 +1,109 @@
 {
   "courses": [
     {
-      "date": "2025-09-09",
+      "date": "2026-01-20",
       "message": "",
       "alkeet": "tango",
-      "alkeetOma": "tango",
       "alkeisjatko": "valssi",
-      "jatko": "salsa"
+      "jatko": "bugg"
     },
     {
-      "date": "2025-09-16",
+      "date": "2026-01-27",
       "message": "",
       "alkeet": "tango",
-      "alkeetOma": "tango",
       "alkeisjatko": "valssi",
-      "jatko": "salsa"
+      "jatko": "bugg"
     },
     {
-      "date": "2025-09-23",
+      "date": "2026-02-03",
       "message": "",
       "alkeet": "foksi",
-      "alkeetOma": "foksi",
-      "alkeisjatko": "valssi",
-      "jatko": "jive"
+      "alkeisjatko": "hidas valssi",
+      "jatko": "samba"
     },
     {
-      "date": "2025-09-30",
+      "date": "2026-02-10",
       "message": "",
       "alkeet": "foksi",
-      "alkeetOma": "foksi",
-      "alkeisjatko": "bugg",
-      "jatko": "jive"
+      "alkeisjatko": "cha cha",
+      "jatko": "samba"
     },
     {
-      "date": "2025-10-07",
-      "message": "",
-      "alkeet": "bugg",
-      "alkeetOma": "bugg",
-      "alkeisjatko": "bugg",
-      "jatko": "tango"
-    },
-    {
-      "date": "2025-10-14",
-      "message": "",
-      "alkeet": "bugg",
-      "alkeetOma": "bugg",
-      "alkeisjatko": "bugg",
-      "jatko": "tango"
-    },
-    {
-      "date": "2025-10-21",
-      "message": "",
-      "alkeet": "bugg",
-      "alkeetOma": "bugg",
-      "alkeisjatko": "humppa",
-      "jatko": "fusku"
-    },
-    {
-      "date": "2025-10-28",
-      "message": "",
-      "alkeet": "salsa",
-      "alkeetOma": "salsa",
-      "alkeisjatko": "humppa",
-      "jatko": "fusku"
-    },
-    {
-      "date": "2025-11-04",
-      "message": "Ei tunteja",
+      "date": "2026-02-17",
+      "message": "ei tunteja",
       "alkeet": "",
-      "alkeetOma": "",
       "alkeisjatko": "",
       "jatko": ""
     },
     {
-      "date": "2025-11-11",
+      "date": "2026-02-24",
+      "message": "",
+      "alkeet": "fusku",
+      "alkeisjatko": "cha cha",
+      "jatko": "hidas valssi"
+    },
+    {
+      "date": "2026-03-03",
+      "message": "",
+      "alkeet": "fusku",
+      "alkeisjatko": "cha cha",
+      "jatko": "hidas valssi"
+    },
+    {
+      "date": "2026-03-10",
       "message": "",
       "alkeet": "salsa",
-      "alkeetOma": "salsa",
-      "alkeisjatko": "salsa",
-      "jatko": "bachata"
+      "alkeisjatko": "foksi",
+      "jatko": "humppa"
     },
     {
-      "date": "2025-11-18",
+      "date": "2026-03-17",
       "message": "",
       "alkeet": "salsa",
-      "alkeetOma": "salsa",
-      "alkeisjatko": "salsa",
-      "jatko": "bachata"
+      "alkeisjatko": "foksi",
+      "jatko": "humppa"
     },
     {
-      "date": "2025-11-25",
+      "date": "2026-03-24",
       "message": "",
-      "alkeet": "fusku",
-      "alkeetOma": "fusku",
-      "alkeisjatko": "tango",
-      "jatko": "valssi"
+      "alkeet": "salsa",
+      "alkeisjatko": "slovari",
+      "jatko": "cha cha"
     },
     {
-      "date": "2025-12-02",
+      "date": "2026-03-31",
       "message": "",
-      "alkeet": "fusku",
-      "alkeetOma": "fusku",
-      "alkeisjatko": "tango",
-      "jatko": "valssi (Kimmo)"
+      "alkeet": "salsa",
+      "alkeisjatko": "slovari",
+      "jatko": "cha cha"
     },
     {
-      "date": "2025-12-09",
+      "date": "2026-04-07",
       "message": "",
-      "alkeet": "fusku",
-      "alkeetOma": "fusku",
+      "alkeet": "bugg",
+      "alkeisjatko": "bachata",
+      "jatko": "foksi"
+    },
+    {
+      "date": "2026-04-14",
+      "message": "",
+      "alkeet": "bugg",
+      "alkeisjatko": "bachata",
+      "jatko": "foksi"
+    },
+    {
+      "date": "2026-04-21",
+      "message": "",
+      "alkeet": "bugg",
       "alkeisjatko": "fusku",
-      "jatko": "jenkka/polkka"
+      "jatko": "slovari"
     },
     {
-      "date": "2025-12-16",
+      "date": "2026-04-28",
       "message": "",
       "alkeet": "kertaus",
-      "alkeetOma": "kertaus",
       "alkeisjatko": "fusku",
-      "jatko": "jenkka/polkka"
+      "jatko": "slovari"
     }
   ]
 }
