@@ -21,7 +21,7 @@
     {{ $courses := index .Site.Data.courses "courses" }}
     {{ $firstThree := first 3 (sort (where $courses "date" "ge" (now.Format "2006-01-02")) "date" "asec") }}
     <div id="nextThreeCourses">
-      <h2>Syksy 2025, seuraavat tunnit</h2>
+      <h2>Kevät 2026, seuraavat tunnit</h2>
 
       <!-- <script src="https://cdn.jsdelivr.net/npm/moment@2/moment.min.js"></script> -->
       <!-- <script src="https://apis.google.com/js/api.js"></script> -->
@@ -30,11 +30,9 @@
 
       {{ if eq ($firstThree | len) 0 }}
       <p>
-        POTin kausikurssit jatkuvat jälleen syyskuussa tiistaisin 💃🕺
-        Tanssiopetuspuolella voi mahdollisesti sitä ennen tulla tiivareita.
-        Kesäkuun alkupuolella on Bottan salien lattioiden kunnostus: hionta ja vahaus.
-        Seuraavaksi tulossa POT- ja HOT-tanssikerhojen yhteisiä ulkoilmatansseja Annantalon ja Designmuseon lavoilla,
-        sekä merellisissä maisemissa 🌞
+        POTin kausikurssit jatkuvat jälleen tammikuussa tiistaisin 💃🕺
+        Kurssit järjestetään 20.1.-28.4.2026. Kaikilla kursseilla on kiertävä parinvaihto eli et tarvitse omaa paria, mutta voit ilmoittautua kurssille myös oman parisi kanssa (pitäkää huolta, että ilmoittaudutte samalla kurssille ajoissa, ettei teistä toinen joudu jonopaikalle).
+        Alkeisjatkokurssi on ollut niin suosittu, että nyt järjestämme kaksi opetusryhmää. Kurssien sisältö on keskenään sama. Jos käyt samanaikaisesti kahta eri tasoista kurssia, ota se huomioon alkeisjatkokurssin kellonajan valinnassa.
       </p>
       <!-- <p>Kurssien suunnittelu käynnissä, lisätietoa tulossa.</p> -->
       <!-- <p>Kurssien alkamisajankohdan muistutuksen voi tilata sähköpostiin. Sähköpostia käytetään vain tähän tarkoitukseen, ja muistutuksen jälkeen sähköpostiosoite poistetaan järjestelmästä pysyvästi.</p> -->
