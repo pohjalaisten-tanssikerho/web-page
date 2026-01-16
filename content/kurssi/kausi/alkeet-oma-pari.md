@@ -1,7 +1,7 @@
 ---
 title: "Alkeet oman parin kanssa"
 description: "Alkeiskurssi, jolle voi osallistua oman lempihenkilönsä kanssa."
-subdirectories: ["kurssi_kausi"]
+subdirectories: ["kurssi_kausi_old"]
 subdirectories_weight: 2
 ---
 # Alkeiskurssi oman parin kanssa
