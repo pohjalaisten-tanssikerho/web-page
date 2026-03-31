@@ -28,6 +28,8 @@
 
   {{ if eq .Section "tapahtuma" }}
   <h1>Tapahtumat ja tiedotteet</h1>
+  <p>Tuoreimmat tapahtumat, tanssibileet, tiiviskurssit ja tanssimatkat julkaistaan Instagram-, Facebook-, Telegram- ja Whatsapp-tiedotuskanavissa. Kausikurssien tiedot löytyvät nettisivujen <a href="/kurssi">kausikurssit</a>-osiosta.</p>
+  <hr />
   <div class="list">
     {{ range .Pages.ByDate.Reverse }}
         <h1 class="no-bottom no-decoration">{{ .Params.articleTitle }}</h1>
