@@ -1,10 +1,12 @@
 {{ if eq (.Get 0) "all" }}
+<p class="course-teacher-legend">Opettajat: <span class="teacher-chip teacher-kimmo">Kimmo</span> <span class="teacher-chip teacher-tc">Timo &amp; Carola</span></p>
 <table class="course-table">
   <tr>
     <th></th>
     <th>Alkeet</th>
     <!-- <th>Alkeet <br> klo 18:45</th> -->
-    <th>Alkeisjatko</th>
+    <th>Alkeisjatko (17.15-19.00)</th>
+    <th>Alkeisjatko (19.15-21.00)</th>
     <th>Jatko</th>
   </tr>
   {{ $courses := index .Site.Data.courses "courses" }}
@@ -14,15 +16,16 @@
     {{ $t := time .date }}
     <th class="date">{{ $t.Day }}.{{ printf "%d" $t.Month }}.</th>
     <!-- <td>{{ .alkeetOma }}</td> -->
-    <td>{{ .alkeet }}</td>
-    <td>{{ .alkeisjatko }}</td>
-    <td>{{ .jatko }}</td>
+    <td class="course-slot {{ if eq .alkeetTeacher "Kimmo" }}teacher-kimmo{{ else if eq .alkeetTeacher "Timo & Carola" }}teacher-tc{{ end }}">{{ .alkeet }}<span class="teacher-label">{{ .alkeetTeacher }}</span></td>
+    <td class="course-slot {{ if eq .alkeisjatko1Teacher "Kimmo" }}teacher-kimmo{{ else if eq .alkeisjatko1Teacher "Timo & Carola" }}teacher-tc{{ end }}">{{ .alkeisjatko1 }}<span class="teacher-label">{{ .alkeisjatko1Teacher }}</span></td>
+    <td class="course-slot {{ if eq .alkeisjatko2Teacher "Kimmo" }}teacher-kimmo{{ else if eq .alkeisjatko2Teacher "Timo & Carola" }}teacher-tc{{ end }}">{{ .alkeisjatko2 }}<span class="teacher-label">{{ .alkeisjatko2Teacher }}</span></td>
+    <td class="course-slot {{ if eq .jatkoTeacher "Kimmo" }}teacher-kimmo{{ else if eq .jatkoTeacher "Timo & Carola" }}teacher-tc{{ end }}">{{ .jatko }}<span class="teacher-label">{{ .jatkoTeacher }}</span></td>
   </tr>
   {{ else }}
   <tr>
     {{ $t := time .date }}
     <th class="date">{{ $t.Day }}.{{ printf "%d" $t.Month }}.</th>
-    <td colspan="3">{{ .message }}</td>
+    <td colspan="4">{{ .message }}</td>
   </tr>
   {{ end }}
   {{ end }}
@@ -34,6 +37,7 @@
 {{ $course := first 3 (sort (where $courses "date" "ge" (now.Format "2006-01-02")) "date" "asec") }}
 <div>
 <h2>Seuraavat kurssit</h2>
+<p class="course-teacher-legend">Opettajat: <span class="teacher-chip teacher-kimmo">Kimmo</span> <span class="teacher-chip teacher-tc">Timo &amp; Carola</span></p>
 {{ if eq ($course | len) 0 }}
 <p>Viikottaiset kurssit ovat loppu tältä erää. Ensi kaudella taas lisää!</p>
 <p>Kurssien alkamisajankohdan muistutuksen voi tilata sähköpostiin. Sähköpostia käytetään vain tähän tarkoitukseen, ja muistutuksen jälkeen sähköpostiosoite poistetaan järjestelmästä pysyvästi.</p>
@@ -50,9 +54,9 @@
     <th>Alkeet</th>
     {{ range $course }}
     {{ if eq .message "" }}
-    <td class="trigger">{{ .alkeet }}</td>
+    <td class="trigger course-slot {{ if eq .alkeetTeacher "Kimmo" }}teacher-kimmo{{ else if eq .alkeetTeacher "Timo & Carola" }}teacher-tc{{ end }}">{{ .alkeet }}<span class="teacher-label">{{ .alkeetTeacher }}</span></td>
     {{ else }}
-    <td rowspan="2" class="trigger"><span class="vertical-text">{{ .message | upper }}</span></td>
+    <td rowspan="3" class="trigger"><span class="vertical-text">{{ .message | upper }}</span></td>
     {{ end }}
     {{ end }}
   </tr>
@@ -65,10 +69,18 @@
   <!--   {{ end }} -->
   <!-- </tr> -->
   <tr>
-    <th>Alkeisjatko</th>
+    <th>Alkeisjatko 1</th>
     {{ range $course }}
     {{ if eq .message "" }}
-    <td>{{ .alkeisjatko }}</td>
+    <td class="course-slot {{ if eq .alkeisjatko1Teacher "Kimmo" }}teacher-kimmo{{ else if eq .alkeisjatko1Teacher "Timo & Carola" }}teacher-tc{{ end }}">{{ .alkeisjatko1 }}<span class="teacher-label">{{ .alkeisjatko1Teacher }}</span></td>
+    {{ end }}
+    {{ end }}
+  </tr>
+  <tr>
+    <th>Alkeisjatko 2</th>
+    {{ range $course }}
+    {{ if eq .message "" }}
+    <td class="course-slot {{ if eq .alkeisjatko2Teacher "Kimmo" }}teacher-kimmo{{ else if eq .alkeisjatko2Teacher "Timo & Carola" }}teacher-tc{{ end }}">{{ .alkeisjatko2 }}<span class="teacher-label">{{ .alkeisjatko2Teacher }}</span></td>
     {{ end }}
     {{ end }}
   </tr>

@@ -15,7 +15,7 @@ Pohjalaisten tanssikerho (POT) järjestää lukukauden pituisia paritanssikursse
 
 Kaikki kausikurssit, ja yleensä myös lyhytkurssit, pidetään Bottalla osoitteessa {{< address >}}
 
-Alkeiskursseja on kaksi erilaista. Toisella alkeiskurssilla tanssitaan pareja vaihtaen, joka usein tukee tanssin oppimista. Toinen alkeiskurssi pidetään heille, jotka haluavat tanssia oman parinsa kanssa. Alkeisjatko- ja jatkokursseilla tanssitaan paria vaihtaen.
+Kursseja on kolme erilaista: alkeis-, alkeisjatko- sekä jatkokurssit. Alkeisjatko-kursseja on kaksi eri lajeja sisältävät kurssit. Kursseilla tanssitaan paria vaihtaen, sillä se usein tukee tanssin oppimista, mutta myös oman parin kanssa saa tanssia niin halutessaan.
 
 Kuhunkin **kurssiin sisältyy 14 opetuskertaa**. Kursseilla on alussa kaksi ilmaista kokeilukertaa. Kesken kurssin on mahdollista liittyä mukaan, mutta tätä ennen on ensin otettava yhteys [hallitukseen]({{< ref "/hallitus.md" >}}). Kesken kurssin aloittavalla on yksi ilmainen kokeilukerta.
 

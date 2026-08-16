@@ -5,6 +5,15 @@
   <li> {{ $course.name }} kello {{ $course.start }} - {{ $course.end }} </li>
 {{ end }}
 </ul>
+{{ else if eq (.Get 0) "alkeisjatko" }}
+{{ $course1 := index .Site.Data.coursesMeta "alkeisjatko1" }}
+{{ range $course1 }}
+Kurssi 1 pidetään tiistaisin klo {{ .start }} - {{ .end }}.
+{{ end }}
+{{ $course2 := index .Site.Data.coursesMeta "alkeisjatko2" }}
+{{ range $course2 }}
+Kurssi 2 pidetään tiistaisin klo {{ .start }} - {{ .end }}.
+{{ end }}
 {{ else }}
 {{ $course := index .Site.Data.coursesMeta (.Get 0) }}
 {{ range $course }}

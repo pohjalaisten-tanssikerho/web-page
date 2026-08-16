@@ -13,7 +13,13 @@
   <td>{{ .alkeetOma }}</td>
   {{ end }}
   {{ if eq $show "alkeisjatko" }}
-  <td>{{ .alkeisjatko }}</td>
+  <td>{{ .alkeisjatko1 }} / {{ .alkeisjatko2 }}</td>
+  {{ end }}
+  {{ if eq $show "alkeisjatko1" }}
+  <td>{{ .alkeisjatko1 }}</td>
+  {{ end }}
+  {{ if eq $show "alkeisjatko2" }}
+  <td>{{ .alkeisjatko2 }}</td>
   {{ end }}
   {{ if eq $show "jatko" }}
   <td>{{ .jatko }}</td>
