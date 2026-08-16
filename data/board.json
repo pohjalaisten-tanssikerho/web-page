@@ -11,28 +11,28 @@
       "lastname": "Mäkelä",
       "picture": "Krista.jpg",
       "role": "Varapuheenjohtaja",
-      "email": "krista.makela00 (ät) gmail.com"
+      "email": ""
     },
     {
       "firstname": "Katariina",
       "lastname": "Pelto-Timperi",
       "picture": "Kata.jpg",
       "role": "Taloudenhoitaja",
-      "email": "katariina.peltotimperi (ät) gmail.com"
+      "email": ""
     },
     {
       "firstname": "Johannes",
       "lastname": "Halkoaho",
       "picture": "",
       "role": "Sihteeri",
-      "email": "etunimi.sukunimi@gmail.com"
+      "email": ""
     },
     {
       "firstname": "Lasse",
       "lastname": "Vaskelainen",
       "picture": "lasse-vaskelainen.jpg",
       "role": "Yleisjäsen",
-      "email": "etunimi.sukunimi@gmail.com"
+      "email": ""
     },
     {
       "firstname": "Alexander",
@@ -46,14 +46,14 @@
       "lastname": "Junnila",
       "picture": "Miikka.jpg",
       "role": "Yleisjäsen",
-      "email": "etu.suku (ät) tuni.fi"
+      "email": ""
     },
         {
       "firstname": "Ronja",
       "lastname": "Marwedel",
       "picture": "Ronja.JPG",
       "role": "Yleisjäsen",
-      "email": "etunimi (ät) sukunimi.eu"
+      "email": ""
     }
   ]
 }
