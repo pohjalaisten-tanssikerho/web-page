@@ -13,7 +13,7 @@ Jatkokurssi tarjoaa runsaasti monipuolista opetusta aktiivisille tanssiharrastaj
 
 Tunneilla on kiertävä parinvaihto, eli et tarvitse omaa paria.
 
-Kauden alkupuoliskolla opettajina toimivat Timo Arstila ja Carola Winqvist. Loppupuoliskolla Kimmo Luukkonen.
+Kauden alkupuoliskolla opettajana toimii Kimmo Luukkonen. Loppupuoliskolla opettavat Timo Arstila ja Carola Winqvist.
 
 <!-- layouts/shortcodes/registration.html -->
 {{% registration %}}

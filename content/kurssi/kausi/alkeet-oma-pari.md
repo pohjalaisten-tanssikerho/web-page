@@ -1,3 +1,5 @@
+<!-- tätä kurssiversiota ei enää järjestetä -->
+
 ---
 title: "Alkeet oman parin kanssa"
 description: "Alkeiskurssi, jolle voi osallistua oman lempihenkilönsä kanssa."

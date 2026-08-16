@@ -9,7 +9,7 @@ description: Kaikille viikottaisille kursseille yhteistä asiaa ja käytäntöj�
 
 Pohjalaisten tanssikerho (POT) järjestää lukukauden pituisia paritanssikursseja, joiden aikana opetetaan muun muassa suosituimpia lavatansseja, rock and swingejä ja lattareita. Yhteensä kursseja on neljä:
 
-* [alkeiskurssi parinvaihdoilla]({{< ref "/kurssi/kausi/alkeet-parinvaihto.md" >}})
+* [alkeiskurssi parinvaihdoilla]({{< ref "/kurssi/kausi/alkeet.md" >}})
 * [alkeisjatkokurssi 2 kpl]({{< ref "/kurssi/kausi/alkeisjatko.md" >}})
 * [jatkokurssi]({{< ref "/kurssi/kausi/jatkokurssi.md" >}})
 

@@ -12,7 +12,7 @@ Alkeisjatkokurssi sopii hyvin alkeiskurssin käyneille tai muuten tanssia harras
 
 Tunneilla on kiertävä parinvaihto, eli et tarvitse omaa paria.
 
-Kauden alkupuoliskolla opettajana toimii Kimmo Luukkonen. Loppupuoliskolla opettavat Timo Arstila ja Carola Winqvist.
+Kauden alkupuoliskolla opettajina toimivat Timo Arstila ja Carola Winqvist. Loppupuoliskolla Kimmo Luukkonen.
 
 <!-- layouts/shortcodes/registration.html -->
 {{% registration %}}
