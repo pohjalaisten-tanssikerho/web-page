@@ -1,35 +1,48 @@
 {{ $show := .Get 0 }}
+<p class="course-teacher-legend">Opettajat: <span class="teacher-chip teacher-kimmo">Kimmo</span> <span class="teacher-chip teacher-tc">Timo &amp; Carola</span></p>
 <table class="course-table">
 {{ $courses := index .Site.Data.courses "courses" }}
+{{ if eq $show "alkeisjatko" }}
+<tr>
+  <th></th>
+  <th>Alkeisjatko (17.15-19.00)</th>
+  <th>Alkeisjatko (19.15-21.00)</th>
+</tr>
+{{ end }}
 {{ range sort $courses "date" "asec" }}
 {{ if eq .message "" }}
 <tr>
   {{ $t := time .date }}
   <th class="date">{{ $t.Day }}.{{ printf "%d" $t.Month }}.</th>
   {{ if eq $show "alkeet" }}
-  <td>{{ .alkeet }}</td>
+  <td class="course-slot {{ if eq .alkeetTeacher "Kimmo" }}teacher-kimmo{{ else if eq .alkeetTeacher "Timo & Carola" }}teacher-tc{{ end }}">{{ .alkeet }}<span class="teacher-label">{{ .alkeetTeacher }}</span></td>
   {{ end }}
   {{ if eq $show "alkeetOma" }}
   <td>{{ .alkeetOma }}</td>
   {{ end }}
   {{ if eq $show "alkeisjatko" }}
-  <td>{{ .alkeisjatko1 }} / {{ .alkeisjatko2 }}</td>
+  <td class="course-slot {{ if eq .alkeisjatko1Teacher "Kimmo" }}teacher-kimmo{{ else if eq .alkeisjatko1Teacher "Timo & Carola" }}teacher-tc{{ end }}">{{ .alkeisjatko1 }}<span class="teacher-label">{{ .alkeisjatko1Teacher }}</span></td>
+  <td class="course-slot {{ if eq .alkeisjatko2Teacher "Kimmo" }}teacher-kimmo{{ else if eq .alkeisjatko2Teacher "Timo & Carola" }}teacher-tc{{ end }}">{{ .alkeisjatko2 }}<span class="teacher-label">{{ .alkeisjatko2Teacher }}</span></td>
   {{ end }}
   {{ if eq $show "alkeisjatko1" }}
-  <td>{{ .alkeisjatko1 }}</td>
+  <td class="course-slot {{ if eq .alkeisjatko1Teacher "Kimmo" }}teacher-kimmo{{ else if eq .alkeisjatko1Teacher "Timo & Carola" }}teacher-tc{{ end }}">{{ .alkeisjatko1 }}<span class="teacher-label">{{ .alkeisjatko1Teacher }}</span></td>
   {{ end }}
   {{ if eq $show "alkeisjatko2" }}
-  <td>{{ .alkeisjatko2 }}</td>
+  <td class="course-slot {{ if eq .alkeisjatko2Teacher "Kimmo" }}teacher-kimmo{{ else if eq .alkeisjatko2Teacher "Timo & Carola" }}teacher-tc{{ end }}">{{ .alkeisjatko2 }}<span class="teacher-label">{{ .alkeisjatko2Teacher }}</span></td>
   {{ end }}
   {{ if eq $show "jatko" }}
-  <td>{{ .jatko }}</td>
+  <td class="course-slot {{ if eq .jatkoTeacher "Kimmo" }}teacher-kimmo{{ else if eq .jatkoTeacher "Timo & Carola" }}teacher-tc{{ end }}">{{ .jatko }}<span class="teacher-label">{{ .jatkoTeacher }}</span></td>
   {{ end }}
 </tr>
 {{ else }}
 <tr>
   {{ $t := time .date }}
   <th class="date">{{ $t.Day }}.{{ printf "%d" $t.Month }}.</th>
+  {{ if eq $show "alkeisjatko" }}
+  <td colspan="2">{{ .message }}</td>
+  {{ else }}
   <td>{{ .message }}</td>
+  {{ end }}
 </tr>
 {{ end }}
 {{ end }}
