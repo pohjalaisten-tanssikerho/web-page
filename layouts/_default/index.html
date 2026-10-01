@@ -102,7 +102,10 @@
       {{ $eventsCollection := where .Site.RegularPages "Section" "tapahtuma" }}
       {{ $currentDateString := now | time.Format "2006-01-02" }}
       {{ $currentDateFormatted := time.AsTime $currentDateString }}
-      {{ $events := where $eventsCollection "Date" "ge" $currentDateFormatted | last 4 }}
+      {{ $upcoming := where $eventsCollection "Date" "ge" $currentDateFormatted }}
+      <!-- pinned: true in an event's front matter keeps it on the front page even after its date -->
+      {{ $pinned := where $eventsCollection "Params.pinned" true }}
+      {{ $events := union $pinned $upcoming | last 4 }}
       <!-- you can use printf "%#v" $someVar to debug your variables -->
 
       {{ if eq ($events | len) 0 }}
